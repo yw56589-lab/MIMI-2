@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-03-06T22:07:10.511722+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-03-07T00:07:08.292396+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 26,
       "ai_insight": {
-        "analysis": "该板块当前收录 18 条热点，覆盖 9 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.9 次。",
+        "analysis": "该板块当前收录 26 条热点，覆盖 10 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 84,
         "chart": []
       },
       "titles": [
+        {
+          "title": "美以伊战争｜伊朗炸了美企巨头数据中心",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
         {
           "title": "最后的血性！伊朗护卫舰被命中沉没前，发射最后一枚导弹",
           "url": "https://v.ifeng.com/c/8rHEyj4F4pH",
@@ -23,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "打伊朗，有人替美国算了笔账",
@@ -34,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "中方是否向伊朗提供了军事支持？外交部回应",
@@ -45,18 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        },
-        {
-          "title": "中方对伊朗的支持是否涉及军事方面？外交部回应",
-          "url": "https://www.cls.cn/detail/2305024",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "伊朗有限“锁喉”：中国尚能应对，美西方措手不及，局势如何发展",
@@ -67,7 +67,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "伊朗导弹袭击以色列最大机场",
@@ -78,7 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "美以袭击伊朗进入第 7 天，当前局势如何？有哪些值得关注的信息？",
@@ -89,7 +89,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "伊朗军舰在国际海域遭袭后回应：将让敌人付出代价",
@@ -100,40 +100,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "伊朗称袭击以色列最大机场",
-          "url": "https://www.toutiao.com/trending/7613405988388945974/",
+          "title": "伊朗外长：我们在对抗两个拥核国家",
+          "url": "https://www.toutiao.com/trending/7613349180555280394/",
           "source": "今日头条",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        },
-        {
-          "title": "伊朗称击中美国林肯号航母",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        },
-        {
-          "title": "伊朗大使说250年怎能挑衅3000年历史",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E8%AF%B4250%E5%B9%B4%E6%80%8E%E8%83%BD%E6%8C%91%E8%A1%853000%E5%B9%B4%E5%8E%86%E5%8F%B2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "伊朗大规模发射先进导弹",
@@ -144,7 +122,51 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "阿联酋考虑冻结伊朗资产！此举或重创伊朗经济命脉",
+          "url": "https://www.cls.cn/detail/2305209",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "伊朗大使说250年怎能挑衅3000年历史",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E8%AF%B4250%E5%B9%B4%E6%80%8E%E8%83%BD%E6%8C%91%E8%A1%853000%E5%B9%B4%E5%8E%86%E5%8F%B2%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "伊朗总统：一些国家已开始调解冲突",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%B8%80%E4%BA%9B%E5%9B%BD%E5%AE%B6%E5%B7%B2%E5%BC%80%E5%A7%8B%E8%B0%83%E8%A7%A3%E5%86%B2%E7%AA%81",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "伊朗称摧毁位于阿联酋和约旦萨德雷达",
+          "url": "https://www.toutiao.com/trending/7613576573815668755/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "伊朗大规模发射「霍拉姆沙赫尔 -4」和「法塔赫」等先进导弹，此轮打击的影响将如何向外辐射？",
@@ -155,7 +177,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "伊朗称袭击以色列最大机场",
+          "url": "https://www.toutiao.com/trending/7613405988388945974/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "无人机发威,伊朗称击中林肯号",
@@ -166,7 +199,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "如何评价伊朗军方称使用无人机击中美军「林肯」号航母？「航母被击中」到底意味着什么？",
@@ -177,18 +210,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "伊朗打击伊拉克库尔德地区",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E4%BC%8A%E6%8B%89%E5%85%8B%E5%BA%93%E5%B0%94%E5%BE%B7%E5%9C%B0%E5%8C%BA%23&t=31&band_rank=21&Refer=top",
+          "title": "伊朗发射超重型导弹为遇难学生复仇",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E8%B6%85%E9%87%8D%E5%9E%8B%E5%AF%BC%E5%BC%B9%E4%B8%BA%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%A4%8D%E4%BB%87%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "伊朗称摧毁中东三国的美军雷达",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E4%B8%AD%E4%B8%9C%E4%B8%89%E5%9B%BD%E7%9A%84%E7%BE%8E%E5%86%9B%E9%9B%B7%E8%BE%BE",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "伊朗断网,亚马逊接连遭殃",
@@ -199,29 +243,73 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "以军对伊朗首都德黑兰与伊斯法罕发动空袭",
-          "url": "https://wallstreetcn.com/livenews/3065278",
+          "title": "伊朗称击中美国林肯号航母",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：大规模发射新一代导弹，打击美军多个基地",
+          "url": "https://wallstreetcn.com/livenews/3065359",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：大规模发射新一代导弹 打击美军多个基地",
+          "url": "https://flash.jin10.com/detail/20260306233226440800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "以色列国防军发言人：所有这些袭击都针对平民聚居区。我们对伊朗政权发动的每一次打击，都在消除地区稳定的威胁，同时强化区域与全球安全。",
+          "url": "https://flash.jin10.com/detail/20260306231918898800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "00时07分"
+        },
+        {
+          "title": "以色列国防军发言人：伊朗政权的过度扩张已将整个地区拖入这些战事。已有12个国家——包括部分阿拉伯国家、欧洲国家及北约成员国——遭受该政权攻击。",
+          "url": "https://flash.jin10.com/detail/20260306231911171800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 6.2 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 7.7 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -234,40 +322,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        },
-        {
-          "title": "美媒：本月非农报告对特朗普极为不利",
-          "url": "https://flash.jin10.com/detail/20260306213951107800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
           "url": "https://wallstreetcn.com/articles/3766889",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
-          "url": "https://wallstreetcn.com/articles/3766863",
-          "source": "华尔街见闻",
+          "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
+          "url": "https://news.ifeng.com/c/8rHRuIXQ6KL",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         }
       ]
     },
@@ -275,7 +352,7 @@
       "keyword_group": "美债",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 4.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 70,
@@ -291,18 +368,53 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "非农数据疲软提振降息预期，美债走高，美股期指跌幅扩大，WTI原油近两年来首破86美元，现货黄金短线拉升",
+          "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
           "url": "https://wallstreetcn.com/articles/3766902",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[00时06分 ~ 00时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 58,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股另类资产管理公司和银行股大跌，包括贝莱德和Blue Owl在内，因一系列负面私人信贷事件引发市场对行业健康状况的新担忧。 受就业数据弱于预期及中东冲突扩大影响，整体股市亦同步下挫。 目前，贝莱德跌逾5%，Ares Management跌6.3%，KKR & Co Inc跌6.3%，Blue Owl跌6%，黑石跌5.6%，阿波罗全球管理跌5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3065365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "美股三大股指跌幅收窄，纳指现跌1%，标普500指数跌1.24%，道指跌1.39%。",
+          "url": "https://flash.jin10.com/detail/20260306231649816800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时07分"
         }
       ]
     },
@@ -310,10 +422,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -322,35 +434,11 @@
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 57,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "【美国2月非农就业报告公布后，美国10年期国债收益率短线下挫，现货黄金短线拉升】美元指数短线走低约20点，现报99.1。美股期货短线走低，纳斯达克100指数期货跌近1%。美国10年期国债收益率短线下挫，现报4.164%。现货黄金短线拉升约40美元，现报5118.35美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3065293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "[00时06分 ~ 00时07分]"
         }
       ]
     },
@@ -358,7 +446,7 @@
       "keyword_group": "美元",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 57,
@@ -366,15 +454,15 @@
       },
       "titles": [
         {
-          "title": "美元指数DXY短线走低超20点，现报99.14。",
-          "url": "https://flash.jin10.com/detail/20260306213141186800",
-          "source": "金十数据",
+          "title": "彭博美元指数转跌，（快速）回吐美国非农就业报告发布以来这一波涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3065349",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "00时07分"
         }
       ]
     }
