@@ -1,30 +1,19 @@
 {
-  "generated_at": "2026-03-10T18:06:20.160438+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-03-10T20:02:13.260966+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 28,
       "ai_insight": {
-        "analysis": "该板块当前收录 29 条热点，覆盖 11 个来源平台，平均热榜排名约 14.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 28 条热点，覆盖 11 个来源平台，平均热榜排名约 11.9 位，标题平均出现 1.6 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 92,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美以伊战争｜伊朗新任最高领袖，至今未露面",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
         {
           "title": "伊朗：只要驱逐美以大使，就能通过霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8rNAUZx4dYp",
@@ -33,19 +22,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "Meta公司监督委员会：已推翻Meta公司2025年6月关于在未加“高风险人工智能”标签的情况下保留部分有关以色列-伊朗战争的人工智能内容的决定。",
-          "url": "https://flash.jin10.com/detail/20260310175028157800",
-          "source": "金十数据",
+          "title": "“美以不再能随心所欲结束战争”，伊朗提出停火条件",
+          "url": "https://wallstreetcn.com/articles/3767115",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "伊朗：今后发射导弹，弹头会超过1吨",
@@ -55,30 +44,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "内塔尼亚胡称对伊朗行动“尚未结束”",
-          "url": "https://wallstreetcn.com/livenews/3067207",
+          "title": "以军称伊朗发动新一轮导弹袭击 以多地拉响防空警报",
+          "url": "https://wallstreetcn.com/livenews/3067266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "20时02分"
         },
         {
-          "title": "“美以不再能随心所欲结束战争”，伊朗提出停火条件",
-          "url": "https://wallstreetcn.com/articles/3767115",
-          "source": "华尔街见闻",
+          "title": "以军称袭击伊朗伊斯兰革命卫队武器研发设施",
+          "url": "https://wallstreetcn.com/livenews/3067263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "惠誉：鉴于强劲的财务状况，预计获得评级的国有石油公司能够承受当前伊朗冲突带来的冲击。",
+          "url": "https://flash.jin10.com/detail/20260310195519225800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "20时02分"
         },
         {
           "title": "伊朗正为美国准备“惊喜”",
@@ -88,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "美以袭击伊朗进入第 11 天，当前局势如何？有哪些值得关注的信息？",
@@ -99,8 +99,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "想要霍尔木兹海峡“通行证”？伊朗开条件：驱逐美以大使！",
+          "url": "https://www.cls.cn/detail/2308015",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "伊朗青年逆行回国：我要保卫我的国家",
@@ -110,19 +121,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "想要霍尔木兹海峡“通行证”？伊朗开条件：驱逐美以大使！",
-          "url": "https://www.cls.cn/detail/2308015",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "伊朗外长：新任最高领袖不会与美谈判",
@@ -132,8 +132,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "躲过伊朗导弹？水手拍到“林肯”号正常起降舰载机",
@@ -143,8 +143,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "伊朗提出停火条件",
@@ -154,19 +154,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊朗革命卫队：战争结束由伊朗决定",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%E7%94%B1%E4%BC%8A%E6%9C%97%E5%86%B3%E5%AE%9A",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "伊朗使用超重型导弹打击美以，以此向新任最高领袖致敬，如何解读？美方还会宣布停战吗？",
@@ -176,162 +165,162 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "伊朗外长：给美国人准备了许多惊喜",
-          "url": "https://www.toutiao.com/trending/7614345000603910185/",
-          "source": "今日头条",
+          "title": "伊朗革命卫队：战争结束由伊朗决定",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%E7%94%B1%E4%BC%8A%E6%9C%97%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称拥有「更强大、数量更多」的导弹，如何看待此表态？伊朗到底有多少导弹？",
+          "url": "https://www.zhihu.com/question/2014659366809261416",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "伊朗：驱逐美以大使可过霍尔木兹海峡",
           "url": "https://www.toutiao.com/trending/7614665529199149110/",
           "source": "今日头条",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "日本首相高市早苗：在伊朗和乌克兰局势之后，正在关注新型战争形式。",
-          "url": "https://flash.jin10.com/detail/20260310173441132800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "实锤!美军轰炸伊朗小学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351565&amp;topic_name=%E5%AE%9E%E9%94%A4%21%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊朗革命卫队：几小时前，追踪到一架在德黑兰附近的赫侦TP无人机，该无人机已被摧毁。",
-          "url": "https://flash.jin10.com/detail/20260310173401175800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊朗将通过三步走方案推动局势缓和",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B0%86%E9%80%9A%E8%BF%87%E4%B8%89%E6%AD%A5%E8%B5%B0%E6%96%B9%E6%A1%88%E6%8E%A8%E5%8A%A8%E5%B1%80%E5%8A%BF%E7%BC%93%E5%92%8C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊斯兰革命卫队：战事结束由伊朗决定",
-          "url": "https://www.toutiao.com/trending/7615095418011222052/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊朗议长：绝不寻求停火 将让侵略者吸取教训",
-          "url": "https://wallstreetcn.com/livenews/3067181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "以军称袭击伊朗核试验设施",
-          "url": "https://www.toutiao.com/trending/7615506341926555145/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊朗会接受什么条件来结束战争",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%BC%9A%E6%8E%A5%E5%8F%97%E4%BB%80%E4%B9%88%E6%9D%A1%E4%BB%B6%E6%9D%A5%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "欧洲央行管委MULLER：近期加息的可能性有所上升。 不应仓促做出任何决定。 下次政策会议保持冷静至关重要。 对伊朗局势不应反应过度。",
-          "url": "https://wallstreetcn.com/livenews/3067178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊朗外长：新任最高领袖不会与美谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E6%96%B0%E4%BB%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8D%E4%BC%9A%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "伊朗接连发动真实承诺4行动",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%8E%A5%E8%BF%9E%E5%8F%91%E5%8A%A8%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E8%A1%8C%E5%8A%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "欧洲央行管委SIMKUS：下次政策会议保持冷静至关重要。 对伊朗局势不应反应过度。",
-          "url": "https://wallstreetcn.com/livenews/3067175",
-          "source": "华尔街见闻-快讯",
+          "title": "伊斯兰革命卫队：战事结束由伊朗决定",
+          "url": "https://www.toutiao.com/trending/7615095418011222052/",
+          "source": "今日头条",
           "ranks": [
-            29
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "实锤!美军轰炸伊朗小学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351565&amp;topic_name=%E5%AE%9E%E9%94%A4%21%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "伊朗外长：给美国人准备了许多惊喜",
+          "url": "https://www.toutiao.com/trending/7614345000603910185/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "惠誉评级：伊朗战争对海合会企业信用评级的影响受到国家支持的限制。",
+          "url": "https://flash.jin10.com/detail/20260310195457293800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "20时02分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：阿布扎比附近一艘油轮发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260310194214047800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗紧急组织：自冲突爆发以来，已有1348人死亡和超过17000人受伤。",
+          "url": "https://flash.jin10.com/detail/20260310193928626800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "市场消息：伊朗开始对以色列北部发动新一轮导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260310193618097800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "以军称对德黑兰境内伊朗目标发动空袭",
+          "url": "https://wallstreetcn.com/livenews/3067245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗外交部说当前伊方优先事项只有“果断防御”",
+          "url": "https://wallstreetcn.com/livenews/3067236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "以色列国防军：发现来自伊朗的弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260310192350718800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
@@ -339,10 +328,10 @@
       "keyword_group": "特朗普",
       "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 6 个来源平台，平均热榜排名约 7.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 6 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -354,19 +343,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
-          "url": "https://www.cls.cn/detail/2307862",
-          "source": "财联社热门",
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -376,30 +365,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
           "url": "https://www.cls.cn/detail/2308078",
           "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "特朗普称战争会很快结束",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%98%E4%BA%89%E4%BC%9A%E5%BE%88%E5%BF%AB%E7%BB%93%E6%9D%9F",
-          "source": "bilibili 热搜",
+          "title": "伊朗最高国家安全委员会秘书回应特朗普威胁：伊朗人不惧威胁",
+          "url": "https://flash.jin10.com/detail/20260310195649907800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
+          "url": "https://www.cls.cn/detail/2307968",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "美媒最新民调：特朗普支持率下滑至44%",
@@ -409,19 +409,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
-          "url": "https://www.cls.cn/detail/2307968",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "美媒：特朗普没有对伊朗的“战后计划”",
@@ -431,54 +420,76 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "单方面宣称战争结束，特朗普能如愿吗？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260310174047656800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "普京与特朗普通话讨论伊朗局势",
           "url": "https://www.douyin.com/hot/2424957",
           "source": "抖音",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "美国总统特朗普：有可能会与伊朗对话。",
+          "url": "https://wallstreetcn.com/livenews/3067252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "20时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 12.7 位，标题平均出现 1.3 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普释放停战信号，美股期指盘前上涨，欧股大涨，现货黄金日内涨幅达1%，油价跳水",
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3067251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "20时02分"
+        },
+        {
+          "title": "蔚来美股盘前涨超6%，公司一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     }
