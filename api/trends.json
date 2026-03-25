@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-25T13:17:26.189696+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-25T16:06:24.698115+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 26,
       "ai_insight": {
-        "analysis": "该板块当前收录 23 条热点，覆盖 10 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 26 条热点，覆盖 9 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 90,
+        "confidence": 89,
         "chart": []
       },
       "titles": [
         {
-          "title": "美以伊战争丨伊朗被曝拒绝与威特科夫和库什纳谈判",
+          "title": "美以伊战争丨伊朗停火条件曝光，美官员：荒谬",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "伊朗喊话美国：别把失败说成协议",
@@ -34,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
@@ -45,18 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗武装部队联合指挥部发言人表示，美国“是在与自己谈判”。",
-          "url": "https://flash.jin10.com/detail/20260325124921938800",
-          "source": "金十数据",
+          "title": "霍尔木兹航运追踪：多艘船只成功穿行 伊朗开始执行新策略？",
+          "url": "https://www.cls.cn/detail/2323788",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "力促周四前，等待伊朗回应！巴基斯坦总理：已准备好主持美伊会谈",
@@ -67,18 +67,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "霍尔木兹航运追踪：多艘船只成功穿行 伊朗开始执行新策略？",
-          "url": "https://www.cls.cn/detail/2323788",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "霍尔木兹航运追踪：多艘船只成功穿行，伊朗开始执行新策略？",
@@ -89,7 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "美伊和谈信号？中东多国积极行动、巴基斯坦斡旋停火，伊朗称收到美国信息",
@@ -100,7 +89,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "伊朗被曝拒绝与威特科夫和库什纳谈判，指责两人“背信弃义”",
@@ -111,29 +100,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 26 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019771481580648323",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话：谈起来总比打下去好",
           "url": "https://m.thepaper.cn/newsDetail_forward_32822614",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 26 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2019771481580648323",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "实力悬殊，“弱者”伊朗为何能逆袭",
@@ -144,29 +133,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队：将“毫不留情”对以军予以猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3076406",
+          "title": "伊驻巴大使：友好国家在与各方沟通 但伊朗未与美国展开谈判",
+          "url": "https://wallstreetcn.com/livenews/3076519",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
-          "title": "伊朗喊话美国：别把你们失败称为协议",
-          "url": "https://www.toutiao.com/trending/7620849647006826546/",
-          "source": "今日头条",
+          "title": "美方向伊朗提出含“15项条件”的和谈方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32825505",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
+        },
+        {
+          "title": "土耳其能源部长：目前伊朗尚未中断对土耳其的天然气供应，但这并不意味着今后不会发生。土耳其正实施多元化政策以应对此类风险。",
+          "url": "https://flash.jin10.com/detail/20260325155813124800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "伊朗军方强硬喊话美国",
@@ -177,7 +177,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "美国说愿停火一个月与伊朗讨论 15 点结束冲突方案，又继续向中东增兵，是什么套路？美国真的想和谈吗？",
@@ -188,108 +188,141 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
-          "title": "美方向伊朗提出含“15项条件”的和谈方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32825505",
-          "source": "澎湃新闻",
+          "title": "伊朗喊话美国：别把你们失败称为协议",
+          "url": "https://www.toutiao.com/trending/7620849647006826546/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
-          "title": "伊朗被曝拒绝与威特科夫和库什纳谈判",
-          "url": "https://www.toutiao.com/trending/7620940390632620095/",
-          "source": "今日头条",
+          "title": "3月25日投资避雷针：美方向伊朗提出和谈方案 今日早盘油价大幅下跌",
+          "url": "https://www.cls.cn/detail/2323691",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "英国2月通胀率维持在3% 当时尚无伊朗冲突影响",
+          "url": "https://wallstreetcn.com/livenews/3076515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "伊朗倡议中东建立无美以联盟",
+          "url": "https://wallstreetcn.com/livenews/3076513",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
-          "title": "美向伊朗提出“15项条件”和谈方案",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA%E2%80%9C15%E9%A1%B9%E6%9D%A1%E4%BB%B6%E2%80%9D%E5%92%8C%E8%B0%88%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
           "ranks": [
-            24
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美国与伊朗和谈方案曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%92%8C%E8%B0%88%E6%96%B9%E6%A1%88%E6%9B%9D%E5%85%89%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "伊朗军方强硬喊话美国 “别把你们的失败称为协议”",
-          "url": "https://wallstreetcn.com/livenews/3076384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "伊朗发动“真实承诺4”第80轮行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC80%E8%BD%AE%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
-            29
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "伊朗责令擅自通过霍尔木兹海峡船返航",
           "url": "https://www.toutiao.com/trending/7620083118104133638/",
           "source": "今日头条",
           "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "伊朗被曝拒绝与威特科夫和库什纳谈判",
+          "url": "https://www.toutiao.com/trending/7620940390632620095/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "伊朗称美以袭击大不里士一铁路员工宿舍 已致7人死亡",
+          "url": "https://flash.jin10.com/detail/20260325154233462800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "伊朗：没人能相信美国的外交",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%B2%A1%E4%BA%BA%E8%83%BD%E7%9B%B8%E4%BF%A1%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A4%96%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 9.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 8.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
-          "url": "https://www.cls.cn/detail/2323637",
+          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
+          "url": "https://www.cls.cn/detail/2323682",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -300,18 +333,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
-          "url": "https://www.cls.cn/detail/2323682",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "美CIA前局长：比起特朗普，更相信伊朗",
@@ -322,62 +344,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
-          "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
-          "url": "https://www.cls.cn/detail/2323574",
+          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
+          "url": "https://www.cls.cn/detail/2323952",
           "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
-          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
+        },
+        {
+          "title": "特朗普称已向伊朗提出和平方案，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3076518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
           "url": "https://www.cls.cn/detail/2323758",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
-          "title": "精准收割！特朗普变卦前油市突现3.2亿美元异常空单",
-          "url": "https://flash.jin10.com/detail/20260325122716577800",
-          "source": "金十数据",
+          "title": "美总统顾问称特朗普“一边准备谈判一边握拳”",
+          "url": "https://wallstreetcn.com/livenews/3076504",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "涨跌全靠特朗普！如何判断能信不能信？",
-          "url": "https://flash.jin10.com/detail/20260325120354255800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         }
       ]
     },
@@ -385,10 +396,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -397,22 +408,22 @@
           "url": "https://www.zhihu.com/question/2020036375211157322",
           "source": "知乎",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
           "url": "https://www.cls.cn/detail/2323711",
           "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -423,18 +434,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -447,18 +458,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
-          "url": "https://www.cls.cn/detail/2323617",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -469,55 +469,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美伊传闻影响金价，中金称勿高估「全球央行购金」动力，黄金走势未来依然复杂，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2019711251106804428",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 27.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "地缘冲突降温的鸽子，还未落在美债的枝头",
-          "url": "https://flash.jin10.com/detail/20260325120530225800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时06分"
         }
       ]
     }
