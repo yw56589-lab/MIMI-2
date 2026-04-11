@@ -1,29 +1,40 @@
 {
-  "generated_at": "2026-04-11T15:45:00.170073+08:00",
+  "generated_at": "2026-04-11T16:33:37.567119+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "ai_insight": {
-        "analysis": "该板块当前收录 18 条热点，覆盖 8 个来源平台，平均热榜排名约 12.8 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 19 条热点，覆盖 8 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 87,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗战争丨伊朗谈判代表团人员组成公布",
+          "title": "伊朗战争丨美伊将谈判，巴基斯坦发表声明",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "伊朗第一副总统：若美方代表“以色列优先” 谈判将无果而终",
+          "url": "https://wallstreetcn.com/livenews/3086182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
@@ -33,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "伊朗为何突然转变态度？巴官员：关键推手是中国",
@@ -44,19 +55,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "伊朗媒体：伊议长将会见巴总理 讨论伊美谈判形式",
           "url": "https://wallstreetcn.com/livenews/3086179",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "16时33分"
+        },
+        {
+          "title": "伊朗媒体：伊议长将会见巴总理 讨论伊美谈判形式",
+          "url": "https://flash.jin10.com/detail/20260411152011922800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "很悲壮，伊朗提高了要价",
@@ -66,30 +88,52 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "伊媒披露伊朗代表团首日日程，美方接受先决条件再启动谈判",
           "url": "https://m.thepaper.cn/newsDetail_forward_32947223",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "疑似涉伊朗战事内幕交易被曝",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E6%B6%89%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93%E8%A2%AB%E6%9B%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "巴基斯坦陆军参谋长已会见伊朗代表团",
+          "url": "https://wallstreetcn.com/livenews/3086173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "伊朗代表团飞机上 放着这些孩子照片",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%A3%9E%E6%9C%BA%E4%B8%8A+%E6%94%BE%E7%9D%80%E8%BF%99%E4%BA%9B%E5%AD%A9%E5%AD%90%E7%85%A7%E7%89%87",
           "source": "百度热搜",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美以袭击伊朗进入第 43 天，当前局势如何？哪些信息值得关注？",
@@ -99,8 +143,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：真主党导弹在以色列谢莫纳城引发火灾。",
+          "url": "https://flash.jin10.com/detail/20260411142655398800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "消息人士：巴基斯坦总理将会见伊朗谈判代表团",
+          "url": "https://wallstreetcn.com/livenews/3086165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "伊朗武装部队称随时准备开火，停火协议要失效了吗？谈判还能继续进行吗？",
@@ -110,115 +176,60 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美军空军基地遭伊朗袭击画面曝光",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            23
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
-        },
-        {
-          "title": "伊朗代表团飞机带有遇难儿童照片",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%A3%9E%E6%9C%BA%E5%B8%A6%E6%9C%89%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E7%85%A7%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
-        },
-        {
-          "title": "巴基斯坦陆军参谋长已会见伊朗代表团",
-          "url": "https://wallstreetcn.com/livenews/3086173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：真主党导弹在以色列谢莫纳城引发火灾。",
-          "url": "https://flash.jin10.com/detail/20260411142655398800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "16时33分"
         },
         {
           "title": "巴基斯坦陆军参谋长已会见伊朗代表团",
           "url": "https://flash.jin10.com/detail/20260411141842740800",
           "source": "金十数据",
           "ranks": [
-            13
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "消息人士：巴基斯坦总理将会见伊朗谈判代表团",
-          "url": "https://wallstreetcn.com/livenews/3086165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "16时33分"
         },
         {
           "title": "伊朗媒体公布伊朗谈判代表团人员组成",
           "url": "https://wallstreetcn.com/livenews/3086162",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "16时33分"
         },
         {
           "title": "美方称伊朗无法找到霍尔木兹海峡内布设的水雷",
           "url": "https://wallstreetcn.com/livenews/3086154",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "美以官员称伊朗导弹发射装置损毁过半但可修复",
-          "url": "https://wallstreetcn.com/livenews/3086149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 4.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 73,
@@ -233,8 +244,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -244,19 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
-        },
-        {
-          "title": "特朗普：谈判结果24小时内明朗",
-          "url": "https://news.ifeng.com/c/8sDlxLParYe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
@@ -266,8 +266,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -277,8 +277,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -288,43 +288,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 63,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
-        },
-        {
-          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
-          "url": "https://wallstreetcn.com/livenews/3086151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "16时33分"
         }
       ]
     },
@@ -332,10 +297,10 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -347,19 +312,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美股巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 74,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     }
