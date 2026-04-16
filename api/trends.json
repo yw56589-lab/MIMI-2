@@ -1,19 +1,41 @@
 {
-  "generated_at": "2026-04-16T17:06:26.536101+08:00",
+  "generated_at": "2026-04-16T18:09:21.518772+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "ai_insight": {
-        "analysis": "该板块当前收录 16 条热点，覆盖 8 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 17 条热点，覆盖 9 个来源平台，平均热榜排名约 12.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 88,
+        "confidence": 89,
         "chart": []
       },
       "titles": [
+        {
+          "title": "伊朗：将就官员被暗杀追究美以责任",
+          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问：美勿充当霍尔木兹海峡“警察”",
+          "url": "https://wallstreetcn.com/livenews/3089201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
         {
           "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
           "url": "https://news.ifeng.com/c/8sMUKrSfaoi",
@@ -23,7 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
+        },
+        {
+          "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
+          "url": "https://v.ifeng.com/c/8sN5mIzhL68",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "伊朗总统感谢中国",
@@ -34,18 +67,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
-          "url": "https://news.ifeng.com/c/8sMdMjokBOP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
@@ -56,7 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
@@ -67,29 +89,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
-          "title": "伊朗外交部：延长停火猜测未得到确认",
-          "url": "https://wallstreetcn.com/livenews/3089165",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖军事顾问：美勿充当霍尔木兹海峡“警察”",
+          "url": "https://flash.jin10.com/detail/20260416174448173800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "伊朗称“12日战争”后自杀式无人机产量已提升约10倍",
-          "url": "https://wallstreetcn.com/livenews/3089164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "伊朗：美国成以色列“第七个行政区”",
@@ -100,7 +111,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "伊朗：美国已成以色列“第7个行政区”",
@@ -111,95 +122,95 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
           "url": "https://www.zhihu.com/question/2027115873823973436",
           "source": "知乎",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
-          "title": "伊朗高级官员：伊朗高纯度铀的命运及其核限制的持续时间仍未得到解决。",
-          "url": "https://flash.jin10.com/detail/20260416161722977800",
-          "source": "金十数据",
+          "title": "伊朗称将就官员被暗杀追究美以责任",
+          "url": "https://wallstreetcn.com/livenews/3089179",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
-          "title": "伊朗高级官员：在巴基斯坦军方官员访问后，延长美伊停火和举行第二轮谈判的希望更大。在核问题上仍存在根本分歧。",
-          "url": "https://flash.jin10.com/detail/20260416161700330800",
-          "source": "金十数据",
+          "title": "伊朗最高领袖威胁击沉美方舰艇",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%A8%81%E8%83%81%E5%87%BB%E6%B2%89%E7%BE%8E%E6%96%B9%E8%88%B0%E8%89%87%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            22
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
-          "title": "伊朗高级官员：巴基斯坦军方领导人的访伊之行有助于在某些领域减少分歧。",
-          "url": "https://flash.jin10.com/detail/20260416161529921800",
+          "title": "德商银行：伊朗冲突提振G10货币利差交易表现",
+          "url": "https://flash.jin10.com/detail/20260416172749105800",
           "source": "金十数据",
           "ranks": [
-            24
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
+        },
+        {
+          "title": "伊朗外交部：延长停火猜测未得到确认",
+          "url": "https://wallstreetcn.com/livenews/3089165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "伊朗称“12日战争”后自杀式无人机产量已提升约10倍",
+          "url": "https://wallstreetcn.com/livenews/3089164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "伊朗或用3种手段反制美军封锁",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%88%96%E7%94%A83%E7%A7%8D%E6%89%8B%E6%AE%B5%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%86%9B%E5%B0%81%E9%94%81",
           "source": "bilibili 热搜",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "伊朗高级官员：巴基斯坦陆军参谋长访问伊朗，有助于在某些领域缩小分歧。 这次访问之后，对延长停火和举行第二轮谈判的希望更大了。 在核问题上仍存在根本性分歧。 伊朗高浓缩铀的处置以及核限制的期限仍未解决。",
-          "url": "https://wallstreetcn.com/livenews/3089139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "伊朗绝不会因海上封锁而妥协",
-          "url": "https://wallstreetcn.com/livenews/3089138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -212,7 +223,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -223,7 +234,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
@@ -234,18 +245,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
           "url": "https://www.cls.cn/detail/2346178",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -256,7 +267,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -267,75 +278,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "特朗普“封锁令”影响几何？分析：若石油出口完全断流 伊朗最多两月后须减产！",
-          "url": "https://www.cls.cn/detail/2345809",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "乌克兰媒体：在最近的一次空袭中，俄罗斯无人机向乌克兰投放了“反特朗普宣传单”。",
-          "url": "https://flash.jin10.com/detail/20260416162032198800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "白宫公布特朗普凯旋门计划",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%85%AC%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%AF%E6%97%8B%E9%97%A8%E8%AE%A1%E5%88%92%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 19.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "存储巨头定档今夏美股上市！最多募资100亿美元",
-          "url": "https://www.cls.cn/detail/2345773",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "如何看待美股新高",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         }
       ]
     },
@@ -343,7 +286,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 29.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -355,35 +298,11 @@
           "url": "https://www.toutiao.com/trending/7628152198593691675/",
           "source": "今日头条",
           "ranks": [
-            18
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 23.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "湖南黄金：预计2026年第一季度净利润为5.32亿元～6.31亿元，同比增长60.00%～90.00%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
-          "url": "https://wallstreetcn.com/livenews/3089146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时09分"
         }
       ]
     }
