@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-17T23:52:34.625667+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-18T00:45:33.119714+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "ai_insight": {
-        "analysis": "该板块当前收录 21 条热点，覆盖 10 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 24 条热点，覆盖 11 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 87,
+        "confidence": 90,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
@@ -34,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
@@ -45,7 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗外长宣布谈判期间开放海峡 国际油价闪崩10%、纳指冲击13连涨",
+          "url": "https://www.cls.cn/detail/2347931",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "伊朗：在停火剩余时间内，霍尔木兹海峡完全开放",
@@ -56,7 +67,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
+        },
+        {
+          "title": "赫伯罗特（Hapag-Lloyd）：霍尔木兹海峡的开放是好消息，我们目前仍有一些待解决的问题，但这些问题可能会在接下来的24小时内得到解决。 如果所有未决问题都得到解决（即保险覆盖范围、伊朗政府或军方关于具体使用航道及船只离开顺序的明确指令），我们希望尽快通过该海峡。 我们的危机委员会正在开会，并将努力在接下来的24-36小时内与相关方解决所有未决事项。",
+          "url": "https://wallstreetcn.com/livenews/3090237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -67,18 +89,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "伊朗外长宣布谈判期间开放海峡 国际油价闪崩10%、纳指冲击13连涨",
-          "url": "https://www.cls.cn/detail/2347931",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "伊朗：黎以停火期间开放霍尔木兹海峡",
@@ -89,18 +100,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "伊朗宣布开放霍尔木兹海峡",
@@ -111,18 +111,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "【伊朗媒体：伊朗为霍尔木兹海峡通行设定三个条件】伊朗塔斯尼姆通讯社17日援引一名知情人士的话报道，伊朗为霍尔木兹海峡船只通行设定了三个条件：第一，通行船只必须是商船，禁止军用船只通行，且船只及货物不得与敌对国家有关联。第二，船只必须经伊朗指定的航道通行。第三，船只通行必须与伊朗伊斯兰革命卫队海军协调。该知情人士还说，如果美国继续执行海上封锁，伊方将视其为违反停火协议，并关闭霍尔木兹海峡。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3090210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "伊朗称停火剩余时间内，霍尔木兹海峡对所有商船完全开放，背后有何考量？双方有哪些谈判策略？",
@@ -133,7 +122,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "伊朗开放霍尔木兹海峡",
@@ -144,7 +133,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美军首次公布对伊朗“海上封锁线”具体位置",
+          "url": "https://wallstreetcn.com/livenews/3090229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美媒：美国考虑“拿伊朗的钱换伊朗的铀”",
+          "url": "https://wallstreetcn.com/livenews/3090227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "伊朗军方人士：军舰仍被禁止通过霍尔木兹海峡",
@@ -155,29 +177,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
-          "title": "伊朗官员：如果美方继续海上封锁，伊朗将关闭霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3090207",
+          "title": "马士基：我们留意到伊朗关于霍尔木兹海峡的声明。 我们船员、船只、客户货物的安全仍然是我们的优先考虑因素。",
+          "url": "https://wallstreetcn.com/livenews/3090224",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "伊朗官员表示：若美国的军事封锁持续，德黑兰将视其为违反停火协议的行为，并会重新关闭霍尔木兹海峡。（伊朗媒体Fars News）",
-          "url": "https://wallstreetcn.com/livenews/3090203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
@@ -188,73 +199,95 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
-          "title": "伊朗媒体：伊朗为霍尔木兹海峡通行设定三个条件",
-          "url": "https://flash.jin10.com/detail/20260417232853469800",
-          "source": "金十数据",
+          "title": "伊朗宣布开放霍尔木兹海峡",
+          "url": "https://www.douyin.com/hot/2470001",
+          "source": "抖音",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
-          "title": "马克龙：伊朗重新开放霍尔木兹海峡方向正确",
-          "url": "https://wallstreetcn.com/livenews/3090197",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32992711",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
-          "title": "惠誉：截至目前，大多数海湾合作委员会成员国对伊朗战争的冲击表现出了较强的抵御能力。",
-          "url": "https://flash.jin10.com/detail/20260417231743959800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "伊朗或因美继续封锁再关闭霍尔木兹",
-          "url": "https://flash.jin10.com/detail/20260417231558529800",
+          "title": "德国航运巨头赫伯罗特：果所有未决问题得到解决（即保险覆盖、伊朗政府/军方就具体使用的海上通道以及船舶离港顺序作出明确指示），我们将倾向于尽快通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260418002619881800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
-          "title": "据伊朗媒体Fars News：伊朗官员表示，如果美国海军的封锁行动持续下去，德黑兰将视其为违反停火协议的行为，并将关闭霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260417230524838800",
+          "title": "联合国秘书长欢迎伊朗今天宣布霍尔木兹海峡完全开放。",
+          "url": "https://flash.jin10.com/detail/20260418002430899800",
           "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "【伊朗媒体：伊朗为霍尔木兹海峡通行设定三个条件】伊朗塔斯尼姆通讯社17日援引一名知情人士的话报道，伊朗为霍尔木兹海峡船只通行设定了三个条件：第一，通行船只必须是商船，禁止军用船只通行，且船只及货物不得与敌对国家有关联。第二，船只必须经伊朗指定的航道通行。第三，船只通行必须与伊朗伊斯兰革命卫队海军协调。该知情人士还说，如果美国继续执行海上封锁，伊方将视其为违反停火协议，并关闭霍尔木兹海峡。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3090210",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
+        },
+        {
+          "title": "惠誉评级：中美洲和加勒比海主权国家对伊朗冲击具备缓冲能力。",
+          "url": "https://flash.jin10.com/detail/20260418001203877800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗官员：如果美方继续海上封锁，伊朗将关闭霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3090207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 7 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 7 个来源平台，平均热榜排名约 10.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 87,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -267,7 +300,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
@@ -278,7 +311,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -289,7 +322,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
@@ -300,7 +333,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
+        },
+        {
+          "title": "特朗普：与伊朗的会谈可能会在周末进行",
+          "url": "https://wallstreetcn.com/livenews/3090230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%96%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "心心念念的大房子不让造，特朗普暴怒开喷",
@@ -311,7 +366,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
@@ -322,7 +377,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "特朗普：确认伊朗开放霍尔木兹海峡，海上封锁将持续至“交易”完成",
@@ -333,7 +388,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
+        },
+        {
+          "title": "据法新社：美国总统特朗普表示，非常接近与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260418002923010800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "特朗普：伊朗将暂停核计划，且不会获得被冻结的资金",
+          "url": "https://wallstreetcn.com/livenews/3090221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹海峡",
@@ -344,95 +421,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
-          "title": "特朗普称伊朗不会再封锁霍尔木兹海峡 正在清雷",
-          "url": "https://wallstreetcn.com/livenews/3090195",
+          "title": "特朗普：美国将一直封锁霍尔木兹海峡，直至与伊朗敲定协议",
+          "url": "https://wallstreetcn.com/livenews/3090217",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
-          "title": "特朗普称美伊协议与黎巴嫩没有关联",
-          "url": "https://wallstreetcn.com/livenews/3090191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%96%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "特朗普称美国已禁止以色列轰炸黎巴嫩",
-          "url": "https://wallstreetcn.com/livenews/3090189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "WTI原油日内跌幅达13.29%，至82美元/桶。 美国总统特朗普称，伊朗已同意不再关闭霍尔木兹海峡，它将不再被用作对抗世界的武器。",
-          "url": "https://wallstreetcn.com/livenews/3090188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "伊朗开放霍尔木兹海峡 特朗普狂发11条帖子",
-          "url": "https://flash.jin10.com/detail/20260417230755273800",
+          "title": "据AXIOS：美国总统特朗普表示，美伊谈判代表可能将在本周末会面，他预计双方将敲定一项结束战争的最终协议。特朗普认为将在一两天内达成协议。",
+          "url": "https://flash.jin10.com/detail/20260418002046157800",
           "source": "金十数据",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡局势已结束",
-          "url": "https://wallstreetcn.com/livenews/3090182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -445,7 +467,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -456,7 +478,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
+        },
+        {
+          "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260418003235958800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -467,31 +500,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
+          "time_info": "00时45分"
+        },
         {
-          "title": "WTI原油日内跌幅达14.5%，报80.87美元/桶；布伦特原油期货也跌13%，至86.09美元。 欧洲天然气价格一度下跌10%，欧洲基准柴油期货暴跌15%，至每公吨997.75美元。 新兴市场外汇指数扭转了美国和以色列发动伊朗战争以来的跌势。 Axios援引美国官员及知情人士的消息报道称，美伊关于旨在结束战争的三页谅解备忘录（MOU）谈判取得进展。 另据NewsNation报道，美国总统特朗普称，伊朗同意停止浓缩铀，“伊朗同意了一切”。",
-          "url": "https://wallstreetcn.com/livenews/3090190",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年04月17日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260418003038538800",
+          "source": "金十数据",
           "ranks": [
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时45分"
         }
       ]
     }
