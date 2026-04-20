@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-20T23:11:51.599370+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-21T00:57:10.924222+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 26,
       "ai_insight": {
-        "analysis": "该板块当前收录 20 条热点，覆盖 10 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 26 条热点，覆盖 11 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.6 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 90,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "伊朗战争丨美伊谈判悬念丛生，局势走向有几种可能？",
@@ -33,19 +33,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "伊朗媒体：伊朗不参加谈判的决定尚未改变",
-          "url": "https://wallstreetcn.com/livenews/3091230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
@@ -55,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
@@ -66,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "伊朗外交部回应外长帖文争议",
@@ -77,8 +66,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
+        },
+        {
+          "title": "富国银行首席执行官：在伊朗冲突有望结束之前，降低利率显然是错误的选择。",
+          "url": "https://flash.jin10.com/detail/20260421005051203800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时11分"
+          "time_info": "00时57分"
         },
         {
           "title": "伊朗在霍尔木兹海峡划定新航线，未经许可不得通行，有何战略意图？是否标志着伊朗对海峡的控制进入新阶段？",
@@ -88,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "伊朗如何看谈判？一文读懂伊朗“首席谈判代表”周末的重磅阐述",
@@ -99,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "伊朗嘲讽欧盟外长：哦，你管那个叫国际法？",
@@ -110,8 +110,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "满仓都是导弹 伊朗军方自曝库存",
@@ -121,8 +121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "美军：已指令27艘船只掉头或返回伊朗港口",
@@ -132,19 +132,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美军向伊朗商船开火",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%90%91%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9%E5%BC%80%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "美舰向伊朗货船开火画面曝光",
@@ -154,110 +143,176 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
+        },
+        {
+          "title": "美军向伊朗商船开火",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%90%91%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9%E5%BC%80%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
+        },
+        {
+          "title": "伊朗媒体：伊美“二谈”消息不实，谈判前景不明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006844",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
+        },
+        {
+          "title": "伊朗拟出台霍尔木兹海峡管理法，禁止以色列关联船只通行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33007267",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "伊朗已决定继续与美国谈判",
           "url": "https://www.douyin.com/hot/2472753",
           "source": "抖音",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美军称已指令27艘船只掉头或返回伊朗港口",
-          "url": "https://wallstreetcn.com/livenews/3091212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "Trafigura：全球大约3%的铝供应受到伊朗战争的干扰。",
-          "url": "https://wallstreetcn.com/livenews/3091210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "伊朗：巴基斯坦是谈判唯一正式调解国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%98%AF%E8%B0%88%E5%88%A4%E5%94%AF%E4%B8%80%E6%AD%A3%E5%BC%8F%E8%B0%83%E8%A7%A3%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美军：封锁霍尔木兹海峡已经造成27艘船只调头、或重返伊朗港口。",
-          "url": "https://wallstreetcn.com/livenews/3091204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美国中央司令部：自对进出伊朗港口及沿海区域的船只实施封锁以来，美国部队已指示27艘船舶掉头或返回伊朗港口。",
-          "url": "https://flash.jin10.com/detail/20260420223011368800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "伊朗官员：最高领袖完全健康",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%AE%8C%E5%85%A8%E5%81%A5%E5%BA%B7",
           "source": "百度热搜",
           "ranks": [
-            30
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
+        },
+        {
+          "title": "据巴基斯坦知情人士称，预计伊朗代表团将于周二上午抵达，时间接近美国代表团的抵达时间。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3091258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时11分"
+          "time_info": "00时57分"
+        },
+        {
+          "title": "伊朗：承诺将确保俄罗斯船只无障碍通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3091257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "伊朗前最高领袖高级助理：警惕谈判沦为延长战争的幌子",
+          "url": "https://wallstreetcn.com/livenews/3091254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "伊朗总统：对美“长期、深层的不信任”仍存",
+          "url": "https://wallstreetcn.com/livenews/3091250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "据半岛电视台援引巴基斯坦知情人士称，预计伊朗代表团将于周二上午抵达，时间接近美国代表团的抵达时间。",
+          "url": "https://flash.jin10.com/detail/20260421003526919800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "加拿大央行：调查结果表明，通胀预期遭到伊朗战争的冲击。",
+          "url": "https://wallstreetcn.com/livenews/3091242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "伊朗承诺将确保俄罗斯船只无障碍通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260421001656675800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "报道：伊朗代表计划周二前往巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3091241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "报道：美国副总统万斯尚未启程前往巴基斯坦参加伊朗核问题谈判",
+          "url": "https://wallstreetcn.com/livenews/3091240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时57分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 4 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 64,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美国总统特朗普称愿意参加会谈，但认为没有必要。",
-          "url": "https://flash.jin10.com/detail/20260420225300214800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
           "url": "https://news.ifeng.com/c/8sUALVwFbq7",
@@ -266,19 +321,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗的会晤对各方都有利。",
-          "url": "https://flash.jin10.com/detail/20260420225236678800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -288,19 +332,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美国总统特朗普：停火协议将于华盛顿时间周三晚间到期。",
-          "url": "https://flash.jin10.com/detail/20260420225232052800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -310,8 +343,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -321,63 +354,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
-          "title": "标普500指数跌幅扩大至0.5%，此前美国总统特朗普声称“极不可能”延长与伊朗的停火协议。",
-          "url": "https://wallstreetcn.com/livenews/3091226",
+          "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
+          "url": "https://wallstreetcn.com/livenews/3091263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时11分"
+          "time_info": "00时57分"
         },
         {
-          "title": "美国总统特朗普：“极不可能”延长与伊朗的停火协议。在签署协议之前不会开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260420225214077800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "特朗普：“极不可能”延长与伊朗的停火协议，万斯周一就要启程去巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3091221",
+          "title": "特朗普：如未能达成协议“几无可能”再延长停火",
+          "url": "https://wallstreetcn.com/livenews/3091238",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "特朗普称并非因以色列才对伊朗开战",
-          "url": "https://wallstreetcn.com/livenews/3091211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "特朗普：以色列从未把我拉进与伊朗的战争",
-          "url": "https://wallstreetcn.com/livenews/3091209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "time_info": "00时57分"
         }
       ]
     },
@@ -385,7 +385,7 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 72,
@@ -400,8 +400,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -411,8 +411,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
         }
       ]
     }
