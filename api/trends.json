@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-22T23:06:12.900877+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-23T00:51:21.740341+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 6 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 6 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -33,8 +44,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -44,30 +66,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
           "url": "https://www.cls.cn/detail/2352682",
           "source": "财联社热门",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -77,8 +88,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
@@ -88,63 +99,63 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "预测市场显示 特朗普面临弹劾的风险持续攀升",
+          "url": "https://flash.jin10.com/detail/20260423002437236800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "美国参议院Graham：今天与总统特朗普和战争部长海格塞斯讨论了伊朗问题。",
+          "url": "https://wallstreetcn.com/livenews/3092740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
-          "title": "达美航空、美国航空公司、美联航股价跌幅扩大，华尔街日报报道称，特朗普政府接近达成对Spirit Airlines的救助协议——金额大约5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3092699",
+          "title": "特朗普或将重新分类大麻，大麻股应声飙升",
+          "url": "https://wallstreetcn.com/livenews/3092739",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "00时51分"
         },
         {
-          "title": "贝森特：特朗普很擅长降低能源成本",
-          "url": "https://wallstreetcn.com/livenews/3092691",
+          "title": "伊朗否认举行美伊新谈判，指特朗普“又说谎了”",
+          "url": "https://wallstreetcn.com/livenews/3092734",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "精神航空（Spirit Aviation）场外交易股价上涨36.7%至0.82美元，此前有报道称特朗普政府接近达成对精神航空的救助。",
-          "url": "https://flash.jin10.com/detail/20260422223809289800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "美国知情人士称：总统特朗普愿意额外给予伊朗3-5天停火时间。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3092689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "00时51分"
         }
       ]
     },
@@ -152,23 +163,45 @@
       "keyword_group": "伊朗",
       "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 6 个来源平台，平均热榜排名约 15.5 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 12.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗战争丨美拦截货轮有“来自中国礼物”？中方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "伊朗议会议长卡利巴夫：全面停火只有在不被海上封锁和“挟持世界经济”的行为违反的情况下才有意义。",
+          "url": "https://flash.jin10.com/detail/20260423004407047800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "【伊朗议长：美方如此“公然违反停火协议”，重新开放霍尔木兹海峡是不可能的】伊朗首席谈判代表卡利巴夫表示，只有在不被海上封锁和“劫持世界经济”行为所破坏的情况下，全面停火才有意义。 在如此“公然违反停火协议”的情况下，重新开放霍尔木兹海峡是不可能的。",
+          "url": "https://wallstreetcn.com/livenews/3092757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "美共和党参议员：若和平协议迟迟未果，美国或对伊朗动武",
+          "url": "https://flash.jin10.com/detail/20260423003639483800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
@@ -178,8 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "伊朗基本物资供应为何不受封锁影响",
@@ -189,8 +222,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "伊朗拒谈判,美国延长停火",
@@ -200,8 +233,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "伊朗代表团亮相亚沙会开幕式",
+          "url": "https://www.toutiao.com/trending/7631156210322407467/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "伊朗将恢复国内航班运营",
@@ -211,120 +255,41 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
-        },
-        {
-          "title": "美国财政部长贝森特：否认伊朗通过制裁减免获得140亿美元。 如果不是出台制裁手段的话，石油价格可能已经涨至150美元。",
-          "url": "https://wallstreetcn.com/livenews/3092703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "00时51分"
         },
         {
-          "title": "塔斯尼姆通讯社：伊朗目前没有计划在周五与美国进行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3092700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "美国财长贝森特：美国财政部通过解除（伊朗）制裁，能够释放超过2.5亿桶水上石油，如果没有这一措施，价格将会更高。",
-          "url": "https://flash.jin10.com/detail/20260422223934039800",
+          "title": "伊朗外长感谢斯里兰卡协助船只救援 就双边关系进行磋商",
+          "url": "https://flash.jin10.com/detail/20260423000835938800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "00时51分"
         },
         {
-          "title": "美国财长贝森特：伊朗因制裁解除可获140亿美元收益的说法“纯属无稽之谈”。",
-          "url": "https://flash.jin10.com/detail/20260422223837861800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "伊朗外长：是美国和以色列造成了霍尔木兹海峡当前局面",
-          "url": "https://wallstreetcn.com/livenews/3092690",
+          "title": "伊朗国家电视台：伊朗对伊斯兰堡有关延长停火的请求做出回应。 武装部队已经全面戒备，随时准备做出果断回应。",
+          "url": "https://wallstreetcn.com/livenews/3092731",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
-          "url": "https://wallstreetcn.com/livenews/3092705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "谷歌：Google Drive中的AI概览功能现已普遍可用。",
-          "url": "https://flash.jin10.com/detail/20260422224544540800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "谷歌：Google Drive中的Gemini现已全面上线。",
-          "url": "https://flash.jin10.com/detail/20260422224338586800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 5.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 5.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -336,8 +301,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
@@ -347,19 +312,146 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260423003201816800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "金十图示：2026年04月22日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260423003117950800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2352533",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时05分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 12.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
+          "url": "https://wallstreetcn.com/livenews/3092753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini Embedding 2现已全面上线。",
+          "url": "https://flash.jin10.com/detail/20260423003105353800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "谷歌云CEO：Gemini将帮助苹果在2026年推出个性化Siri。",
+          "url": "https://flash.jin10.com/detail/20260423001719737800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "谷歌(GOOG.O)CEO皮查伊：重申公司2026年1750-1850亿美元的资本支出计划。",
+          "url": "https://flash.jin10.com/detail/20260423001432154800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 28.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI发布隐私过滤器模型以编辑个人数据",
+          "url": "https://wallstreetcn.com/livenews/3092726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     }
