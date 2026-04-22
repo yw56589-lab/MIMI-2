@@ -1,155 +1,21 @@
 {
-  "generated_at": "2026-04-23T05:43:52.549346+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-23T06:40:55.994065+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 6 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 85,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
-          "url": "https://wallstreetcn.com/articles/3770583",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗议长：取消海上封锁，全面停火才有意义",
-          "url": "https://news.ifeng.com/c/8sXi9C4ndWQ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "泽连斯基：在伊朗问题解决前，乌克兰谈判不会取得任何进展",
-          "url": "https://news.ifeng.com/c/8sXi9C4ndXr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "航运和安全消息人士：美国军方在亚洲水域拦截至少三艘伊朗油轮。美国军方正在重新引导伊朗油轮。",
-          "url": "https://flash.jin10.com/detail/20260423043724342800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗同意暂停军事战斗",
-          "url": "https://www.toutiao.com/trending/7631352803570748954/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：在战争前，美国收到威胁称伊朗拥有11枚核弹。",
-          "url": "https://flash.jin10.com/detail/20260423043551539800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗拒谈判,美国延长停火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "白宫顾问哈塞特宣称：在美国和以色列挑起伊朗战争之前，美方获得关于伊朗正（谋求）获取11枚核弹的威胁。",
-          "url": "https://wallstreetcn.com/livenews/3092841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗代表团亮相亚沙会开幕式",
-          "url": "https://www.toutiao.com/trending/7631156210322407467/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗将恢复国内航班运营",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗基本物资供应为何不受封锁影响",
-          "url": "https://www.toutiao.com/trending/7631057559575871515/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        }
-      ]
-    },
     {
       "keyword_group": "特朗普",
       "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 6 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
+          "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -157,18 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
-          "url": "https://wallstreetcn.com/livenews/3092859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -179,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -190,29 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
-          "title": "特朗普、白宫均否认就停火延长设最后期限",
-          "url": "https://flash.jin10.com/detail/20260423052013555800",
-          "source": "金十数据",
+          "title": "John Phelan已经从美国海军部长岗位被（特朗普政府）免职。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3092875",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
@@ -223,29 +67,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
-          "title": "报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗",
-          "url": "https://wallstreetcn.com/livenews/3092848",
-          "source": "华尔街见闻-快讯",
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
-          "title": "白宫顾问哈塞特声称：非常相信美国参议院将针对美联储主席提名人沃什做正确的事（投票确认他的提名资格）。 总统特朗普希望沃什很快就能前往美联储就职。",
-          "url": "https://wallstreetcn.com/livenews/3092842",
+          "title": "五角大楼：美国海军部长John Phelan退出总统特朗普的政府，将由副部长Hung Cao接替。",
+          "url": "https://wallstreetcn.com/livenews/3092860",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
@@ -256,18 +100,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
+        },
+        {
+          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
+          "url": "https://wallstreetcn.com/livenews/3092859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗",
+          "url": "https://wallstreetcn.com/livenews/3092848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 15.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 10.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -280,95 +146,174 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
+          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
+          "url": "https://www.cls.cn/detail/2352859",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
-          "title": "IBM(IBM.N)美股盘后跌8%。",
-          "url": "https://flash.jin10.com/detail/20260423042334674800",
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "特斯拉CFO在电话会上预计，今年资本开支超过250亿美元，（公司）之前预计会超过200亿美元。 尚未从美国最高法院关于关税的最新裁决中获得任何实际利益。 今年剩余时间内，预计将出现自由现金流（FCF）为负的情况。 特斯拉美股盘后转而下跌0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3092868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
+          "url": "https://flash.jin10.com/detail/20260423060230487800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
+        },
+        {
+          "title": "特斯拉美股盘后涨幅迅速收窄至1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3092865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "德州仪器（TXN）美股盘后维持上涨大约11%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3092864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
           "url": "https://wallstreetcn.com/livenews/3092846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "ai_insight": {
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
+          "url": "https://wallstreetcn.com/articles/3770583",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
-          "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260423040547974800",
-          "source": "金十数据",
+          "title": "伊朗议长：取消海上封锁，全面停火才有意义",
+          "url": "https://news.ifeng.com/c/8sXi9C4ndWQ",
+          "source": "凤凰网",
           "ranks": [
-            17
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
-          "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
-          "url": "https://wallstreetcn.com/livenews/3092839",
-          "source": "华尔街见闻-快讯",
+          "title": "泽连斯基：在伊朗问题解决前，乌克兰谈判不会取得任何进展",
+          "url": "https://news.ifeng.com/c/8sXi9C4ndXr",
+          "source": "凤凰网",
           "ranks": [
-            19
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
-          "title": "金十图示：2026年04月22日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260423040529258800",
-          "source": "金十数据",
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
+          "source": "贴吧",
           "ranks": [
-            21
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
-          "title": "特斯拉(TSLA.O)美股盘后涨3%。",
-          "url": "https://flash.jin10.com/detail/20260423040428719800",
-          "source": "金十数据",
+          "title": "伊朗将恢复国内航班运营",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
+          "source": "贴吧",
           "ranks": [
-            24
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         },
         {
-          "title": "IBM（国际商业机器公司）一季度营收159.2亿美元，分析师预期156.7亿美元。 一季度软件营收70.5亿美元，同比增长11%，分析师预期70.4亿美元。 一季度咨询营收52.7亿美元，分析师预期52.9亿美元。 一季度运营每股收益（EPS）为1.91美元，分析师预期1.81美元。 一季度自由现金流（FCF）为22.2亿美元，分析师预期21.7亿美元。 一季度业绩报告不含商业预定（企业订单）。 维持全年营收预期（按恒定汇率）在增超5%不变，分析师预计增长5.1%。 IBM美股盘后跌5%。",
-          "url": "https://wallstreetcn.com/livenews/3092832",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗同意暂停军事战斗",
+          "url": "https://www.toutiao.com/trending/7631352803570748954/",
+          "source": "今日头条",
           "ranks": [
-            26
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
+        },
+        {
+          "title": "伊朗代表团亮相亚沙会开幕式",
+          "url": "https://www.toutiao.com/trending/7631156210322407467/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         }
       ]
     },
@@ -392,31 +337,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 24.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
-          "url": "https://wallstreetcn.com/livenews/3092834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时40分"
         }
       ]
     }
