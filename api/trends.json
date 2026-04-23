@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-23T23:46:18.239197+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-24T01:12:20.806847+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 21,
       "ai_insight": {
-        "analysis": "该板块当前收录 16 条热点，覆盖 8 个来源平台，平均热榜排名约 14.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 21 条热点，覆盖 8 个来源平台，平均热榜排名约 12.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 88,
@@ -15,15 +15,26 @@
       },
       "titles": [
         {
-          "title": "伊媒：过去两天有4艘伊朗油轮突破美军封锁",
-          "url": "https://wallstreetcn.com/livenews/3093415",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗战争丨以防长：只要美国同意，将刺杀穆杰塔巴",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
+        },
+        {
+          "title": "伊朗媒体：伊方针对美方及其盟友潜在军事行动制定反击方案",
+          "url": "https://wallstreetcn.com/livenews/3093437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "伊朗消息人士：伊美谈判准备工作“今晚或明天”或取得突破",
@@ -34,7 +45,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们尚未决定是否参加与华盛顿的新一轮谈判。",
+          "url": "https://flash.jin10.com/detail/20260424004119190800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "据半岛电视台：伊朗外交部发言人表示，运输高浓缩铀不是一个选项，降低其浓度是一个可行的选择。",
+          "url": "https://flash.jin10.com/detail/20260424003953469800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "伊朗已制定针对美方及其盟友反击清单",
@@ -45,7 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
@@ -56,7 +89,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
+        },
+        {
+          "title": "伊朗外交部发言人：将出席与国际原子能机构在维也纳举行的会议，讨论技术性问题。",
+          "url": "https://flash.jin10.com/detail/20260424002815677800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
@@ -67,7 +111,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
@@ -78,18 +122,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
-          "title": "伊朗称收到首笔霍尔木兹海峡通行费",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%94%B6%E5%88%B0%E9%A6%96%E7%AC%94%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C%E8%B4%B9",
-          "source": "百度热搜",
+          "title": "伊朗外交部发言人：另一方退出《联合全面行动计划》表明，伊朗核问题更多是施加压力的借口，而非真正的关切。",
+          "url": "https://flash.jin10.com/detail/20260424002657299800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "伊朗奥委会秘书长：伊朗队尚未确定参加美加墨世界杯",
@@ -100,73 +144,95 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：过去两天，4艘伊朗油轮突破了美国的封锁。",
-          "url": "https://flash.jin10.com/detail/20260423231357544800",
-          "source": "金十数据",
+          "title": "伊朗称收到首笔霍尔木兹海峡通行费",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%94%B6%E5%88%B0%E9%A6%96%E7%AC%94%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C%E8%B4%B9",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
-          "title": "以色列：两名以空军技术人员因涉嫌为伊朗从事间谍活动被起诉",
-          "url": "https://wallstreetcn.com/livenews/3093402",
+          "title": "“现金外汇”！伊朗央行：霍尔木兹海峡通行费已入账",
+          "url": "https://wallstreetcn.com/livenews/3093426",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
-          "title": "两名以空军技术人员因涉嫌为伊朗从事间谍活动被起诉",
-          "url": "https://flash.jin10.com/detail/20260423231104057800",
+          "title": "【以色列：已准备好重启与伊朗的战争】总台记者获悉，以色列国防部长卡茨23日在形势评估结束时表示，以色列已做好重启与伊朗战争的准备，“只等美国的绿灯”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3093423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "以色列称已准备好重启与伊朗的战争",
+          "url": "https://flash.jin10.com/detail/20260423235457846800",
           "source": "金十数据",
           "ranks": [
-            14
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
-          "title": "伊朗司法总监称美方不敢靠近霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3093391",
+          "title": "伊朗：将持续生产国防装备，全力保障武装力量需求",
+          "url": "https://wallstreetcn.com/livenews/3093418",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "伊朗在霍尔木兹海峡通行费上获得硬通货支付。（FARS）",
-          "url": "https://wallstreetcn.com/livenews/3093390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "伊朗首次公布扣押集装箱船画面",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83%E6%89%A3%E6%8A%BC%E9%9B%86%E8%A3%85%E7%AE%B1%E8%88%B9%E7%94%BB%E9%9D%A2",
           "source": "百度热搜",
           "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "伊媒：过去两天有4艘伊朗油轮突破美军封锁",
+          "url": "https://wallstreetcn.com/livenews/3093415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们并不打算利用高浓缩铀库存制造核弹，如果我们想这样做，早就已经做到了。",
+          "url": "https://flash.jin10.com/detail/20260423235142835800",
+          "source": "金十数据",
+          "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "伊朗拒谈判,美国延长停火",
@@ -177,43 +243,21 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "伊朗革命卫队扣押集装箱船画面曝光",
-          "url": "https://www.toutiao.com/trending/7631880274972003878/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 14 条热点，覆盖 8 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 8 个来源平台，平均热榜排名约 11.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 88,
+        "confidence": 87,
         "chart": []
       },
       "titles": [
-        {
-          "title": "伊朗战争丨特朗普：伊朗159艘海军舰艇均已沉入海底",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
           "url": "https://wallstreetcn.com/articles/3770634",
@@ -223,7 +267,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
@@ -234,29 +278,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
           "url": "https://www.cls.cn/detail/2354007",
           "source": "财联社热门",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普下令击沉任何在霍尔木兹布雷船，伊朗据称制定反击方案，巴称美伊谈判陷僵局",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "特朗普下令击沉任何在霍尔木兹海峡布设水雷的船只，伊朗：已制定反击目标清单",
-          "url": "https://wallstreetcn.com/articles/3770720",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
@@ -267,7 +311,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
@@ -278,7 +322,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
@@ -289,7 +333,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
@@ -300,18 +344,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
-          "title": "欧洲央行管委：特朗普攻击美联储适得其反，引发避险潮",
-          "url": "https://wallstreetcn.com/livenews/3093401",
+          "title": "美国商务部长：特朗普金卡签证项目迄今只有一人获批",
+          "url": "https://wallstreetcn.com/livenews/3093424",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
@@ -322,40 +366,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "伊朗挂巨幅海报：特朗普说什么都没用",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
           "source": "百度热搜",
           "ranks": [
-            22
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
-          "title": "乌克兰提议以特朗普命名争议区域",
-          "url": "https://www.toutiao.com/trending/7631221261339902006/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "美国农业部长Rollins：（特朗普）政府每天都在解决化肥成本问题。",
-          "url": "https://wallstreetcn.com/livenews/3093383",
+          "title": "美国总统特朗普：（英国）国王的到访可能会有助于修复两国之间的关系。",
+          "url": "https://wallstreetcn.com/livenews/3093420",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国总统特朗普将提名Serco高管戴维·卡明斯领导美国运输安全管理局。",
+          "url": "https://flash.jin10.com/detail/20260423235257222800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         }
       ]
     },
@@ -379,7 +423,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         },
         {
           "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
@@ -390,7 +434,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         }
       ]
     },
@@ -398,10 +442,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -410,11 +454,11 @@
           "url": "https://www.zhihu.com/question/2030589948001084304",
           "source": "知乎",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时12分"
         }
       ]
     }
