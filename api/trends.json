@@ -1,16 +1,262 @@
 {
-  "generated_at": "2026-04-29T06:02:54.543258+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2026-04-29T07:45:55.610327+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 15,
+      "keyword_group": "chatgpt openai",
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 6 个来源平台，平均热榜排名约 12.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
+          "url": "https://wallstreetcn.com/livenews/3096044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 10,
+      "ai_insight": {
+        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
+          "url": "https://flash.jin10.com/detail/20260429072129903800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "美参议院否决限制特朗普对古巴动武决议",
+          "url": "https://flash.jin10.com/detail/20260429071003456800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "美国参议院否决限制特朗普对古巴动武的决议",
+          "url": "https://wallstreetcn.com/livenews/3096062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "美最新民调显示特朗普支持率跌至任内新低",
+          "url": "https://wallstreetcn.com/livenews/3096055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "纪念建国250周年 美国将发行印有特朗普肖像的护照",
+          "url": "https://flash.jin10.com/detail/20260429063235658800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "据CBS：特朗普政府要求对移民申请者进行更严格的安全审查。",
+          "url": "https://flash.jin10.com/detail/20260429062107996800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
+          "url": "https://wallstreetcn.com/livenews/3096049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 10,
+      "ai_insight": {
+        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -23,51 +269,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         },
         {
-          "title": "美国：禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
-          "url": "https://wallstreetcn.com/livenews/3096035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "英国首相府：英国财政大臣明确表示，政府需要对伊朗战争对经济的影响做出灵活和负责任的回应。",
-          "url": "https://flash.jin10.com/detail/20260429045410077800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "卫星图像显示伊朗恰巴哈尔港附近海域出现多艘油轮",
-          "url": "https://flash.jin10.com/detail/20260429045233783800",
-          "source": "金十数据",
+          "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
+          "url": "https://www.cls.cn/detail/2358883",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "伊朗战争丨美军：港口封锁行动中已要求39艘船掉头",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         },
         {
           "title": "伊朗陆军：战争尚未结束，正严阵以待",
@@ -78,7 +291,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -89,18 +302,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         },
         {
           "title": "普京：全世界都钦佩伊朗人民抵抗美国",
           "url": "https://www.toutiao.com/trending/7632898398869474879/",
           "source": "今日头条",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         },
         {
           "title": "伊朗革命卫队称永久管理霍尔木兹",
@@ -111,233 +324,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         },
         {
-          "title": "伊朗警方发现“星链”设备等间谍装备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
-          "source": "百度热搜",
+          "title": "美国禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260429062409813800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         },
         {
           "title": "伊朗“蚊子舰队”如何控制海峡",
           "url": "https://www.toutiao.com/trending/7632881081640976430/",
           "source": "今日头条",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "卫星图像显示：伊朗恰巴哈尔港附近海域出现多艘油轮",
-          "url": "https://wallstreetcn.com/livenews/3096014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "伊朗军方：当前仍定性为战争状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E5%BD%93%E5%89%8D%E4%BB%8D%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "伊朗：美“狂人外交”将世界推向失控",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E2%80%9C%E7%8B%82%E4%BA%BA%E5%A4%96%E4%BA%A4%E2%80%9D%E5%B0%86%E4%B8%96%E7%95%8C%E6%8E%A8%E5%90%91%E5%A4%B1%E6%8E%A7",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "外交部再次提醒中国公民暂勿赴伊朗",
-          "url": "https://www.toutiao.com/trending/7633731564228952106/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 5.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "OpenAI与Anthropic向美国众议院国土安全委员会做了一次简报。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3096036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2358592",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
-          "url": "https://wallstreetcn.com/livenews/3096034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
-          "source": "澎湃新闻",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         },
         {
-          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
-          "url": "https://wallstreetcn.com/livenews/3096010",
-          "source": "华尔街见闻-快讯",
+          "title": "据半岛电视台：白宫表示，美国不会为了结束战争并开放霍尔木兹海峡而“仓促与伊朗达成糟糕的协议”。",
+          "url": "https://flash.jin10.com/detail/20260429054559423800",
+          "source": "金十数据",
           "ranks": [
-            24
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 18.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3096026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         },
         {
-          "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
-          "url": "https://wallstreetcn.com/livenews/3096006",
+          "title": "美国：禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3096035",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         }
       ]
     },
@@ -345,10 +376,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -357,11 +388,11 @@
           "url": "https://www.zhihu.com/question/2031729357580919027",
           "source": "知乎",
           "ranks": [
-            4
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         }
       ]
     },
@@ -369,7 +400,7 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 24.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -377,39 +408,15 @@
       },
       "titles": [
         {
-          "title": "谷歌公司签署协议，允许该公司技术被应用到（美国战争部那些）机密的军事工作。",
-          "url": "https://wallstreetcn.com/livenews/3096012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 69,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美元指数28日上涨",
-          "url": "https://flash.jin10.com/detail/20260429050156496800",
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
           "source": "金十数据",
           "ranks": [
-            3
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时45分"
         }
       ]
     }
