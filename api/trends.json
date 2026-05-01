@@ -1,16 +1,348 @@
 {
-  "generated_at": "2026-05-01T23:48:49.407057+08:00",
+  "generated_at": "2026-05-02T00:46:10.813406+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 15,
+      "keyword_group": "特朗普",
+      "match_count": 29,
       "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 6 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 29 条热点，覆盖 5 个来源平台，平均热榜排名约 10.6 位，标题平均出现 1.2 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 56,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普称，伊朗最新方案让人不满意。WTI原油5分钟内上涨0.67美元/桶，报101.72美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3097971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：（关于精神航空）将于周五晚些时候发布公告。",
+          "url": "https://flash.jin10.com/detail/20260502003049156800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：（关于精神航空）我们给了他们一个最终提案。",
+          "url": "https://flash.jin10.com/detail/20260502003039980800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在考虑对精神航空进行救助。",
+          "url": "https://flash.jin10.com/detail/20260502003026056800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普签署行政命令，加大制裁古巴政府的力度。",
+          "url": "https://wallstreetcn.com/livenews/3097967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我感到不满。",
+          "url": "https://flash.jin10.com/detail/20260502003003874800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "美国总统特朗普：刚刚与伊朗进行了对话。",
+          "url": "https://flash.jin10.com/detail/20260502002950658800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：（关于对欧盟汽车的关税）将迫使公司将生产转移至美国。",
+          "url": "https://flash.jin10.com/detail/20260502002856166800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：（关于对欧盟汽车的关税）欧盟未遵守协议。",
+          "url": "https://flash.jin10.com/detail/20260502002828872800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已经没有军队了。",
+          "url": "https://flash.jin10.com/detail/20260502002809088800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "特朗普：上调欧盟汽车关税",
+          "url": "https://wallstreetcn.com/livenews/3097961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：对意大利和西班牙感到不满。",
+          "url": "https://flash.jin10.com/detail/20260502002716494800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "特朗普不发邀请函，非盟委员会主席：没有南非的G20峰会将“毫无意义”",
+          "url": "https://wallstreetcn.com/livenews/3097958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：周四与伊拉克候任总理进行了交谈。强烈支持他。",
+          "url": "https://flash.jin10.com/detail/20260502002645867800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：我们在与伊朗的谈判中取得了进展，但我并不确定我们最终能否达成协议。",
+          "url": "https://flash.jin10.com/detail/20260502002617476800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：不确定我们是否能达成协议。",
+          "url": "https://flash.jin10.com/detail/20260502002524860800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在通过电话进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260502002519093800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）对最新提案不满意。",
+          "url": "https://flash.jin10.com/detail/20260502002417534800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "Spirit Air股价暴跌逾70%，报道称特朗普没能提供救助、该航司准备停止运营",
+          "url": "https://wallstreetcn.com/livenews/3097947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "据两名白宫官员透露，美国总统特朗普周五签署了一项行政命令，对古巴政府实施新的制裁。",
+          "url": "https://flash.jin10.com/detail/20260502001239176800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "据两名白宫官员透露，美国总统特朗普的行政命令指控古巴与伊朗保持密切联系，并为黎巴嫩真主党等组织提供避风港。",
+          "url": "https://flash.jin10.com/detail/20260502001203949800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "德国副总理：我们不需要特朗普的建议",
+          "url": "https://wallstreetcn.com/livenews/3097945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普批准了2026年红鲷鱼捕捞季的所有州许可证，推翻了拜登禁停捕鱼活动的政策。",
+          "url": "https://flash.jin10.com/detail/20260502000540569800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 20,
+      "ai_insight": {
+        "analysis": "该板块当前收录 20 条热点，覆盖 6 个来源平台，平均热榜排名约 15.6 位，标题平均出现 1.3 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 61,
         "chart": []
       },
       "titles": [
@@ -22,19 +354,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "白宫拒评有关伊朗回应细节",
-          "url": "https://flash.jin10.com/detail/20260501231543542800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
           "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
@@ -44,30 +365,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
-          "title": "伊朗消息人士：伊朗仍对美国深感不信任",
-          "url": "https://flash.jin10.com/detail/20260501231455080800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "布伦特原油期货跌2美元/桶，伊朗提出和平建议。",
-          "url": "https://wallstreetcn.com/livenews/3097949",
+          "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
+          "url": "https://wallstreetcn.com/livenews/3097970",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "00时46分"
+        },
+        {
+          "title": "以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”",
+          "url": "https://wallstreetcn.com/livenews/3097969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
           "title": "伊朗战争丨美军最大航母“福特”号已离开中东",
@@ -77,8 +398,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
           "title": "伊朗递交最新伊美谈判方案",
@@ -88,8 +409,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
           "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
@@ -99,74 +420,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "美国财政部网站更新针对伊朗的相关制裁。",
-          "url": "https://flash.jin10.com/detail/20260501230903973800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "伊朗谈判方案已被转交美国",
-          "url": "https://wallstreetcn.com/livenews/3097938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：战胜敌对超级大国之后进行重建的日子即将到来。",
-          "url": "https://flash.jin10.com/detail/20260501225711327800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
-          "url": "https://wallstreetcn.com/livenews/3097934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "巴基斯坦官员称伊朗递交的最新谈判方案已转交美国",
-          "url": "https://flash.jin10.com/detail/20260501222838293800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
-          "url": "https://flash.jin10.com/detail/20260501221603622800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
           "title": "伊朗递交最新谈判方案",
@@ -176,120 +431,140 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "航空公司Spirit Airlines准备关闭，该公司没能（与特朗普政府）达成一份救助协议。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3097947",
+          "title": "伊朗外长：美国是霍尔木兹海峡不安全局势的主要根源。",
+          "url": "https://wallstreetcn.com/livenews/3097965",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "00时46分"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
+          "title": "欧洲央行管委Olaf Sleijpen：对（欧元区）通胀的影响取决于（伊朗战争）危机持续的时间。",
+          "url": "https://wallstreetcn.com/livenews/3097963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "00时46分"
         },
         {
-          "title": "德国副总理：我们不需要特朗普的建议",
-          "url": "https://wallstreetcn.com/livenews/3097945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "美国能源部长赖特：作为特朗普“和平管道”议程的一部分，中欧和东欧正在讨论多个管道项目，以促进繁荣与安全。",
-          "url": "https://flash.jin10.com/detail/20260501225206321800",
+          "title": "美媒：伊朗考虑利用携带水雷的海豚攻击美军战舰",
+          "url": "https://flash.jin10.com/detail/20260502002405108800",
           "source": "金十数据",
           "ranks": [
-            19
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "00时46分"
+        },
+        {
+          "title": "以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”",
+          "url": "https://flash.jin10.com/detail/20260502001634445800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
+          "url": "https://flash.jin10.com/detail/20260502001551365800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "布伦特原油期货跌2美元/桶，伊朗提出和平建议。",
+          "url": "https://wallstreetcn.com/livenews/3097949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗外交部：伊朗武装部队也保持高度戒备，随时准备全面、果断地捍卫伊朗人民免受任何威胁和邪恶势力的侵害。地区各国的外交部长也阐述了各自政府支持通过外交途径和平解决战争和争端的立场，并表示愿为此提供任何形式的援助。",
+          "url": "https://flash.jin10.com/detail/20260502000449855800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗外交部：如果美方改变其过激态度、威胁性言论和挑衅行为，伊朗愿继续推进外交进程。",
+          "url": "https://flash.jin10.com/detail/20260502000431479800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗外交部：伊朗本着诚意和负责任的态度，在巴基斯坦的斡旋下开始了新一轮谈判，旨在彻底结束战争。",
+          "url": "https://flash.jin10.com/detail/20260502000416657800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐向对方通报了伊朗为结束美国和以色列强加于伊朗的战争、实现地区和平所采取的最新立场和倡议。",
+          "url": "https://flash.jin10.com/detail/20260502000403091800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与土耳其、卡塔尔、沙特、埃及、伊拉克和阿塞拜疆的外长分别通电话，讨论并交换了关于地区局势发展的意见。",
+          "url": "https://flash.jin10.com/detail/20260502000325513800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗谈判方案已被转交美国",
+          "url": "https://wallstreetcn.com/livenews/3097938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时46分"
         }
       ]
     },
@@ -297,10 +572,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -312,8 +587,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -323,8 +598,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -334,8 +609,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -345,8 +620,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         }
       ]
     },
@@ -354,10 +629,10 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.5 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 53,
         "chart": []
       },
       "titles": [
@@ -369,19 +644,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         },
         {
-          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
-          "url": "https://flash.jin10.com/detail/20260501222150341800",
+          "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260502003124139800",
           "source": "金十数据",
           "ranks": [
-            25
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "00时46分"
         }
       ]
     },
@@ -389,10 +664,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -401,11 +676,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
           "source": "贴吧",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         }
       ]
     },
@@ -413,10 +688,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -425,11 +700,11 @@
           "url": "https://wallstreetcn.com/articles/3771452",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
         }
       ]
     }
