@@ -1,183 +1,16 @@
 {
-  "generated_at": "2026-05-03T18:46:24.283795+08:00",
+  "generated_at": "2026-05-03T19:36:52.569640+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 14,
-      "ai_insight": {
-        "analysis": "该板块当前收录 14 条热点，覆盖 7 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 84,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁",
-          "url": "https://wallstreetcn.com/livenews/3098278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362134",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗副外长：球在美国一边，做好两手准备",
-          "url": "https://news.ifeng.com/c/8soLPWxz4Pu",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长阿拉格齐向阿曼外长通报伊朗结束战争的努力。",
-          "url": "https://flash.jin10.com/detail/20260503183240457800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗与阿曼外长讨论结束战争的倡议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3098274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗战争丨伊官员：正研究超过8条贸易替代通道",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 65 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2034041465198703020",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗最新提出14点终战提议",
-          "url": "https://www.toutiao.com/trending/7635059597182828607/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使：伊美谈判新方案已经巴方转交美方",
-          "url": "https://wallstreetcn.com/livenews/3098263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗媒体披露伊方最新谈判方案：14点提议，聚焦终战",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093964",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗媒体说伊朗一超大型油轮突破了美国封锁",
-          "url": "https://flash.jin10.com/detail/20260503175016375800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐向法国外长简要介绍了德黑兰的立场和旨在结束美以对伊朗施加的侵略战争的倡议。",
-          "url": "https://flash.jin10.com/detail/20260503170420108800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗高级官员披露伊美谈判最新细节：无最高领袖许可不得进行任何谈判",
-          "url": "https://wallstreetcn.com/livenews/3098251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 8 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 15 条热点，覆盖 8 个来源平台，平均热榜排名约 13.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 87,
+        "confidence": 88,
         "chart": []
       },
       "titles": [
@@ -190,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -201,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
           "title": "特朗普：美国有可能重启对伊朗空袭",
@@ -212,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
           "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
@@ -223,7 +56,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗战争丨伊朗革命卫队：特朗普的决策空间已经缩小",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -234,7 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -245,7 +89,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
           "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
@@ -256,29 +100,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
           "url": "https://www.cls.cn/detail/2362213",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
-          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
-          "url": "https://www.toutiao.com/trending/7635573338844433930/",
+          "title": "评论员：特朗普意外捣毁印度战略大计",
+          "url": "https://www.toutiao.com/trending/7635575579709804086/",
           "source": "今日头条",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
           "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
@@ -289,40 +133,229 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
-          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
-          "url": "https://wallstreetcn.com/livenews/3098259",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
+          "url": "https://www.toutiao.com/trending/7635573338844433930/",
+          "source": "今日头条",
           "ranks": [
-            19
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         },
         {
           "title": "据伊朗Press TV报道，伊朗革命卫队称，“特朗普必须在一个不可能的军事行动或与伊朗达成一个糟糕的协议之间做出选择。 美国的决策空间已经缩小。”",
           "url": "https://flash.jin10.com/detail/20260503174401347800",
           "source": "金十数据",
           "ranks": [
-            21
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
+        },
+        {
+          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
+          "url": "https://wallstreetcn.com/livenews/3098259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-03）",
           "url": "https://flash.jin10.com/detail/20260503173910756800",
           "source": "金十数据",
           "ranks": [
-            22
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 15,
+      "ai_insight": {
+        "analysis": "该板块当前收录 15 条热点，覆盖 7 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 86,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362134",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗副外长：球在美国一边，做好两手准备",
+          "url": "https://news.ifeng.com/c/8soLPWxz4Pu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁",
+          "url": "https://flash.jin10.com/detail/20260503184038906800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：美国的决策空间已受限",
+          "url": "https://wallstreetcn.com/livenews/3098281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 65 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034041465198703020",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗最新提出14点终战提议",
+          "url": "https://www.toutiao.com/trending/7635059597182828607/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "欧洲智库称伊朗战事冲击能源安全 或加剧欧盟内部对俄分歧",
+          "url": "https://wallstreetcn.com/livenews/3098279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁",
+          "url": "https://wallstreetcn.com/livenews/3098278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐向阿曼外长通报伊朗结束战争的努力。",
+          "url": "https://flash.jin10.com/detail/20260503183240457800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗与阿曼外长讨论结束战争的倡议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗媒体披露伊方最新谈判方案：14点提议，聚焦终战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093964",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：伊美谈判新方案已经巴方转交美方",
+          "url": "https://wallstreetcn.com/livenews/3098263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "伊朗媒体说伊朗一超大型油轮突破了美国封锁",
+          "url": "https://flash.jin10.com/detail/20260503175016375800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐向法国外长简要介绍了德黑兰的立场和旨在结束美以对伊朗施加的侵略战争的倡议。",
+          "url": "https://flash.jin10.com/detail/20260503170420108800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         }
       ]
     },
@@ -330,10 +363,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -342,11 +375,11 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         }
       ]
     },
@@ -354,7 +387,7 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 23.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 29.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -366,11 +399,11 @@
           "url": "https://flash.jin10.com/detail/20260503172004371800",
           "source": "金十数据",
           "ranks": [
-            23
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         }
       ]
     },
@@ -378,10 +411,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -390,11 +423,11 @@
           "url": "https://www.cls.cn/detail/2362019",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时36分"
         }
       ]
     }
