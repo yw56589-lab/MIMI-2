@@ -1,41 +1,19 @@
 {
-  "generated_at": "2026-05-04T13:39:38.395437+08:00",
+  "generated_at": "2026-05-04T16:19:28.984792+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 17,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 6 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 17 条热点，覆盖 7 个来源平台，平均热榜排名约 13.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 84,
+        "confidence": 87,
         "chart": []
       },
       "titles": [
-        {
-          "title": "巴基斯坦副总理兼外长与伊朗外长通话 讨论调解伊美谈判事宜",
-          "url": "https://wallstreetcn.com/livenews/3098399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "巴基斯坦副总理兼外长与伊朗外长通话 讨论调解伊美谈判事宜",
-          "url": "https://flash.jin10.com/detail/20260504132109914800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362210",
@@ -45,7 +23,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制",
+          "url": "https://flash.jin10.com/detail/20260504161322608800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -56,7 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗外交部发言人：任何欧佩克成员以“消极反应”的方式退出该组织都是无益的。 关于确保船只安全通过霍尔木兹海峡的协议，伊朗与阿曼的双边谈判正在进行中。",
+          "url": "https://wallstreetcn.com/livenews/3098433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "伊朗战争丨伊朗官员：霍尔木兹不会回到战前状态",
@@ -67,7 +67,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们也是一个“超级大国”。",
+          "url": "https://flash.jin10.com/detail/20260504161204148800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗外交部发言人：欧洲应该拒绝美国政策，采取独立立场。我们始终欢迎欧洲国家在地区安全和核问题上的建设性参与。",
+          "url": "https://flash.jin10.com/detail/20260504161007921800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国很难放弃其极端要求。 美国导致结束战争的外交进程缓慢。",
+          "url": "https://wallstreetcn.com/livenews/3098427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美以袭击伊朗进入第 66 天，当前局势如何？哪些信息值得关注？",
@@ -78,7 +111,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
           "title": "伊朗超大型油轮躲过美国“封锁”，仍有特定船只可通过霍尔木兹海峡",
@@ -89,40 +122,84 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
-          "title": "巴基斯坦外交部：巴基斯坦外交部长与伊朗外长阿拉格齐通话，讨论地区形势及正在进行的外交努力。",
-          "url": "https://flash.jin10.com/detail/20260504130140814800",
-          "source": "金十数据",
+          "title": "伊朗警告美军不要接近霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7635134540138446854/",
+          "source": "今日头条",
           "ranks": [
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
-          "title": "澳新银行：伊朗战争导致石油供应损失近10亿桶",
-          "url": "https://wallstreetcn.com/livenews/3098377",
+          "title": "伊朗外交部发言人：令人惊讶的是，国际原子能机构总干事在两轮谈判中都目睹了美国的好战和反外交行为，问题完全源于美国的极具破坏性的行为，导致没有任何外交进程取得成果。",
+          "url": "https://flash.jin10.com/detail/20260504160359138800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗4车相撞致27人受伤",
+          "url": "https://wallstreetcn.com/livenews/3098417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗外交部发言人：对那些对伊朗人民犯下罪行的人，必须追究其责任。",
+          "url": "https://flash.jin10.com/detail/20260504160343400800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们在管理霍尔木兹海峡方面的目标是确保这一水道的安全通行。",
+          "url": "https://flash.jin10.com/detail/20260504160335562800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "巴基斯坦称，被扣押在伊朗船上的22名船员已撤离至伊斯兰堡；周一将把这些船员移交给伊朗当局。",
+          "url": "https://wallstreetcn.com/livenews/3098415",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
-          "title": "MSCI亚太指数上涨1.9%，抹去伊朗战争以来的跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3098373",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人：我们始终要求地区国家遵守睦邻友好原则。",
+          "url": "https://flash.jin10.com/detail/20260504160043791800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         }
       ]
     },
@@ -130,24 +207,13 @@
       "keyword_group": "特朗普",
       "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 8.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
-        {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
         {
           "title": "美财长保证特朗普访华不会再推迟",
           "url": "https://news.ifeng.com/c/8sqceV545op",
@@ -157,7 +223,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
           "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
@@ -168,18 +234,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
           "url": "https://wallstreetcn.com/articles/3771515",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -190,7 +256,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -201,7 +267,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -212,7 +278,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -223,18 +289,75 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         },
         {
-          "title": "英媒：特朗普政府叫停美国陆上风电开发",
-          "url": "https://wallstreetcn.com/livenews/3098382",
-          "source": "华尔街见闻-快讯",
+          "title": "四道难关近在眼前 特朗普怎么过",
+          "url": "https://www.toutiao.com/trending/7634889469027581971/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
+        },
+        {
+          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
+          "url": "https://www.zhihu.com/question/2034567556967739711",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3098437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
+          "url": "https://wallstreetcn.com/articles/3771507",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "美股中概股盘前普涨，蔚来汽车(NIO.N)涨3%，阿里巴巴(BABA.N)涨2%，理想汽车(LI.O)涨1%。",
+          "url": "https://flash.jin10.com/detail/20260504160233181800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
@@ -242,7 +365,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -254,11 +377,11 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         }
       ]
     },
@@ -266,47 +389,47 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
           "title": "金价又又又跌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=12&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
         {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时19分"
         }
       ]
     }
