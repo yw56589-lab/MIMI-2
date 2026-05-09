@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T23:43:13.915429+08:00",
+  "generated_at": "2026-05-10T00:43:28.664220+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -7,10 +7,10 @@
       "keyword_group": "伊朗",
       "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 10.9 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 11.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 62,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
+          "url": "https://wallstreetcn.com/livenews/3101078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "怕中俄再否决涉伊朗决议，美国删了",
@@ -33,19 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
-        },
-        {
-          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
-          "url": "https://wallstreetcn.com/livenews/3101078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗战争丨伊朗驻华大使澄清中国油轮遇袭传言",
@@ -55,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
@@ -66,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
@@ -77,30 +77,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
-          "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
-          "url": "https://flash.jin10.com/detail/20260509214114227800",
+          "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
+          "url": "https://flash.jin10.com/detail/20260509230205331800",
           "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
-          "url": "https://flash.jin10.com/detail/20260509211628079800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
@@ -109,20 +98,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时43分"
         },
         {
-          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
-          "url": "https://flash.jin10.com/detail/20260509193905160800",
+          "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
+          "url": "https://flash.jin10.com/detail/20260509214114227800",
           "source": "金十数据",
           "ranks": [
-            25
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时43分"
+        },
+        {
+          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
+          "url": "https://flash.jin10.com/detail/20260509211628079800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
@@ -131,9 +131,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时43分"
         }
       ]
     },
@@ -141,7 +141,7 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 12.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -156,8 +156,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -167,19 +167,65 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
           "url": "https://www.zhihu.com/question/2036152296388523178",
           "source": "知乎",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     },
@@ -187,7 +233,7 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 69,
@@ -202,8 +248,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -213,43 +259,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     },
@@ -257,10 +268,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -272,8 +283,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     }
