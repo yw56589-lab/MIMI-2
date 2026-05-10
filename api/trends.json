@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-10T23:44:12.468751+08:00",
+  "generated_at": "2026-05-11T00:43:35.245193+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 31,
       "ai_insight": {
-        "analysis": "该板块当前收录 32 条热点，覆盖 8 个来源平台，平均热榜排名约 12.6 位，标题平均出现 1.2 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 60,
+        "analysis": "该板块当前收录 31 条热点，覆盖 8 个来源平台，平均热榜排名约 16.6 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 88,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗战争丨伊朗已就美国的提案作出回应",
+          "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -33,30 +33,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
-        },
-        {
-          "title": "据法新社：以色列总理本雅明·内塔尼亚胡周日在接受采访时表示，只有将伊朗的浓缩铀库存“清除掉”，美以对伊朗的战争才算真正结束。",
-          "url": "https://flash.jin10.com/detail/20260510233703874800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
-          "title": "巴基斯坦总理在发言中表示，该国陆军司令已告知他，已收到伊朗对美国提议的回复。",
-          "url": "https://flash.jin10.com/detail/20260510233055519800",
+          "title": "内塔尼亚胡：美以对伊朗的军事行动尚未结束",
+          "url": "https://flash.jin10.com/detail/20260511002959971800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
           "title": "美国能源部长Wright：美国能源部将参与处理伊朗的核材料。",
@@ -65,31 +54,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
-          "title": "美国能源部长对美国哥伦比亚广播公司（CBS）表示，目前对伊朗的经济压力正在急剧加大。",
-          "url": "https://flash.jin10.com/detail/20260510232859495800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我不会讨论军事手段，但获取伊朗高浓缩铀是可行的。",
-          "url": "https://flash.jin10.com/detail/20260510232708567800",
+          "title": "伊朗副外长：法英勿加剧危机 只有伊朗能保障霍尔木兹海峡安全",
+          "url": "https://flash.jin10.com/detail/20260511002628333800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
           "title": "海事分析公司：伊朗可能正用快艇护航船只",
@@ -98,86 +76,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我不会给出获取伊朗浓缩铀的具体时间表，但我要说的是，这是一项至关重要的任务。",
-          "url": "https://flash.jin10.com/detail/20260510232623212800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
           "url": "https://www.cls.cn/detail/2367306",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
-          "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://www.toutiao.com/trending/7638239152550448650/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
-        },
-        {
-          "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33148644",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
-        },
-        {
-          "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
-        },
-        {
-          "title": "伊朗最高领袖会见武装部队司令",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%A7%81%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E5%8F%B8%E4%BB%A4",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
-        },
-        {
-          "title": "伊朗副外长：海洋安全不能通过军事力量的展示来实现。不安全的根源在于诉诸武力、对沿海国家的持续威胁以及海上封锁。",
-          "url": "https://flash.jin10.com/detail/20260510232149952800",
+          "title": "美国能源部长对美国全国广播公司（NBC）表示，下一阶段我们对伊朗不排除任何选项，包括军事手段。",
+          "url": "https://flash.jin10.com/detail/20260511002527478800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -186,31 +109,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：与伊朗的战争尚未结束。",
-          "url": "https://flash.jin10.com/detail/20260510232041608800",
+          "title": "美国能源部长：与伊朗达成的分阶段协议可能无法解决与核计划相关的所有担忧。",
+          "url": "https://flash.jin10.com/detail/20260511002349240800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
-          "title": "以色列总理内塔尼亚胡对美国哥伦比亚广播公司（CBS）表示，尽管我们已经削弱了伊朗的许多能力，但仍有许多工作要做，因为伊朗依旧具备一定的实力。",
-          "url": "https://flash.jin10.com/detail/20260510232003350800",
-          "source": "金十数据",
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://www.toutiao.com/trending/7638239152550448650/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗摧毁两个与摩萨德有关联的行动组",
@@ -219,9 +142,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
+        },
+        {
+          "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33148644",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "阿联酋称拦截伊朗导弹和无人机",
@@ -230,53 +164,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（alhadath）：以色列总理内塔尼亚胡称，伊朗仍在支持其代理人和武装组织，伊朗正在寻求生产更多的弹道导弹。",
-          "url": "https://flash.jin10.com/detail/20260510231038660800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "伊朗对美国方案的回应聚焦“结束战争与海上安全”",
-          "url": "https://flash.jin10.com/detail/20260510230901128800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "伊朗副外长：法国和英国军舰若出现在霍尔木兹海峡，可能伴随美国非法且违反国际法的行动，伊朗将立即予以果断回应。",
-          "url": "https://flash.jin10.com/detail/20260510230605171800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "伊朗副外长：以“保护航运”为借口在霍尔木兹海峡周边部署和驻扎驱逐舰，这无异于危机的进一步升级。",
-          "url": "https://flash.jin10.com/detail/20260510230359559800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗总统：谈判并非投降，旨在捍卫国家利益",
@@ -285,31 +175,53 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
-          "title": "分析师：若美国坚持要求伊朗将高浓铀外运或长期停止浓缩，美伊达成协议无望",
-          "url": "https://flash.jin10.com/detail/20260510224941248800",
+          "title": "美国能源部长：目标不是移除伊朗的浓缩铀，而是结束伊朗的核计划。",
+          "url": "https://flash.jin10.com/detail/20260510234638653800",
           "source": "金十数据",
           "ranks": [
-            21
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
-          "title": "巴基斯坦与伊朗磋商，以争取让更多卡塔尔液化天然气通过霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260510221800287800",
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "伊朗方面敦促国际原子能机构放弃“政治信息传递”，专注于其职责。",
+          "url": "https://flash.jin10.com/detail/20260510233741044800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "据法新社：以色列总理本雅明·内塔尼亚胡周日在接受采访时表示，只有将伊朗的浓缩铀库存“清除掉”，美以对伊朗的战争才算真正结束。",
+          "url": "https://flash.jin10.com/detail/20260510233703874800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗称若敌人再袭将进入新作战领域",
@@ -318,20 +230,75 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
-          "title": "据伊朗国家媒体：伊朗对美国提案的回应文本聚焦于结束所有战线的战争，尤其是黎巴嫩。",
-          "url": "https://flash.jin10.com/detail/20260510220728392800",
+          "title": "巴基斯坦总理在发言中表示，该国陆军司令已告知他，已收到伊朗对美国提议的回复。",
+          "url": "https://flash.jin10.com/detail/20260510233055519800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "美国能源部长对美国哥伦比亚广播公司（CBS）表示，目前对伊朗的经济压力正在急剧加大。",
+          "url": "https://flash.jin10.com/detail/20260510232859495800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "伊朗最高领袖会见武装部队司令",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%A7%81%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E5%8F%B8%E4%BB%A4",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我不会讨论军事手段，但获取伊朗高浓缩铀是可行的。",
+          "url": "https://flash.jin10.com/detail/20260510232708567800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我不会给出获取伊朗浓缩铀的具体时间表，但我要说的是，这是一项至关重要的任务。",
+          "url": "https://flash.jin10.com/detail/20260510232623212800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         },
         {
           "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
@@ -340,9 +307,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
+        },
+        {
+          "title": "伊朗副外长：海洋安全不能通过军事力量的展示来实现。不安全的根源在于诉诸武力、对沿海国家的持续威胁以及海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260510232149952800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
@@ -351,9 +329,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：与伊朗的战争尚未结束。",
+          "url": "https://flash.jin10.com/detail/20260510232041608800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
@@ -362,88 +351,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 1 个来源平台，平均热榜排名约 22.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 57,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美国总统特朗普：委内瑞拉现在是一个非常幸福的国家。他们曾经痛苦，现在却很快乐。现在的石油产量巨大。",
-          "url": "https://flash.jin10.com/detail/20260510231829313800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
-          "url": "https://flash.jin10.com/detail/20260510222748266800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美国总统特朗普：我并没有说针对伊朗的敌对行动已经结束，但我说过他们被击败了。",
-          "url": "https://flash.jin10.com/detail/20260510221423480800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。",
-          "url": "https://flash.jin10.com/detail/20260510221333169800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在监测伊朗掩埋在废墟下的浓缩铀，美国太空部队将接管相关任务。",
-          "url": "https://flash.jin10.com/detail/20260510221311512800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时43分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 14.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -452,11 +373,22 @@
           "url": "https://www.zhihu.com/question/2036432998422115875",
           "source": "知乎",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
+          "url": "https://www.cls.cn/detail/2367192",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -466,8 +398,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     },
@@ -475,10 +407,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -490,8 +422,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     },
@@ -499,7 +431,7 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 66,
@@ -514,8 +446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时43分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     }
