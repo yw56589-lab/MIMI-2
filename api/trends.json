@@ -1,150 +1,238 @@
 {
-  "generated_at": "2026-05-12T19:14:10.635822+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-12T21:59:59.907977+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 19,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 7 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.9 次。",
+        "analysis": "该板块当前收录 19 条热点，覆盖 8 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 86,
         "chart": []
       },
       "titles": [
         {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
+          "title": "特朗普称封锁致伊朗经济崩溃，断言伊朗“100%”会放弃核武器",
+          "url": "https://flash.jin10.com/detail/20260512214840065800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
-          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
-          "url": "https://news.ifeng.com/c/8t4CJqYob72",
-          "source": "凤凰网",
+          "title": "特朗普访华有哪些重要议题",
+          "url": "https://www.toutiao.com/trending/7638916562564792363/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美国总统特朗普：船只正驶往得州和路易斯安那州，准备装载石油。",
+          "url": "https://flash.jin10.com/detail/20260512214708855800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "特朗普：必须以不同的方式处理关税，效率更低。 我可以收取更多关税。 船只正前往得克萨斯和路易斯安那装载石油。 我们只是需要以更复杂的方式来实施。",
+          "url": "https://wallstreetcn.com/livenews/3102357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
           "url": "https://wallstreetcn.com/articles/3772005",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美国总统特朗普：必须换种方式来征收关税，效率会低一些，但我能征得更多。",
+          "url": "https://flash.jin10.com/detail/20260512214543328800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
           "url": "https://wallstreetcn.com/articles/3772030",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普访华传递了哪些信号",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
           "source": "澎湃新闻",
           "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "特朗普：我们百分之百会拿到伊朗的核材料。 伊朗问题只是时间问题。 我们不必操之过急。 伊朗不能拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3102353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
+          "title": "白宫公布名单，16位美国商界领袖将随特朗普访华",
+          "url": "https://wallstreetcn.com/livenews/3102348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们不必急于做任何事情。",
+          "url": "https://flash.jin10.com/detail/20260512213621074800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
-          "title": "受邀陪特朗普访华的企业与华有何渊源",
-          "url": "https://www.toutiao.com/trending/7638696162195308570/",
-          "source": "今日头条",
+          "title": "美国总统特朗普重申伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260512213608268800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
-          "title": "美国总统特朗普：失败的《纽约时报》，这是世界上最糟糕的报纸之一，订阅量每小时都在流失。",
-          "url": "https://flash.jin10.com/detail/20260512184945160800",
+          "title": "美国总统特朗普：伊朗问题只是时间问题。",
+          "url": "https://flash.jin10.com/detail/20260512213559184800",
           "source": "金十数据",
           "ranks": [
-            7
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美国总统特朗普：肯·格里芬是一位了不起的商人。他缴纳了大量税款，纽约市失去他将是个坏消息。",
+          "url": "https://flash.jin10.com/detail/20260512213544140800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 9.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -156,41 +244,52 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
-          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
           "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
+          "url": "https://wallstreetcn.com/livenews/3102361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "巴基斯坦否认在巴伊朗飞机涉军事用途",
+          "url": "https://www.toutiao.com/trending/7638987373572984347/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "世界杯将至，伊朗队仍在等待入境美国",
           "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
           "source": "凤凰网",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
@@ -200,30 +299,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
-          "title": "伊朗石油储能“见顶”了吗",
-          "url": "https://www.toutiao.com/trending/7638900741667881003/",
-          "source": "今日头条",
+          "title": "五角大楼主计长：伊朗战争成本目前约为290亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3102342",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.4 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 8.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 60,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -235,76 +334,63 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美国通胀超预期，美股低开，科技股普跌，美伊僵局致布油涨3%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
           "url": "https://wallstreetcn.com/articles/3772023",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
-          "title": "美股“融涨”警报拉响！1999年互联网泡沫的剧本又要重演了？",
-          "url": "https://flash.jin10.com/detail/20260512184546356800",
+          "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260512214618436800",
           "source": "金十数据",
           "ranks": [
-            16
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "21时59分"
         },
         {
-          "title": "腾讯音乐美股盘前涨超10%，公司第一季度营收79亿元，同比增长7.3%。",
-          "url": "https://wallstreetcn.com/livenews/3102216",
+          "title": "美股三大股指低开，道指跌0.03%、标普500指数跌0.32%、纳指跌0.71%。明星科技股普跌，英特尔跌超4%，高通跌近4%。腾讯音乐涨超4%，京东涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3102347",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "21时59分"
         },
         {
-          "title": "京东集团第一季度净营收3,156.9亿元人民币，同比增长4.9%，预估3,114.3亿元人民币。 第一季度调整后EBITDA 80.2亿元人民币，同比下降41%，预估44.6亿元人民币。 第一季度调整后每ADS收益 5.12元人民币，预估3.57元人民币。 第一季度经调整EBITDA利润率2.5％，上年同期4.6％，预估1.38％。 京东集团美股盘前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3102215",
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3102340",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 57,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "油价推升通胀风险 “沃什交易”在美债市场退潮",
-          "url": "https://wallstreetcn.com/livenews/3102221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "21时59分"
         }
       ]
     }
