@@ -1,29 +1,40 @@
 {
-  "generated_at": "2026-05-12T21:59:59.907977+08:00",
+  "generated_at": "2026-05-13T00:18:15.463726+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 19 条热点，覆盖 8 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 8 个来源平台，平均热榜排名约 8.1 位，标题平均出现 1.9 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普称封锁致伊朗经济崩溃，断言伊朗“100%”会放弃核武器",
-          "url": "https://flash.jin10.com/detail/20260512214840065800",
-          "source": "金十数据",
+          "title": "特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "特朗普访华有哪些重要议题",
@@ -33,8 +44,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
@@ -44,85 +66,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美国总统特朗普：船只正驶往得州和路易斯安那州，准备装载石油。",
-          "url": "https://flash.jin10.com/detail/20260512214708855800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "特朗普：必须以不同的方式处理关税，效率更低。 我可以收取更多关税。 船只正前往得克萨斯和路易斯安那装载石油。 我们只是需要以更复杂的方式来实施。",
-          "url": "https://wallstreetcn.com/livenews/3102357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
           "url": "https://wallstreetcn.com/articles/3772005",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美国总统特朗普：必须换种方式来征收关税，效率会低一些，但我能征得更多。",
-          "url": "https://flash.jin10.com/detail/20260512214543328800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -132,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
@@ -143,110 +99,134 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "特朗普：我们百分之百会拿到伊朗的核材料。 伊朗问题只是时间问题。 我们不必操之过急。 伊朗不能拥有核武器。",
-          "url": "https://wallstreetcn.com/livenews/3102353",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "马斯克库克随特朗普访华",
-          "url": "https://www.cls.cn/detail/2369414",
-          "source": "财联社热门",
+          "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162926",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "白宫公布名单，16位美国商界领袖将随特朗普访华",
-          "url": "https://wallstreetcn.com/livenews/3102348",
+          "title": "特朗普赞赏格里芬，并警告美国纽约市长不要通过征税“把人赶走”",
+          "url": "https://wallstreetcn.com/livenews/3102390",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们不必急于做任何事情。",
-          "url": "https://flash.jin10.com/detail/20260512213621074800",
-          "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
-        },
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "ai_insight": {
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.5 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 64,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "美国总统特朗普重申伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260512213608268800",
-          "source": "金十数据",
+          "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "美国总统特朗普：伊朗问题只是时间问题。",
-          "url": "https://flash.jin10.com/detail/20260512213559184800",
-          "source": "金十数据",
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
           "ranks": [
-            21
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "美国总统特朗普：肯·格里芬是一位了不起的商人。他缴纳了大量税款，纽约市失去他将是个坏消息。",
-          "url": "https://flash.jin10.com/detail/20260512213544140800",
-          "source": "金十数据",
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "算力热潮暂歇：美股芯片与半导体设备股同步回落",
+          "url": "https://wallstreetcn.com/livenews/3102400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美股三大股指持续走低，标普500指数跌超1%，纳指跌1.7%，道指跌0.55%。",
+          "url": "https://flash.jin10.com/detail/20260512232626843800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1.3%，成分股高通跌超9.4%，闪迪跌8.7%，英特尔跌7.6%，美光科技、西部数据、希捷科技、迈威尔科技、应用材料至多跌6%，Strategy跌4.7%，阿斯麦ADR跌3.9%，沃尔玛涨1.5%，奈飞涨3.1%，ALNY涨3.7%表现第二，Insmed涨7.4%。 纳指跌1.1%，标普跌超0.7%，道指跌超0.6%，美股费城半导体指数一度下跌4.3%，银行指数跌1.3%，罗素2000指数跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3102385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
-        {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
           "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
@@ -255,30 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
-          "url": "https://wallstreetcn.com/livenews/3102361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "巴基斯坦否认在巴伊朗飞机涉军事用途",
-          "url": "https://www.toutiao.com/trending/7638987373572984347/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "世界杯将至，伊朗队仍在等待入境美国",
@@ -288,109 +246,43 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
           "url": "https://www.cls.cn/detail/2368941",
           "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "五角大楼主计长：伊朗战争成本目前约为290亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3102342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "美债",
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 8.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
         {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美国通胀超预期，美股低开，科技股普跌，美伊僵局致布油涨3%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260512214618436800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股三大股指低开，道指跌0.03%、标普500指数跌0.32%、纳指跌0.71%。明星科技股普跌，英特尔跌超4%，高通跌近4%。腾讯音乐涨超4%，京东涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3102347",
+          "title": "“债券卫士”Yardeni对美债收益率上涨并不惊慌，称贝森特不会坐视其无度攀升",
+          "url": "https://wallstreetcn.com/livenews/3102394",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3102340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "00时18分"
         }
       ]
     }
