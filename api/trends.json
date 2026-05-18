@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-18T10:32:02.314064+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-18T14:47:32.501405+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 3.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -22,88 +22,112 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
           "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
           "source": "凤凰网",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
-          "title": "特朗普访华后，日本慌了？日媒急了！",
-          "url": "https://www.cls.cn/detail/2373281",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
-          "url": "https://www.zhihu.com/question/2038948707844846917",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "要么放弃宽松，要么失控！鹰派的沃什，反而能让特朗普赢？",
-          "url": "https://flash.jin10.com/detail/20260518101006327800",
-          "source": "金十数据",
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
+          "url": "https://wallstreetcn.com/articles/3772455",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
+          "url": "https://www.cls.cn/detail/2373864",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "高盛：伊朗冲突持续与供应冲击，削弱美债分散风险能力",
+          "url": "https://flash.jin10.com/detail/20260518140732556800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 6.2 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 5.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
-        {
-          "title": "伊媒：美对伊朗提出5个关键条件",
-          "url": "https://news.ifeng.com/c/8tCiiAKahND",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
           "url": "https://wallstreetcn.com/articles/3772457",
@@ -112,65 +136,65 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
-          "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
-          "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
-          "source": "凤凰网",
+          "title": "欧盟委员会执行副主席东布罗夫斯基斯：七国集团将讨论乌克兰和伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260518143424612800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
           "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "金价",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "GPT-5.5 涨价，而 DeepSeek 再次降价？为什么会同时出现「涨价」和「降价」共存的情况？",
-          "url": "https://www.zhihu.com/question/2037925163765691524",
-          "source": "知乎",
+          "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
+          "url": "https://wallstreetcn.com/articles/3772448",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "金价银价大跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
@@ -178,7 +202,7 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 67,
@@ -193,80 +217,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 29.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "强势美元会否压垮黄金有色价格",
-          "url": "https://www.toutiao.com/trending/7641006149717724723/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
-          "url": "https://wallstreetcn.com/articles/3772455",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     }
