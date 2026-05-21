@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-22T02:54:42.329799+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-22T04:47:30.537923+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 6 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 6 个来源平台，平均热榜排名约 4.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -34,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -45,7 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
           "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
@@ -56,40 +67,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
-          "title": "中方回应特朗普称将与赖清德谈军售",
-          "url": "https://www.toutiao.com/trending/7642244493529321014/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：将向波兰增派5000名士兵。",
+          "url": "https://wallstreetcn.com/livenews/3107628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
+          "url": "https://flash.jin10.com/detail/20260522042656396800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
-          "title": "IBM(IBM.N)涨超11%，公司获得特朗普政府的资金支持。",
-          "url": "https://flash.jin10.com/detail/20260522022754736800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "IBM涨幅扩大至10%，该公司获得特朗普政府的资金支持。",
-          "url": "https://wallstreetcn.com/livenews/3107584",
+          "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
+          "url": "https://wallstreetcn.com/livenews/3107623",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
+          "url": "https://flash.jin10.com/detail/20260522041941266800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
@@ -100,75 +122,75 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
-          "url": "https://wallstreetcn.com/livenews/3107567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 12.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
         {
-          "title": "战损惨重！伊朗已击毁价值近10亿美元的美国“死神”无人机",
-          "url": "https://wallstreetcn.com/livenews/3107586",
-          "source": "华尔街见闻-快讯",
+          "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
+          "url": "https://flash.jin10.com/detail/20260522043531786800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
+        },
+        {
+          "title": "沙特阿拉伯卫星电视台：伊朗媒体报道称美伊协议已达成并将此消息源归于本台的说法是捏造的。 伊朗媒体在未经核实的情况下将相关报道归于本台的行为属于新闻失实。",
+          "url": "https://wallstreetcn.com/livenews/3107624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
           "url": "https://wallstreetcn.com/articles/3772837",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
           "source": "百度热搜",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
-          "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
-          "url": "https://wallstreetcn.com/livenews/3107575",
-          "source": "华尔街见闻-快讯",
+          "title": "据路透援引伊朗高级消息人士称，伊朗的铀浓缩问题及其对霍尔木兹海峡的控制仍然是僵局的关键点。",
+          "url": "https://flash.jin10.com/detail/20260522035852384800",
+          "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -179,75 +201,119 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
+        },
+        {
+          "title": "据路透援引伊朗高级消息人士称，双方尚未达成协议，但分歧已缩小。",
+          "url": "https://flash.jin10.com/detail/20260522035820609800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "伊朗高级官员：双方目前尚未达成任何最终协议，但彼此之间的立场差距已有所收窄。 伊朗的铀浓缩活动及其对霍尔木兹海峡的控制权，依然是当前谈判中最核心的僵持点（梗阻所在）。",
+          "url": "https://wallstreetcn.com/livenews/3107609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "【巴基斯坦官员：美伊谈判正朝着正确的方向发展】一名巴基斯坦参议员在接受媒体采访时表示，伊朗与巴基斯坦之间以及巴基斯坦与美国之间的谈判仍在进行中，巴基斯坦尽一切努力促使各方回到谈判桌前，减少分歧，达成协议，结束战争。他还表示，美伊谈判正朝着正确的方向发展。伊朗和美国之间的谈判已经取得进展，并对此持乐观态度。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3107603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 3.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
         {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "报道：OpenAI在第一季度创造57亿美元收入",
-          "url": "https://wallstreetcn.com/livenews/3107589",
+          "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3107626",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
-          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
-          "url": "https://flash.jin10.com/detail/20260522022949905800",
-          "source": "金十数据",
+          "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3107625",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
-          "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
-          "url": "https://flash.jin10.com/detail/20260522022849271800",
+          "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041945523800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041555580800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 Arm涨16%",
+          "url": "https://flash.jin10.com/detail/20260522040124425800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -260,7 +326,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -271,18 +337,42 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
-        },
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "太平洋投资管理公司（PIMCO）的CIO Daniel Ivascyn：鉴于美债收益率飙涨，美联储将针对美国通胀问题采取行动。 如果通胀预期进一步抬头，美联储及其他主要央行可能不得不采取行动。 如果长期通胀预期“出现更显著的脱锚，那么即使面对经济疲软，你也将看到货币政策的收紧”，这将进一步加大股市和信用债市场的压力。",
-          "url": "https://wallstreetcn.com/livenews/3107570",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260522040912332800",
+          "source": "金十数据",
           "ranks": [
-            21
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周四（5月21日）纽约尾盘，ICE美元指数涨0.15%，报99.241点，日内交投区间为99.064-99.515点，整体持续走高，北京时间15:25-18:40、01:04以来先后出现一波V形走势。 彭博美元指数涨0.10%，报1202.12点，日内交投区间为1200.67-1205.24点。 美元兑日元涨0.07%，报159.03日元，日内交投区间为158.81-159.34日元。",
+          "url": "https://wallstreetcn.com/livenews/3107596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
@@ -290,47 +380,47 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
         {
           "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=6&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
         {
-          "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
-          "url": "https://wallstreetcn.com/livenews/3107576",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
           "ranks": [
-            15
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时47分"
         }
       ]
     }
