@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-21T10:31:58.316137+08:00",
+  "generated_at": "2026-05-21T14:44:32.974236+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 7 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -23,18 +23,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         },
         {
-          "title": "特朗普回应中俄元首会晤：我觉得很好",
-          "url": "https://www.toutiao.com/trending/7641482501025808434/",
-          "source": "今日头条",
+          "title": "特朗普声称将会与赖清德通电话",
+          "url": "https://news.ifeng.com/c/8tIqnPf6rAB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         },
         {
           "title": "特朗普，“退了一万亿”",
@@ -45,29 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         },
         {
           "title": "特朗普：不要中国学生，那可太冒犯了",
@@ -78,62 +67,97 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
-          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         },
         {
           "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
           "url": "https://www.cls.cn/detail/2377369",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         },
         {
-          "title": "据伊朗Press TV：伊朗革命卫队海军政治副官表示，所有武装力量均处于高度戒备状态，并已做好充分准备，随时应对敌方的任何侵略行径。如果特朗普以为凭借武力和军舰就能强行重开霍尔木兹海峡，他应当明白，正是那支他曾声称已被摧毁的海军，会将他送入海底深渊。",
-          "url": "https://flash.jin10.com/detail/20260521094950464800",
-          "source": "金十数据",
+          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
+        },
+        {
+          "title": "报道称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://wallstreetcn.com/livenews/3107164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "巴基斯坦陆军参谋长将于周四前往德黑兰进行谈判，巴基斯坦陆军参谋长德黑兰之行是美国与伊朗之间调解努力的一部分。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3107206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "伊朗公布霍尔木兹海峡管辖范围",
+          "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -146,7 +170,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         },
         {
           "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
@@ -157,26 +181,15 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -184,15 +197,15 @@
       },
       "titles": [
         {
-          "title": "如何评价 Gemini 于 2026 年 5 月 17 日实行的新限额形式？",
-          "url": "https://www.zhihu.com/question/2040264998916712429",
-          "source": "知乎",
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         }
       ]
     },
@@ -200,23 +213,23 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "受OpenAI及SB Energy IPO计划双重提振，软银股价大涨近20%",
-          "url": "https://flash.jin10.com/detail/20260521095917152800",
-          "source": "金十数据",
+          "title": "最快周五递表？据称OpenAI正秘密筹备IPO 华尔街或迎史诗级上市潮",
+          "url": "https://www.cls.cn/detail/2377274",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         }
       ]
     },
@@ -240,7 +253,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "14时44分"
         }
       ]
     }
