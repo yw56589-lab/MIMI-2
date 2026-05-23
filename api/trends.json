@@ -1,40 +1,29 @@
 {
-  "generated_at": "2026-05-23T19:56:07.998695+08:00",
+  "generated_at": "2026-05-23T21:03:59.775817+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 16 条热点，覆盖 4 个来源平台，平均热榜排名约 16.2 位，标题平均出现 1.1 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 4 个来源平台，平均热榜排名约 16.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 56,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗议会议长：伊武装部队在停火期间进行了重组与重整",
-          "url": "https://wallstreetcn.com/livenews/3108348",
+          "title": "巴基斯坦陆军参谋长穆尼尔离开伊朗首都德黑兰。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3108360",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：在会见印度总理莫迪时强调，美国不会让伊朗挟持全球能源市场。",
-          "url": "https://flash.jin10.com/detail/20260523193650661800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         },
         {
           "title": "美媒发现不对劲：打伊朗都这么吃力，美国未来还怎么应对中国",
@@ -44,8 +33,63 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "据伊朗国家电视台：巴基斯坦军队首席在与伊朗外交部长进行第二次会晤后离开德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260523200952537800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "伊朗议长表示不会在国家和人民权利问题上让步",
+          "url": "https://wallstreetcn.com/livenews/3108358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "美国国务卿会见印度总理，强调绝不容许伊朗绑架全球能源市场",
+          "url": "https://wallstreetcn.com/livenews/3108350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "伊朗议会议长：伊武装部队在停火期间进行了重组与重整",
+          "url": "https://wallstreetcn.com/livenews/3108348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：在会见印度总理莫迪时强调，美国不会让伊朗挟持全球能源市场。",
+          "url": "https://flash.jin10.com/detail/20260523193650661800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美以袭击伊朗进入第 85 天，当前局势如何？哪些信息值得关注？",
@@ -55,154 +99,99 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗顶级谈判员卡利巴夫会见巴基斯坦局方领导人（陆军参谋长穆尼尔）。（伊朗国家媒体）",
           "url": "https://wallstreetcn.com/livenews/3108341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗革命卫队称过去24小时有25艘船通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3108335",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗首席谈判代表卡里巴夫：（对巴基斯坦军方首席表示）我们不会在国家和民族的权利上妥协。我们的武装部队在停火期间进行了重建。",
           "url": "https://flash.jin10.com/detail/20260523185406657800",
           "source": "金十数据",
           "ranks": [
-            12
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗总统佩泽希齐扬会见到访的巴基斯坦陆军参谋长穆尼尔",
           "url": "https://flash.jin10.com/detail/20260523183406413800",
           "source": "金十数据",
           "ranks": [
-            16
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗民航局否认近期曾发布任何涉及限制航班飞行的警告",
           "url": "https://wallstreetcn.com/livenews/3108330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         },
         {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫会见巴基斯坦陆军参谋长。",
           "url": "https://flash.jin10.com/detail/20260523181649342800",
           "source": "金十数据",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "伊朗外长与巴基斯坦陆军参谋长举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3108328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "消息人士：伊朗军方已制定新方案 随时应对敌方挑衅",
-          "url": "https://wallstreetcn.com/livenews/3108324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20260523172347641800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：伊朗高级消息人士表示，我们将就争议问题进行谈判，但不包括导弹问题。我们目前提出的方案美国无法接受。",
-          "url": "https://flash.jin10.com/detail/20260523172032415800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：伊朗高级消息人士表示，伊朗希望达成一项原则声明，以明确战争将如何结束，并希望就如何谈判争议问题确定明确机制。",
-          "url": "https://flash.jin10.com/detail/20260523171948830800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "伊朗外长：美国要求过分、立场矛盾 阻碍谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3108317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 5 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
+        {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
           "url": "https://news.ifeng.com/c/8tMYpnHTqBH",
@@ -211,19 +200,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
-          "url": "https://wallstreetcn.com/articles/3772951",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
@@ -233,8 +211,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
@@ -244,8 +222,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
@@ -255,19 +233,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "“新美联储通讯社”：特朗普选沃什本为降息，但市场已开始押注加息",
-          "url": "https://wallstreetcn.com/articles/3772936",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
@@ -277,66 +244,77 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
-          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
-          "url": "https://www.zhihu.com/question/2041148892323000444",
-          "source": "知乎",
+          "title": "据半岛电视台：卡塔尔埃米尔与特朗普讨论巴基斯坦主导的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260523195813054800",
+          "source": "金十数据",
           "ranks": [
-            20
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260523191635208800",
           "source": "金十数据",
           "ranks": [
-            7
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         },
         {
           "title": "美国驻印度大使塞尔吉奥·戈尔：美国国务卿鲁比奥代表特朗普总统邀请印度总理莫迪在不久的将来访问白宫。",
           "url": "https://flash.jin10.com/detail/20260523184255800800",
           "source": "金十数据",
           "ranks": [
-            14
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-23）",
           "url": "https://flash.jin10.com/detail/20260523184146091800",
           "source": "金十数据",
           "ranks": [
-            15
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
+        {
+          "title": "DeepSeek宣布：永久降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
@@ -345,8 +323,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -356,54 +334,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2041150006099501503",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -412,22 +355,68 @@
           "url": "https://www.cls.cn/detail/2379649",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
           "url": "https://www.cls.cn/detail/2379735",
           "source": "财联社热门",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "下周一港股、美股休市",
+          "url": "https://www.toutiao.com/trending/7642672726146056242/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2041150006099501503",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
@@ -435,23 +424,23 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
         {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     }
