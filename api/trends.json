@@ -1,84 +1,106 @@
 {
-  "generated_at": "2026-05-27T14:57:00.261318+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-27T18:52:19.419914+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 15.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 61,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
-        {
-          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
-          "url": "https://wallstreetcn.com/articles/3773148",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
         {
           "title": "王毅谈当前伊朗局势僵局",
           "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
-          "url": "https://wallstreetcn.com/livenews/3109884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "18时52分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
-          "url": "https://flash.jin10.com/detail/20260527143716655800",
+          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
+          "url": "https://flash.jin10.com/detail/20260527182321444800",
           "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
+          "url": "https://wallstreetcn.com/livenews/3110025",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "18时52分"
         },
         {
-          "title": "英国能源价格上限将上调13%，因伊朗冲突导致成本上升。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3109872",
+          "title": "伊朗称美将在所有战线停火60天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "欧洲央行称投资者低估伊朗冲突等风险 金融市场恐出现突然大幅回调",
+          "url": "https://wallstreetcn.com/livenews/3110017",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "18时52分"
+        },
+        {
+          "title": "伊朗情报部说敌方正通过软战争施压",
+          "url": "https://wallstreetcn.com/livenews/3110002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "受伊朗战事影响，印度大米出口下滑",
+          "url": "https://flash.jin10.com/detail/20260527174943148800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
@@ -86,10 +108,10 @@
       "keyword_group": "特朗普",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -101,8 +123,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
@@ -112,30 +145,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "民调雪崩！特朗普陷入信任危机，民众只求尽快止损撤军",
-          "url": "https://flash.jin10.com/detail/20260527141108286800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-27）",
+          "url": "https://flash.jin10.com/detail/20260527181651222800",
           "source": "金十数据",
           "ranks": [
-            27
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "18时52分"
         }
       ]
     },
@@ -143,34 +165,34 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 1.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
         {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
+          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     }
