@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-27T18:52:19.419914+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-27T22:21:42.745873+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 15.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -19,180 +19,268 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "22时21分"
         },
         {
-          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
-          "url": "https://flash.jin10.com/detail/20260527182321444800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
-          "url": "https://wallstreetcn.com/articles/3773227",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
-          "url": "https://wallstreetcn.com/livenews/3110025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "伊朗称美将在所有战线停火60天",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "欧洲央行称投资者低估伊朗冲突等风险 金融市场恐出现突然大幅回调",
-          "url": "https://wallstreetcn.com/livenews/3110017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "伊朗情报部说敌方正通过软战争施压",
-          "url": "https://wallstreetcn.com/livenews/3110002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "受伊朗战事影响，印度大米出口下滑",
-          "url": "https://flash.jin10.com/detail/20260527174943148800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 73,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "title": "伊朗官员称美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "22时21分"
         },
         {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
+          "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
+          "url": "https://news.ifeng.com/c/8tTRdrF2SL8",
+          "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "22时21分"
         },
         {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
+          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "22时21分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-27）",
-          "url": "https://flash.jin10.com/detail/20260527181651222800",
-          "source": "金十数据",
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
+          "time_info": "22时21分"
+        },
         {
-          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3110038",
+          "title": "伊朗首都一机场办公楼发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3110132",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "22时21分"
         },
         {
-          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773196",
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "22时21分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗首都德黑兰附近的霍梅尼机场行政大楼发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260527215457181800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "伊朗情报部门警告将严厉打击危害国家安全活动",
+          "url": "https://wallstreetcn.com/livenews/3110103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "ai_insight": {
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 16.9 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2383334",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
+          "url": "https://www.cls.cn/detail/2382868",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超3%，可选消费ETF涨超1%，能源业ETF跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3110117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美股盘初：美光科技涨约5%，拼多多跌约9%，特斯拉涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3110113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "策略师驳斥美股泡沫论：“FEMO”将助力标普500指数“破万”",
+          "url": "https://flash.jin10.com/detail/20260527215802456800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "Astrotech美股盘前涨超220%。",
+          "url": "https://wallstreetcn.com/livenews/3110107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3110100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 14.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯在最新袭击中向乌克兰发射了两枚榛树中程弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260527215807698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美国总统特朗普：目前通过“乌克兰优先需求清单”（PURL）计划的导弹交付速度已然落后。",
+          "url": "https://flash.jin10.com/detail/20260527215755251800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰几乎完全依赖美国拦截俄罗斯弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260527215731352800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     }
