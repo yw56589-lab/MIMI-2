@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-27T10:36:02.252726+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-05-27T14:57:00.261318+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 8.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 61,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
+          "time_info": "[14时56分 ~ 14时57分]"
         },
         {
           "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
@@ -34,73 +34,119 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "伊朗愿将高浓缩铀移交至中国？中方回应",
-          "url": "https://news.ifeng.com/c/8tRUm9hPRif",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "伊朗总统：已准备好达成框架协议",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BE%BE%E6%88%90%E6%A1%86%E6%9E%B6%E5%8D%8F%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
-          "url": "https://wallstreetcn.com/articles/3773115",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "伊朗公布击落美MQ-9死神无人机画面",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8EMQ-9%E6%AD%BB%E7%A5%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
+          "time_info": "[14时56分 ~ 14时57分]"
         },
         {
           "title": "王毅谈当前伊朗局势僵局",
           "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
+          "url": "https://wallstreetcn.com/livenews/3109884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
+          "url": "https://flash.jin10.com/detail/20260527143716655800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "英国能源价格上限将上调13%，因伊朗冲突导致成本上升。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3109872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.8 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "民调雪崩！特朗普陷入信任危机，民众只求尽快止损撤军",
+          "url": "https://flash.jin10.com/detail/20260527141108286800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 3.3 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 1.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 68,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
@@ -113,7 +159,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
+          "time_info": "[14时56分 ~ 14时57分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
@@ -124,77 +170,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2382097",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.5 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 62,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金十图示：2026年05月27日（周三）上海金早盘价为985.21元/克，较国际金价(981.58元/克)，高3.63元/克",
-          "url": "https://flash.jin10.com/detail/20260527101857720800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "[14时56分 ~ 14时57分]"
         }
       ]
     }
