@@ -1,62 +1,97 @@
 {
-  "generated_at": "2026-05-28T14:45:06.872571+08:00",
+  "generated_at": "2026-05-28T18:46:08.315976+08:00",
   "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 11,
+      "keyword_group": "特朗普",
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 7 个来源平台，平均热榜排名约 12.4 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗先发制人了",
-          "url": "https://news.ifeng.com/c/8tUFuNsH8BY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
-          "url": "https://wallstreetcn.com/articles/3773227",
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
-          "title": "美军对伊朗实施新一轮空袭，击落4架无人机",
-          "url": "https://news.ifeng.com/c/8tUKOkpz0DS",
+          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
+          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
-          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
-          "url": "https://wallstreetcn.com/articles/3773253",
-          "source": "华尔街见闻",
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "time_info": "[18时45分 ~ 18时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 8.5 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
+          "url": "https://wallstreetcn.com/articles/3773253",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
@@ -67,18 +102,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.toutiao.com/trending/7644776648142753286/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "伊朗对美国空军基地实施打击",
@@ -89,130 +113,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗：美国必须给所有被冻结的伊朗资产解冻。",
-          "url": "https://wallstreetcn.com/livenews/3110500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "伊朗官员：伊朗被冻结资产必须被无条件释放",
-          "url": "https://wallstreetcn.com/livenews/3110493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "伊朗官员：伊朗被冻结资产必须被无条件释放",
-          "url": "https://flash.jin10.com/detail/20260528134018224800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "伊朗总统：伊朗和巴基斯坦领导人讨论了旨在结束战争的外交努力。 巴基斯坦希望当前外交努力能尽快取得最终结果。",
-          "url": "https://wallstreetcn.com/livenews/3110484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 3.6 位，标题平均出现 1.8 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 65,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
-          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
-          "url": "https://www.cls.cn/detail/2383563",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
-          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普对华尔街日报再次提起索赔100亿美元的诉讼",
-          "url": "https://wallstreetcn.com/livenews/3110519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "[18时45分 ~ 18时46分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 15.3 位，标题平均出现 1.3 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 68,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
@@ -221,70 +133,92 @@
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
-          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
-          "url": "https://www.cls.cn/detail/2383514",
-          "source": "财联社热门",
+          "title": "微博第一季度净营收4.213亿美元，预估4.176亿美元。 第一季度调整后每股收益0.34美元，预估0.36美元。 第一季度调整后息税折旧及摊销前利润1.268亿美元，同比下降9.3%，预估1.158亿美元。 第一季度月活跃用户5.6亿，同比下降4.9%，预估5.8亿。 第一季度日活跃用户2.5亿，同比下降2.7%，预估2.6亿。 微博美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3110639",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "小鹏集团第一季度营收130.3亿元人民币，预估131.6亿元人民币。 第一季度经营亏损18.7亿元人民币。 小鹏集团预计第二季度交付量100000至106000辆，市场预估96923辆。 小鹏集团预计第二季度营收196.0亿元人民币至208.0亿元人民币。 小鹏集团美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3110636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 63,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "PCE前金价加速下跌，市场在提前交易最坏情景？",
-          "url": "https://flash.jin10.com/detail/20260528141552137800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 12.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
-          "url": "https://wallstreetcn.com/articles/3773219",
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "金价跌了反而不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 73,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         }
       ]
     }
