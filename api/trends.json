@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-28T10:12:14.716586+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-28T14:45:06.872571+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 7 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 7 个来源平台，平均热榜排名约 12.4 位，标题平均出现 1.6 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -23,18 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "美军对伊朗实施新一轮空袭，击落4架无人机",
-          "url": "https://news.ifeng.com/c/8tUKOkpz0DS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
@@ -45,106 +34,106 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
-          "title": "美国财长贝森特：美国财政部继续对伊朗施加最大压力。",
-          "url": "https://wallstreetcn.com/livenews/3110377",
-          "source": "华尔街见闻-快讯",
+          "title": "美军对伊朗实施新一轮空袭，击落4架无人机",
+          "url": "https://news.ifeng.com/c/8tUKOkpz0DS",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美国政府当地时间27日将伊朗新设立的“波斯湾海峡管理局”列入制裁名单。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3110374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
           "url": "https://wallstreetcn.com/articles/3773253",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "美国伊朗开始爆发直接冲突",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E7%88%86%E5%8F%91%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2043104464907629617",
           "source": "知乎",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
-          "title": "美媒：美军再次短暂空袭伊朗",
-          "url": "https://www.toutiao.com/trending/7644203153613488174/",
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
           "source": "今日头条",
           "ranks": [
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
-          "title": "伊朗阿巴斯港附近传出爆炸声",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E9%99%84%E8%BF%91%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
-          "title": "伊朗媒体称美军袭击阿巴斯港周围焦土，未造成损失",
-          "url": "https://wallstreetcn.com/livenews/3110343",
+          "title": "伊朗：美国必须给所有被冻结的伊朗资产解冻。",
+          "url": "https://wallstreetcn.com/livenews/3110500",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "14时45分"
         },
         {
-          "title": "伊朗媒体称一艘试图穿越霍尔木兹海峡的美国油轮被迫折返",
-          "url": "https://wallstreetcn.com/livenews/3110339",
+          "title": "伊朗官员：伊朗被冻结资产必须被无条件释放",
+          "url": "https://wallstreetcn.com/livenews/3110493",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "14时45分"
+        },
+        {
+          "title": "伊朗官员：伊朗被冻结资产必须被无条件释放",
+          "url": "https://flash.jin10.com/detail/20260528134018224800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "伊朗总统：伊朗和巴基斯坦领导人讨论了旨在结束战争的外交努力。 巴基斯坦希望当前外交努力能尽快取得最终结果。",
+          "url": "https://wallstreetcn.com/livenews/3110484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     },
@@ -152,10 +141,10 @@
       "keyword_group": "特朗普",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 9.4 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 3.6 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 65,
         "chart": []
       },
       "titles": [
@@ -168,62 +157,62 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
-          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
-          "url": "https://www.cls.cn/detail/2383563",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
           "url": "https://wallstreetcn.com/articles/3773275",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
-          "title": "特朗普政府正在就资助美国无人机公司进行谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3110336",
+          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
+          "url": "https://www.cls.cn/detail/2383563",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普对华尔街日报再次提起索赔100亿美元的诉讼",
+          "url": "https://wallstreetcn.com/livenews/3110519",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "14时45分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 68,
         "chart": []
       },
       "titles": [
@@ -236,29 +225,42 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
           "url": "https://www.cls.cn/detail/2383514",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
+          "time_info": "[14时44分 ~ 14时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 63,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2383334",
-          "source": "财联社热门",
+          "title": "PCE前金价加速下跌，市场在提前交易最坏情景？",
+          "url": "https://flash.jin10.com/detail/20260528141552137800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     },
@@ -266,10 +268,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -278,11 +280,11 @@
           "url": "https://wallstreetcn.com/articles/3773219",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         }
       ]
     }
