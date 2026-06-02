@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-02T18:06:37.283408+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-02T22:44:32.253290+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 5.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -23,84 +23,84 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         },
         {
-          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
-          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
-          "source": "凤凰网",
+          "title": "美国国务卿鲁比奥：伊朗有可能已经同意就其核计划中一些此前拒绝在谈判中提及的内容进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260602222702241800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：我们正在与伊朗进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260602222622066800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "欧洲复兴开发银行行长：政府支持以减轻伊朗战争的影响必须是有针对性的、临时的。",
-          "url": "https://flash.jin10.com/detail/20260602175805512800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊朗革命卫队：将保持最高级别军事戒备状态",
-          "url": "https://wallstreetcn.com/livenews/3112968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         },
         {
           "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
           "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
           "source": "澎湃新闻",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "伊朗革命卫队：将保持最高级别军事戒备状态",
+          "url": "https://news.ifeng.com/c/8tdFU7JhD7W",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗常规防御能力已大幅削弱。",
+          "url": "https://flash.jin10.com/detail/20260602222614203800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗仍然拥有大量无人机。",
+          "url": "https://flash.jin10.com/detail/20260602222435178800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         },
         {
-          "title": "据伊朗努尔新闻，伊朗革命卫队海军称，过去24小时内，24艘船只在获得伊朗许可后通过霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3112964",
+          "title": "伊朗将在三座城市为哈梅内伊举办葬礼",
+          "url": "https://wallstreetcn.com/livenews/3113127",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "巴林内政部：因当前安全紧张局势，禁止公民前往伊朗和伊拉克。",
-          "url": "https://flash.jin10.com/detail/20260602175150468800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊朗方面称，受损能源设施的修复进展快于预期。",
-          "url": "https://flash.jin10.com/detail/20260602174440154800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         }
       ]
     },
@@ -108,23 +108,23 @@
       "keyword_group": "特朗普",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 4.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
         {
-          "title": "戏剧性一幕，特朗普被迫打了一个电话",
-          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
+          "title": "特朗普再发5张照片回味中国",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         },
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -135,64 +135,110 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         },
         {
-          "title": "特朗普再发5张照片回味中国：他们的宴会厅又大又漂亮",
-          "url": "https://news.ifeng.com/c/8td32CwSj89",
-          "source": "凤凰网",
+          "title": "美国参议院共和党领袖图恩：（被问及普尔特被特朗普任命为美国国家情报局代理局长）我们不需要一个被武器化的国家情报总监。",
+          "url": "https://flash.jin10.com/detail/20260602222607431800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-02）",
-          "url": "https://flash.jin10.com/detail/20260602174213706800",
-          "source": "金十数据",
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
           "ranks": [
-            26
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "意法半导体美股盘前涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3112966",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         },
         {
-          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
-          "url": "https://www.cls.cn/detail/2388081",
-          "source": "财联社热门",
+          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "美股盘初，北美科技软件股指数ETF跌2.18%。 个股中，HubSpot跌7.77%，RingCentral跌5.71%，Zscaler跌4.91%，Cloudflare跌2.52%，Palantir跌2.47%，Crowdstrike跌1.55%，Datadog跌1.53%，Palo Alto Networks跌0.77%，ServiceNow跌3.49%。",
+          "url": "https://wallstreetcn.com/livenews/3113117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "东方汇理下调对美债久期敞口的看法，称经济增长具有韧性",
+          "url": "https://wallstreetcn.com/livenews/3113135",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
+        },
+        {
+          "title": "美国10年期国债收益率转涨，刷新日高、逼近4.46%，美国职位空缺数据发布前交投于4.4450%附近。 两年期美债收益率刷新日高，在就业数据发布时逼近4.05%，目前重新回落至4.04%下方。 美元指数跌幅收窄至0.05%，重返99.150上方，数据发布前交投于99.100附近；彭博美元指数一度回升至1201.50上方。",
+          "url": "https://wallstreetcn.com/livenews/3113133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     },
@@ -200,23 +246,23 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
         {
           "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         }
       ]
     },
@@ -240,55 +286,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "黄金取代美债成全球第一大储备资产，央行超3.6万吨囤金接近历史峰值！",
-          "url": "https://flash.jin10.com/detail/20260602175301557800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "22时44分"
         }
       ]
     }
