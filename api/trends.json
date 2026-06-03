@@ -1,174 +1,183 @@
 {
-  "generated_at": "2026-06-03T21:08:55.520997+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-04T02:18:09.227333+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
-          "url": "https://www.cls.cn/detail/2389478",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2389957",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美股股指期货走低，纳指期货转跌，标普500指数期货跌0.24%，道指期货跌0.48%。",
-          "url": "https://wallstreetcn.com/livenews/3113808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美国稀土美股盘前涨近4%，公司与美国商务部敲定最终协议，协议涉及最多2.77亿美元联邦资金，最高可获得13亿美元高级担保贷款额度。",
-          "url": "https://wallstreetcn.com/livenews/3113790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 4 个来源平台，平均热榜排名约 15.3 位，标题平均出现 1.1 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 56,
         "chart": []
       },
       "titles": [
-        {
-          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
-          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "IAEA报告：如今伊朗研制核武器的风险高于一年前美以打击伊朗之时",
-          "url": "https://flash.jin10.com/detail/20260603210338312800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
           "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
-          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
-          "url": "https://wallstreetcn.com/articles/3773721",
-          "source": "华尔街见闻",
+          "title": "【伊媒：伊美谅解备忘录若谈成，将分四阶段推进】伊朗法尔斯通讯社3日援引伊朗与美国间接谈判知情人士的话报道，伊美正在讨论的谅解备忘录若最终敲定，将分四个主要阶段依次推进，其中第三阶段将讨论核问题。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3113963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时08分"
+          "time_info": "02时18分"
         },
         {
-          "title": "以色列外交部：真主党是伊朗的代理人、黎巴嫩的悲剧、以色列的威胁。",
-          "url": "https://flash.jin10.com/detail/20260603205105642800",
+          "title": "巴林发行10亿美元国际债券（美元计价），收益率为7.125%；在那之前数小时，该国遭到导弹袭击。 这是美国和以色列发动伊朗战争以来，海湾地区首次在公开市场的第一笔主权债交易。",
+          "url": "https://wallstreetcn.com/livenews/3113959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "科威特称伊朗袭击致63人受伤",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%A8%81%E7%89%B9%E7%A7%B0%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E8%87%B463%E4%BA%BA%E5%8F%97%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260604012651245800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "伊媒：伊朗方面概述与美国达成协议的四阶段计划",
+          "url": "https://wallstreetcn.com/livenews/3113951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，如果最终达成一致，美伊之间的谅解备忘录将通过四个阶段的机制进行。",
+          "url": "https://flash.jin10.com/detail/20260604011926525800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时08分"
+          "time_info": "02时18分"
         },
         {
-          "title": "科威特称伊朗袭击致63人受伤",
-          "url": "https://wallstreetcn.com/livenews/3113805",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗媒体FarsNews援引德黑兰谈判团队成员的话称，我们不会签署忽视黎巴嫩的协议。",
+          "url": "https://flash.jin10.com/detail/20260604011615616800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时08分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，伊斯兰堡谈判第一阶段未能取得成功的原因在于伊朗拒绝进行核谈判。",
+          "url": "https://flash.jin10.com/detail/20260604011550212800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，谈判仍在进行中，尚未作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260604010953636800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "伊媒：伊朗方面概述与美国达成协议的四阶段计划",
+          "url": "https://flash.jin10.com/detail/20260604010608456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗方面概述了与美国达成的四阶段协议计划。",
+          "url": "https://flash.jin10.com/detail/20260604010132407800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "伊朗外长：任何敌对行为都将遭到立刻和果断回应",
+          "url": "https://wallstreetcn.com/livenews/3113932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美军称对伊朗的海上封锁已使125艘商船改变航向",
+          "url": "https://wallstreetcn.com/livenews/3113955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 59,
         "chart": []
       },
       "titles": [
@@ -180,8 +189,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -191,8 +211,30 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
+          "url": "https://flash.jin10.com/detail/20260604015519960800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时08分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
+          "url": "https://wallstreetcn.com/livenews/3113962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -202,30 +244,98 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
-          "title": "国际原子能机构（IAEA）：伊朗核风险被认为高于特朗普发动袭击前的水平。",
-          "url": "https://wallstreetcn.com/livenews/3113810",
+          "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
+          "url": "https://wallstreetcn.com/livenews/3113939",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时08分"
+          "time_info": "02时18分"
         },
         {
-          "title": "一份报告显示，国际原子能机构（IAEA）在报告中指出核扩散风险，伊朗核风险被认为高于特朗普发动袭击前的水平。",
-          "url": "https://flash.jin10.com/detail/20260603204845458800",
-          "source": "金十数据",
+          "title": "【内塔尼亚胡承认与特朗普存在“战术分歧”，特朗普证实对其爆粗口】以色列总理内塔尼亚胡3日表示，他与美国总统特朗普“有时会出现战术层面的分歧”，但双方在“核心目标”上保持一致。 内塔尼亚胡当日在接受美国消费者新闻与商业频道采访时说，他与特朗普“每两天就会通一次电话”，双方有着共同目标，其中包括“阻止伊朗获得核武器以及确保以色列安全”。 谈及伊朗战事时，内塔尼亚胡表示，战事最终如何结束“仍是一个开放性问题”，但以色列将继续维护自身安全利益。 特朗普在3日播出的一档访谈节目中证实，他在6月1日与内塔尼亚胡通话时爆粗口，斥责内塔尼亚胡“疯了”，但称两人“合作得非常愉快”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3113935",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.2 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 73,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2389957",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         }
       ]
     },
@@ -233,106 +343,93 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
-        {
-          "title": "曝DeepSeek首轮融资约70亿美元",
-          "url": "https://www.toutiao.com/trending/7647079043384217115/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
         {
           "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2045220633466725057",
           "source": "知乎",
           "ranks": [
-            13
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
         {
-          "title": "德勤与谷歌云及Wiz合作，推出人机协作的人工智能网络防御系统。",
-          "url": "https://flash.jin10.com/detail/20260603210157742800",
-          "source": "金十数据",
+          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
+          "url": "https://www.cls.cn/detail/2389857",
+          "source": "财联社热门",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 15.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
-          "source": "澎湃新闻",
+          "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
+          "url": "https://www.zhihu.com/question/2045440339406762131",
+          "source": "知乎",
           "ranks": [
-            18
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
+          "url": "https://www.zhihu.com/question/2045160976878680020",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美元",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
         {
-          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
-          "url": "https://wallstreetcn.com/articles/3773688",
-          "source": "华尔街见闻",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.85%，暂报2701.85点。 MarketVectorTM数字资产100中盘指数涨1.30%，报2908.80点。 MarketVector数字资产100指数跌2.75%，报13212.00点。 目前，Solana跌3.70%，狗狗币跌1.92%，XRP持平。 比特币跌1.78%，暂报65764.47美元，日内主要出现两波下跌行情，北京时间11:50跌至65391.95美元，目前正测试这一低位；以太坊跌4.10%，暂报1824.89美元，00:27刷新日低至1809.278美元。",
+          "url": "https://wallstreetcn.com/livenews/3113946",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时08分"
+          "time_info": "02时18分"
         }
       ]
     }
