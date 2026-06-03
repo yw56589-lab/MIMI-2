@@ -1,119 +1,16 @@
 {
-  "generated_at": "2026-06-03T16:09:04.739080+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-03T21:08:55.520997+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.2 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 73,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗突袭美军中东基地，科威特拦截导弹画面曝光",
-          "url": "https://news.ifeng.com/c/8teM8SFj90x",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "伊朗在葬礼举行前袭击美军基地，有何意味？",
-          "url": "https://news.ifeng.com/c/8teQvIWc4Ah",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
-          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 7.3 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
-          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 1.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -125,19 +22,269 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
           "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2389957",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美股股指期货走低，纳指期货转跌，标普500指数期货跌0.24%，道指期货跌0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3113808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美国稀土美股盘前涨近4%，公司与美国商务部敲定最终协议，协议涉及最多2.77亿美元联邦资金，最高可获得13亿美元高级担保贷款额度。",
+          "url": "https://wallstreetcn.com/livenews/3113790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "ai_insight": {
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "IAEA报告：如今伊朗研制核武器的风险高于一年前美以打击伊朗之时",
+          "url": "https://flash.jin10.com/detail/20260603210338312800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "以色列外交部：真主党是伊朗的代理人、黎巴嫩的悲剧、以色列的威胁。",
+          "url": "https://flash.jin10.com/detail/20260603205105642800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "科威特称伊朗袭击致63人受伤",
+          "url": "https://wallstreetcn.com/livenews/3113805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "国际原子能机构（IAEA）：伊朗核风险被认为高于特朗普发动袭击前的水平。",
+          "url": "https://wallstreetcn.com/livenews/3113810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "一份报告显示，国际原子能机构（IAEA）在报告中指出核扩散风险，伊朗核风险被认为高于特朗普发动袭击前的水平。",
+          "url": "https://flash.jin10.com/detail/20260603204845458800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "曝DeepSeek首轮融资约70亿美元",
+          "url": "https://www.toutiao.com/trending/7647079043384217115/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045220633466725057",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "德勤与谷歌云及Wiz合作，推出人机协作的人工智能网络防御系统。",
+          "url": "https://flash.jin10.com/detail/20260603210157742800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
@@ -145,10 +292,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -157,35 +304,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "国内金价跌破980元每克",
-          "url": "https://www.toutiao.com/trending/7646967437870747187/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
@@ -193,7 +316,7 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 75,
@@ -205,11 +328,11 @@
           "url": "https://wallstreetcn.com/articles/3773688",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     }
