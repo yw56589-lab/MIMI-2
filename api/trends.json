@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-05T03:14:43.707447+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-05T05:25:54.263612+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 7,
+      "keyword_group": "特朗普",
+      "match_count": 24,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 12.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 24 条热点，覆盖 3 个来源平台，平均热榜排名约 15.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -15,184 +15,279 @@
       },
       "titles": [
         {
-          "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
-          "url": "https://flash.jin10.com/detail/20260605024637794800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "俄罗斯总统普京：伊朗危机给俄罗斯带来的利益是暂时的。",
-          "url": "https://flash.jin10.com/detail/20260605024523661800",
+          "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
+          "url": "https://flash.jin10.com/detail/20260605045725566800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
         },
         {
-          "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
-          "url": "https://flash.jin10.com/detail/20260605024510184800",
-          "source": "金十数据",
+          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
+          "url": "https://wallstreetcn.com/livenews/3114633",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
         },
         {
-          "title": "伊朗“圣城旅”喊话以色列",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
-          "source": "百度热搜",
+          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
+          "url": "https://flash.jin10.com/detail/20260605044910796800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
+          "url": "https://wallstreetcn.com/livenews/3114631",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
         },
         {
-          "title": "伊朗5月石油出口降至六年新低",
-          "url": "https://wallstreetcn.com/livenews/3114569",
+          "title": "特朗普称黎以和平谈判取得一定进展",
+          "url": "https://wallstreetcn.com/livenews/3114630",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
         },
         {
-          "title": "数据显示：伊朗石油出口降至六年来的最低水平",
-          "url": "https://flash.jin10.com/detail/20260605022126491800",
+          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
+          "url": "https://flash.jin10.com/detail/20260605044557857800",
           "source": "金十数据",
           "ranks": [
-            21
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
         },
         {
-          "title": "俄罗斯总统普京：希望伊朗冲突各方能够找到解决方案。",
-          "url": "https://flash.jin10.com/detail/20260605021812132800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
-          "url": "https://wallstreetcn.com/livenews/3114582",
+          "title": "美国总统特朗普宣称：先解决伊朗，再处理古巴。",
+          "url": "https://wallstreetcn.com/livenews/3114629",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：将很快提名美国代理司法部长布兰奇担任司法部长，相关文件正在准备中。",
+          "url": "https://flash.jin10.com/detail/20260605044520253800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普宣称：制裁古巴并不是要加速其崩溃。",
+          "url": "https://wallstreetcn.com/livenews/3114628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "特朗普：Pulte不会成为正式的国家情报总监",
+          "url": "https://wallstreetcn.com/livenews/3114627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们会得到伊朗的核尘埃。 没有在考虑秘密行动夺取伊朗铀。 没有理由去获取伊朗的核尘埃，它已经被掩埋。 现在可以获取伊朗的核尘埃，但没理由这么做。",
+          "url": "https://wallstreetcn.com/livenews/3114626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
         },
         {
-          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
-          "url": "https://wallstreetcn.com/livenews/3114570",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
+          "url": "https://flash.jin10.com/detail/20260605043740083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "特朗普称黎以和平谈判取得一定进展",
+          "url": "https://flash.jin10.com/detail/20260605043607203800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们将处理好古巴问题。",
+          "url": "https://flash.jin10.com/detail/20260605043346752800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们对古巴有一些非常好的计划。",
+          "url": "https://flash.jin10.com/detail/20260605043321294800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
         },
         {
-          "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
-          "url": "https://wallstreetcn.com/livenews/3114560",
+          "title": "美国总统特朗普：在处理完伊朗后，我们会处理古巴。",
+          "url": "https://flash.jin10.com/detail/20260605043312889800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：（关于古巴）我们只希望他们能成为一个管理良好的国家。",
+          "url": "https://flash.jin10.com/detail/20260605043128993800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：不需要欧洲在霍尔木兹海峡问题上提供帮助。 不需要欧洲其他国家在霍尔木兹问题上提供帮助。 我们已经杀害几乎所有的伊朗领导人。 伊朗没有海军，也没有空军。 如果伊朗打死美军，将迅速重启战争。 （黎巴嫩）真主党联系了我们。",
+          "url": "https://wallstreetcn.com/livenews/3114619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们将与印度达成贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260605043111038800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：无论是在军事上还是在纸面上，我们都会赢。",
+          "url": "https://flash.jin10.com/detail/20260605042828948800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）你们终会知道协议的内容。主要部分是海峡将立即开放。",
+          "url": "https://flash.jin10.com/detail/20260605042804963800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：任何接近伊朗核设施的人，我们都会采取相应行动应对。",
+          "url": "https://flash.jin10.com/detail/20260605042731966800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：赞赏代理国家情报总监、兼联邦住房金融局(FHFA)局长Bill Pulte在房利美与房地美（两房）的工作。 两房的价值可能有1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114612",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
-          "url": "https://wallstreetcn.com/livenews/3114563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 13.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -205,7 +300,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -216,7 +311,99 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时25分"
+        },
+        {
+          "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3114625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "银行ETF、医疗业ETF收涨超3%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3114624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
+          "url": "https://flash.jin10.com/detail/20260605051927289800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "伊朗“圣城旅”喊话以色列",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 71,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     }
