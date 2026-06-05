@@ -1,16 +1,18 @@
 {
-  "generated_at": "2026-06-05T10:34:59.732901+08:00",
-  "total_titles_processed": 308,
-  "failed_sources": [],
+  "generated_at": "2026-06-05T15:01:51.158269+08:00",
+  "total_titles_processed": 302,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 5.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -22,8 +24,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "特朗普最新支持率曝光，压力骤增",
@@ -33,8 +35,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
@@ -44,30 +46,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
           "url": "https://www.cls.cn/detail/2391265",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
-          "url": "https://news.ifeng.com/c/8thTYMLvvqY",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         }
       ]
     },
@@ -75,10 +66,10 @@
       "keyword_group": "美股",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 2.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 5.7 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -90,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
@@ -101,19 +92,65 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
+          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
+          "url": "https://www.zhihu.com/question/2045914979002315116",
+          "source": "知乎",
           "ranks": [
-            4
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.7 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
+          "url": "https://news.ifeng.com/c/8thzeBSBwEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
+        },
+        {
+          "title": "伊朗最高领袖发表书面致辞呼吁团结",
+          "url": "https://www.toutiao.com/trending/7646650149913591827/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
+        },
+        {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "15时00分"
         }
       ]
     }
