@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-08T03:08:17.951249+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-08T05:02:15.776680+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 23,
       "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 5 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 23 条热点，覆盖 5 个来源平台，平均热榜排名约 14.3 位，标题平均出现 1.2 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 56,
         "chart": []
       },
       "titles": [
@@ -22,19 +22,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "伊朗拒绝接受将其资产用于向美国盟友支付战争赔偿的设想",
-          "url": "https://wallstreetcn.com/livenews/3115603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
           "title": "英媒：伊朗收取的海峡通行费用大幅下降",
@@ -44,41 +33,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
-          "title": "伊朗最高领袖顾问兼助理穆罕默德·莫赫贝尔：敌人在调解方身处伊朗期间对黎巴嫩进行轰炸，已是第三次烧毁谈判桌。",
-          "url": "https://flash.jin10.com/detail/20260608021831010800",
-          "source": "金十数据",
+          "title": "伊朗外长与埃及外长通电话，讨论地区局势加剧。（MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3115632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据以色列第12频道：一位美国安全消息人士表示，已做好防御准备，以应对伊朗可能发动的攻击。",
-          "url": "https://flash.jin10.com/detail/20260608021739259800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：巴基斯坦陆军总司令呼吁伊朗把握当前时机达成协议。",
-          "url": "https://flash.jin10.com/detail/20260608021659114800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "05时02分"
         },
         {
           "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
@@ -88,30 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "伊朗议员：伊朗从通过霍尔木兹海峡的每艘船获得150万-200万美元通行费。（伊朗国家电视台IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3115595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "伊朗国足抵达墨西哥",
-          "url": "https://wallstreetcn.com/livenews/3115594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
           "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
@@ -121,19 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "伊朗首席谈判代表/议长卡利巴夫：针对伊朗的海上封锁，以及美国今天对以色列大开绿灯的行为，已使美国和该政权（以色列）在区域内的基地与资产成为合法打击目标。正如以往一样，我们武装部队的手已经松开（已准备好随时出手）。 他们既不致力于停火，也不相信对话，而是通过海上封锁以及违反涉及黎巴嫩的相关协议，表明了他们唯一能听懂的只有实力的语言（强权语言）。",
-          "url": "https://wallstreetcn.com/livenews/3115587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
           "title": "世界杯签证问题持续，多国记者及伊朗队成员仍未获赴美签证",
@@ -143,52 +77,395 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
-          "title": "伊朗总统：我方谈判团队成员绝非退让之人，因此必须有力捍卫我们人民的权利。",
-          "url": "https://flash.jin10.com/detail/20260608015132054800",
+          "title": "伊朗外长与法国外长、卡塔尔外长通电话，讨论伊朗对以色列行动的呼应、和地区局势。 伊朗外长还与巴基斯坦陆军元帅（阿西姆·穆尼尔/Munir）通电话。",
+          "url": "https://wallstreetcn.com/livenews/3115627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗外交部：外长与法国外交部长和卡塔尔外交部长通电话，就伊朗的最新事态发展进行了交谈和磋商。",
+          "url": "https://flash.jin10.com/detail/20260608043551183800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗武装部队：以色列已经践踏了所有的红线。 以色列若继续袭击（黎巴嫩），将招致伊朗更加强硬的反击。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3115625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "以色列交通部表示，尽管伊朗向以色列北部发射弹道导弹，但以色列领空仍然开放。交通部长正在与专业人员进行局势评估。",
+          "url": "https://flash.jin10.com/detail/20260608042402862800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "遭伊朗导弹袭击后，以色列领空仍保持开放",
+          "url": "https://wallstreetcn.com/livenews/3115624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗外长：我分别与土耳其外长和巴基斯坦陆军参谋长通了电话。",
+          "url": "https://flash.jin10.com/detail/20260608042056497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗外长与土耳其外长通电话，讨论伊朗与美国的磋商问题。（Nour）",
+          "url": "https://wallstreetcn.com/livenews/3115622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问：已对侵略者作出“回应”",
+          "url": "https://flash.jin10.com/detail/20260608040630870800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗西部空域暂时关闭，直至另行通知。（伊朗官方新闻机构）",
+          "url": "https://wallstreetcn.com/livenews/3115616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗武装部队警告：或对以色列采取进一步行动",
+          "url": "https://flash.jin10.com/detail/20260608040455182800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗武装部队警告：或对以色列采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3115614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：如果以色列的侵略行为再次发生，伊朗回应的范围将更加广泛",
+          "url": "https://wallstreetcn.com/livenews/3115613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗副外长：伊朗海外资产不是华盛顿的战利品",
+          "url": "https://wallstreetcn.com/livenews/3115612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问：绝不容忍违反停火协议行为",
+          "url": "https://flash.jin10.com/detail/20260608035915934800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：伊朗已对侵略者作出“回应”",
+          "url": "https://wallstreetcn.com/livenews/3115610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗时隔两个月再袭以色列：以军正拦截伊朗来袭导弹，多地拉响防空警报",
+          "url": "https://wallstreetcn.com/livenews/3115607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗拒绝接受将其资产用于向美国盟友支付战争赔偿的设想",
+          "url": "https://wallstreetcn.com/livenews/3115603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 16,
+      "ai_insight": {
+        "analysis": "该板块当前收录 16 条热点，覆盖 2 个来源平台，平均热榜排名约 14.6 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 58,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260608045243340800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普：已知晓以伊最新局势，美军处于戒备状态",
+          "url": "https://wallstreetcn.com/livenews/3115629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：一切进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260608043710675800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "【特朗普对伊朗喊话：行了，回来谈判吧】美国总统特朗普7日接受美媒采访时称, 伊朗当天稍早时向以色列实施导弹打击“无助于谈判”。他催促伊朗重返谈判桌。特朗普对美国福克斯新闻频道说：“我对伊朗的建议是：你们已经发射了导弹，就行了。回到谈判桌前，达成协议吧。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3115623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们与伊朗非常接近达成最终协议，我不希望因为现在发生的事情而让协议破裂。",
+          "url": "https://flash.jin10.com/detail/20260608042036369800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：如果内塔尼亚胡反击，那么冲突就会像过去47年，甚至过去3000年那样持续下去。",
+          "url": "https://flash.jin10.com/detail/20260608042023270800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普告诉以色列不要反击",
+          "url": "https://wallstreetcn.com/livenews/3115621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普对AXIOS表示：伊朗的袭击没有造成任何伤害。希望以色列不会进行报复。",
+          "url": "https://flash.jin10.com/detail/20260608041930227800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊导弹袭击以色列，特朗普：伊朗够了 以色列别反击",
+          "url": "https://flash.jin10.com/detail/20260608041810242800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：将打电话给以色列总理内塔尼亚胡，要求他不要回击（伊朗）。 伊朗对以色列的打击没有伤害到任何人，希望以色列不要打击报复。 如果内塔尼亚胡回击，将重演过去47年、或者过去3000年的历史。 以色列和伊朗“这两个国家都很有趣”。 我们非常接近与伊朗达成一份协议，我可不想因为当前发生的事而失控。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3115619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "据AXIOS：特朗普表示他马上要给内塔尼亚胡打电话，告诉他不要进行反击。",
+          "url": "https://flash.jin10.com/detail/20260608040738850800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "05时02分"
         },
         {
-          "title": "伊朗副外长：伊朗的资产既不是华盛顿的战利品，也不是其盟友的赔付基金。",
-          "url": "https://flash.jin10.com/detail/20260608013322801800",
-          "source": "金十数据",
+          "title": "特朗普建议伊朗发射了导弹就够了",
+          "url": "https://wallstreetcn.com/livenews/3115617",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "05时02分"
         },
         {
-          "title": "伊朗副外长加里巴巴迪就美国将伊朗资产用于支付对地区盟友战争赔偿的报道表示：地区国家政府没有资格要求赔偿。",
-          "url": "https://flash.jin10.com/detail/20260608013300180800",
+          "title": "美国总统特朗普：（关于以色列今天早些时候袭击贝鲁特）我对此并不满意。",
+          "url": "https://flash.jin10.com/detail/20260608040312688800",
           "source": "金十数据",
           "ranks": [
-            22
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：空袭不会有助于谈判成功。",
+          "url": "https://flash.jin10.com/detail/20260608035714486800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：美军已处于戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260608035656901800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗向以色列发射第三波导弹，特朗普已听取局势升级的简报",
+          "url": "https://wallstreetcn.com/livenews/3115608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 15.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -200,8 +477,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
+        },
+        {
+          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
+          "url": "https://wallstreetcn.com/articles/3774038",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -211,19 +499,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -233,65 +510,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 21.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "据英国每日电讯报：美国总统特朗普考虑收购Chagos Islands。 美国官员们已经制定方案，并附加诸多选项。 美国正与英国讨论迪戈加西亚岛（Diego Garcia）的未来。",
-          "url": "https://wallstreetcn.com/livenews/3115592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
-          "title": "以色列广播公司：特朗普政府的一个法律代表团抵达以色列，将与内塔尼亚胡、国防部长卡茨和外长萨阿尔会面。",
-          "url": "https://flash.jin10.com/detail/20260608012956597800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "学者：特朗普外交抑制了两极化阵营化",
-          "url": "https://www.toutiao.com/trending/7647971110792757299/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
-          "url": "https://wallstreetcn.com/livenews/3115567",
-          "source": "华尔街见闻-快讯",
+          "title": "美股IPO后续怎么看",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1IPO%E5%90%8E%E7%BB%AD%E6%80%8E%E4%B9%88%E7%9C%8B",
+          "source": "bilibili 热搜",
           "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
+        },
+        {
+          "title": "美股暴跌有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         }
       ]
     },
@@ -299,10 +541,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -311,11 +553,11 @@
           "url": "https://www.zhihu.com/question/2046639064917586455",
           "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -325,8 +567,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
         }
       ]
     },
@@ -334,10 +576,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -346,11 +588,35 @@
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 57,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "MarketVectorTM数字资产100小盘指数跌幅扩大至3.33%，跌穿2400点关口。 MarketVectorTM数字资产100中盘指数跌2.4%，逼近2520点。 MarketVector数字资产100指数跌约1.5%，至12130点。 比特币短线从61207.27美元上扬至61440.77美元，涨幅重新扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3115609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "05时02分"
         }
       ]
     }
