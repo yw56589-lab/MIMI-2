@@ -1,40 +1,29 @@
 {
-  "generated_at": "2026-06-13T14:51:07.677479+08:00",
+  "generated_at": "2026-06-13T17:52:34.515164+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 6 个来源平台，平均热榜排名约 17.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 86,
         "chart": []
       },
       "titles": [
         {
-          "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
-          "url": "https://news.ifeng.com/c/8tuxeZuZndm",
-          "source": "凤凰网",
+          "title": "黎巴嫩外长：即使伊朗政权没有垮台，黎巴嫩也有能力终结真主党的武器问题。",
+          "url": "https://flash.jin10.com/detail/20260613173245745800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
-        },
-        {
-          "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
-          "url": "https://news.ifeng.com/c/8tuse7CSv3h",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "多名伊朗国足代表团成员签证被拒，美国回应",
@@ -44,269 +33,199 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
-          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
-          "url": "https://wallstreetcn.com/articles/3774522",
-          "source": "华尔街见闻",
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "黎巴嫩总理：我们要求黎巴嫩真主党拯救国家，将黎巴嫩的利益置于伊朗的利益之上。",
+          "url": "https://flash.jin10.com/detail/20260613170428114800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
           "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "市场消息：伊朗司法总监称，德黑兰与美国及其盟友的对抗不会结束，并借12天战争周年纪念之际警告人们不要信任华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260613163628836800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席易卜拉欣·阿齐兹：该计划正式名称为《波斯湾和霍尔木兹海峡安全、发展与进步法案》，如果获得议会通过，将成为一项“完备且全面”的法律。",
+          "url": "https://flash.jin10.com/detail/20260613163318012800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席易卜拉欣·阿齐兹：一项关于霍尔木兹海峡管理的拟议法案将涵盖过境规则以及伊朗民族的权利。",
+          "url": "https://flash.jin10.com/detail/20260613163308586800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美军称伊朗发射多架单向攻击无人机",
           "url": "https://wallstreetcn.com/livenews/3119115",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "美媒：忧心美国可能采取行动夺取核材料，伊朗封存铀库存并布设地雷",
-          "url": "https://flash.jin10.com/detail/20260613121408335800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
-          "url": "https://wallstreetcn.com/livenews/3119102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 12.8 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 66,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
+          "title": "美军称击落伊朗发射的多架无人机",
+          "url": "https://www.toutiao.com/trending/7650431459140583475/",
+          "source": "今日头条",
           "ranks": [
-            9
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
-        },
-        {
-          "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
-          "url": "https://flash.jin10.com/detail/20260613135132785800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
-          "url": "https://wallstreetcn.com/livenews/3119112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
-          "url": "https://flash.jin10.com/detail/20260613104207547800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "17时52分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
-        },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2398916",
           "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
           "url": "https://www.cls.cn/detail/2398893",
           "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
-        },
-        {
-          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
-          "url": "https://wallstreetcn.com/livenews/3119107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "17时52分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 23.5 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 17.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 63,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "金价银价大涨了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
           "ranks": [
-            20
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
-          "title": "单线逻辑失效！为何这轮通胀没救起金价？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260613095629145800",
-          "source": "金十数据",
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
           "ranks": [
-            27
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 57,
-        "chart": []
-      },
-      "titles": [
+          "time_info": "17时52分"
+        },
         {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
+          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
+          "url": "https://wallstreetcn.com/livenews/3119112",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "17时52分"
         }
       ]
     }
