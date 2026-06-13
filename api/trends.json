@@ -1,40 +1,84 @@
 {
-  "generated_at": "2026-06-13T19:49:15.947343+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T21:28:18.436023+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 18,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 7 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 18 条热点，覆盖 5 个来源平台，平均热榜排名约 9.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 65,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗司法总监：绝不信任美国",
-          "url": "https://wallstreetcn.com/livenews/3119149",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗多家银行出现技术故障 正开展修复工作",
+          "url": "https://flash.jin10.com/detail/20260613210321558800",
+          "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "伊朗已故最高领袖将于7月9日下葬",
-          "url": "https://www.toutiao.com/trending/7650457789692825107/",
-          "source": "今日头条",
-          "ranks": [
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗多家银行出现技术故障 正开展修复工作",
+          "url": "https://wallstreetcn.com/livenews/3119163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
+          "url": "https://wallstreetcn.com/livenews/3119160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
+          "url": "https://flash.jin10.com/detail/20260613210012560800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗外交部发言人：由于对方犹豫不决，我们必须对签署日期的任何评论保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20260613205949121800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗外交部发言人：不排除在未来几天内签署伊斯兰堡谅解备忘录的可能性。",
+          "url": "https://flash.jin10.com/detail/20260613205713059800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "多名伊朗国足代表团成员签证被拒，美国回应",
@@ -44,118 +88,197 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
-          "title": "世界杯伊朗队训练场旁发现腐尸",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
-          "source": "百度热搜",
+          "title": "伊朗外交部发言人：伊斯兰堡谅解备忘录侧重于结束现阶段战争，不讨论核问题。",
+          "url": "https://flash.jin10.com/detail/20260613205541727800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
-        },
-        {
-          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
-          "url": "https://wallstreetcn.com/articles/3774540",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗外交部发言人：签署备忘录的确切时间不会是明天。",
+          "url": "https://flash.jin10.com/detail/20260613205447005800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://wallstreetcn.com/livenews/3119155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://www.toutiao.com/trending/7650457789692825107/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
           "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://wallstreetcn.com/livenews/3119149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "伊朗已故最高领袖将于7月9日下葬",
           "url": "https://wallstreetcn.com/livenews/3119145",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "21时28分"
         },
         {
-          "title": "伊朗司法总监：绝不信任美国",
-          "url": "https://flash.jin10.com/detail/20260613191057762800",
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://flash.jin10.com/detail/20260613195458355800",
           "source": "金十数据",
           "ranks": [
-            7
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "21时28分"
         },
         {
           "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
           "url": "https://wallstreetcn.com/livenews/3119144",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "21时28分"
         },
         {
-          "title": "伊朗外长阿拉格齐：伊朗和阿曼将就霍尔木兹海峡发布联合声明。",
-          "url": "https://flash.jin10.com/detail/20260613185617701800",
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://flash.jin10.com/detail/20260613191057762800",
           "source": "金十数据",
           "ranks": [
-            13
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "21时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
-          "title": "伊朗已故最高领袖哈梅内伊将于7月9日下葬",
-          "url": "https://flash.jin10.com/detail/20260613183636185800",
-          "source": "金十数据",
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "21时28分"
         },
         {
-          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
-          "url": "https://flash.jin10.com/detail/20260613183333910800",
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-13）",
+          "url": "https://flash.jin10.com/detail/20260613203149483800",
           "source": "金十数据",
           "ranks": [
-            19
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "21时28分"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
@@ -163,10 +286,10 @@
       "keyword_group": "美股",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -178,19 +301,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -200,78 +323,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 14.3 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普姓名被从肯尼迪中心外墙移除",
-          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
-          "source": "凤凰网",
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
-        },
-        {
-          "title": "据英国金融时报：投资公司加入美国总统特朗普的1000亿美元委内瑞拉石油竞赛。狮心资本（Lionheart Capital）计划通过与旗下空白支票公司Lionheart Holdings合并，以约10亿美元的估值将一家委内瑞拉石油公司上市。",
-          "url": "https://flash.jin10.com/detail/20260613182624858800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "央行狂买黄金金价却暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E7%8B%82%E4%B9%B0%E9%BB%84%E9%87%91%E9%87%91%E4%BB%B7%E5%8D%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
+          "time_info": "21时28分"
         }
       ]
     }
