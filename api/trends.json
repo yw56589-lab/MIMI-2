@@ -1,64 +1,62 @@
 {
-  "generated_at": "2026-06-14T08:01:48.692974+08:00",
-  "total_titles_processed": 310,
-  "failed_sources": [
-    "bilibili-hot-search"
-  ],
+  "generated_at": "2026-06-14T12:14:51.770310+08:00",
+  "total_titles_processed": 313,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 15,
       "ai_insight": {
-        "analysis": "该板块当前收录 18 条热点，覆盖 6 个来源平台，平均热榜排名约 14.3 位，标题平均出现 1.2 次。",
+        "analysis": "该板块当前收录 15 条热点，覆盖 4 个来源平台，平均热榜排名约 12.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 58,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
+        {
+          "title": "伊朗民众集会反对达成协议，“改革派等于投降派”",
+          "url": "https://news.ifeng.com/c/8twXXk8mMBz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
         {
           "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
           "url": "https://wallstreetcn.com/articles/3774594",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
-        },
-        {
-          "title": "伊朗官员：如达成谅解 霍尔木兹海峡将恢复通行",
-          "url": "https://flash.jin10.com/detail/20260614054056472800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         },
         {
-          "title": "媒体：伊朗代表团将于14日访问巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3119173",
+          "title": "录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3119184",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         },
         {
-          "title": "伊朗已故最高领袖哈梅内伊葬礼将于7月举行",
-          "url": "https://wallstreetcn.com/livenews/3119172",
-          "source": "华尔街见闻-快讯",
+          "title": "航运数据显示，过去24小时内没有商业船只使用伊朗航道。海事安全担忧持续驱使船只远离霍尔木兹海峡的伊朗一侧。",
+          "url": "https://flash.jin10.com/detail/20260614103927303800",
+          "source": "金十数据",
           "ranks": [
-            5
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         },
         {
           "title": "多名伊朗国足代表团成员签证被拒，美国回应",
@@ -68,175 +66,164 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
+          "title": "航运数据显示，船只正在避开霍尔木兹海峡的伊朗水域，改为通过阿曼航道。",
+          "url": "https://flash.jin10.com/detail/20260614103856338800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
-          "title": "伊朗称伊美谅解备忘录不会在明天签署，当前重点是止战，此前巴总理称协议或在 24 小时内敲定，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/2049209357032764040",
-          "source": "知乎",
+          "title": "媒体：伊朗代表团将于14日访问巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3119173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊葬礼将于7月举行",
+          "url": "https://wallstreetcn.com/livenews/3119172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "美国中央司令部：在伊朗海军封锁行动中，美军已迫使141艘船只改变航线，并使其中9艘瘫痪。另外已允许42艘人道主义援助船只通过。",
+          "url": "https://flash.jin10.com/detail/20260614093654021800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260614090111766800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "伊朗外交部：必须获得在霍尔木兹海峡提供服务的费用",
+          "url": "https://flash.jin10.com/detail/20260614084755278800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "伊朗多家银行出现技术故障 正开展修复工作",
           "url": "https://wallstreetcn.com/livenews/3119163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "据伊朗学生通讯社：埃及外长与美国驻西亚特使通电话，讨论了有关德黑兰与华盛顿谈判的最新进展。",
-          "url": "https://flash.jin10.com/detail/20260614041211441800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：以军对黎巴嫩南部梅尔贾尤恩县的巴拉特市进行了两次空袭。",
-          "url": "https://flash.jin10.com/detail/20260614040840819800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         },
         {
           "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
           "url": "https://wallstreetcn.com/livenews/3119160",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         },
         {
-          "title": "伊朗媒体总编：伊核协议噩梦在伊朗民众中引发合理担忧",
-          "url": "https://flash.jin10.com/detail/20260614033233451800",
+          "title": "伊朗官员：如达成谅解 霍尔木兹海峡将恢复通行",
+          "url": "https://flash.jin10.com/detail/20260614054056472800",
           "source": "金十数据",
           "ranks": [
-            18
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "据伊朗媒体报道，民众举行示威，要求议会议长卡利巴夫和外长阿拉格齐辞职，以表达对该协议的反对。",
-          "url": "https://flash.jin10.com/detail/20260614032006401800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         },
         {
           "title": "伊朗称霍尔木兹收服务费完全合理",
           "url": "https://wallstreetcn.com/livenews/3119155",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "伊朗驻墨西哥大使表示，伊朗人民期待美国的善意和相互尊重。",
-          "url": "https://flash.jin10.com/detail/20260614023714824800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "伊朗司法总监：绝不信任美国",
-          "url": "https://wallstreetcn.com/livenews/3119149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "伊朗已故最高领袖将于7月9日下葬",
-          "url": "https://wallstreetcn.com/livenews/3119145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
-          "url": "https://wallstreetcn.com/livenews/3119144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 11.1 位，标题平均出现 1.2 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 14.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 55,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
         {
-          "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
-          "url": "https://flash.jin10.com/detail/20260614051019663800",
-          "source": "金十数据",
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
           "ranks": [
-            5
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
+        },
+        {
+          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
+          "url": "https://wallstreetcn.com/livenews/3119179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -246,120 +233,74 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
-        },
-        {
-          "title": "学者：协议的不确定性折射特朗普外交的“混乱”",
-          "url": "https://flash.jin10.com/detail/20260614045258501800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         },
         {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
           "url": "https://wallstreetcn.com/livenews/3119171",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
+        },
+        {
+          "title": "美军被曝曾制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://flash.jin10.com/detail/20260614080502801800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
           "url": "https://wallstreetcn.com/livenews/3119159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         },
         {
           "title": "美媒细数特朗普曾39次说与伊朗谈好",
           "url": "https://wallstreetcn.com/livenews/3119158",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时14分"
         },
         {
-          "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
-          "url": "https://flash.jin10.com/detail/20260614025927509800",
+          "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
+          "url": "https://flash.jin10.com/detail/20260614051019663800",
           "source": "金十数据",
           "ranks": [
-            22
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 73,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "time_info": "12时14分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 68,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -368,11 +309,57 @@
           "url": "https://wallstreetcn.com/articles/3774577",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
+          "url": "https://wallstreetcn.com/articles/3774574",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 67,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     }
