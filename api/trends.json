@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-06-19T11:27:14.267528+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-19T16:59:41.580496+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 14 条热点，覆盖 8 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 7 个来源平台，平均热榜排名约 8.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
+        {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
         {
           "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
           "url": "https://wallstreetcn.com/articles/3775058",
@@ -22,162 +33,107 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
-          "url": "https://www.cls.cn/detail/2404187",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "伊朗称要成为中国真正的伙伴，外交部表态",
-          "url": "https://news.ifeng.com/c/8u3juhtDVpR",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "美国五角大楼告诉议员，它需要800亿美元用于伊朗战争。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3121964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "16时59分"
         },
         {
-          "title": "伊朗最高领袖对伊美备忘录持不同意见",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%AF%B9%E4%BC%8A%E7%BE%8E%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%81%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81",
-          "source": "百度热搜",
+          "title": "市场消息：外交官员称，伊朗寻求在恢复与美谈判前获得黎巴嫩敌对行动将结束的保证。",
+          "url": "https://flash.jin10.com/detail/20260619164325970800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
           "url": "https://www.cls.cn/detail/2404208",
           "source": "财联社热门",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "临时改由美伊总统签协议，伊朗发言人透露原因",
+          "url": "https://news.ifeng.com/c/8u50XKAkou2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
           "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
-          "title": "新西兰华裔边锋贾斯特世界杯对阵伊朗梅开二度，一战成名，为何我们从来未关注到这位华裔球员？",
-          "url": "https://www.zhihu.com/question/2050210872241476932",
-          "source": "知乎",
+          "title": "伊朗革命卫队：准备好给敌人带来惨败",
+          "url": "https://wallstreetcn.com/livenews/3122022",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：最高领袖的信息保障了伊朗在即将到来的谈判中取得伟大胜利。",
-          "url": "https://flash.jin10.com/detail/20260619104848012800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "16时59分"
         },
         {
-          "title": "伊朗表示伊美谅解备忘录签署后仍将坚守底线",
-          "url": "https://wallstreetcn.com/livenews/3121956",
+          "title": "【瑞士宣布比尔根山美伊会谈已取消】瑞士外交部19日在其网站发布声明说，原定于当天在瑞士中部卢塞恩附近的比尔根山举行的美伊会谈已取消。 声明说，美国、伊朗、卡塔尔和巴基斯坦原定举行的会谈已被推迟。“瑞士仍愿为这些会谈提供便利。有关比尔根山的相关筹备工作也将继续进行。” 瑞士广播电视公司网站稍早前报道说，当天，比尔根山地区景象繁忙，挂着外交牌照的豪华轿车、正在执勤的警察和军队警戒线触目可见。 瑞士方面为安排美国和伊朗计划19日在比尔根山举行的会谈，早在17日已经批准部署军队，提供安保支持，同时批准在会谈期间临时关闭比尔根山区的部分空域。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3122018",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "16时59分"
         },
         {
-          "title": "美国副总统万斯暂不赴瑞士与伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3121951",
+          "title": "伊朗革命卫队：任何侵犯伊朗权利的行为都将招致更强硬的军事回应。",
+          "url": "https://wallstreetcn.com/livenews/3122009",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗、美军官宣霍尔木兹海峡重开，以美正就黎南驻军问题展开“强硬谈判”，美伊协议签署仪式又生变数！美指创逾一年新高，黄金跌破4200......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
-          "url": "https://flash.jin10.com/detail/20260619103109197800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书处：我们向最高领袖和人民保证，在推进未来谈判等方面，绝不会有任何懈怠，并将继续坚持，直至完全实现伊朗人民的权利。",
-          "url": "https://flash.jin10.com/detail/20260619102933346800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书处：伊朗将密切监督伊美谅解备忘录的执行情况，如美方违反，伊朗将采取坚决的反制措施。",
-          "url": "https://flash.jin10.com/detail/20260619101223743800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "16时59分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.3 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 13.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -186,111 +142,63 @@
           "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
-          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
-          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
-          "source": "凤凰网",
+          "title": "以防长：无人能对我们发号施令 特朗普也不行",
+          "url": "https://flash.jin10.com/detail/20260619161610436800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
-          "title": "特朗普在G7记者会说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
+          "title": "北约秘书长吕特定于6月24日在华盛顿与特朗普会晤。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3122019",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
-          "title": "如何评价 DeepSeek 的识图模式？",
-          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "title": "美军已解除对伊朗海上封锁，特朗普称预计「所有战线将实现全面停火」，霍尔木兹海峡的「和平」能维持多久？",
+          "url": "https://www.zhihu.com/question/2051222502768992382",
           "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.5 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 71,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
-          "source": "财联社热门",
+          "title": "韩国总统李在明：特朗普总统是和平缔造者，我们是和平推动者。",
+          "url": "https://flash.jin10.com/detail/20260619155302953800",
+          "source": "金十数据",
           "ranks": [
-            8
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 72,
@@ -305,19 +213,135 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
           "url": "https://www.cls.cn/detail/2404205",
           "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 18.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金价银价大跌 国际油价涨跌不一",
+          "url": "https://www.toutiao.com/trending/7652482530892988470/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "金价银价双双下跌",
+          "url": "https://www.douyin.com/hot/2540227",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
@@ -325,10 +349,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -337,11 +361,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            11
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     }
