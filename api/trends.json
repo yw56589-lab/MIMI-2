@@ -1,30 +1,131 @@
 {
-  "generated_at": "2026-06-20T16:42:21.188006+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-20T19:09:06.429232+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 13,
+      "keyword_group": "特朗普",
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 6 个来源平台，平均热榜排名约 13.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 68,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗国防部：持续努力提升军事准备，改善防御能力。",
-          "url": "https://flash.jin10.com/detail/20260620161710499800",
-          "source": "金十数据",
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
+          "url": "https://flash.jin10.com/detail/20260620190142057800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-20）",
+          "url": "https://flash.jin10.com/detail/20260620184815728800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普“剧透”，意大利怒了",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "意外长取消访美：特朗普冒犯了意大利",
+          "url": "https://www.toutiao.com/trending/7653072490532556324/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普在摇摆州支持率大跌",
+          "url": "https://www.toutiao.com/trending/7652819170371420203/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "因特朗普言论 意大利副总理取消访美",
+          "url": "https://wallstreetcn.com/livenews/3122210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 9,
+      "ai_insight": {
+        "analysis": "该板块当前收录 9 条热点，覆盖 6 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.6 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
           "url": "https://www.cls.cn/detail/2404208",
@@ -33,8 +134,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "美伊谈判能否顺利举行？伊朗有何先决条件？凤凰记者解读",
+          "url": "https://news.ifeng.com/c/8u6rTy30ATU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -44,208 +156,74 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "伊朗革命卫队发表致最高领袖公开信",
-          "url": "https://news.ifeng.com/c/8u5q1dToOV0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "伊朗外长将会见巴基斯坦内政部长",
-          "url": "https://flash.jin10.com/detail/20260620155452920800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "伊朗内政部发言人：在谈判问题上我们不存在“激进派”与“温和派”的区别。",
-          "url": "https://flash.jin10.com/detail/20260620154600607800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "伊朗内政部发言人：我们将见证一场盛大的葬礼，送别这位历史上著名而声望卓著的伊朗领袖——哈梅内伊。",
-          "url": "https://flash.jin10.com/detail/20260620154111929800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，伊朗外交部长将在德黑兰与巴基斯坦内政部长会晤。",
-          "url": "https://flash.jin10.com/detail/20260620154109194800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "伊朗称不信任美国 正在做两手准备",
-          "url": "https://wallstreetcn.com/livenews/3122212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
-          "url": "https://wallstreetcn.com/livenews/3122209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "伊朗队进球功臣还在穿2014年的球鞋",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%BF%9B%E7%90%83%E5%8A%9F%E8%87%A3%E8%BF%98%E5%9C%A8%E7%A9%BF2014%E5%B9%B4%E7%9A%84%E7%90%83%E9%9E%8B",
           "source": "百度热搜",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
-          "url": "https://wallstreetcn.com/livenews/3122203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 6 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "特朗普：今年将再次访问中国",
-          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "意外长取消访美：特朗普冒犯了意大利",
-          "url": "https://www.toutiao.com/trending/7653072490532556324/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "特朗普言论“冒犯了整个意大利”，意外长取消访美",
-          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "特朗普的新专机，首次亮相",
-          "url": "https://www.cls.cn/detail/2404514",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "多国领导人劝和特朗普与高市早苗",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8A%9D%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
-          "title": "因特朗普言论 意大利副总理取消访美",
-          "url": "https://wallstreetcn.com/livenews/3122210",
+          "title": "伊方威胁若以色列持续攻击黎巴嫩 伊朗将退出谈判",
+          "url": "https://flash.jin10.com/detail/20260620174109237800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "伊朗国防部：持续努力提升军事准备，改善防御能力。",
+          "url": "https://flash.jin10.com/detail/20260620161710499800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "伊朗称不信任美国 正在做两手准备",
+          "url": "https://wallstreetcn.com/livenews/3122212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时42分"
+          "time_info": "19时09分"
+        },
+        {
+          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
+          "url": "https://wallstreetcn.com/livenews/3122209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     },
@@ -253,10 +231,10 @@
       "keyword_group": "美股",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.7 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -265,11 +243,11 @@
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -279,8 +257,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -290,8 +268,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         }
       ]
     },
@@ -299,34 +277,34 @@
       "keyword_group": "金价",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://www.toutiao.com/trending/7653198914279751718/",
+          "title": "金价这轮下跌何时到底",
+          "url": "https://www.toutiao.com/trending/7653410213311024681/",
           "source": "今日头条",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
           "source": "百度热搜",
           "ranks": [
-            17
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         }
       ]
     }
