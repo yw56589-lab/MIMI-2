@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-06-20T06:45:03.091283+08:00",
+  "generated_at": "2026-06-20T08:02:15.399054+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 31,
       "ai_insight": {
-        "analysis": "该板块当前收录 32 条热点，覆盖 5 个来源平台，平均热榜排名约 12.3 位，标题平均出现 1.2 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 56,
+        "analysis": "该板块当前收录 31 条热点，覆盖 5 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.1 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 58,
         "chart": []
       },
       "titles": [
+        {
+          "title": "特朗普和高市早苗因珍珠港发生争吵",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%8F%8D%E7%8F%A0%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%89%E5%90%B5%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
           "url": "https://flash.jin10.com/detail/20260620040803014800",
@@ -23,7 +34,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：我要特别致谢250名工作人员，他们不分昼夜赶工，促成这架专机正式投入使用，这当中也包含安德鲁斯联合基地的大量空军官兵。",
@@ -34,18 +45,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
-          "url": "https://wallstreetcn.com/livenews/3122195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：我们拥有全球顶尖的军队，拥有世上最先进的各类军机，我们也理应配备最顶级的总统专机。",
@@ -56,18 +56,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
-          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
-          "url": "https://wallstreetcn.com/livenews/3122194",
+          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
+          "url": "https://wallstreetcn.com/livenews/3122195",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：F-47正在建造中。已经启动了装配线。他们说这是有史以来最伟大的战斗机。我们会验证这一点。",
@@ -78,18 +78,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
-          "title": "特朗普：Anthropic曾构成国家安全威胁",
-          "url": "https://wallstreetcn.com/livenews/3122193",
+          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3122194",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：美国国防部长赫格塞思是与生俱来的斗士，他从来不知道什么叫服输，性格极为刚硬，是个发自内心热爱军队的人。",
@@ -100,7 +100,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普：Anthropic曾构成国家安全威胁",
+          "url": "https://wallstreetcn.com/livenews/3122193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
@@ -111,7 +122,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
@@ -122,18 +133,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "特朗普和高市早苗因珍珠港发生争吵",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%8F%8D%E7%8F%A0%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%89%E5%90%B5%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -144,18 +144,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "特朗普移动首款手机竟是中国制造",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
@@ -166,7 +155,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：美国国防部长赫格塞思做得很好。",
@@ -177,7 +166,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：另一架旧空军一号已有约35年机龄，确实到了该更换的时候。",
@@ -188,7 +177,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：与以色列关系良好。内塔尼亚胡是一位战士。",
@@ -199,7 +188,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：将于7月7-8日赴土耳其参加北约峰会。",
@@ -210,7 +199,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：那些船只正以前所未有的速度驶出霍尔木兹海峡。",
@@ -221,7 +210,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "特朗普：约700艘船正在海峡通行 伊朗必须在60天内达成协议",
@@ -232,7 +221,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡的船只正在通行。",
@@ -243,7 +232,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普向美国空军军人致以问候，并发表讲话。",
@@ -254,7 +243,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普将开启G7峰会结束后的首次美国国内行程，前往宾州利哈伊谷的迈克卡车工厂参观。",
@@ -265,18 +254,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
-          "url": "https://wallstreetcn.com/livenews/3122178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：（谈及委内瑞拉和古巴）委内瑞拉有石油。古巴没有。古巴有不错的地产和漂亮的海岸线。",
@@ -287,18 +265,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
-          "title": "美国总统特朗普：与以色列关系一直都很好。",
-          "url": "https://wallstreetcn.com/livenews/3122177",
+          "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
+          "url": "https://wallstreetcn.com/livenews/3122178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：我的民调数据非常好。我能以25个百分点的优势击败他们推出的任何候选人。",
@@ -309,29 +287,29 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
-          "title": "美国总统特朗普：将前往土耳其。",
-          "url": "https://wallstreetcn.com/livenews/3122176",
+          "title": "美国总统特朗普：与以色列关系一直都很好。",
+          "url": "https://wallstreetcn.com/livenews/3122177",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
-          "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3122174",
+          "title": "美国总统特朗普：将前往土耳其。",
+          "url": "https://wallstreetcn.com/livenews/3122176",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
@@ -342,7 +320,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3122174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：（谈及拜登）我们曾有过一个连一段楼梯都走不上去的人，我不想谈这个，因为如果我稍微绊一下，他们就会说：“哦，这太糟糕了。”好吧，这种事是可能发生的。但你不能每次上台都绊倒。",
@@ -353,43 +342,32 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3122171",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 7 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 7 个来源平台，平均热榜排名约 7.7 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
-        {
-          "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
-          "url": "https://www.cls.cn/detail/2404208",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
         {
           "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
           "url": "https://wallstreetcn.com/articles/3775058",
@@ -399,18 +377,40 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
+          "url": "https://www.cls.cn/detail/2404208",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗革命卫队发表致最高领袖公开信",
+          "url": "https://news.ifeng.com/c/8u5q1dToOV0",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
           "url": "https://www.cls.cn/detail/2404187",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -421,7 +421,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
+          "url": "https://wallstreetcn.com/articles/3775066",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -432,29 +443,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
-          "url": "https://wallstreetcn.com/articles/3775066",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "伊朗宣布霍尔木兹海峡通行新规",
-          "url": "https://www.toutiao.com/trending/7652618813883744282/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "伊朗足协正式投诉美国",
@@ -465,40 +454,97 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡通行新规",
+          "url": "https://www.toutiao.com/trending/7652618813883744282/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
           "url": "https://wallstreetcn.com/livenews/3122185",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3122184",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 16.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
+          "url": "https://wallstreetcn.com/articles/3775075",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "金价陷入低迷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.8 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.3 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 58,
+        "confidence": 54,
         "chart": []
       },
       "titles": [
@@ -511,18 +557,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "美元指数19日下跌",
@@ -533,53 +568,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         },
         {
           "title": "美元指数本周涨约1%",
           "url": "https://wallstreetcn.com/livenews/3122179",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.5 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
-          "title": "金价陷入低迷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "08时02分"
         }
       ]
     },
@@ -603,7 +603,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "08时02分"
         }
       ]
     },
@@ -611,10 +611,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -623,11 +623,11 @@
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         }
       ]
     }
