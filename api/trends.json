@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-21T20:06:02.508007+08:00",
-  "total_titles_processed": 320,
+  "generated_at": "2026-06-21T23:08:29.948281+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 26,
       "ai_insight": {
-        "analysis": "该板块当前收录 31 条热点，覆盖 9 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.3 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 61,
+        "analysis": "该板块当前收录 26 条热点，覆盖 11 个来源平台，平均热榜排名约 13.9 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 92,
         "chart": []
       },
       "titles": [
@@ -22,129 +22,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
-          "title": "伊朗军方宣布关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33421715",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
-        },
-        {
-          "title": "伊朗总统：不会制造核武器，不会放弃铀浓缩权利",
-          "url": "https://news.ifeng.com/c/8u8py8weZs7",
+          "title": "美伊谈判丨消息人士：伊朗谈判代表团拒绝与美方合影",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
-          "title": "伊朗透露伊美会谈安排",
-          "url": "https://news.ifeng.com/c/8u8igDXFYqk",
-          "source": "凤凰网",
+          "title": "伊朗队控诉世界杯遭不公平对待",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%98%9F%E6%8E%A7%E8%AF%89%E4%B8%96%E7%95%8C%E6%9D%AF%E9%81%AD%E4%B8%8D%E5%85%AC%E5%B9%B3%E5%AF%B9%E5%BE%85",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
-          "title": "伊朗外交部公布伊美谈判安排，称黎以停火是主要议题",
-          "url": "https://news.ifeng.com/c/8u8kqRk2ZNT",
-          "source": "凤凰网",
+          "title": "伊朗因球员跑不动多次换人",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%A0%E7%90%83%E5%91%98%E8%B7%91%E4%B8%8D%E5%8A%A8%E5%A4%9A%E6%AC%A1%E6%8D%A2%E4%BA%BA%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
           "url": "https://news.ifeng.com/c/8u8jKnIv0GU",
           "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
-        },
-        {
-          "title": "伊朗谈判代表团与巴基斯坦、卡塔尔斡旋方举行会谈",
-          "url": "https://flash.jin10.com/detail/20260621194329116800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗消息人士：若以继续军事行动，海峡不会重开",
-          "url": "https://wallstreetcn.com/livenews/3122338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗总统办公室：谈判首要任务是结束黎以冲突",
-          "url": "https://wallstreetcn.com/livenews/3122337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗总统办公室：谈判首要任务是结束黎以冲突",
-          "url": "https://flash.jin10.com/detail/20260621193709554800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗、美国和卡塔尔开会讨论黎巴嫩局势",
-          "url": "https://wallstreetcn.com/livenews/3122336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "综合沙特媒体哈达斯与阿拉伯卫星电视台报道，巴基斯坦外长表示，在未来60天内，（伊朗）不会阻止船只通过霍尔木兹海峡，霍尔木兹海峡的通行将不收取任何费用。",
-          "url": "https://flash.jin10.com/detail/20260621193549078800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "23时08分"
         },
         {
           "title": "【早报】伊朗谈判代表团已抵达瑞士；荷兰5-1战胜瑞典",
@@ -154,19 +77,52 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
-          "title": "伊朗军方宣布关闭霍尔木兹海峡，伊朗外交部称美国未能约束以色列，违反谅解备忘录，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2051776067241775423",
-          "source": "知乎",
+          "title": "伊朗代表团拒绝与美方握手合影",
+          "url": "https://wallstreetcn.com/livenews/3122365",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "曝伊朗代表团拒绝与美方合影",
+          "url": "https://www.toutiao.com/trending/7653772582584614931/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "【万斯称美国愿与伊朗“从根本上改变双边关系”】美国副总统万斯在与伊朗举行高级别会谈前表示，美国愿意与伊朗“从根本上改变双边关系”。万斯表示，伊朗和美国领导层此前从未以如此高的级别举行会晤。万斯称：“总统要求我们开启新的篇章，改变我们与伊朗人民的关系，并向伊朗人民伸出友谊之手。如果伊朗领导层愿意放弃成为‘地区不稳定因素’，如果他们愿意长期放弃‘发展核武器的目标’，那么美国愿意从根本上改变与伊朗的关系。”（央视）",
+          "url": "https://wallstreetcn.com/livenews/3122362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "伊朗谈判代表团拒绝与美方合影",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8B%92%E7%BB%9D%E4%B8%8E%E7%BE%8E%E6%96%B9%E5%90%88%E5%BD%B1",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
@@ -176,8 +132,96 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "伊朗总统再强调绝不放弃铀浓缩权",
+          "url": "https://flash.jin10.com/detail/20260621220540289800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "消息人士称伊朗谈判代表团拒绝与美方合影",
+          "url": "https://flash.jin10.com/detail/20260621213533607800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "以色列财政部长放话：巴勒斯坦国比伊朗更危险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33423647",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国副总统万斯：今天的会议意味着技术磋商开始。 今天与伊朗的对话不会解决所有分歧。",
+          "url": "https://wallstreetcn.com/livenews/3122353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗代表团拒绝与美国代表团合影。",
+          "url": "https://flash.jin10.com/detail/20260621212304922800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "据阿拉伯卫星电视台：伊朗谈判团队在记者撤离后进入会议室。",
+          "url": "https://flash.jin10.com/detail/20260621212226673800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "伊朗总统称随着谈判启动，卡塔尔将释放60亿美元资金",
+          "url": "https://wallstreetcn.com/livenews/3122349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "巴基斯坦外长Ishaq Dar：美伊双方已就降低浓缩铀丰度达成一致。 伊朗的浓缩铀丰度将从60%降至0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3122348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -187,208 +231,186 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
-          "title": "美国与伊朗在瑞士会谈开始",
-          "url": "https://flash.jin10.com/detail/20260621192845241800",
+          "title": "卡塔尔总理：我们看到了来自美国副总统万斯、巴基斯坦总理和伊朗外长的奉献和巨大努力。",
+          "url": "https://flash.jin10.com/detail/20260621210323670800",
           "source": "金十数据",
           "ranks": [
-            6
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "23时08分"
+        },
+        {
+          "title": "消息人士称伊朗无意与国际原子能机构总干事谈判",
+          "url": "https://wallstreetcn.com/livenews/3122341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "伊朗消息人士：若以继续军事行动，海峡不会重开",
+          "url": "https://wallstreetcn.com/livenews/3122338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "伊朗总统办公室：谈判首要任务是结束黎以冲突",
+          "url": "https://wallstreetcn.com/livenews/3122337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "伊朗、美国和卡塔尔开会讨论黎巴嫩局势",
+          "url": "https://wallstreetcn.com/livenews/3122336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "伊朗总统：不会制造核武器 不会放弃铀浓缩权利",
           "url": "https://wallstreetcn.com/livenews/3122333",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：我希望参与谈判的各方能够成功推动进程。",
-          "url": "https://flash.jin10.com/detail/20260621192048298800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "卡塔尔外交部发言人：已成立技术和专家小组，商讨美国与伊朗之间最终协议的条款；并已成立后续小组，负责落实谅解备忘录，直至最终协议达成。",
-          "url": "https://flash.jin10.com/detail/20260621191824832800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "美国与伊朗在瑞士会谈开始",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%9C%A8%E7%91%9E%E5%A3%AB%E4%BC%9A%E8%B0%88%E5%BC%80%E5%A7%8B%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "据阿拉伯卫星电视台：卡塔尔方面表示，希望美国与伊朗的会谈能达成持久和全面的协议。",
-          "url": "https://flash.jin10.com/detail/20260621191704924800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：美国、伊朗、卡塔尔三方会议“目前正在”瑞士举行，讨论黎巴嫩停火及伊朗被冻结资产问题。",
-          "url": "https://flash.jin10.com/detail/20260621191039536800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：接近谈判团队的消息人士称，只要黎巴嫩停火协议未得到遵守、且伊朗石油销售豁免权未获批准，霍尔木兹海峡就不会重新开放。",
-          "url": "https://flash.jin10.com/detail/20260621190645458800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
-          "url": "https://wallstreetcn.com/livenews/3122321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗外交部：伊美与调解方四方会谈将在21日下午举行",
-          "url": "https://wallstreetcn.com/livenews/3122320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗媒体称霍尔木兹海峡仍然关闭",
-          "url": "https://wallstreetcn.com/livenews/3122317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗外长与瑞士外长在瑞士比尔根山会晤",
-          "url": "https://wallstreetcn.com/livenews/3122311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "据阿拉伯卫星电视台：伊朗方面警告称，除非黎巴嫩战事结束，否则不会与美国就任何更广泛的协议展开谈判。",
-          "url": "https://flash.jin10.com/detail/20260621183218715800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗外交部称伊朗将跟进美方履行其承诺",
-          "url": "https://flash.jin10.com/detail/20260621182729493800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "伊朗队主帅最新发声：美方将在世界杯小组赛第三场比赛中放宽对伊朗队的旅行限制",
-          "url": "https://wallstreetcn.com/livenews/3122291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "23时08分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 16,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 16 条热点，覆盖 4 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 60,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
+        {
+          "title": "特朗普：斯塔默将辞去英国首相职务",
+          "url": "https://wallstreetcn.com/livenews/3122370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "【特朗普就黎巴嫩问题再度威胁伊朗】美国总统特朗普21日在社交媒体上发文称，伊朗必须立即停止在黎巴嫩的“代理人”行动，否则美国将会再次对伊朗发起猛烈打击，“就像上周那样，而且会更猛烈”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3122368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
+          "url": "https://news.ifeng.com/c/8u90rSz0ftO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
         {
           "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
           "url": "https://www.cls.cn/detail/2404722",
           "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
-          "title": "特朗普：美国正在蓬勃发展 在各个方面“大获全胜”",
-          "url": "https://flash.jin10.com/detail/20260621194301245800",
+          "title": "美国总统特朗普：以色列无法“干掉”（黎巴嫩）真主党，这让我感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3122366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗的谅解备忘录（MoU）仅仅是（之前）停火的延长而已。 伊朗必须阻止在黎巴嫩的代理人（给以色列）制造麻烦。 如果代理人没有被阻止，我们（美国与以色列）将再次袭击伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3122364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：昨天有1900万桶石油流出波斯湾。",
+          "url": "https://wallstreetcn.com/livenews/3122360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：Pezeshkian（伊朗总统）要管好自己的嘴。",
+          "url": "https://wallstreetcn.com/livenews/3122359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：斯塔默将辞去英国首相职务。他在两个非常重要的议题上表现糟糕，即移民和能源（开放北海石油！）。祝他一切顺利！",
+          "url": "https://flash.jin10.com/detail/20260621215950118800",
           "source": "金十数据",
           "ranks": [
-            2
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "23时08分"
         },
         {
           "title": "特朗普的新专机，首次亮相",
@@ -398,19 +420,74 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-21）",
-          "url": "https://flash.jin10.com/detail/20260621184020175800",
+          "title": "据福克斯新闻：特朗普对以色列“收拾不了真主党”感到失望。特朗普称考虑授权叙利亚进入黎巴嫩南部地区。",
+          "url": "https://flash.jin10.com/detail/20260621214336991800",
           "source": "金十数据",
           "ranks": [
-            18
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "万斯称特朗普致力于区域全面停火",
+          "url": "https://wallstreetcn.com/livenews/3122356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "特朗普威胁伊朗控制真主党 否则将再次发动打击",
+          "url": "https://flash.jin10.com/detail/20260621213111218800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
+          "url": "https://wallstreetcn.com/livenews/3122351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美媒：特朗普昨夜警告伊朗不要关闭霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260621210602297800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     },
@@ -418,10 +495,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -430,35 +507,11 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价大跌消费者涌入柜台",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E6%B6%8C%E5%85%A5%E6%9F%9C%E5%8F%B0%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时05分"
+          "time_info": "23时08分"
         }
       ]
     },
@@ -466,10 +519,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -481,8 +534,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     }
