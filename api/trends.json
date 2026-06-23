@@ -1,133 +1,85 @@
 {
-  "generated_at": "2026-06-23T21:38:44.459689+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-24T00:22:25.054758+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "伊朗",
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 14.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 5 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-06-23）",
-          "url": "https://flash.jin10.com/detail/20260623211452556800",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和阿曼同意成立霍尔木兹海峡委员会。",
+          "url": "https://flash.jin10.com/detail/20260624001748962800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3123463",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统佩泽希齐扬：希望开启伊朗与巴基斯坦之间的新篇章。",
+          "url": "https://flash.jin10.com/detail/20260624001710650800",
+          "source": "金十数据",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
         },
         {
-          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超3%，标普500指数期货跌1.5%，道指期货跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3123456",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统佩泽希齐扬：与巴基斯坦官员举行了建设性会谈。",
+          "url": "https://flash.jin10.com/detail/20260624001658877800",
+          "source": "金十数据",
           "ranks": [
-            16
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
         },
         {
-          "title": "SpaceX美股盘前涨幅扩大至2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3123440",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统佩泽希齐扬：讨论了很多关于该地区最新发展的重要观点。",
+          "url": "https://flash.jin10.com/detail/20260624001633458800",
+          "source": "金十数据",
           "ranks": [
-            27
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 18.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
+          "time_info": "00时22分"
+        },
         {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
+          "title": "伊朗总统：近期事件凸显了与巴基斯坦关系的改善。",
+          "url": "https://flash.jin10.com/detail/20260624001449666800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗总统：与巴基斯坦的关系建立在相互尊重之上。",
+          "url": "https://flash.jin10.com/detail/20260624001441421800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
         },
-        {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3123433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "特朗普：昨天有1900万桶石油从霍尔木兹海峡流出",
-          "url": "https://wallstreetcn.com/livenews/3123432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 15.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
           "url": "https://wallstreetcn.com/articles/3775244",
@@ -137,40 +89,187 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
         },
         {
-          "title": "伊朗总统佩泽希齐扬与巴基斯坦陆军参谋长穆尼尔讨论防务合作。",
-          "url": "https://wallstreetcn.com/livenews/3123462",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗代表：霍尔木兹海峡已免费开放",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%EF%BC%9A%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B7%B2%E5%85%8D%E8%B4%B9%E5%BC%80%E6%94%BE",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
         },
         {
-          "title": "美财政部放宽对伊朗能源相关交易限制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431377",
-          "source": "澎湃新闻",
+          "title": "巴基斯坦总理Sharif会见伊朗总统时表示：我们永远不会让你们感到失望。 巴方将继续发挥调停作用，直至实现持久和平。 伊朗（与美国）了谅解备忘录（MoU）。 MoU并没有涉及弹道导弹，（美国）不可以在弹道导弹问题上搞双标。 伊朗不希望讨论。 巴伊两国将携手合作，实现互利共赢。",
+          "url": "https://wallstreetcn.com/livenews/3123558",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：如果伊朗代理人发射导弹，就无法结束该地区的敌对行动。",
+          "url": "https://flash.jin10.com/detail/20260624000609278800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "加拿大央行行长Macklem：5月CPI报告与央行预期吻合。 迄今，还没有迹象表明石油价格扩散至整体CPI。 伊朗和平协议缓解了一些通胀上行的压力。 总体而言，央行目前尚未看到高油价大幅传导至其他商品和服务的价格中。 食品通胀是一个令人担忧的问题。",
+          "url": "https://wallstreetcn.com/livenews/3123551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "巴基斯坦总理：伊朗的损失就是我们的损失。巴基斯坦和伊朗是紧密相连的兄弟，我们不仅仅是邻国。",
+          "url": "https://flash.jin10.com/detail/20260623235939915800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "比利时0-0伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗总统访问巴基斯坦 两国重申加强双边关系与地区和平",
+          "url": "https://wallstreetcn.com/livenews/3123537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 9.6 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
+          "url": "https://wallstreetcn.com/livenews/3123570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "据英国金融时报：知情人士透露，特朗普在上周的七国集团峰会上对乌克兰在俄罗斯境内进行的远程打击“印象深刻，并表示非常赞赏”。特朗普还同意加大对俄罗斯能源的制裁力度。",
+          "url": "https://flash.jin10.com/detail/20260624001541670800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普提前宣布斯塔默辞职有何意味",
+          "url": "https://www.toutiao.com/trending/7654527066271911478/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
+          "url": "https://www.zhihu.com/question/2052707670289806571",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     },
@@ -178,10 +277,10 @@
       "keyword_group": "美债",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -194,18 +293,53 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
           "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股集体低开 纳指跌超2%",
+          "url": "https://www.douyin.com/hot/2545296",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
         }
       ]
     },
@@ -213,10 +347,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -225,11 +359,59 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "谷歌：为某些金融服务广告主引入新的验证要求。",
+          "url": "https://flash.jin10.com/detail/20260624000741229800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 66,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
