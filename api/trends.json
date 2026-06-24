@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-24T22:08:53.737394+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-25T01:01:32.929200+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 17.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 14.1 位，标题平均出现 1.2 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 54,
         "chart": []
       },
       "titles": [
@@ -22,74 +22,118 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
+        },
+        {
+          "title": "铝价回归伊朗战争前水平，美元走强和海湾供应恢复希望",
+          "url": "https://wallstreetcn.com/livenews/3124157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时01分"
+        },
+        {
+          "title": "巴西石油监管机构ANP负责人表示，在美国与伊朗达成初步协议后，国内燃料价格正逐渐回落。",
+          "url": "https://flash.jin10.com/detail/20260625003756663800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "伊朗：签谅解备忘录表明“美国战败”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            6
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
         },
         {
-          "title": "美国国务院官员：美国驻科威特大使馆在因伊朗袭击而暂停运作后已恢复运作。",
-          "url": "https://flash.jin10.com/detail/20260624212337503800",
+          "title": "伊朗外交部发言人巴加埃：只有结束美国的干涉与占领，西亚地区才能实现真正的和平。",
+          "url": "https://flash.jin10.com/detail/20260625002731667800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "美国国务卿卢比奥：霍尔木兹海峡不会收取费用。 （美国与伊朗的）技术团队将恢复对话，我相信会在6月30日（重新对话）。 技术性磋商是工作人员层面的。",
+          "url": "https://wallstreetcn.com/livenews/3124146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "鲁比奥重申，伊朗不能对霍尔木兹过境收取费用",
+          "url": "https://flash.jin10.com/detail/20260625001726784800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时01分"
         },
         {
-          "title": "伊朗议长：伊美签署谅解备忘录表明“美国战败”",
-          "url": "https://wallstreetcn.com/livenews/3124057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "国际原子能机构称美伊“口水战”不会阻碍对伊朗的核核查",
-          "url": "https://wallstreetcn.com/livenews/3124046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "伊朗议长：伊美签署谅解备忘录表明“美国战败”",
-          "url": "https://flash.jin10.com/detail/20260624211629200800",
+          "title": "市场消息：美国国务卿鲁比奥表示，美国技术团队将于本月30日重返与伊朗的谈判。",
+          "url": "https://flash.jin10.com/detail/20260625001449688800",
           "source": "金十数据",
           "ranks": [
-            26
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时01分"
         },
         {
-          "title": "卡塔尔首相位于阿曼，参加伊朗与海湾国家的霍尔木兹问题会谈。（法新社）",
-          "url": "https://wallstreetcn.com/livenews/3124045",
+          "title": "美国国务卿鲁比奥：技术团队目前正在敲定与伊朗达成协议的细节。",
+          "url": "https://flash.jin10.com/detail/20260625001324712800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
+          "url": "https://flash.jin10.com/detail/20260625001227488800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "伊朗外长与沙特外交大臣通电话。",
+          "url": "https://wallstreetcn.com/livenews/3124128",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时01分"
         }
       ]
     },
@@ -97,10 +141,10 @@
       "keyword_group": "美股",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 61,
         "chart": []
       },
       "titles": [
@@ -112,30 +156,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
         },
         {
-          "title": "美股盘初：黄金股普跌，SpaceX跌约1%",
-          "url": "https://wallstreetcn.com/livenews/3124074",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260625003422569800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时01分"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
           "url": "https://www.zhihu.com/question/2052869201178652833",
           "source": "知乎",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -145,41 +189,41 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
         },
         {
-          "title": "SpaceX美股盘前跌幅扩大至2.7%，至日内低点。",
-          "url": "https://wallstreetcn.com/livenews/3124063",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年06月24日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260625003209642800",
+          "source": "金十数据",
           "ranks": [
-            14
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时01分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3124055",
+          "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
+          "url": "https://wallstreetcn.com/livenews/3124140",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时01分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 60,
         "chart": []
       },
       "titles": [
@@ -191,98 +235,100 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
           "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
         },
         {
-          "title": "白宫：特朗普将于周五在华盛顿主持会议。",
-          "url": "https://wallstreetcn.com/livenews/3124067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普将于周五在华盛顿特区举行新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260624211811566800",
+          "title": "鲁比奥：要么伊朗履行承诺，要么特朗普采取行动",
+          "url": "https://flash.jin10.com/detail/20260625003348617800",
           "source": "金十数据",
           "ranks": [
-            24
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时01分"
         },
         {
-          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
-          "url": "https://wallstreetcn.com/livenews/3124039",
+          "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
+          "url": "https://wallstreetcn.com/livenews/3124142",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时01分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
         {
-          "title": "美股开盘，道指平开、标普500指数涨0.1%、纳指涨0.15%。博通(AVGO.O)开涨1%，公司宣布与OpenAI发布AI芯片，旨在更快、更经济地运行模型；美光科技(MU.O)开涨0.5%，公司即将公布三季度财报，SpaceX(SPCX.O)开跌0.98%。",
-          "url": "https://flash.jin10.com/detail/20260624213116594800",
+          "title": "谷歌(GOOG.O)：在 Gemini 3.5 Flash 中引入“计算机使用”功能。",
+          "url": "https://flash.jin10.com/detail/20260625002330921800",
           "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
-        },
+          "time_info": "01时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
-          "url": "https://wallstreetcn.com/livenews/3124062",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
           "ranks": [
-            15
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -294,67 +340,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "中东冲突缓和之际 美债收益率下滑",
-          "url": "https://flash.jin10.com/detail/20260624211629052800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 69,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)上涨1.3%；公司将取代Verizon Communications成为道琼斯工业平均指数成分股。",
-          "url": "https://flash.jin10.com/detail/20260624213729325800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
         }
       ]
     }
