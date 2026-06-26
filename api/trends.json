@@ -1,16 +1,84 @@
 {
-  "generated_at": "2026-06-26T10:32:32.912094+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-26T14:45:22.167261+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "keyword_group": "金价",
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 15.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 85,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金价跌回3字头 半年回撤30%",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "凯投宏观：美联储加息预期推升实际收益率，今年年底金价或跌至3500美元",
+          "url": "https://flash.jin10.com/detail/20260626135717059800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "金价跌回3字头半年回撤30%",
+          "url": "https://www.toutiao.com/trending/7655352007544278564/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -23,132 +91,75 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "DeepSeek大规模招聘：至少扩大一倍",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%9A%E8%87%B3%E5%B0%91%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "DeepSeek大规模招聘",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价跌回3字头半年回撤30%",
-          "url": "https://www.toutiao.com/trending/7655352007544278564/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         },
         {
-          "title": "金价跌回3字头 半年回撤30%",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "金价回落至900元以下",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%90%BD%E8%87%B3900%E5%85%83%E4%BB%A5%E4%B8%8B%23&t=31&band_rank=26&Refer=top",
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "伊朗",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 12.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
         {
-          "title": "美最高法院裁决支持特朗普强硬移民政策",
-          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
-          "source": "凤凰网",
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
+          "source": "财联社热门",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         },
         {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
+          "title": "摩根大通：即使和平协议得以维持，伊朗冲突仍将影响EMEA（欧洲、中东及非洲）地区市场的市场状况。",
+          "url": "https://flash.jin10.com/detail/20260626140754271800",
+          "source": "金十数据",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         },
         {
-          "title": "据白宫官员透露，特朗普将首次乘坐卡塔尔政府赠送的新总统专机，计划于7月1日前往北达科他州参加活动。",
-          "url": "https://wallstreetcn.com/livenews/3124934",
-          "source": "华尔街见闻-快讯",
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
           "ranks": [
-            18
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         }
       ]
     },
@@ -172,7 +183,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         },
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -183,7 +194,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         }
       ]
     },
@@ -191,10 +202,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -203,11 +214,11 @@
           "url": "https://www.zhihu.com/question/2052444159282082405",
           "source": "知乎",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         }
       ]
     },
@@ -215,47 +226,47 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
         {
-          "title": "受OpenAI IPO可能推迟影响，软银股价暴跌",
-          "url": "https://flash.jin10.com/detail/20260626095032489800",
+          "title": "特朗普政府首次介入AI模型发布：要求OpenAI限制首批开放范围",
+          "url": "https://flash.jin10.com/detail/20260626141456067800",
           "source": "金十数据",
           "ranks": [
-            21
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "特朗普",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
         {
-          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
-          "url": "https://www.cls.cn/detail/2409704",
-          "source": "财联社热门",
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "14时45分"
         }
       ]
     }
