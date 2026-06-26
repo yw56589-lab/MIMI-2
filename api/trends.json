@@ -1,131 +1,19 @@
 {
-  "generated_at": "2026-06-27T02:24:35.554045+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-27T04:28:27.196598+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 3 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美国总统特朗普批评纽约市的租金冻结措施。",
-          "url": "https://flash.jin10.com/detail/20260627022215773800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
-          "url": "https://flash.jin10.com/detail/20260627022141001800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
-          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
-          "url": "https://flash.jin10.com/detail/20260627021241822800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
-          "url": "https://wallstreetcn.com/livenews/3125418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3125410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "市场消息：特朗普即将发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260627015056714800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "特朗普威胁对任何征收数字服务税的国家加征100%关税",
-          "url": "https://wallstreetcn.com/livenews/3125400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 15.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 85,
         "chart": []
       },
       "titles": [
-        {
-          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
-          "url": "https://wallstreetcn.com/articles/3775543",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
         {
           "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
           "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
@@ -135,29 +23,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
         },
         {
-          "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
-          "url": "https://wallstreetcn.com/livenews/3125416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "据以色列i24News：以色列总理内塔尼亚胡将协议描述为伊朗的战略失败，并表示德黑兰在黎巴嫩的未来中没有任何角色。",
-          "url": "https://flash.jin10.com/detail/20260627020711882800",
+          "title": "伊朗努尔新闻报道称，伊朗锡里克地区传出爆炸声，来源不明。",
+          "url": "https://flash.jin10.com/detail/20260627041007223800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
         },
         {
           "title": "关关难过关关过，伊朗终于迎来世界杯命运一战",
@@ -168,86 +45,189 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队发言人：驳斥有关“与美国建立霍尔木兹海峡‘热线’”的说法，海峡是伊朗的领海，与美国没有任何关系。（NourNews）",
-          "url": "https://wallstreetcn.com/livenews/3125406",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://www.toutiao.com/trending/7655052095490326578/",
+          "source": "今日头条",
           "ranks": [
-            21
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
         },
         {
-          "title": "阿联酋与伊朗外长通话讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3125424",
+          "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
+          "url": "https://wallstreetcn.com/livenews/3125416",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 12.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "金十图示：2026年06月26日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260627040745332800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美股收盘，道指跌0.12%、标普500指数跌0.07%、纳指跌0.24%。半导体、存储概念股走软，西部数据(WDC.O)跌13%、希捷科技(STX.O)跌12%、闪迪(SNDK.O)跌10%、美光科技(MU.O)跌6.6%、高通(QCOM.O)跌7%。",
+          "url": "https://flash.jin10.com/detail/20260627040045015800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 19.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
+          "url": "https://wallstreetcn.com/livenews/3125432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国总统特朗普：（当被问及伊朗在霍尔木兹海峡的行动时）你们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260627035601886800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
+          "url": "https://wallstreetcn.com/livenews/3125418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 16.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "【OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强】OpenAI表示，已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。Terra的性能与 GPT-5.5 相当，但成本低2倍；Luna则以其最低的成本提供了强大的能力。 GPT-5.6 Sol搭载了该公司迄今最强大的安全防护体系。加强了对高风险活动、敏感网络请求以及重复滥用行为的防护，并花费数周时间寻找系统弱点、进行压力测试，以增强其抵御现实世界攻击的能力。 该公司计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。作为我们与美国政府持续沟通的一部分，在周五发布之前，OpenAI提前向政府展示了该公司的发布计划以及模型的各项能力。 GPT-5.6 Sol是其迄今最强大的模型。",
+          "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3125443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
           "url": "https://wallstreetcn.com/livenews/3125429",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
-          "url": "https://flash.jin10.com/detail/20260627021924211800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
         },
         {
           "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
           "url": "https://wallstreetcn.com/livenews/3125428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美媒：美国政府将决定谁可以使用新版ChatGPT",
-          "url": "https://flash.jin10.com/detail/20260627020005789800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
         }
       ]
     },
@@ -255,7 +235,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 69,
@@ -271,53 +251,42 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
         },
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
           "url": "https://www.zhihu.com/question/2053625552725079594",
           "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "美元",
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
         {
-          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
+          "title": "美元指数本周涨约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3125447",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
         }
       ]
     }
