@@ -1,30 +1,19 @@
 {
-  "generated_at": "2026-06-29T02:06:56.503384+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-29T04:07:40.735345+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 17 条热点，覆盖 9 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 8 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 89,
+        "confidence": 88,
         "chart": []
       },
       "titles": [
-        {
-          "title": "伊朗外长与伊拉克总理举行会谈",
-          "url": "https://flash.jin10.com/detail/20260629014334485800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
           "url": "https://www.cls.cn/detail/2410985",
@@ -34,21 +23,21 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
-          "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470204",
-          "source": "澎湃新闻",
+          "title": "伊朗官员称伊朗未参加周日的谈判",
+          "url": "https://flash.jin10.com/detail/20260629033956153800",
+          "source": "金十数据",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
-          "title": "报道：美国和伊朗即将举行的谈判已被取消。",
+          "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
           "url": "https://wallstreetcn.com/livenews/3125699",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -56,7 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470204",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "伊朗队队长怒斥：这届世界杯是场灾难",
@@ -67,18 +67,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
-          "url": "https://www.cls.cn/detail/2411069",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
           "title": "伊拉克在反腐行动中拘留的官员包括负责分销事务的副石油部长，美以发动伊朗战争后曾制裁该官员",
@@ -89,7 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
           "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
@@ -100,7 +89,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
+        },
+        {
+          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
+          "url": "https://www.cls.cn/detail/2411069",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "伊朗补刀,韩国队命悬一线",
@@ -111,7 +111,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
           "title": "伊朗将从下周一恢复迪拜航班。（伊朗媒体IRNA）",
@@ -122,7 +122,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
           "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
@@ -133,18 +133,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "伊朗队队长怒斥国际足联",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
           "title": "伊朗队球员哭诉：这届世界杯是场灾难",
@@ -155,62 +144,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
-          "title": "伊朗敦促美国为以色列“无条件”撤出黎巴嫩设定时间表",
-          "url": "https://flash.jin10.com/detail/20260628234842222800",
+          "title": "伊朗外长与伊拉克总理举行会谈",
+          "url": "https://flash.jin10.com/detail/20260629014334485800",
           "source": "金十数据",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
-          "title": "黎巴嫩议长办公室：伊朗议会议长卡利巴夫保证，德黑兰方面将依据谅解备忘录，推动以色列停止对黎巴嫩发动战事。",
-          "url": "https://flash.jin10.com/detail/20260628230833889800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "媒体：伊朗队出局但没输",
-          "url": "https://www.toutiao.com/trending/7656424033067470374/",
-          "source": "今日头条",
+          "title": "伊朗球员向伊朗人民道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E5%90%91%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E9%81%93%E6%AD%89%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "伊朗球员道歉 说着说着哭了",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E9%81%93%E6%AD%89+%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%93%AD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 6 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -223,7 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -234,7 +201,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
+        },
+        {
+          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -245,29 +223,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -278,7 +234,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
+        },
+        {
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
+          "url": "https://flash.jin10.com/detail/20260629024615359800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "美国总统特朗普称，林肯纪念堂倒影池在遭受严重损坏后现已全面投入使用。",
+          "url": "https://flash.jin10.com/detail/20260629024517840800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
@@ -289,7 +278,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
@@ -300,18 +289,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -324,18 +313,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         }
       ]
     },
@@ -359,7 +337,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         }
       ]
     },
@@ -367,10 +345,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
@@ -379,11 +357,11 @@
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时07分"
         }
       ]
     }
