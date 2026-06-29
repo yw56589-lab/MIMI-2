@@ -1,154 +1,246 @@
 {
-  "generated_at": "2026-06-29T18:25:31.871114+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-29T22:43:07.085523+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 12.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 7.6 位，标题平均出现 1.4 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 54,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗官员称本周未安排技术工作组会议",
-          "url": "https://flash.jin10.com/detail/20260629175938214800",
+          "title": "市场消息：美国最高法院支持美国总统特朗普解雇联邦贸易委员会成员。",
+          "url": "https://flash.jin10.com/detail/20260629221812054800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "22时43分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社，伊朗表示本周没有与美国进行技术性会谈的计划。塔斯尼姆通讯社",
-          "url": "https://wallstreetcn.com/livenews/3126058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗方面表示与美国在多哈的会谈地点尚未确认。",
-          "url": "https://flash.jin10.com/detail/20260629175656558800",
-          "source": "金十数据",
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
-          "title": "伊朗：本周未安排技术会议",
-          "url": "https://flash.jin10.com/detail/20260629175238491800",
-          "source": "金十数据",
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
+          "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
-          "title": "据伊朗法尔斯通讯社：受美国采取激进措施影响，霍尔木兹海峡航运活动有所减少，目前船舶过境作业通过伊朗航道进行。",
-          "url": "https://flash.jin10.com/detail/20260629173551889800",
+          "title": "市场消息：美国最高法院拒绝允许特朗普罢免美联储理事丽莎·库克，允许丽莎·库克暂且继续留任。",
+          "url": "https://flash.jin10.com/detail/20260629221647822800",
           "source": "金十数据",
           "ranks": [
-            22
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "特朗普遭遇挫折 美国最高法院认可邮寄选票的宽限期",
+          "url": "https://flash.jin10.com/detail/20260629221213800800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 15.2 位，标题平均出现 1.4 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 61,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
+          "url": "https://news.ifeng.com/c/8uM7iWAJLGu",
+          "source": "凤凰网",
+          "ranks": [
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "伊朗补刀,韩国队命悬一线",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
           "source": "贴吧",
           "ranks": [
-            27
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "阿曼伊朗联合工作组就霍尔木兹海峡问题举行首次会议",
+          "url": "https://wallstreetcn.com/livenews/3126219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美国国务卿鲁比奥和美国总统特使威特科夫今天将向众议院和参议院汇报伊朗局势。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3126211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "阿曼伊朗联合工作组就霍尔木兹海峡问题举行首次会议",
+          "url": "https://flash.jin10.com/detail/20260629220503256800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 17.5 位，标题平均出现 1.2 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 54,
         "chart": []
       },
       "titles": [
         {
-          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
+          "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
-          "title": "电池技术公司Solidion Technology美股盘前上涨26.5%，此前公司宣布将购买SpaceX(SPCX.O)股份作为战略储备资产。",
-          "url": "https://flash.jin10.com/detail/20260629174744708800",
-          "source": "金十数据",
+          "title": "美股太空股ETF涨幅一度高达4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126203",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "22时43分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初涨约2.1%，进入连续第二个交易日反弹，报90.02美元，",
+          "url": "https://wallstreetcn.com/livenews/3126202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美股三大指数集体高开，纳指涨0.8%，标普500指数涨0.5%，道指涨0.23%。科技股涨跌不一，英伟达涨0.66%，部分存储概念股走低，美光科技跌超2%，闪迪跌超1%。Strategy涨近5%，此前公司宣布授权10亿美元优先股回购计划。康卡斯特上涨12%，公司计划分拆NBC环球。",
+          "url": "https://wallstreetcn.com/livenews/3126200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
-          "url": "https://www.cls.cn/detail/2411631",
-          "source": "财联社热门",
+          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
+          "url": "https://www.zhihu.com/question/2054981283089069609",
+          "source": "知乎",
           "ranks": [
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-29）",
-          "url": "https://flash.jin10.com/detail/20260629174526536800",
-          "source": "金十数据",
+          "title": "国际金价跳水",
+          "url": "https://www.douyin.com/hot/2552234",
+          "source": "抖音",
           "ranks": [
-            17
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         }
       ]
     }
