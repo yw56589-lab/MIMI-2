@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-04T22:59:17.257936+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-05T00:02:53.003547+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 3 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 2 个来源平台，平均热榜排名约 10.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
@@ -34,18 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
-          "url": "https://flash.jin10.com/detail/20260704221625100800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
@@ -56,7 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
+        },
+        {
+          "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
+          "url": "https://flash.jin10.com/detail/20260704221625100800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
@@ -67,29 +67,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
           "url": "https://flash.jin10.com/detail/20260704220954516800",
           "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
-          "url": "https://flash.jin10.com/detail/20260704214033656800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
@@ -100,40 +89,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
+        },
+        {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://flash.jin10.com/detail/20260704214033656800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
           "url": "https://flash.jin10.com/detail/20260704212154579800",
           "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
           "url": "https://flash.jin10.com/detail/20260704211410750800",
           "source": "金十数据",
           "ranks": [
-            14
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
           "url": "https://flash.jin10.com/detail/20260704200114603800",
           "source": "金十数据",
           "ranks": [
-            20
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -144,18 +144,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E6%B3%AA%E5%88%AB%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         }
       ]
     },
@@ -179,7 +168,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
@@ -190,7 +179,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -201,7 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
@@ -212,7 +201,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
@@ -223,7 +212,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         }
       ]
     },
@@ -231,7 +220,7 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 70,
@@ -247,18 +236,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时02分"
         }
       ]
     }
