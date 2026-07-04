@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-04T15:39:08.549171+08:00",
+  "generated_at": "2026-07-04T18:02:23.908800+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.1 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 63,
+        "confidence": 55,
         "chart": []
       },
       "titles": [
@@ -23,165 +23,108 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
-          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
-          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
-          "url": "https://flash.jin10.com/detail/20260704144842898800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
-          "url": "https://wallstreetcn.com/livenews/3128909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "伊朗议长在哈梅内伊告别仪式哭到颤抖",
-          "url": "https://www.toutiao.com/trending/7657921167663497262/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "伊朗为哈梅内伊葬礼烤5000万块面包",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%91%AC%E7%A4%BC%E7%83%A45000%E4%B8%87%E5%9D%97%E9%9D%A2%E5%8C%85%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3128908",
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时39分"
+          "time_info": "18时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://wallstreetcn.com/livenews/3128909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3128908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://flash.jin10.com/detail/20260704144842898800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "以色列检方称一美国公民为伊朗从事间谍活动",
           "url": "https://wallstreetcn.com/livenews/3128899",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时39分"
+          "time_info": "18时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 19.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
-          "url": "https://flash.jin10.com/detail/20260704124044168800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
-          "url": "https://flash.jin10.com/detail/20260704113342386800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
-          "url": "https://wallstreetcn.com/livenews/3128882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 53,
         "chart": []
       },
       "titles": [
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
-          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
-          "url": "https://wallstreetcn.com/articles/3776162",
-          "source": "华尔街见闻",
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
@@ -205,31 +148,31 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
+          "time_info": "[18时01分 ~ 18时02分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 24.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 57,
+        "confidence": 68,
         "chart": []
       },
       "titles": [
         {
-          "title": "宇树高管谈具身智能ChatGPT时刻",
-          "url": "https://flash.jin10.com/detail/20260704110855518800",
-          "source": "金十数据",
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
           "ranks": [
-            24
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
         }
       ]
     }
