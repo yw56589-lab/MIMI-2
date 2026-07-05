@@ -1,51 +1,73 @@
 {
-  "generated_at": "2026-07-05T17:35:34.774196+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-05T19:24:40.911856+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 6 个来源平台，平均热榜排名约 14.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 6 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
         {
-          "title": "普京与特朗普通话85分钟，细节公布",
-          "url": "https://news.ifeng.com/c/8uVO6TXjAXb",
+          "title": "特朗普又把自己加上了“总统山”",
+          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         },
         {
-          "title": "特朗普称内塔尼亚胡知道“谁是老大”",
-          "url": "https://news.ifeng.com/c/8uVCbfraHd5",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-05）",
+          "url": "https://flash.jin10.com/detail/20260705184446232800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "普京与特朗普通话85分钟，细节公布",
+          "url": "https://news.ifeng.com/c/8uVO6TXjAXb",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
           "url": "https://wallstreetcn.com/articles/3776207",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
+        },
+        {
+          "title": "特朗普称内塔尼亚胡知道“谁是老大”",
+          "url": "https://news.ifeng.com/c/8uVCbfraHd5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
@@ -56,18 +78,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         },
         {
-          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
-          "url": "https://wallstreetcn.com/livenews/3128968",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -78,187 +100,108 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         },
         {
-          "title": "普京与特朗普通话85分钟",
-          "url": "https://www.toutiao.com/trending/7657794287316664371/",
-          "source": "今日头条",
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
+        },
+        {
+          "title": "特朗普皮一下赶紧躲回安全区",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%AE%E4%B8%80%E4%B8%8B%E8%B5%B6%E7%B4%A7%E8%BA%B2%E5%9B%9E%E5%AE%89%E5%85%A8%E5%8C%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "内塔尼亚胡近期将访美与特朗普会晤",
           "url": "https://wallstreetcn.com/livenews/3128954",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "普京与特朗普通话85分钟",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D85%E5%88%86%E9%92%9F",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         },
         {
           "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
           "url": "https://wallstreetcn.com/livenews/3128952",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
-          "url": "https://wallstreetcn.com/livenews/3128951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 20.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 18.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "梅德韦杰夫：伊朗手握有两大底牌，不亚于核武器",
-          "url": "https://news.ifeng.com/c/8uVfRfTDNZu",
-          "source": "凤凰网",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国际海事局表示，卡塔尔鲁韦斯港和伊朗港口之间的海上贸易恢复。",
+          "url": "https://flash.jin10.com/detail/20260705184100307800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
+        },
+        {
+          "title": "伊朗政府发言人：我们正在依法推进就前最高领袖遇刺案提起申诉的相关程序，目前已从证据收集阶段开始。",
+          "url": "https://flash.jin10.com/detail/20260705173727294800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "伊朗举国哀悼哈梅内伊，新最高领袖仍未公开露面",
           "url": "https://flash.jin10.com/detail/20260705164059369800",
           "source": "金十数据",
           "ranks": [
-            8
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         },
         {
           "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3128953",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "伊朗外长会晤黎真主党及哈马斯代表",
-          "url": "https://wallstreetcn.com/livenews/3128948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
-          "url": "https://wallstreetcn.com/livenews/3128947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://wallstreetcn.com/livenews/3128945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
-          "url": "https://wallstreetcn.com/articles/3776204",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
-          "url": "https://www.zhihu.com/question/2055415968537618014",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         }
       ]
     },
@@ -266,10 +209,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
@@ -278,35 +221,35 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
         {
-          "title": "招金黄金：若未来黄金价格大幅波动 将对公司经营业绩产生较大影响",
-          "url": "https://flash.jin10.com/detail/20260705160914671800",
-          "source": "金十数据",
+          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
+          "url": "https://wallstreetcn.com/articles/3776204",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "19时24分"
         }
       ]
     }
