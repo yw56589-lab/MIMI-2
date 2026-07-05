@@ -1,30 +1,19 @@
 {
-  "generated_at": "2026-07-06T04:48:33.762633+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-06T05:53:21.877120+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 5 个来源平台，平均热榜排名约 13.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 5 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 84,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
-          "url": "https://flash.jin10.com/detail/20260706042147057800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
           "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
@@ -34,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -45,7 +34,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
+        },
+        {
+          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
+          "url": "https://flash.jin10.com/detail/20260706050829580800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -56,18 +56,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
+          "url": "https://flash.jin10.com/detail/20260706042147057800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
           "url": "https://flash.jin10.com/detail/20260706033046611800",
           "source": "金十数据",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -78,73 +89,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
           "url": "https://flash.jin10.com/detail/20260706024451820800",
           "source": "金十数据",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "特朗普再次呼吁废除“冗长辩论”机制",
           "url": "https://flash.jin10.com/detail/20260706022746976800",
           "source": "金十数据",
           "ranks": [
-            17
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "据悉特朗普致电普京与泽连斯基，力求重启陷入停滞的和平谈判，并主动提出在土耳其北约峰会之前，协助斡旋俄乌问题的解决方案。",
           "url": "https://flash.jin10.com/detail/20260706014701554800",
           "source": "金十数据",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "美国高级官员：特朗普将在北约峰会期间讨论霍尔木兹海峡的航行问题。盟友已准备好参与保护霍尔木兹海峡的航运安全。",
-          "url": "https://flash.jin10.com/detail/20260706012858730800",
-          "source": "金十数据",
-          "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "美国高级官员：特朗普认为必须尽快结束俄乌冲突，俄乌前线战局已僵持数月。美方有望在结束乌克兰战事方面取得进展。",
-          "url": "https://flash.jin10.com/detail/20260706012207769800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "美国高级官员：相信特朗普将与俄罗斯普京进行后续沟通。",
-          "url": "https://flash.jin10.com/detail/20260706012031099800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
@@ -155,7 +133,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         }
       ]
     },
@@ -163,7 +141,7 @@
       "keyword_group": "伊朗",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 83,
@@ -179,7 +157,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -190,51 +168,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
           "url": "https://flash.jin10.com/detail/20260706023539814800",
           "source": "金十数据",
           "ranks": [
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
           "url": "https://www.zhihu.com/question/2056886502731297310",
           "source": "知乎",
           "ranks": [
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：敌对势力已经明白，要想达成黎巴嫩以及整个中东区域的和平稳定，伊朗的参与是不可或缺的。",
           "url": "https://flash.jin10.com/detail/20260706023506164800",
           "source": "金十数据",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
           "url": "https://flash.jin10.com/detail/20260706013917109800",
           "source": "金十数据",
           "ranks": [
-            21
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         }
       ]
     },
@@ -258,7 +236,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -269,7 +247,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         }
       ]
     },
@@ -293,7 +271,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时53分"
         }
       ]
     }
