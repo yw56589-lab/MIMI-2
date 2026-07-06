@@ -1,54 +1,30 @@
 {
-  "generated_at": "2026-07-06T15:08:33.115906+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-06T19:56:55.187670+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 3.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
         {
-          "title": "无惧短期回调？汇丰：金价年底前将进一步上涨，有“三大支撑”！",
-          "url": "https://www.cls.cn/detail/2417366",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "从6000砍到4500！小摩预计金价下半年反弹空间有限",
-          "url": "https://flash.jin10.com/detail/20260706142123505800",
+          "title": "SK海力士正式启动美股上市营销推介流程",
+          "url": "https://flash.jin10.com/detail/20260706192535279800",
           "source": "金十数据",
           "ranks": [
-            21
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
+          "time_info": "19时56分"
+        },
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
@@ -58,29 +34,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "19时56分"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "19时56分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -93,18 +69,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "19时56分"
         },
         {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
-          "source": "华尔街见闻",
+          "title": "以色列总理内塔尼亚胡：特朗普和我在许多问题上意见一致。我与特朗普的关系很好。",
+          "url": "https://flash.jin10.com/detail/20260706192506914800",
+          "source": "金十数据",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "19时56分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在很多事情上看法一致。 我与特朗普的关系“没问题”。 尚未确定访美日期。",
+          "url": "https://wallstreetcn.com/livenews/3129367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         }
       ]
     },
@@ -112,34 +99,34 @@
       "keyword_group": "伊朗",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
-        {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
         {
           "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
           "url": "https://news.ifeng.com/c/8uXROeZKlPw",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "19时56分"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         }
       ]
     }
