@@ -1,16 +1,161 @@
 {
-  "generated_at": "2026-07-09T16:19:51.233661+08:00",
+  "generated_at": "2026-07-09T19:51:50.426783+08:00",
   "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
+      "keyword_group": "伊朗",
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 4 个来源平台，平均热榜排名约 14.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗向美军事基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3131352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗布什尔省阿萨卢耶市贝努德村一处渔船码头遭轰炸。",
+          "url": "https://flash.jin10.com/detail/20260709193743947800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "伊朗称美军空袭布什尔省已致3人死亡",
+          "url": "https://wallstreetcn.com/livenews/3131349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "伊朗阿巴斯港传出多次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
+          "url": "https://www.zhihu.com/question/2058455554222027217",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "美军驻约旦基地遭伊朗袭击",
+          "url": "https://wallstreetcn.com/livenews/3131336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "伊媒：伊朗阿巴斯港传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260709192905737800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "【伊朗媒体：布什尔核电站周边区域遭美军袭击】伊朗媒体9日援引布什尔省副省长的话说，当日下午，布什尔省多地遭美军袭击，其中包括布什尔核电站周边区域。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3131324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "约旦武装部队：伊朗此次袭击未造成人员伤亡或财产损失。",
+          "url": "https://flash.jin10.com/detail/20260709192415459800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "约旦武装部队：我们拦截并击落了8枚从伊朗发射的导弹。",
+          "url": "https://flash.jin10.com/detail/20260709192111048800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "伊朗布什尔核电站周边遭到美国炮弹袭击。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3131315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -19,44 +164,22 @@
           "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "19时51分"
         },
         {
-          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
-          "url": "https://wallstreetcn.com/articles/3776459",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
           "source": "澎湃新闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！",
-          "url": "https://wallstreetcn.com/articles/3776465",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "19时51分"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -67,73 +190,53 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "19时51分"
         },
         {
-          "title": "特朗普决定将叙利亚从“支恐国家名单”中移除",
-          "url": "https://wallstreetcn.com/livenews/3131177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
-        },
+          "time_info": "19时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "特朗普要求切断美国与西班牙贸易往来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
-          "source": "澎湃新闻",
+          "title": "金价在近期将有季节性优势，强美元叙事面临多线风险！| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260709192942947800",
+          "source": "金十数据",
           "ranks": [
-            11
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普当面问泽连斯基：“你愿意去莫斯科吗”",
-          "url": "https://wallstreetcn.com/livenews/3131167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普要求切断美国与西班牙贸易往来，如何看待这一举动？",
-          "url": "https://www.zhihu.com/question/2058242652987045100",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "19时51分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 4.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -142,101 +245,11 @@
           "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
-          "url": "https://www.cls.cn/detail/2421042",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
-          "url": "https://www.cls.cn/detail/2421032",
-          "source": "财联社热门",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
-          "url": "https://www.cls.cn/detail/2421094",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
-          "url": "https://www.cls.cn/detail/2421013",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
-          "url": "https://www.zhihu.com/question/2058455554222027217",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "伊朗军方称打击中东地区多个美军目标",
-          "url": "https://wallstreetcn.com/livenews/3131158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "19时51分"
         }
       ]
     }
