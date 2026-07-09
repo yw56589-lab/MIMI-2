@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T01:12:51.135941+08:00",
+  "generated_at": "2026-07-10T03:23:59.912614+08:00",
   "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
@@ -7,13 +7,24 @@
       "keyword_group": "伊朗",
       "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 83,
         "chart": []
       },
       "titles": [
+        {
+          "title": "沙特阿拉伯和加拿大联合声明：谴责伊朗对霍尔木兹海峡商船的攻击。",
+          "url": "https://flash.jin10.com/detail/20260710030809303800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
         {
           "title": "美军称再次对伊朗发起打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
@@ -23,106 +34,95 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
+        },
+        {
+          "title": "据半岛电视台：伊朗布什尔省省长表示，正在调查布什尔和贾加德克爆炸原因，确认是否由防空系统或敌方投射物引发。",
+          "url": "https://flash.jin10.com/detail/20260710025539723800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "伊朗南部多地传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
           "url": "https://www.toutiao.com/trending/7659924718308327474/",
           "source": "今日头条",
           "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美官员称伊朗最新遭袭与美国无关",
+          "url": "https://flash.jin10.com/detail/20260710025218462800",
+          "source": "金十数据",
+          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
-          "title": "比利时首相：阻止伊朗拥核是合理的，但相关行动执行并不顺利。",
-          "url": "https://flash.jin10.com/detail/20260710004302822800",
+          "title": "据伊朗迈赫尔通讯社报道，伊朗南部阿巴斯港当地时间9日晚传出数次爆炸声。（新华社）",
+          "url": "https://flash.jin10.com/detail/20260710023830037800",
           "source": "金十数据",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "以色列防长Katz：如果威胁再次出现，以色列将准备恢复袭击伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3131464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "伊朗谴责美军打击伊海事基础设施",
-          "url": "https://wallstreetcn.com/livenews/3131463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "比利时首相：伊朗危机反复无常，战争拖延正在拖累全球经济。",
-          "url": "https://flash.jin10.com/detail/20260710004151933800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
           "title": "伊朗称发射导弹摧毁美军一指挥中心",
           "url": "https://www.toutiao.com/trending/7660492985578032683/",
           "source": "今日头条",
           "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗南部阿巴斯港附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260710023239108800",
+          "source": "金十数据",
+          "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
-          "title": "伊朗警告美国不要再采取军事“冒险主义”行动",
-          "url": "https://flash.jin10.com/detail/20260710002939012800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "美伊紧张局势再度升温，伊朗紧急运出约1100万桶原油",
-          "url": "https://wallstreetcn.com/livenews/3131452",
+          "title": "以总理：“不允许”伊朗拥核，拟大幅追加国防预算",
+          "url": "https://wallstreetcn.com/livenews/3131486",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "伊朗外长与巴基斯坦军方通话，谴责美方违反谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3131446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         }
       ]
     },
@@ -130,7 +130,7 @@
       "keyword_group": "特朗普",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 77,
@@ -146,18 +146,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
-          "title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
-          "url": "https://flash.jin10.com/detail/20260710010810950800",
-          "source": "金十数据",
+          "title": "美国商务部长卢特尼克：总统特朗普知道油价会保持在低位。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3131518",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -168,7 +168,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
@@ -179,7 +179,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
@@ -190,7 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
           "title": "“二鬼子”章家敦，被特朗普点名批评了",
@@ -201,18 +201,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 5.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -225,18 +225,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -247,118 +247,15 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "金十图示：2026年07月09日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260710004017463800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "金十图示：2026年07月09日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260710004015453800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 1 个来源平台，平均热榜排名约 6.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 73,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
-          "url": "https://flash.jin10.com/detail/20260710010752704800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6系列模型Sol、Terra、Luna将登陆Chatgpt、Codex及API。",
-          "url": "https://flash.jin10.com/detail/20260710010603930800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
-          "url": "https://flash.jin10.com/detail/20260710010338995800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "OpenAI：推出由GPT-5.6驱动的Chatgpt Work，这是我们最新的前沿模型系列。全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。",
-          "url": "https://flash.jin10.com/detail/20260710010136280800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
-          "url": "https://wallstreetcn.com/livenews/3131470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 27.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -366,39 +263,15 @@
       },
       "titles": [
         {
-          "title": "趁金价下跌 波兰央行年内累计购入82吨黄金",
-          "url": "https://flash.jin10.com/detail/20260710004838239800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "PGIM：30年期美债收益率的重新定价已经开始",
-          "url": "https://wallstreetcn.com/livenews/3131473",
+          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
+          "url": "https://wallstreetcn.com/livenews/3131490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时23分"
         }
       ]
     }
