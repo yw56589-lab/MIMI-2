@@ -1,16 +1,106 @@
 {
-  "generated_at": "2026-07-10T18:16:18.663171+08:00",
+  "generated_at": "2026-07-10T21:05:35.892524+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
+      "keyword_group": "伊朗",
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
+          "url": "https://news.ifeng.com/c/8ueCFBdRP1G",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗追悼仪式将于今晚开始，持续三夜。",
+          "url": "https://flash.jin10.com/detail/20260710204645642800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "知情人士：卡塔尔谈判代表已抵达伊朗 以缓和局势",
+          "url": "https://wallstreetcn.com/livenews/3132076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "卡塔尔称伊朗与美国落实谅解备忘录很重要。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3132073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "伊朗已故最高领袖葬礼上出现神秘面孔 引发广泛猜测",
+          "url": "https://flash.jin10.com/detail/20260710203637888800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "伊朗高级官员：敌方攻击伊基础设施必遭回击",
+          "url": "https://wallstreetcn.com/livenews/3132056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -23,7 +113,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时05分"
         },
         {
           "title": "特朗普“把自己困住了”，陷入两难",
@@ -34,7 +124,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时05分"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -45,110 +135,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时05分"
         },
         {
-          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的电话交谈尚未进行。",
-          "url": "https://flash.jin10.com/detail/20260710174534667800",
+          "title": "以色列消息人士：特朗普目前不想让以色列参战",
+          "url": "https://flash.jin10.com/detail/20260710203808619800",
           "source": "金十数据",
           "ranks": [
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时05分"
         },
         {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
+          "title": "美国佛州棕榈滩机场正式以特朗普冠名",
+          "url": "https://wallstreetcn.com/livenews/3132058",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "伊朗陆军司令哈塔米：伊朗将再次加倍努力，实现殉难领袖的理想。",
-          "url": "https://flash.jin10.com/detail/20260710175028096800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "伊朗陆军司令哈塔米：前最高领袖的道路将以更强大的姿态延续下去。",
-          "url": "https://flash.jin10.com/detail/20260710174956212800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 69,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -157,11 +177,81 @@
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时05分"
+        },
+        {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 67,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepTalk：法币实验走向不可避免的终点，金价会自己完成金本位回归",
+          "url": "https://flash.jin10.com/detail/20260710204856702800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         }
       ]
     }
