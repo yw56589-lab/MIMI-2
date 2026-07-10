@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T06:52:43.053030+08:00",
+  "generated_at": "2026-07-11T07:51:04.882098+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
@@ -7,35 +7,13 @@
       "keyword_group": "伊朗",
       "match_count": 19,
       "ai_insight": {
-        "analysis": "该板块当前收录 19 条热点，覆盖 3 个来源平台，平均热榜排名约 13.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 19 条热点，覆盖 3 个来源平台，平均热榜排名约 13.4 位，标题平均出现 1.1 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 58,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美方要求伊朗周六前承诺停止向霍尔木兹海峡船只开火",
-          "url": "https://flash.jin10.com/detail/20260711055328857800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "据Axios：一位美国官员表示，“如果明天他们（伊朗）不作出相关表态，那明天对他们来说可不会是个好日子。”",
-          "url": "https://flash.jin10.com/detail/20260711054133389800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
           "url": "https://news.ifeng.com/c/8ueCFBdRP1G",
@@ -44,8 +22,30 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "美方要求伊朗周六前承诺停止向霍尔木兹海峡船只开火",
+          "url": "https://flash.jin10.com/detail/20260711055328857800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
+        },
+        {
+          "title": "据Axios：一位美国官员表示，“如果明天他们（伊朗）不作出相关表态，那明天对他们来说可不会是个好日子。”",
+          "url": "https://flash.jin10.com/detail/20260711054133389800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗媒体称，伊朗西部小型炼油厂火灾已得到控制",
@@ -54,9 +54,9 @@
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "据Axios：美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡。",
@@ -65,9 +65,9 @@
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "美媒：伊朗称霍尔木兹袭船系“内部失误”所致",
@@ -76,9 +76,9 @@
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "美国高级官员：预计伊朗将宣布霍尔木兹海峡免征通行费，并承诺不向船只开火。",
@@ -87,9 +87,9 @@
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "美国官员：预计伊朗将宣布不会向船只开火，并宣布霍尔木兹海峡不收取通行费。 如果伊朗不交出“核尘埃”，（美国与伊朗之间）就不会达成协议。",
@@ -98,9 +98,9 @@
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "美国高级官员：伊朗表示，近期船只遇袭事件是其内部系统出现偏差所致。",
@@ -109,9 +109,9 @@
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "美国高级官员：如果无法获得伊朗核问题的明确承诺，美方不会与伊朗达成协议。",
@@ -120,9 +120,9 @@
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "美国高级官员：美国拥有确保伊朗核设施无法运行的军事手段。",
@@ -131,9 +131,9 @@
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "美国高级官员：美国要求伊朗发表公开声明，承诺停止向霍尔木兹海峡船只开火，并确认所有航运通道均保持开放。",
@@ -142,9 +142,9 @@
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗外交部：从未提出与美谈判诉求，同意调解方访伊",
@@ -153,9 +153,9 @@
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
@@ -164,9 +164,9 @@
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：伊朗不会允许对遭美国和以色列袭击受损的设施进行核查，《联合国安理会第2231号决议》实际上已失去法律效力。",
@@ -175,9 +175,9 @@
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：基于负责任立场，未拒绝地区调解方访伊并就最新事态举行会谈的请求。",
@@ -186,9 +186,9 @@
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：伊朗决心确保霍尔木兹海峡海上交通安全，并继续与阿曼开展合作。",
@@ -197,9 +197,9 @@
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：卡塔尔代表团访问伊朗马什哈德，伊方已向其传达观点和立场。",
@@ -208,9 +208,9 @@
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "卫星图像曝光：伊朗或在重建多处核设施",
@@ -219,55 +219,44 @@
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 9.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 3 个来源平台，平均热榜排名约 9.1 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
-        {
-          "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
           "url": "https://www.cls.cn/detail/2423160",
           "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -277,8 +266,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -288,30 +299,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "存储芯片巨头SK海力士登陆美股",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
@@ -320,9 +309,9 @@
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
@@ -331,9 +320,9 @@
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         }
       ]
     },
@@ -344,7 +333,7 @@
         "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 58,
         "chart": []
       },
       "titles": [
@@ -355,9 +344,9 @@
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -366,9 +355,9 @@
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "苹果起诉OpenAI涉嫌窃取商业机密",
@@ -377,9 +366,9 @@
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
@@ -388,9 +377,9 @@
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         }
       ]
     },
@@ -398,10 +387,10 @@
       "keyword_group": "特朗普",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
@@ -412,9 +401,9 @@
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时51分"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -424,8 +413,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -435,19 +424,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
           "url": "https://www.toutiao.com/trending/7660909473094962730/",
           "source": "今日头条",
           "ranks": [
-            14
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         }
       ]
     }
