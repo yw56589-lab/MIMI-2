@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-11T22:21:08.282300+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-11T23:45:50.757226+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 3 个来源平台，平均热榜排名约 15.1 位，标题平均出现 1.1 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 3 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 55,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260711224608958800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
@@ -32,31 +43,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时45分"
         },
         {
-          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
-          "url": "https://flash.jin10.com/detail/20260711213701077800",
+          "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
+          "url": "https://flash.jin10.com/detail/20260711222557487800",
           "source": "金十数据",
           "ranks": [
-            12
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时45分"
         },
         {
-          "title": "伊朗学者：美国的胁迫外交仍在继续，伊朗试图打破“胡萝卜与大棒”循环",
-          "url": "https://flash.jin10.com/detail/20260711212852417800",
+          "title": "伊朗学者称美方从未真正履行备忘录",
+          "url": "https://flash.jin10.com/detail/20260711222306519800",
           "source": "金十数据",
           "ranks": [
-            15
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时45分"
+        },
+        {
+          "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
+          "url": "https://flash.jin10.com/detail/20260711221401757800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
@@ -65,20 +87,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "伊朗代理国防部长：我们已经准确识别了敌人的弱点，并知道如何、何时以及在什么程度上对其施压。",
-          "url": "https://flash.jin10.com/detail/20260711205254358800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
@@ -87,9 +98,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时45分"
+        },
+        {
+          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
+          "url": "https://flash.jin10.com/detail/20260711213701077800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
@@ -98,9 +120,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时45分"
+        },
+        {
+          "title": "伊朗学者：美国的胁迫外交仍在继续，伊朗试图打破“胡萝卜与大棒”循环",
+          "url": "https://flash.jin10.com/detail/20260711212852417800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     },
@@ -108,10 +141,10 @@
       "keyword_group": "美股",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 5.2 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -123,19 +156,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
           "url": "https://wallstreetcn.com/articles/3776694",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -145,8 +178,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -156,19 +189,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 3.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -177,11 +210,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -191,19 +224,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
-        },
-        {
-          "title": "披露特朗普新专机安全缺陷的美国记者收到传票",
-          "url": "https://flash.jin10.com/detail/20260711210033072800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时45分"
         }
       ]
     }
