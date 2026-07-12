@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-12T22:26:18.070756+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-12T23:51:53.325590+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 17 条热点，覆盖 7 个来源平台，平均热榜排名约 10.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 7 个来源平台，平均热榜排名约 10.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 86,
         "chart": []
       },
       "titles": [
@@ -23,29 +23,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
           "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
           "url": "https://news.ifeng.com/c/8uhOrhFxC9j",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
-          "title": "伊朗的报复力度越来越大说明什么？凤凰女记者解读",
-          "url": "https://news.ifeng.com/c/8uhQEpIUZBO",
-          "source": "凤凰网",
+          "title": "据伊朗迈赫尔通讯社：初步消息称伊朗对美国在科威特的导弹发射基地发动了攻击。",
+          "url": "https://flash.jin10.com/detail/20260712231501261800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
           "title": "伊朗：霍尔木兹海峡目前无法通行",
@@ -56,7 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
           "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
@@ -67,7 +67,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：霍尔木兹海峡比“几十颗原子弹”更重要",
+          "url": "https://news.ifeng.com/c/8uhmdS5DUXq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "伊朗打击美国在中东地区目标",
@@ -78,18 +89,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "伊朗最高领袖顾问雷扎伊：霍尔木兹海峡是一种战略威慑力量，其重要性甚至超过数十枚原子弹。伊朗将守护这条至关重要的水道。",
-          "url": "https://flash.jin10.com/detail/20260712213900079800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
           "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
@@ -100,40 +100,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
-          "title": "美军再发文驳斥伊朗“控制霍尔木兹海峡”说法：海峡是国际水道",
-          "url": "https://flash.jin10.com/detail/20260712212554194800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "伊朗：霍尔木兹海峡目前无法通行",
-          "url": "https://flash.jin10.com/detail/20260712210226028800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "华尔街日报调查：伊朗战争冲击低于预期，但通胀更顽固",
-          "url": "https://flash.jin10.com/detail/20260712205015758800",
+          "title": "伊朗学者：伊方寻求推进霍尔木兹海峡管理新框架",
+          "url": "https://flash.jin10.com/detail/20260712222608142800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
           "title": "伊朗海军军官在美军袭击中身亡",
@@ -144,86 +122,75 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "阿曼就部分地点遭袭事件召见伊朗驻阿大使",
-          "url": "https://flash.jin10.com/detail/20260712203724717800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
           "title": "伊朗导弹打击中东美军目标 画面公布",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87+%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
-          "title": "美军：霍尔木兹海峡航运正常通行，伊朗不控制该水道",
-          "url": "https://flash.jin10.com/detail/20260712201734588800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "阿曼外交部：已就伊朗袭击阿曼领土召见伊朗驻阿曼大使以示抗议。",
-          "url": "https://flash.jin10.com/detail/20260712195226608800",
+          "title": "伊朗最高领袖顾问雷扎伊：霍尔木兹海峡是一种战略威慑力量，其重要性甚至超过数十枚原子弹。伊朗将守护这条至关重要的水道。",
+          "url": "https://flash.jin10.com/detail/20260712213900079800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
-          "title": "伊朗军方发言人：霍尔木兹海峡管理权在伊朗，美国强加航线违反备忘录",
-          "url": "https://flash.jin10.com/detail/20260712193152672800",
+          "title": "美军再发文驳斥伊朗“控制霍尔木兹海峡”说法：海峡是国际水道",
+          "url": "https://flash.jin10.com/detail/20260712212554194800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
+        },
+        {
+          "title": "伊朗：霍尔木兹海峡目前无法通行",
+          "url": "https://flash.jin10.com/detail/20260712210226028800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 5.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 3 个来源平台，平均热榜排名约 12.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普：伊朗昨天已同意“完美协议”，但转头就开了火",
-          "url": "https://flash.jin10.com/detail/20260712220334979800",
-          "source": "金十数据",
+          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
+          "url": "https://news.ifeng.com/c/8uheASr3DB8",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -234,62 +201,73 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
-          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
-          "url": "https://news.ifeng.com/c/8uheASr3DB8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "特朗普透露格雷厄姆去世前晚曾通话，当时“除了有点累一切正常”",
-          "url": "https://flash.jin10.com/detail/20260712214956192800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "特朗普：昨晚对伊朗实施猛烈打击",
-          "url": "https://flash.jin10.com/detail/20260712214512016800",
+          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
+          "url": "https://flash.jin10.com/detail/20260712224922649800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
           "url": "https://news.ifeng.com/c/8uhQRko1ti1",
           "source": "凤凰网",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
+        },
+        {
+          "title": "特朗普：伊朗昨天已同意“完美协议”，但转头就开了火",
+          "url": "https://flash.jin10.com/detail/20260712220334979800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "特朗普透露格雷厄姆去世前晚曾通话，当时“除了有点累一切正常”",
+          "url": "https://flash.jin10.com/detail/20260712214956192800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "特朗普：昨晚对伊朗实施猛烈打击",
+          "url": "https://flash.jin10.com/detail/20260712214512016800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "据NBC新闻：美国总统特朗普表示，霍尔木兹海峡是开放的。",
           "url": "https://flash.jin10.com/detail/20260712211503582800",
           "source": "金十数据",
           "ranks": [
-            10
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         }
       ]
     },
@@ -297,10 +275,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -309,35 +287,11 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价震荡科技回调 资金寻找新均衡",
-          "url": "https://www.toutiao.com/trending/7661411388552085513/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时51分"
         }
       ]
     }
