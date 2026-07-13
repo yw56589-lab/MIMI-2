@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-07-14T04:51:03.542424+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-14T05:46:19.441876+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 5 个来源平台，平均热榜排名约 17.7 位，标题平均出现 1.3 次。",
+        "analysis": "该板块当前收录 17 条热点，覆盖 5 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 60,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
+        {
+          "title": "据CNN：美国官员表示，美军打击目标为伊朗军事设施，包括海岸监视系统、无人机和导弹能力。",
+          "url": "https://flash.jin10.com/detail/20260714052140189800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
           "url": "https://news.ifeng.com/c/8uiovLcFI7X",
@@ -22,19 +33,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
-          "title": "伊朗革命卫队：在霍尔木兹海峡击落一架美军MQ-1无人机。",
-          "url": "https://flash.jin10.com/detail/20260714041749917800",
+          "title": "据伊朗国家电视台：伊朗基什岛上传出两声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260714052005383800",
           "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "伊朗称袭击驻科威特美军，并向美军舰艇发射巡航导弹",
+          "url": "https://wallstreetcn.com/livenews/3133100",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
+        },
+        {
+          "title": "伊朗称袭击驻科威特美军 并向美军舰艇发射巡航导弹",
+          "url": "https://flash.jin10.com/detail/20260714051618985800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
@@ -44,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "霍尔木兹海峡，伊朗不能承受之重",
@@ -55,8 +88,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗南部阿巴斯港传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260714051347163800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "美国：已开始对伊朗发动第三晚打击",
+          "url": "https://wallstreetcn.com/livenews/3133096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "美军宣布连续第三晚对伊朗进行打击",
+          "url": "https://flash.jin10.com/detail/20260714051031464800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "美军称对伊朗发起新一轮打击",
@@ -66,118 +132,74 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗军方消息称，伊军已出动无人机打击位于科威特的美军军事设施和装备。伊朗用巡航导弹瞄准了一艘“敌对”的美国舰艇。",
+          "url": "https://flash.jin10.com/detail/20260714044516590800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "【伊朗媒体称伊击落一架美军无人机】据伊朗法尔斯通讯社13日报道，一架美军MQ-1无人机当天深夜在霍尔木兹海峡上空被伊朗伊斯兰革命卫队防空系统击落。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3133091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "伊朗军方：打击美国资产和船只。（FARS）",
+          "url": "https://wallstreetcn.com/livenews/3133088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗军方消息称，伊军已出动无人机打击位于科威特的美军军事设施和装备。 伊朗用巡航导弹瞄准了一艘“敌对”的美国舰艇。",
+          "url": "https://wallstreetcn.com/livenews/3133086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "美国将恢复“针对伊朗的封锁”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%81%A2%E5%A4%8D%E2%80%9C%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%B0%81%E9%94%81%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
-        },
-        {
-          "title": "据伊朗国家电视台：截至目前，伊朗南部地区包括班达尔阿巴斯在内的多地暂无爆炸报告。",
-          "url": "https://flash.jin10.com/detail/20260714033243959800",
-          "source": "金十数据",
-          "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
         },
         {
-          "title": "伊朗科纳拉克周边地区遭袭",
-          "url": "https://flash.jin10.com/detail/20260714032633735800",
+          "title": "伊朗革命卫队：在霍尔木兹海峡击落一架美军MQ-1无人机。",
+          "url": "https://flash.jin10.com/detail/20260714041749917800",
           "source": "金十数据",
           "ranks": [
-            22
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "伊朗塔斯尼姆通讯社（Tasnim）称，伊朗阿巴斯港（Bandar Abbas）的防空系统已启动。 截至目前，阿巴斯港及伊朗南部其他地区未报告发生爆炸。",
-          "url": "https://wallstreetcn.com/livenews/3133059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "据伊通社（IRNA）：4枚导弹已击中伊朗南部港口城市科纳拉克（Konarak）附近地区，一架美国飞机正在科纳拉克上空飞行。",
-          "url": "https://flash.jin10.com/detail/20260714031756855800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：打击了霍尔木兹海峡内多艘“违规”船只。",
-          "url": "https://flash.jin10.com/detail/20260714031603172800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗恰巴哈尔和科纳拉克附近传出6次爆炸声。目前尚未确定这些爆炸的具体地点，安全部队正在对此展开调查。",
-          "url": "https://flash.jin10.com/detail/20260714031024555800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "伊朗外长与塞浦路斯外长讨论霍尔木兹海峡的冲突。",
-          "url": "https://wallstreetcn.com/livenews/3133055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗阿巴斯港防空系统已启动。",
-          "url": "https://flash.jin10.com/detail/20260714030551930800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "伊朗南部沿海地带传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3133054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
         }
       ]
     },
@@ -185,34 +207,23 @@
       "keyword_group": "特朗普",
       "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 14 条热点，覆盖 5 个来源平台，平均热榜排名约 10.4 位，标题平均出现 1.2 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 56,
+        "analysis": "该板块当前收录 14 条热点，覆盖 5 个来源平台，平均热榜排名约 17.1 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 85,
         "chart": []
       },
       "titles": [
         {
-          "title": "白宫官员：特朗普将支持格雷厄姆主导的对俄制裁法案",
-          "url": "https://flash.jin10.com/detail/20260714041841055800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
-          "url": "https://wallstreetcn.com/livenews/3133081",
+          "title": "【美军连续第三晚空袭伊朗】当地时间7月13日，美国中央司令部表示，在美国总统特朗普指示下，美军于美国东部时间当天下午4时45分开始对伊朗发动连续第三晚空袭。美中央司令部称，行动将继续使伊朗武装力量付出沉重代价，并削弱其袭击霍尔木兹海峡无辜平民和商业航运的能力。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3133102",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -222,8 +233,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -233,8 +244,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "特朗普威胁打击伊朗“镐山”地下核设施",
+          "url": "https://flash.jin10.com/detail/20260714045313095800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
+          "url": "https://flash.jin10.com/detail/20260714043115058800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "据国会山报报道，美国总统特朗普回应周四黄金时段讲话是否会提前透露内容时表示：“这就是一场讲话，和我之前很多次讲话差不多。”",
+          "url": "https://flash.jin10.com/detail/20260714042751265800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -244,153 +288,142 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "白宫官员：特朗普将支持格雷厄姆主导的对俄制裁法案",
+          "url": "https://flash.jin10.com/detail/20260714041841055800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
+          "url": "https://wallstreetcn.com/livenews/3133081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "美国总统特朗普：我有时不同意内塔尼亚胡的做法，我也会明确告诉他。",
           "url": "https://flash.jin10.com/detail/20260714041351687800",
           "source": "金十数据",
           "ranks": [
-            6
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "特朗普称美国今晚和明天将“重击”伊朗",
-          "url": "https://wallstreetcn.com/livenews/3133077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
         },
         {
           "title": "美国总统特朗普：与以色列总理内塔尼亚胡相处得很好。",
           "url": "https://flash.jin10.com/detail/20260714041312425800",
           "source": "金十数据",
           "ranks": [
-            7
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
+        },
+        {
+          "title": "特朗普称美国今晚和明天将“重击”伊朗",
+          "url": "https://wallstreetcn.com/livenews/3133077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "美国总统特朗普：伊朗谅解备忘录是一次测试，他们没有遵守。",
           "url": "https://flash.jin10.com/detail/20260714041308694800",
           "source": "金十数据",
           "ranks": [
-            8
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）今晚和明天将对他们进行严厉打击。",
           "url": "https://flash.jin10.com/detail/20260714041014877800",
           "source": "金十数据",
           "ranks": [
-            9
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "特朗普预告周五黄金时段讲话，或表明战争再次加速",
-          "url": "https://flash.jin10.com/detail/20260714035411665800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
-          "url": "https://flash.jin10.com/detail/20260714034636545800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "据CNN：美国总统特朗普将支持通过由已故参议员林赛·格雷厄姆牵头的两党对俄制裁方案 。",
-          "url": "https://flash.jin10.com/detail/20260714033602404800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "美国官员声称，总统特朗普将支持（国会山）对俄罗斯制裁的立法草案。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3133060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.3 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 57,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
+          "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
-        },
-        {
-          "title": "美股大类资产类ETF普跌，新兴市场ETF跌约3.6%，黄金ETF跌超2.6%",
-          "url": "https://wallstreetcn.com/livenews/3133080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
         },
         {
-          "title": "布伦特原油日内涨幅达10.0%，特朗普在美股收盘后称美国今晚和明天将“重击”伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3133078",
+          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
+          "url": "https://wallstreetcn.com/livenews/3133099",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
+        },
+        {
+          "title": "周一（7月13日），彭博电动汽车价格回报指数跌2.12%，报3363.74点，亚太盘初曾短暂地微幅冲高回落，北京时间10:00前后跌幅显著，11:00以来持稳于3380点附近，美股开盘后略微地持续扩大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3133095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌2.36%，报306.62点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌2.43%，报2115.08点。 在美股时段交易的原材料指数收跌0.89%，报234.18点。 在美股时段交易的金属与矿业指数收跌0.33%，报263.72点。",
+          "url": "https://wallstreetcn.com/livenews/3133093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -400,8 +433,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -411,63 +444,89 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "美股大类资产类ETF普跌，新兴市场ETF跌约3.6%，黄金ETF跌超2.6%",
+          "url": "https://wallstreetcn.com/livenews/3133080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达10.0%，特朗普在美股收盘后称美国今晚和明天将“重击”伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3133078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "周一（7月13日），美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。",
           "url": "https://wallstreetcn.com/livenews/3133072",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
-        },
+          "time_info": "05时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260714040535103800",
+          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
+          "url": "https://flash.jin10.com/detail/20260714050653705800",
           "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
-        },
+          "time_info": "05时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "金十图示：2026年07月13日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260714040526298800",
-          "source": "金十数据",
+          "title": "金价俯冲谁还在逆势买金",
+          "url": "https://www.toutiao.com/trending/7661235977758982207/",
+          "source": "今日头条",
           "ranks": [
-            13
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "SK海力士美股上市第二日收跌超9%。",
-          "url": "https://flash.jin10.com/detail/20260714040316327800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 闪迪跌超12%",
-          "url": "https://flash.jin10.com/detail/20260714040050425800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
         }
       ]
     },
@@ -475,23 +534,23 @@
       "keyword_group": "美元",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 57,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "美元指数涨0.3%，刷新日高",
-          "url": "https://wallstreetcn.com/livenews/3133062",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数13日上涨",
+          "url": "https://flash.jin10.com/detail/20260714043133599800",
+          "source": "金十数据",
           "ranks": [
-            19
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时46分"
         }
       ]
     }
