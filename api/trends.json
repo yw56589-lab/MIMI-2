@@ -1,199 +1,21 @@
 {
-  "generated_at": "2026-07-14T09:31:57.781129+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-14T12:43:18.288157+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 15,
-      "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 5 个来源平台，平均热榜排名约 12.9 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 85,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗称袭击美国海军第五舰队司令部",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%83%A8",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "直播：美军连续三天空袭伊朗",
-          "url": "https://i.ifeng.com/c/8r9IfZOQO8x",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：两艘“违规超级油轮”在霍尔木兹海峡遭到袭击并失去动力。 油轮无视警告、关闭导航系统并试图强行通过“布雷航线”。 在霍尔木兹海峡与“侵略者敌人”合作将推迟该航道的重新开放，并引发全球能源危机。",
-          "url": "https://wallstreetcn.com/livenews/3133180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
-          "url": "https://news.ifeng.com/c/8ujiA6HPQR0",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队称攻击并摧毁两艘“违规船只”",
-          "url": "https://flash.jin10.com/detail/20260714092736005800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美军连续第三晚空袭伊朗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%B8%89%E6%99%9A%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
-          "url": "https://news.ifeng.com/c/8ujWVX3Tjrl",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "霍尔木兹海峡，伊朗不能承受之重",
-          "url": "https://news.ifeng.com/c/8uixCdUTtOq",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "据伊朗媒体14日报道，美军位于约旦的基地遭到导弹袭击。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3133174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "伊朗袭击美国海军第五舰队司令部",
-          "url": "https://www.toutiao.com/trending/7661886519921573894/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "伊朗外长：伊朗永远是霍尔木兹海峡的守护者",
-          "url": "https://wallstreetcn.com/livenews/3133158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队海军向各方声明，与那个不远万里前来侵犯本地区人民权益的侵略性敌人合作，以及执意通过布雷海域，除了招致悔恨与损失外，别无他果；此举只会延误霍尔木兹海峡的通行，并引发全球能源危机。",
-          "url": "https://flash.jin10.com/detail/20260714091342389800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：约旦东部马瓦法克·苏尔蒂空军基地发生剧烈爆炸。阿拉伯消息人士称该国军事目标遭导弹袭击。",
-          "url": "https://flash.jin10.com/detail/20260714091152407800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队（IRGC）方面表示，有两艘违规的超级油轮受美国蛊惑，关闭导航系统并无视霍尔木兹海峡安全控制中心的多次警告，执意通过布雷海域，危及了该航道的航运安全；这两艘油轮随后遭到打击并丧失了航行能力。",
-          "url": "https://flash.jin10.com/detail/20260714090953494800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "伊朗媒体说伊朗袭击了美国海军第五舰队司令部",
-          "url": "https://wallstreetcn.com/livenews/3133153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 8 个来源平台，平均热榜排名约 14.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 8.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 88,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普点名以色列和海湾5国",
+          "title": "特朗普点名中东六国",
           "url": "https://news.ifeng.com/c/8ukJUmAUZFg",
           "source": "凤凰网",
           "ranks": [
@@ -201,18 +23,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
           "url": "https://wallstreetcn.com/articles/3776822",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -223,84 +45,130 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
         },
         {
-          "title": "分析人士：特朗普对霍尔木兹海峡收取20%通行费可能使航运成本翻倍",
-          "url": "https://flash.jin10.com/detail/20260714092655884800",
-          "source": "金十数据",
+          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
+          "url": "https://www.cls.cn/detail/2425302",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
+        },
+        {
+          "title": "特朗普：美国可能负责管理霍尔木兹海峡 守护航道应“收费”",
+          "url": "https://www.cls.cn/detail/2425036",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
-        },
+          "time_info": "12时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 8.4 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
-          "url": "https://www.zhihu.com/question/2060130032056366712",
-          "source": "知乎",
+          "title": "伊朗发起行动，回应“敌方最新侵略行径”",
+          "url": "https://news.ifeng.com/c/8ukUFVFXxOi",
+          "source": "凤凰网",
           "ranks": [
-            15
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
         },
         {
-          "title": "特朗普已通知国会伊朗战事重新爆发",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9B%BD%E4%BC%9A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%87%8D%E6%96%B0%E7%88%86%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普通知国会伊朗战事重新爆发",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%9F%A5%E5%9B%BD%E4%BC%9A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%87%8D%E6%96%B0%E7%88%86%E5%8F%91%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "布伦特原油期货涨至每桶85美元上方，日内涨超2%，此前特朗普称要再次封锁伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3133150",
+          "title": "伊朗革命卫队证实袭击美军第五舰队",
+          "url": "https://wallstreetcn.com/livenews/3133310",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
+        },
+        {
+          "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
+          "url": "https://news.ifeng.com/c/8ujiA6HPQR0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "伊朗称摧毁美海军第五舰队雷达",
+          "url": "https://wallstreetcn.com/livenews/3133303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "伊朗称袭击美国海军第五舰队司令部",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%83%A8",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 3.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -313,51 +181,75 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
           "url": "https://www.cls.cn/detail/2425183",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
         },
         {
           "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
           "url": "https://wallstreetcn.com/articles/3776816",
           "source": "华尔街见闻",
           "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
+          "url": "https://flash.jin10.com/detail/20260714122538668800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
         },
         {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.toutiao.com/trending/7662155234273152575/",
-          "source": "今日头条",
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -370,7 +262,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时43分"
+        },
+        {
+          "title": "金价反弹全抹，CPI+沃什会不会再补一刀？",
+          "url": "https://flash.jin10.com/detail/20260714121200284800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     }
