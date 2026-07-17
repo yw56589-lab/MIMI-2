@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-18T02:54:09.882501+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-18T03:59:46.957089+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 3 个来源平台，平均热榜排名约 5.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 62,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 02时54分]"
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
+          "url": "https://flash.jin10.com/detail/20260718034050546800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普再次赞赏6月通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3135890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：6月通胀数据传来“重大好消息”，美国正迎来“黄金时代”。",
+          "url": "https://flash.jin10.com/detail/20260718033729701800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -33,8 +66,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 02时54分]"
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
+          "url": "https://flash.jin10.com/detail/20260718033701724800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -44,131 +88,153 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 02时54分]"
-        },
-        {
-          "title": "据CNN：美国总统特朗普正前往纽约参加国际足联招待会，登上新“空军一号”总统专机。",
-          "url": "https://flash.jin10.com/detail/20260718022504678800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "03时59分"
         },
         {
-          "title": "据以色列媒体：以色列总理内塔尼亚胡推迟访美，不仅是因为已故共和党参议员林赛·格雷厄姆的葬礼安排有变，还因与特朗普政府分歧加剧，尤其是美国副总统万斯近期严厉批评以色列。",
-          "url": "https://flash.jin10.com/detail/20260718014652994800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3135845",
+          "title": "加拿大山火肆虐，特朗普要求对方通过关税承担污染成本",
+          "url": "https://wallstreetcn.com/livenews/3135887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "03时59分"
+        },
+        {
+          "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
+          "url": "https://flash.jin10.com/detail/20260718033109369800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大拒绝进行基本的森林管理和清理工作。这项污染的成本必然会被加到加拿大目前支付的关税上。",
+          "url": "https://flash.jin10.com/detail/20260718032748327800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：我将在白天致电加拿大总理卡尼，了解他们将如何应对野火事件。",
+          "url": "https://flash.jin10.com/detail/20260718032717229800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：要求加拿大对其森林维护不当的事实承担责任。",
+          "url": "https://flash.jin10.com/detail/20260718032553853800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：已邀请Darline Graham参加8月11日举行的共和党特别参议员初选。",
+          "url": "https://flash.jin10.com/detail/20260718031740689800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 16.3 位，标题平均出现 1.2 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 16.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 52,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
+        {
+          "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
+          "url": "https://wallstreetcn.com/livenews/3135882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：若美军继续行动，伊朗或转入全面进攻阶段",
+          "url": "https://flash.jin10.com/detail/20260718031316514800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "伊朗最高领袖顾问雷扎伊：如果美国的袭击持续数天，伊朗将进入全面进攻行动阶段。",
+          "url": "https://flash.jin10.com/detail/20260718030924829800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
+          "url": "https://flash.jin10.com/detail/20260718030344657800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
         {
           "title": "伊朗称摧毁多架美军战斗机",
           "url": "https://www.toutiao.com/trending/7663410168377380371/",
           "source": "今日头条",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 02时54分]"
-        },
-        {
-          "title": "据伊朗国际电视台：根据所获得的伊朗最高国家安全委员会指令，媒体被要求不得发布有关民用基础设施受损细节、破坏程度以及袭击对公共服务供应影响的信息。",
-          "url": "https://flash.jin10.com/detail/20260718022147106800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "据科威特国家通讯社：科威特南部两处火灾已得到控制，此前相关设施遭伊朗袭击，目前暂无人员伤亡报告。",
-          "url": "https://flash.jin10.com/detail/20260718021515550800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "据伊朗努尔新闻(Nour News)：当地消息人士称，伊朗阿巴斯港传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260718020238771800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗霍尔木兹甘省电力公司表示，美军昨夜袭击造成的电网受损已完成抢修，目前所有受影响区域的电网运行状况均已稳定，应急力量仍保持待命。",
-          "url": "https://flash.jin10.com/detail/20260718015900634800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "据塔斯尼姆通讯社：伊朗一揽子原油价格已突破每桶80美元。",
-          "url": "https://flash.jin10.com/detail/20260718013855394800",
-          "source": "金十数据",
-          "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "03时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 64,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -180,8 +246,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 02时54分]"
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -191,19 +257,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 02时54分]"
-        },
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
-          "url": "https://wallstreetcn.com/livenews/3135852",
+          "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3135881",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "03时59分"
         }
       ]
     },
@@ -211,10 +290,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -223,11 +302,11 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 02时54分]"
+          "appearance_count": 1,
+          "time_info": "03时59分"
         }
       ]
     }
