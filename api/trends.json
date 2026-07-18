@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-19T04:00:22.759235+08:00",
+  "generated_at": "2026-07-19T04:51:10.535250+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "ai_insight": {
-        "analysis": "该板块当前收录 25 条热点，覆盖 4 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.2 次。",
+        "analysis": "该板块当前收录 26 条热点，覆盖 4 个来源平台，平均热榜排名约 13.3 位，标题平均出现 1.2 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 55,
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -34,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
           "title": "伊朗打击科威特、巴林、约旦的美军目标，发射镜头曝光",
@@ -45,7 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
+        },
+        {
+          "title": "据纽约时报：美方官员称，伊朗对约旦境内美军基地发动的袭击造成多架美军直升机受损，数十名美军人员受伤。",
+          "url": "https://flash.jin10.com/detail/20260719043816622800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "美国中央司令部：2名美军士兵在约旦因伊朗袭击而死亡，另有1人失踪",
@@ -56,18 +67,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
-          "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
-          "url": "https://flash.jin10.com/detail/20260719034107497800",
+          "title": "据华尔街日报：美国熟悉相关袭击情况的官员表示，伊朗已适应美国的防御体系，发射的导弹速度极高，且在飞向地面过程中能够机动变轨。",
+          "url": "https://flash.jin10.com/detail/20260719041234832800",
           "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
           "title": "伊朗已停止履行伊美谅解备忘录",
@@ -78,40 +89,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
-          "title": "报道称美国对伊朗南部阿巴斯港发动空袭",
-          "url": "https://flash.jin10.com/detail/20260719031128640800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "市场消息：初步报道显示，伊朗港口城市阿巴斯港发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260719030843358800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "美国中央司令部：美军继续严格执行针对伊朗正在实施的海上封锁。截至7月18日，美国中央司令部已改道5艘商船，并使1艘船舶失去行动能力。",
-          "url": "https://flash.jin10.com/detail/20260719030439022800",
+          "title": "据沙特国家电视台：欧盟和海湾国家呼吁伊朗无条件、免费永久开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260719034808172800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
           "title": "伊朗最高领袖：美国行为证明其总统签字“毫无价值”",
@@ -122,7 +111,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
           "title": "伊朗国家电视台：伊朗最高领袖哈梅内伊将于当地时间20:00针对国家问题发布声明。",
@@ -133,7 +122,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
           "title": "科威特消防部门表示，救援队伍已成功控制住伊朗袭击目标区域的两处火灾。 救援队伍已扑灭因弹片落入居民区而引发的另外三处火灾。",
@@ -144,18 +133,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
-          "title": "据伊通社（IRNA）：伊朗布什尔省省长穆罕默德·莫扎法里表示，目前既未提出、也未正式下达有关撤离哈尔格岛居民的请求或官方指令。",
-          "url": "https://flash.jin10.com/detail/20260719024347577800",
+          "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
+          "url": "https://flash.jin10.com/detail/20260719034107497800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -166,40 +155,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
-          "title": "据美联社：自去年2月与伊朗爆发战争以来，已有16名美国士兵遇难，超过430人受伤。",
-          "url": "https://flash.jin10.com/detail/20260719024134999800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "伊朗第一副总统：谅解备忘录墨迹未干，美国就发动袭击",
-          "url": "https://flash.jin10.com/detail/20260719023608279800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "伊朗塔斯尼姆通讯社发布伊朗导弹击中约旦穆瓦法克·萨勒提空军基地的瞬间。此次袭击导致两名美国军人死亡，另有一名美国军人失踪。",
-          "url": "https://flash.jin10.com/detail/20260719023127256800",
+          "title": "报道称美国对伊朗南部阿巴斯港发动空袭",
+          "url": "https://flash.jin10.com/detail/20260719031128640800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
           "title": "美国袭击伊朗在波斯湾周边的锡里克（Sirik）。（伊朗媒体Tasnim）",
@@ -210,7 +177,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
+        },
+        {
+          "title": "市场消息：初步报道显示，伊朗港口城市阿巴斯港发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260719030843358800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "伊朗外交部：谅解备忘录不允许美在霍尔木兹海峡开辟独立平行航线",
@@ -221,7 +199,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国中央司令部：美军继续严格执行针对伊朗正在实施的海上封锁。截至7月18日，美国中央司令部已改道5艘商船，并使1艘船舶失去行动能力。",
+          "url": "https://flash.jin10.com/detail/20260719030439022800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "伊朗外交部发言人：美国违反协议，造成“不可能”全面落实谅解备忘录（MoU）。 美国违反MoU期间，伊朗不会全面履行MoU提出的义务。（伊朗半官方媒体Tasnim）",
@@ -232,18 +221,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "据以色列第13频道：美国正准备通过向中东地区派遣约100架加油机，扩大对伊朗的行动范围。以色列国防机构正在为该地区可能出现的重大局势升级做准备。",
-          "url": "https://flash.jin10.com/detail/20260719021205798800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
           "title": "伊朗霍尔木兹甘省一日内遭美军三轮空袭",
@@ -254,7 +232,29 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗布什尔省省长穆罕默德·莫扎法里表示，目前既未提出、也未正式下达有关撤离哈尔格岛居民的请求或官方指令。",
+          "url": "https://flash.jin10.com/detail/20260719024347577800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "据美联社：自去年2月与伊朗爆发战争以来，已有16名美国士兵遇难，超过430人受伤。",
+          "url": "https://flash.jin10.com/detail/20260719024134999800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "业内：随着伊朗加大对船舶的袭击力度，霍尔木兹海峡油轮面临“最坏情况”",
@@ -265,18 +265,29 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         },
         {
-          "title": "伊朗最高领袖在声明中恢复了伊斯兰革命时期的对美政治语言",
-          "url": "https://flash.jin10.com/detail/20260719012952659800",
+          "title": "伊朗第一副总统：谅解备忘录墨迹未干，美国就发动袭击",
+          "url": "https://flash.jin10.com/detail/20260719023608279800",
           "source": "金十数据",
           "ranks": [
-            25
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社发布伊朗导弹击中约旦穆瓦法克·萨勒提空军基地的瞬间。此次袭击导致两名美国军人死亡，另有一名美国军人失踪。",
+          "url": "https://flash.jin10.com/detail/20260719023127256800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "卡塔尔外交部：“强烈”批评伊朗对约旦、巴林、科威特的袭击。 伊朗的袭击“公然违反”国际法。 袭击持续，意味着局势“危险升级”。 袭击将让维护安全与稳定的努力变得更加复杂。",
@@ -287,18 +298,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 7.6 位，标题平均出现 1.9 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -311,7 +322,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -322,7 +333,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
+          "url": "https://flash.jin10.com/detail/20260719043315182800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
@@ -333,7 +355,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -344,7 +366,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
+        },
+        {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
           "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
@@ -355,18 +388,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
-        },
-        {
-          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
-          "url": "https://www.zhihu.com/question/2061441397995954863",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -377,51 +399,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
-        },
-        {
-          "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
-          "url": "https://flash.jin10.com/detail/20260719020717428800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
-          "url": "https://flash.jin10.com/detail/20260719013910983800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
-          "url": "https://flash.jin10.com/detail/20260719013642003800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "据英国金融时报：特朗普将在重新调整美国对外援助政策之际，为欧洲支持“MAGA”理念的项目提供资金支持。",
-          "url": "https://flash.jin10.com/detail/20260719013143451800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "[04时50分 ~ 04时51分]"
         }
       ]
     },
@@ -429,7 +407,7 @@
       "keyword_group": "金价",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 20.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -445,18 +423,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
           "title": "这周金价发生了什么",
           "url": "https://www.toutiao.com/trending/7663819778364345910/",
           "source": "今日头条",
           "ranks": [
-            22
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         }
       ]
     },
@@ -480,7 +458,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -491,7 +469,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         }
       ]
     },
@@ -499,7 +477,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 79,
@@ -511,11 +489,11 @@
           "url": "https://www.zhihu.com/question/2061407401308152796",
           "source": "知乎",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         }
       ]
     },
@@ -539,7 +517,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "04时51分"
         }
       ]
     }
