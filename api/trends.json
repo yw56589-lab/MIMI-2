@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-21T20:22:04.158591+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-21T22:56:45.460455+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 10.6 位，标题平均出现 1.4 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 3 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 61,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
-          "url": "https://news.ifeng.com/c/8uwFQqRkygA",
-          "source": "凤凰网",
+          "title": "据伊朗Press TV：伊朗革命卫队打击了科威特贾比尔基地的美军雷达。",
+          "url": "https://flash.jin10.com/detail/20260721224818568800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -33,96 +33,96 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
-          "title": "巴基斯坦总理谢里夫在伊斯兰堡会见伊朗内政部长",
-          "url": "https://wallstreetcn.com/livenews/3137571",
+          "title": "科威特外交部：科威特已就伊朗周一在霍尔木兹海峡袭击科威特油轮“KAIFAN”号一事召见伊朗大使，提出抗议。",
+          "url": "https://flash.jin10.com/detail/20260721224247956800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "巴基斯坦总理会见伊朗内政部长 讨论中东局势",
+          "url": "https://wallstreetcn.com/livenews/3137640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "22时56分"
         },
         {
-          "title": "“全面战争”！伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8uvsqi231GR",
+          "title": "伊朗还有两大杀手锏",
+          "url": "https://news.ifeng.com/c/8uwrsyeC1bU",
           "source": "凤凰网",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
-          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
-          "url": "https://wallstreetcn.com/articles/3777457",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "以色列财长：以色列无意加入美国对伊朗的战争",
-          "url": "https://flash.jin10.com/detail/20260721195544413800",
+          "title": "伊朗内政部长：我们赞赏巴基斯坦为签署谅解备忘录所做的努力。",
+          "url": "https://flash.jin10.com/detail/20260721222147051800",
           "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "22时56分"
         },
         {
-          "title": "科威特称伊朗周一袭击其发电和海水淡化厂",
-          "url": "https://wallstreetcn.com/livenews/3137549",
+          "title": "伊朗外长披露伊美停火谈判幕后细节",
+          "url": "https://wallstreetcn.com/livenews/3137628",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "22时56分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：在伊朗对美国目标发动导弹袭击后，约旦各机场已暂停所有航班。",
-          "url": "https://flash.jin10.com/detail/20260721195314019800",
+          "title": "巴基斯坦总理：（对伊朗内政部长表示）我们对近期地区局势升级感到担忧，各方应保持克制。",
+          "url": "https://flash.jin10.com/detail/20260721221530413800",
           "source": "金十数据",
           "ranks": [
-            17
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "22时56分"
         },
         {
-          "title": "据伊朗学生通讯社：伊朗内政部长在伊斯兰堡的第二次工作会谈中，会见了巴基斯坦总理夏巴兹·谢里夫。在首轮工作会谈中，伊朗内政部长会见了巴基斯坦陆军参谋长兼国防部队司令阿西姆·穆尼尔元帅。",
-          "url": "https://flash.jin10.com/detail/20260721193755482800",
-          "source": "金十数据",
+          "title": "科威特：正在应对伊朗的导弹和无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3137610",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "22时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 6 个来源平台，平均热榜排名约 14.4 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -131,145 +131,112 @@
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
-          "title": "美股盘前三大股指期货齐涨",
-          "url": "https://www.douyin.com/hot/2579826",
-          "source": "抖音",
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美股全线高开 闪迪、西部数据均涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超3%，全球科技股指数ETF涨超2%，医疗业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3137614",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
-          "title": "嘉信理财第二季度净新增资产1187亿美元，预期1111.3亿美元。 第二季度调整后每股收益为1.62美元，预期1.55美元。 第二季度净营收为70.7亿美元，预期69.2亿美元。 嘉信理财美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3137565",
+          "title": "美股盘初：纳指涨1%，费城半导体指数涨4.5%，存储芯片股、光通信股大涨",
+          "url": "https://wallstreetcn.com/livenews/3137613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "礼来(LLY.N)美股盘前小幅走低，现跌0.58%。",
-          "url": "https://flash.jin10.com/detail/20260721193857975800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "通用汽车美股盘前走低，现跌超4%，此前一度涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3137535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "22时56分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 11.3 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
-        {
-          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
-          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
           "url": "https://www.zhihu.com/question/2062849285499138343",
           "source": "知乎",
           "ranks": [
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
+          "url": "https://wallstreetcn.com/articles/3777496",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -278,22 +245,11 @@
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
-          "url": "https://www.zhihu.com/question/2062579631564093084",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
@@ -301,10 +257,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -313,11 +269,11 @@
           "url": "https://wallstreetcn.com/articles/3777467",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
@@ -325,10 +281,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -337,11 +293,35 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            20
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美债收益率随油价持续攀升，美国10年期和30年期国债收益率升至两个月来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3137618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     }
