@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T18:16:40.618052+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-22T20:24:50.960392+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -15,81 +15,149 @@
       },
       "titles": [
         {
-          "title": "世界银行首席经济学家吉尔：美国、印度等国在伊朗战争的影响下基本受到保护，但高债务水平的发展中国家面临更大风险。",
-          "url": "https://flash.jin10.com/detail/20260722180052126800",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗表示战略导弹生产从未停止。",
+          "url": "https://flash.jin10.com/detail/20260722201646879800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         },
         {
-          "title": "美国国务卿鲁比奥：我们正监测红海航行安全面临的任何威胁。胡塞武装的威胁并不新鲜。该组织威胁实施海上封锁是一个问题，而伊朗才是制造这些问题的根源。伊朗在该地区资助恐怖组织。伊朗向也门发送了载有设备和武器的飞机。",
-          "url": "https://flash.jin10.com/detail/20260722175440363800",
-          "source": "金十数据",
+          "title": "伊朗南部拉腊克岛遭到美国导弹袭击",
+          "url": "https://wallstreetcn.com/livenews/3138214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "伊朗的Lark岛遭到美国导弹袭击。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3138202",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         },
         {
-          "title": "“每天都被伊朗打”经济遭不住，科威特计划发行美元债券",
-          "url": "https://flash.jin10.com/detail/20260722175007210800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "约旦军方称伊朗向该国发射了6枚导弹",
-          "url": "https://wallstreetcn.com/livenews/3138112",
+          "title": "伊朗风险升温之际，欧洲天然气价格涨幅扩大至5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3138198",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         },
         {
-          "title": "市场消息：伊朗外交部副部长将出席在菲律宾举行的东盟外长会议。",
-          "url": "https://flash.jin10.com/detail/20260722174434222800",
-          "source": "金十数据",
+          "title": "伊朗外交部发言人：伊朗“镐山”并无核活动",
+          "url": "https://wallstreetcn.com/livenews/3138186",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         },
         {
-          "title": "美国国务卿鲁比奥：愿意与伊朗达成外交解决方案。",
-          "url": "https://flash.jin10.com/detail/20260722174320653800",
-          "source": "金十数据",
+          "title": "伊朗袭击了位于费萨尔和哈桑王子基地的美国资产。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3138184",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 12.4 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "GE Vernova美股盘前跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3138187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "GE Vernova美股盘前下挫，现跌超6%，此前一度涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3138176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 11.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -98,11 +166,11 @@
           "url": "https://news.ifeng.com/c/8uy1V150ZKO",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         },
         {
           "title": "这条40余年的禁令，被特朗普解除了",
@@ -113,40 +181,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         },
         {
-          "title": "据Politico民调：美国总统特朗普的MAGA支持者对他的伊朗战争感到失望 。",
-          "url": "https://flash.jin10.com/detail/20260722175828950800",
-          "source": "金十数据",
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         },
         {
-          "title": "TACO时刻临近？模型预计特朗普将在7月底“认怂”",
-          "url": "https://flash.jin10.com/detail/20260722174950113800",
+          "title": "美国总统特朗普政府拨款50亿美元用于“创世使命”计划。",
+          "url": "https://flash.jin10.com/detail/20260722200346505800",
           "source": "金十数据",
           "ranks": [
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：我们愿与伊朗达成协议，确保其不会获得核武器。伊朗是支持恐怖主义的国家，我们不信任它。如果伊朗不合作，美国总统特朗普有很多选择。",
-          "url": "https://flash.jin10.com/detail/20260722174552841800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         }
       ]
     },
@@ -154,7 +211,7 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 5.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 75,
@@ -170,75 +227,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "市场消息：OpenAI将推出面向企业的新软件OpenAI Presence。",
+          "url": "https://flash.jin10.com/detail/20260722200848203800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
-          "url": "https://www.cls.cn/detail/2433554",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 3.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 69,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
         }
       ]
     },
@@ -262,7 +273,31 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "谷歌平价Gemini三箭齐发，网安模型对标Anthropic Mythos，旗舰3.5 Pro仍难产",
+          "url": "https://wallstreetcn.com/articles/3777594",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     }
