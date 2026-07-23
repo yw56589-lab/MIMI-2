@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-23T20:20:01.825940+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-23T23:03:10.735139+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 61,
+        "confidence": 65,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -34,62 +34,130 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
+          "title": "谷歌未来支出承诺飙升至8110亿美元",
+          "url": "https://wallstreetcn.com/livenews/3138950",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063569251428819442",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
-          "title": "谷歌披露持有SpaceX股份940亿美元",
-          "url": "https://flash.jin10.com/detail/20260723195331103800",
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
+          "title": "2050亿美元支出引发担忧，谷歌跌超7%",
+          "url": "https://flash.jin10.com/detail/20260723222423325800",
           "source": "金十数据",
           "ranks": [
-            4
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时20分"
-        },
+          "time_info": "23时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 60,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "谷歌(GOOG.O)在10-Q报告中披露了对SpaceX(SPCX.O)的持股情况，在SpaceX上市后其持有价值940亿美元的股份，其中800亿美元SpaceX持股受短期锁定期限制。",
-          "url": "https://flash.jin10.com/detail/20260723194312680800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "谷歌：在SpaceX首次公开募股后持有其940亿美元股份",
-          "url": "https://wallstreetcn.com/livenews/3138853",
+          "title": "美众议院再次通过决议要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3138952",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "23时03分"
+        },
+        {
+          "title": "据悉伊朗向也门胡塞武装空运革命卫队指挥官及导弹设备",
+          "url": "https://flash.jin10.com/detail/20260723223835511800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "据Punchbowl：美国参议院多数党领袖图恩表示，伊朗制裁已被纳入俄罗斯法案中。",
+          "url": "https://flash.jin10.com/detail/20260723223751877800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "市场消息：美国众议院通过伊朗《战争权力法》决议。",
+          "url": "https://flash.jin10.com/detail/20260723222639132800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "伊朗革命卫队称打击驻科威特美军电子战部队",
+          "url": "https://wallstreetcn.com/livenews/3138925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 61,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
@@ -102,29 +170,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
-          "title": "美国总统特朗普：美国并不反对民用（非浓缩）核设施。",
-          "url": "https://flash.jin10.com/detail/20260723195408068800",
+          "title": "美众院再次通过决议 要求特朗普结束对伊朗战事",
+          "url": "https://flash.jin10.com/detail/20260723224553646800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "美国总统特朗普：美国能源部与沙特阿拉伯之间的核协议将获得批准，但完全取决于沙特阿拉伯加入亚伯拉罕协议。",
-          "url": "https://flash.jin10.com/detail/20260723195405095800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "23时03分"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -135,40 +192,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
-          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
-          "url": "https://www.zhihu.com/question/2062856603762742765",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
-        },
-        {
-          "title": "特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。 美国与沙特的协议不包含材料浓缩。",
-          "url": "https://wallstreetcn.com/livenews/3138861",
+          "title": "美国众议院再次通过伊朗战争权力决议，对特朗普表达谴责",
+          "url": "https://wallstreetcn.com/livenews/3138941",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "23时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 21.2 位，标题平均出现 1.2 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 54,
+        "confidence": 61,
         "chart": []
       },
       "titles": [
@@ -181,75 +227,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
-          "title": "IMAX第二季度营收1.028亿美元，预估9,390万美元。 第二季度调整后EBITDA 4,800万美元，预估3,930万美元。 第二季度调整后每股收益0.43美元，预估0.28美元。 IMAX美股盘前涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3138849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。 第二季度可分配每股收益1.52美元，预期1.33美元。 黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。 黑石集团美股盘前跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3138842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "美国航空第二季度调整后每股收益15美分，预期2.7美分。 美国航空预计第三季度营收增长16%至19%。 美国航空预计第三季度调整后每股亏损10美分至70美分，市场预期每股收益31美分。 美国航空预计全年调整后每股亏损65美分至每股收益65美分，市场预期每股收益61美分。 美国航空美股盘前跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3138834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.5 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "DeepSeek华为合作",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
-        },
-        {
-          "title": "如何看待梁文锋称不要求员工长期加班？为啥刘强东、梁文锋等大厂创始人都在反过度加班但这仍是大厂的常态？",
-          "url": "https://www.zhihu.com/question/2063652081714423010",
-          "source": "知乎",
+          "title": "尚未被定价的隐形风险：日本万亿级资金回流将成美股的“抽水机”",
+          "url": "https://flash.jin10.com/detail/20260723222612176800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     },
@@ -257,55 +246,7 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "贝莱德称高企的美债收益率为投资者提供稳健的抗跌保护",
-          "url": "https://wallstreetcn.com/livenews/3138866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 57,
@@ -313,15 +254,63 @@
       },
       "titles": [
         {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击",
-          "url": "https://wallstreetcn.com/livenews/3138855",
-          "source": "华尔街见闻-快讯",
+          "title": "美国 白宫官员：美国总统特朗普的技术顾问克拉齐奥斯已获悉OpenAI智能体失控一事，正在监测事态发展。",
+          "url": "https://flash.jin10.com/detail/20260723222357929800",
+          "source": "金十数据",
           "ranks": [
-            19
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "23时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金价四连涨深圳水贝又挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 28.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 57,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美债收益率升创年内高点 油价飙升推高美联储加息押注",
+          "url": "https://wallstreetcn.com/livenews/3138919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     }
