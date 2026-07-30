@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-30T20:25:15.654150+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-30T23:04:05.288916+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 6.2 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 11.1 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -34,18 +34,40 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
-          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
-          "url": "https://www.toutiao.com/trending/7668276655902690879/",
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
           "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "伊朗称打击约旦美军基地并摧毁3架F-35战机",
+          "url": "https://news.ifeng.com/c/8vBe6gl56CN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "伊朗称袭击科威特的美空军基地",
+          "url": "https://www.toutiao.com/trending/7668304219085999652/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
@@ -56,64 +78,119 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
+          "url": "https://www.toutiao.com/trending/7668276655902690879/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "伊朗称摧毁3架F35战机",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%813%E6%9E%B6F35%E6%88%98%E6%9C%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 61,
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 15.3 位，标题平均出现 1.5 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 66,
         "chart": []
       },
       "titles": [
         {
-          "title": "美股三大股指期货集体走高，纳指期货日内涨约1.5%，明星科技股盘前普涨，SK海力士盘前涨近4%，美光科技盘前涨超4%，SpaceX盘前涨超3%，英伟达盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3142448",
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "美股半导体板块迎反弹 多股暴涨超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E8%BF%8E%E5%8F%8D%E5%BC%B9+%E5%A4%9A%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "美股芯片半导体反弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "美股存储芯片指数涨超17%，SK海力士ADR涨15.85%，美光科技股价上涨15%，闪迪上涨21.15%，西部数据上涨16.87%，希捷科技上涨15.84%。",
+          "url": "https://wallstreetcn.com/livenews/3142532",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "23时04分"
         },
         {
-          "title": "美股存储板块盘前走强，美光科技、SK海力士涨超3%，闪迪涨6%。",
-          "url": "https://wallstreetcn.com/livenews/3142442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-07-30）",
-          "url": "https://flash.jin10.com/detail/20260730201539836800",
+          "title": "高盛警告：季节性因素与观望情绪或压制美股",
+          "url": "https://flash.jin10.com/detail/20260730223624219800",
           "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "23时04分"
+        },
+        {
+          "title": "美股三大股指高开，科技股反弹，微软大涨12%",
+          "url": "https://wallstreetcn.com/livenews/3142509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 11.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -126,18 +203,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
@@ -148,32 +214,43 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "特朗普称将用伊朗资金“赔偿”受损船只和货物，伊朗回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683825",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
           "url": "https://www.cls.cn/detail/2441076",
@@ -183,7 +260,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[23时03分 ~ 23时04分]"
         }
       ]
     },
@@ -207,7 +284,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[23时03分 ~ 23时04分]"
         }
       ]
     }
