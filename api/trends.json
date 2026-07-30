@@ -1,128 +1,16 @@
 {
-  "generated_at": "2026-07-30T09:29:58.857175+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-30T12:50:44.231234+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "伊朗",
-      "match_count": 9,
-      "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 85,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "历史性一刻，伊朗先发制人袭击美军基地",
-          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "美媒称美军正在对伊朗进行空袭",
-          "url": "https://www.toutiao.com/trending/7668100922215501318/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：导弹袭击击中伊朗格什姆岛居民区。",
-          "url": "https://flash.jin10.com/detail/20260730091514058800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2065729116125521259",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "据伊朗新闻电视台30日报道，伊朗南部多地传出爆炸声。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3142002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "美军袭击伊朗阿巴丹 班达尔阿巴斯传出爆炸声",
-          "url": "https://flash.jin10.com/detail/20260730091352570800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "伊朗的基什岛、格什姆岛和阿布穆萨岛附近发生爆炸，阿巴斯港发生爆炸。",
-          "url": "https://wallstreetcn.com/livenews/3142000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "美军再对伊朗发动打击",
-          "url": "https://wallstreetcn.com/livenews/3141994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "据伊朗媒体报道，伊朗布什尔地区传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260730090417978800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        }
-      ]
-    },
     {
       "keyword_group": "特朗普",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 6 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -135,70 +23,173 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时50分"
         },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
           "url": "https://www.cls.cn/detail/2440511",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时50分"
         },
         {
           "title": "以色列煽风，乌克兰点火，特朗普不为所动",
           "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
           "source": "凤凰网",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
+          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
+          "source": "凤凰网",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时50分"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "特朗普周三会见了沙特国防部长。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3141999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时50分"
         },
         {
           "title": "伊朗武装部队警告特朗普",
           "url": "https://www.douyin.com/hot/2589723",
           "source": "抖音",
           "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 8.4 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "约旦称防空系统拦截伊朗发射的5枚导弹",
+          "url": "https://flash.jin10.com/detail/20260730124339403800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：约旦方面称，挫败了伊朗发射5枚导弹袭击领土的企图。",
+          "url": "https://flash.jin10.com/detail/20260730123952681800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "据伊朗努尔新闻和法尔斯通讯社报道，约旦穆沃费格萨勒提空军基地（美军在中东的主要基地之一）传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260730122954370800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "据伊朗媒体报道，胡塞武装否认关于其拟在曼德海峡征收过境费的报道，称该组织在红海的行动仅限于禁止沙特的航运。",
+          "url": "https://wallstreetcn.com/livenews/3142115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -210,57 +201,46 @@
           "url": "https://www.cls.cn/detail/2440737",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时50分"
         },
         {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
           "ranks": [
-            12
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "美股尾盘大跳水原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时50分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
+          "title": "加息概率骤降，金价上冲却被长债拦住！",
+          "url": "https://flash.jin10.com/detail/20260730122640008800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时50分"
         }
       ]
     },
@@ -284,7 +264,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时50分"
         }
       ]
     }
