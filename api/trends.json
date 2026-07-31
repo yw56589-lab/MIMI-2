@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-31T07:55:26.528524+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-07-31T09:56:47.017028+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 17.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 16.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -15,138 +15,94 @@
       },
       "titles": [
         {
-          "title": "特朗普：与哈马斯达成全面解除武装协议",
-          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
-          "source": "凤凰网",
+          "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
+          "url": "https://www.zhihu.com/question/2066333638568972760",
+          "source": "知乎",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
         },
         {
-          "title": "英媒：特朗普称尚未决定是否允许乌克兰生产爱国者导弹",
-          "url": "https://flash.jin10.com/detail/20260731074119229800",
-          "source": "金十数据",
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
         },
         {
-          "title": "美国官员：未要求以色列同意任何不包含在早前计划中的事项。如果以色列不同意，美国总统特朗普将感到失望。",
-          "url": "https://flash.jin10.com/detail/20260731074100248800",
-          "source": "金十数据",
+          "title": "OpenAI大砍两款AI模型价格",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%A4%A7%E7%A0%8D%E4%B8%A4%E6%AC%BEAI%E6%A8%A1%E5%9E%8B%E4%BB%B7%E6%A0%BC",
+          "source": "百度热搜",
           "ranks": [
-            17
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "据英国金融时报：美国总统特朗普称其高级顾问库什纳和中东问题特使威特科夫将在未来几天首次访问乌克兰。",
-          "url": "https://flash.jin10.com/detail/20260731073629466800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "美国总统特朗普：“并不确定”是否会允许乌克兰建造爱国者导弹。",
-          "url": "https://flash.jin10.com/detail/20260731073406103800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "特朗普：加沙将迎来新的巴勒斯坦政府",
-          "url": "https://wallstreetcn.com/livenews/3142682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 16.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美股收盘：微软创近18年最大单日涨幅",
-          "url": "https://www.toutiao.com/trending/7668063651911909418/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
         {
           "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
           "url": "https://www.cls.cn/detail/2441995",
           "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
+        },
+        {
+          "title": "美股收盘：满屏都是两位数涨幅",
+          "url": "https://www.toutiao.com/trending/7668484734493888009/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "美股收盘：满屏都是两位数涨幅",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E6%B6%A8%E5%B9%85",
           "source": "百度热搜",
           "ranks": [
-            7
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
-          "url": "https://wallstreetcn.com/livenews/3142689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -155,22 +111,11 @@
           "url": "https://news.ifeng.com/c/8vBxRifaFrE",
           "source": "凤凰网",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "中国向伊朗提供400枚导弹？外交部回应",
-          "url": "https://www.toutiao.com/trending/7668128346190053385/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
         },
         {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
@@ -181,66 +126,53 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
         },
         {
-          "title": "美国官员：伊朗试图说服哈马斯不达成协议，但美国成功克服了这一障碍。",
-          "url": "https://flash.jin10.com/detail/20260731074304991800",
-          "source": "金十数据",
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "特朗普",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
         {
-          "title": "谷歌发布新一代机器人AI模型",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E6%9C%BA%E5%99%A8%E4%BA%BAAI%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
+          "title": "特朗普：与哈马斯达成全面解除武装协议",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
+          "source": "凤凰网",
           "ranks": [
-            25
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
+          "time_info": "09时56分"
+        },
         {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
         }
       ]
     },
@@ -264,7 +196,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时56分"
         }
       ]
     }
