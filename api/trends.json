@@ -1,84 +1,16 @@
 {
-  "generated_at": "2026-08-01T03:10:02.683930+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-01T04:55:24.995498+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.8 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
-          "url": "https://news.ifeng.com/c/8vDSNTsXzUU",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "伊朗革命卫队一天发表三份声明",
-          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
-          "url": "https://www.toutiao.com/trending/7668445091514155050/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "伊朗宣布霍尔木兹海峡暂停通行",
-          "url": "https://www.toutiao.com/trending/7668680642107805238/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "伊朗政府：伊朗外长阿拉格奇与印度外长苏杰生通电话，讨论了双边关系及地区最新局势。",
-          "url": "https://flash.jin10.com/detail/20260801015450418800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 5.8 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 9.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -90,19 +22,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
           "url": "https://www.cls.cn/detail/2442818",
           "source": "财联社热门",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
+          "url": "https://wallstreetcn.com/livenews/3143461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -112,76 +55,98 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
           "url": "https://www.zhihu.com/question/2066288437683032785",
           "source": "知乎",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260801040734896800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260801040711867800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "chatgpt openai",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
-          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "特朗普否认允许乌生产爱国者拦截弹",
-          "url": "https://wallstreetcn.com/livenews/3143400",
+          "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3143460",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时55分"
+        },
+        {
+          "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
+          "url": "https://flash.jin10.com/detail/20260801042118367800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
+          "url": "https://flash.jin10.com/detail/20260801041603854800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
+          "url": "https://wallstreetcn.com/livenews/3143443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
@@ -189,10 +154,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 16.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -201,79 +166,44 @@
           "url": "https://www.zhihu.com/question/2066521165246489298",
           "source": "知乎",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
-          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
-          "url": "https://www.zhihu.com/question/2066526486505461299",
-          "source": "知乎",
+          "title": "DeepSeek拟在内蒙古建超算中心",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 18.5 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 63,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "当金价不再上涨 老铺黄金还值多少钱",
-          "url": "https://www.toutiao.com/trending/7668653612649680447/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "Tether在伊朗战争金价下跌期间再次加大黄金购买力度",
-          "url": "https://wallstreetcn.com/livenews/3143414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时55分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 68,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -285,8 +215,181 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "美元指数31日上涨",
+          "url": "https://flash.jin10.com/detail/20260801041117348800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "美元指数7月份跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3143438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 74,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://news.ifeng.com/c/8vDSNTsXzUU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
+          "url": "https://www.toutiao.com/trending/7668445091514155050/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡暂停通行",
+          "url": "https://www.toutiao.com/trending/7668680642107805238/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "7月份，美股存储芯片指数跌28.6%，半导体指数跌19.8%，美国科技股七巨头指数涨4.9%，标普大致持平，道指涨0.5%，纳指跌2.5%，银行指数涨3.4%。 周五当天，标普500指数初步收涨0.8%，可选消费板块涨6.2%，电信板块涨4.7%，科技板块跌0.2%，原材料板块跌2.7%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊初步收涨15.6%，德康医疗涨11.9%，谷歌A涨7%，新思科技涨4.5%，英伟达涨3.4%，SpaceX跌3.6%，Strategy跌4%，闪迪跌5.4%，美光科技跌5.6%，恩智浦跌6%，苹果跌7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3143446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "当金价不再上涨 老铺黄金还值多少钱",
+          "url": "https://www.toutiao.com/trending/7668653612649680447/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     }
