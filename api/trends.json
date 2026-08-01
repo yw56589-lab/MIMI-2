@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-01T23:54:25.259094+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-02T00:50:48.256184+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 7 个来源平台，平均热榜排名约 14.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 7 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 87,
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -34,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -45,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -56,7 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         },
         {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
@@ -67,29 +67,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
+        },
+        {
+          "title": "特朗普说伊朗确实挺硬气",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "特朗普威胁参议员通过其司法部长人选",
           "url": "https://flash.jin10.com/detail/20260801195052778800",
           "source": "金十数据",
           "ranks": [
-            23
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "特朗普说伊朗确实挺硬气",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         }
       ]
     },
@@ -97,24 +97,13 @@
       "keyword_group": "伊朗",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 16.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美财长称正在全球范围内追查伊朗资产",
-          "url": "https://flash.jin10.com/detail/20260801222142745800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
         {
           "title": "美财长称正在全球范围内追查伊朗资产",
           "url": "https://wallstreetcn.com/livenews/3143618",
@@ -124,7 +113,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         },
         {
           "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
@@ -135,18 +124,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
+        },
+        {
+          "title": "美财长称正在全球范围内追查伊朗资产",
+          "url": "https://flash.jin10.com/detail/20260801222142745800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
           "url": "https://flash.jin10.com/detail/20260801202347340800",
           "source": "金十数据",
           "ranks": [
-            18
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         },
         {
           "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
@@ -157,7 +157,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         }
       ]
     },
@@ -181,7 +181,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -192,7 +192,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         }
       ]
     },
@@ -216,7 +216,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         }
       ]
     },
@@ -224,23 +224,23 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
         {
-          "title": "OpenAI 价格战",
-          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
           "ranks": [
-            18
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         }
       ]
     },
@@ -264,7 +264,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时50分"
         }
       ]
     }
