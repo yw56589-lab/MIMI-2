@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-02T05:45:17.666301+08:00",
+  "generated_at": "2026-08-02T06:45:24.115397+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 6 个来源平台，平均热榜排名约 14.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 14.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -23,29 +23,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
           "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
           "url": "https://flash.jin10.com/detail/20260802044624523800",
           "source": "金十数据",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -56,18 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -78,18 +56,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
-          "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
-          "url": "https://flash.jin10.com/detail/20260802022303381800",
-          "source": "金十数据",
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
@@ -100,51 +78,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
-          "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
-          "url": "https://flash.jin10.com/detail/20260802021825118800",
+          "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
+          "url": "https://flash.jin10.com/detail/20260802022303381800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
+        },
+        {
+          "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
+          "url": "https://flash.jin10.com/detail/20260802021825118800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
           "url": "https://flash.jin10.com/detail/20260802021650818800",
           "source": "金十数据",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
-          "url": "https://flash.jin10.com/detail/20260802014640512800",
-          "source": "金十数据",
-          "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "美国前副总统哈里斯：（关于伊朗战争）这场战争是现任总统特朗普主动选择卷入的冲突，他与以色列联手开战，而对美国而言，并不存在明确的国家安全问题。",
-          "url": "https://flash.jin10.com/detail/20260802014407605800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         }
       ]
     },
@@ -152,7 +119,7 @@
       "keyword_group": "伊朗",
       "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 3 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 3 个来源平台，平均热榜排名约 13.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -160,26 +127,26 @@
       },
       "titles": [
         {
-          "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
-          "url": "https://flash.jin10.com/detail/20260802043310117800",
+          "title": "土耳其外长：今天，我与伊朗外长阿拉格齐进行了通话，双方探讨了当前（美伊）谈判进程的最新情况。土耳其将继续为结束本地区冲突并建立持久和平而努力。",
+          "url": "https://flash.jin10.com/detail/20260802054249682800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
-          "title": "伊朗外交部：决心继续走抵抗与坚守之路",
-          "url": "https://flash.jin10.com/detail/20260802040120946800",
+          "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
+          "url": "https://flash.jin10.com/detail/20260802043310117800",
           "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
           "title": "美财长称正在全球范围内追查伊朗资产",
@@ -190,18 +157,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。美国和以色列的任何“侵略”或地区国家的参与都将遭到“果断回应”。",
-          "url": "https://flash.jin10.com/detail/20260802035505032800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
           "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
@@ -212,40 +168,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
+        },
+        {
+          "title": "伊朗外交部：决心继续走抵抗与坚守之路",
+          "url": "https://flash.jin10.com/detail/20260802040120946800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。美国和以色列的任何“侵略”或地区国家的参与都将遭到“果断回应”。",
+          "url": "https://flash.jin10.com/detail/20260802035505032800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "伊朗外交部声明： 在美国继续违背6月28日停战协议的情况下，持续对伊朗的港口和商业航运实施海上封锁，针对全国各地进行野蛮攻击，加大经济压力和非法威胁，实施对伊朗的侵略行为，我国武装力量的防御打击将全力以赴继续进行。",
           "url": "https://flash.jin10.com/detail/20260802031423982800",
           "source": "金十数据",
           "ranks": [
-            13
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
           "title": "伊朗用了新武器",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%A8%E4%BA%86%E6%96%B0%E6%AD%A6%E5%99%A8%23&t=31&band_rank=22&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%A8%E4%BA%86%E6%96%B0%E6%AD%A6%E5%99%A8%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "阿联酋外交部：伊朗的侵略性攻击公然违反了科威特的主权，并对其安全与稳定构成威胁。",
-          "url": "https://flash.jin10.com/detail/20260802015032659800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
           "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
@@ -256,7 +223,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         }
       ]
     },
@@ -280,7 +247,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -291,7 +258,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         }
       ]
     },
@@ -315,7 +282,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         }
       ]
     },
@@ -339,7 +306,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         }
       ]
     },
@@ -363,7 +330,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时45分"
         }
       ]
     }
