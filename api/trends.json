@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-03T06:46:40.627806+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-03T07:51:48.011198+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 23 条热点，覆盖 7 个来源平台，平均热榜排名约 12.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 6 个来源平台，平均热榜排名约 15.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 87,
+        "confidence": 86,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -34,40 +34,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗政权内部有人希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20260803061251267800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗达成协议比对其进行军事打击更好。",
-          "url": "https://flash.jin10.com/detail/20260803061218681800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
@@ -78,205 +56,152 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
+        },
+        {
+          "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
+          "url": "https://flash.jin10.com/detail/20260803064716887800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
           "url": "https://wallstreetcn.com/livenews/3143741",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
-          "url": "https://flash.jin10.com/detail/20260803061041484800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
           "title": "特朗普称，美国干预日元汇率是两国友谊的信号。",
           "url": "https://wallstreetcn.com/livenews/3143743",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：我们原计划对伊朗实施自二战以来最大规模的攻击。",
-          "url": "https://flash.jin10.com/detail/20260803061040162800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
           "title": "特朗普称美伊3日将举行谈判",
           "url": "https://wallstreetcn.com/livenews/3143742",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
-          "url": "https://wallstreetcn.com/livenews/3143739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "特朗普称美伊3日将举行谈判",
-          "url": "https://flash.jin10.com/detail/20260803055834448800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：（当被问及美军撤出科威特和巴林）不予置评。",
-          "url": "https://flash.jin10.com/detail/20260803055502014800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及英特尔）我为国家赚了750亿美元。我不是为自己赚的，是为国家赚的。",
-          "url": "https://flash.jin10.com/detail/20260803055411307800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "特朗普：美伊谈判明日启动 霍尔木兹海峡已有协议",
-          "url": "https://flash.jin10.com/detail/20260803054815233800",
-          "source": "金十数据",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美国总统特朗普：已决定对加拿大野火问题采取惩罚措施，但暂不公布。",
-          "url": "https://flash.jin10.com/detail/20260803054649195800",
+          "title": "美国总统特朗普：伊朗政权内部有人希望达成协议。",
+          "url": "https://flash.jin10.com/detail/20260803061251267800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美国总统特朗普：（关于日元）美国介入是因为与日本关系良好，我们始终支持日本，美国从相关安排中获得了经济利益。",
-          "url": "https://flash.jin10.com/detail/20260803054401910800",
-          "source": "金十数据",
+          "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
+          "url": "https://wallstreetcn.com/livenews/3143739",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美国总统特朗普：（关于伊朗）随时准备行动。",
-          "url": "https://flash.jin10.com/detail/20260803054323048800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）霍尔木兹海峡已有协议，无核化也将达成协议。正在以谈判的形式与他们对话，（美东时间）明天下午开始。",
-          "url": "https://flash.jin10.com/detail/20260803054226703800",
+          "title": "美国总统特朗普：与伊朗达成协议比对其进行军事打击更好。",
+          "url": "https://flash.jin10.com/detail/20260803061218681800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
-          "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
-          "url": "https://wallstreetcn.com/livenews/3143717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "金十整理：特朗普八次叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803044202027800",
+          "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
+          "url": "https://flash.jin10.com/detail/20260803061041484800",
           "source": "金十数据",
           "ranks": [
-            28
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普：我们原计划对伊朗实施自二战以来最大规模的攻击。",
+          "url": "https://flash.jin10.com/detail/20260803061040162800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 23.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -289,163 +214,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         },
         {
           "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
           "url": "https://wallstreetcn.com/livenews/3143732",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "伊朗最高领袖：伊朗和伊拉克是两个紧密相连的民族，彼此相连。",
-          "url": "https://wallstreetcn.com/livenews/3143725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "伊朗重申霍尔木兹海峡不会恢复至战前状态",
-          "url": "https://wallstreetcn.com/livenews/3143715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "伊朗外长：伊朗与阿曼谈判接近完成",
-          "url": "https://wallstreetcn.com/livenews/3143714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "伊朗外长与伊拉克外长通电话",
-          "url": "https://flash.jin10.com/detail/20260803044639707800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "伊朗：与阿曼之间关于霍尔木兹海峡管理的磋商处于最终阶段，对话不涉及海峡的关闭或开放",
-          "url": "https://wallstreetcn.com/livenews/3143712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "伊朗革命卫队：将针对哈尼亚、阿亚图拉·哈梅内伊遇袭事件实施猛烈、毁灭性报复。",
-          "url": "https://wallstreetcn.com/livenews/3143711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
-          "url": "https://wallstreetcn.com/livenews/3143710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "伊朗回应打击巴林亚马逊数据中心",
-          "url": "https://www.toutiao.com/trending/7669231761053859882/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "伊朗议会国家安全委员会：调停方正提供协助，以期重启与美国的谅解备忘录谈判。 各方正就所有议题交换意见。",
-          "url": "https://wallstreetcn.com/livenews/3143709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
-          "url": "https://www.zhihu.com/question/2067212789714778007",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
-          "url": "https://www.zhihu.com/question/2065010626171293829",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         }
       ]
     },
@@ -469,7 +249,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         }
       ]
     },
@@ -477,10 +257,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -489,11 +269,11 @@
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时51分"
         }
       ]
     }
