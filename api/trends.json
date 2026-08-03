@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-03T09:56:22.433571+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-03T13:34:31.282183+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         },
         {
           "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
@@ -34,51 +34,121 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         },
         {
           "title": "接连反转！特朗普透露三个信息",
           "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
           "source": "凤凰网",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "特朗普：已决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         },
         {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         },
         {
-          "title": "美媒：特朗普民调跌至历史新低",
-          "url": "https://www.toutiao.com/trending/7669012238334165035/",
-          "source": "今日头条",
+          "title": "特朗普300个账户为何被关？银行首度开口：反洗钱审查发现“问题交易”",
+          "url": "https://flash.jin10.com/detail/20260803120059466800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 18.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "救日元也要护美债，贝森特推动美联储流动性工具扩容",
+          "url": "https://flash.jin10.com/detail/20260803122507266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
+          "url": "https://flash.jin10.com/detail/20260803115620374800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         }
       ]
     },
@@ -86,10 +156,10 @@
       "keyword_group": "伊朗",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 1.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -102,18 +172,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         },
         {
-          "title": "涉及霍尔木兹海峡，伊朗外交部再发声",
-          "url": "https://news.ifeng.com/c/8vGz11eyBPb",
-          "source": "凤凰网",
+          "title": "伊朗袭击乌军基地？实为纽约大火",
+          "url": "https://www.toutiao.com/trending/7669212085427339283/",
+          "source": "今日头条",
           "ranks": [
-            2
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         }
       ]
     },
@@ -121,10 +191,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -133,19 +203,19 @@
           "url": "https://www.cls.cn/detail/2443548",
           "source": "财联社热门",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -153,23 +223,23 @@
       },
       "titles": [
         {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
           "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 28.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -177,15 +247,15 @@
       },
       "titles": [
         {
-          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
-          "url": "https://www.cls.cn/detail/2443401",
-          "source": "财联社热门",
+          "title": "特朗普再次“TACO”，金价4000美元暗战升级！",
+          "url": "https://flash.jin10.com/detail/20260803114543512800",
+          "source": "金十数据",
           "ranks": [
-            12
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时34分"
         }
       ]
     }
