@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-03T07:51:48.011198+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-03T09:56:22.433571+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 6 个来源平台，平均热榜排名约 15.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -23,150 +23,108 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "09时56分"
         },
         {
-          "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
-          "url": "https://news.ifeng.com/c/8vGSlnonKX0",
-          "source": "凤凰网",
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "09时56分"
+        },
+        {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
           "url": "https://www.cls.cn/detail/2443463",
           "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "09时56分"
         },
         {
-          "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
-          "url": "https://flash.jin10.com/detail/20260803064716887800",
-          "source": "金十数据",
+          "title": "美媒：特朗普民调跌至历史新低",
+          "url": "https://www.toutiao.com/trending/7669012238334165035/",
+          "source": "今日头条",
           "ranks": [
-            13
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "09时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 1.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 67,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
-          "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3143741",
-          "source": "华尔街见闻-快讯",
+          "title": "涉及霍尔木兹海峡，伊朗外交部再发声",
+          "url": "https://news.ifeng.com/c/8vGz11eyBPb",
+          "source": "凤凰网",
           "ranks": [
-            17
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "特朗普称，美国干预日元汇率是两国友谊的信号。",
-          "url": "https://wallstreetcn.com/livenews/3143743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "特朗普称美伊3日将举行谈判",
-          "url": "https://wallstreetcn.com/livenews/3143742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗政权内部有人希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20260803061251267800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
-          "url": "https://wallstreetcn.com/livenews/3143739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗达成协议比对其进行军事打击更好。",
-          "url": "https://flash.jin10.com/detail/20260803061218681800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
-          "url": "https://flash.jin10.com/detail/20260803061041484800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "美国总统特朗普：我们原计划对伊朗实施自二战以来最大规模的攻击。",
-          "url": "https://flash.jin10.com/detail/20260803061040162800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "09时56分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -175,57 +133,11 @@
           "url": "https://www.cls.cn/detail/2443548",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
-          "url": "https://www.zhihu.com/question/2065010626171293829",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
-          "url": "https://wallstreetcn.com/articles/3778501",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
-          "url": "https://wallstreetcn.com/livenews/3143732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "09时56分"
         }
       ]
     },
@@ -249,31 +161,31 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "09时56分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
+          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
+          "url": "https://www.cls.cn/detail/2443401",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "09时56分"
         }
       ]
     }
