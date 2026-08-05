@@ -1,59 +1,13 @@
 {
-  "generated_at": "2026-08-05T12:58:18.309379+08:00",
+  "generated_at": "2026-08-05T15:36:42.774206+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 2.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 68,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
-          "url": "https://www.cls.cn/detail/2445802",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
-          "url": "https://www.cls.cn/detail/2445760",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 16.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 18.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -69,40 +23,75 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时36分"
         },
         {
-          "title": "特朗普：与伊朗的谈判进展非常顺利，将在未来48小时见分晓。 达成协议对伊朗来说是明智之选，我们拭目以待。",
-          "url": "https://wallstreetcn.com/livenews/3145142",
+          "title": "特朗普：霍尔木兹海峡很快开放 否则伊朗将遭打击",
+          "url": "https://wallstreetcn.com/livenews/3145198",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时36分"
         },
         {
-          "title": "特朗普：霍尔木兹海峡将很快重新开放。 如果伊朗再次反悔，他们将遭受重创。 我们与伊朗的谈判非常顺利。",
-          "url": "https://wallstreetcn.com/livenews/3145117",
+          "title": "特朗普敦促美参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3145193",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 2.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 68,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 1.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -115,7 +104,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时36分"
         },
         {
           "title": "美财长透露与伊朗达成协议时间",
@@ -126,53 +115,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "伊朗：乌克兰已道歉",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B7%B2%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 17.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "DeepSeek重启融资 投前估值5000亿元",
-          "url": "https://www.toutiao.com/trending/7670354038151450166/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "DeepSeekV4一块钱生成的星舰",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E4%B8%80%E5%9D%97%E9%92%B1%E7%94%9F%E6%88%90%E7%9A%84%E6%98%9F%E8%88%B0&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时36分"
         }
       ]
     },
@@ -196,31 +139,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 23.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "“铱”价格大涨远超黄金",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%93%B1%E2%80%9D%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%E8%BF%9C%E8%B6%85%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时36分"
         }
       ]
     },
@@ -228,10 +147,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -240,11 +159,11 @@
           "url": "https://www.zhihu.com/question/2067002987545884316",
           "source": "知乎",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时36分"
         }
       ]
     }
