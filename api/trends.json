@@ -1,297 +1,207 @@
 {
-  "generated_at": "2026-08-06T06:11:17.765424+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-06T07:51:57.177982+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 4 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 4 个来源平台，平均热榜排名约 15.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3145625",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
-          "url": "https://flash.jin10.com/detail/20260806055819902800",
-          "source": "金十数据",
+          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
+          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
-          "url": "https://wallstreetcn.com/livenews/3145624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国总统特朗普：我们很欣赏马斯克。",
-          "url": "https://flash.jin10.com/detail/20260806055113870800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260806054735118800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3145620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
-          "url": "https://flash.jin10.com/detail/20260806054724205800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260806054719148800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
-          "url": "https://wallstreetcn.com/livenews/3145617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
-          "url": "https://www.cls.cn/detail/2446327",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国总统特朗普：关税让我们变得富有。",
-          "url": "https://flash.jin10.com/detail/20260806053019525800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
-          "url": "https://flash.jin10.com/detail/20260806052258964800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://www.toutiao.com/trending/7670517654829927979/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2446634",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2446816",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "周三（8月5日），美股存储芯片与硬件供应链指数跌2.87%，报197.07点。 美股盘初冲高回落、北京时间21:50刷新日高至206.67点，随后长时间保持在平盘附近，03:00以来持续下跌。 成分股闪迪收跌5.4%，西部数据跌5.36%，泰瑞达、拉姆研究、Rambus、应用材料、希捷科技至多跌3.51%，美光科技涨0.06%。 此外，SK海力士ADR跌2.17%。",
-          "url": "https://wallstreetcn.com/livenews/3145604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
-          "url": "https://wallstreetcn.com/livenews/3145597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "周三（8月5日），美股行业ETF多数下跌，能源业ETF收跌2.07%，半导体ETF跌1.04%，科技行业ETF跌0.53%，生物科技指数ETF涨0.87%，医疗业ETF涨1.27%。",
-          "url": "https://wallstreetcn.com/livenews/3145595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "闪迪第四财季调整后每股收益（EPS）为39.25美元，分析师预期34.37美元。 第四财季营收89.7亿美元，增幅51%。 2026财年营收202.5亿美元，较上年增长175%。 （公司董事会）批准140亿美元股票回购计划。 预计第一财季营收103亿-108亿美元，分析师预期111.6亿美元。 预计第一财季调整后EPS为44-46美元，分析师预期45.58美元。 闪迪美股盘后跌8%。",
-          "url": "https://wallstreetcn.com/livenews/3145593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗的最后一张牌",
-          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
+          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
+          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美国化肥供应商CF二季度净销售22.2亿美元，分析师预期24.4亿美元。 二季度每股收益（EPS）为4.73美元，上年同期2.37美元。 二季度现金与现金等价物24.8亿美元，分析师预期27亿美元。 伊朗冲突造成中东地区的尿素供应缩减400万-450万吨。",
-          "url": "https://wallstreetcn.com/livenews/3145616",
-          "source": "华尔街见闻-快讯",
+          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
+          "url": "https://www.cls.cn/detail/2446327",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时51分"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
-          "url": "https://wallstreetcn.com/livenews/3145607",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
+          "url": "https://flash.jin10.com/detail/20260806055819902800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普：我们很欣赏马斯克。",
+          "url": "https://flash.jin10.com/detail/20260806055113870800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260806054735118800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时51分"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
-          "url": "https://flash.jin10.com/detail/20260806042849231800",
+          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260806054724205800",
           "source": "金十数据",
           "ranks": [
-            23
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260806054719148800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普：关税让我们变得富有。",
+          "url": "https://flash.jin10.com/detail/20260806053019525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
+          "url": "https://flash.jin10.com/detail/20260806052258964800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
+          "url": "https://wallstreetcn.com/livenews/3145625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
+          "url": "https://wallstreetcn.com/livenews/3145624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2446816",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E9%81%93%E6%8C%87%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     },
@@ -299,10 +209,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -311,94 +221,57 @@
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
           "ranks": [
-            8
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时51分"
         },
         {
-          "title": "亚马逊旗下AWS与Anthropic、OpenAI构建合作伙伴关系。 三方将围绕AWS Continuum工作流合作。",
-          "url": "https://wallstreetcn.com/livenews/3145610",
+          "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
+          "url": "https://wallstreetcn.com/livenews/3145632",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时51分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
         {
-          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3145619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "国际金价涨超4%，重返4200美元上方",
-          "url": "https://wallstreetcn.com/livenews/3145608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 24.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美元指数5日下跌",
-          "url": "https://flash.jin10.com/detail/20260806042740895800",
+          "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
+          "url": "https://flash.jin10.com/detail/20260806070213899800",
           "source": "金十数据",
           "ranks": [
-            24
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时51分"
+        },
+        {
+          "title": "伊朗与阿曼会谈最新细节曝光",
+          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     }
