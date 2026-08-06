@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-06T15:37:03.757069+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-06T18:29:47.011489+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 7 个来源平台，平均热榜排名约 8.9 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 6 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -15,149 +15,81 @@
       },
       "titles": [
         {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
           "url": "https://www.cls.cn/detail/2447135",
           "source": "财联社热门",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
-          "title": "DeepSeek推理到一半说自己饿了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8E%A8%E7%90%86%E5%88%B0%E4%B8%80%E5%8D%8A%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%A5%BF%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
-          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
-          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 4.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 6 个来源平台，平均热榜排名约 4.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -169,73 +101,71 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
           "url": "https://www.toutiao.com/trending/7670008339098750483/",
           "source": "今日头条",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "软银集团：于2026年8月安排了等值17.5亿美元的杠杆收购（LBO）融资，用于支付收购ABB Ltd机器人业务的部分款项。 于2026年8月以OpenAI股份为抵押，签订了100亿美元的贷款协议。",
-          "url": "https://wallstreetcn.com/livenews/3145865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时37分"
+          "time_info": "18时29分"
         },
         {
-          "title": "软银集团：截至三月底OpenAI持股估值未发生变化。",
-          "url": "https://flash.jin10.com/detail/20260806145401696800",
+          "title": "路透社/益普索民调显示，认为伊朗战争将导致中东动荡的美国人是预期局势会更加稳定的人的三倍。",
+          "url": "https://flash.jin10.com/detail/20260806180138932800",
           "source": "金十数据",
           "ranks": [
-            23
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时37分"
+          "time_info": "18时29分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 6.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 72,
@@ -243,26 +173,37 @@
       },
       "titles": [
         {
-          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2446816",
-          "source": "财联社热门",
+          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
+          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "路透社/益普索民调显示，在特朗普任期内，注册选民首次在应对战争和恐怖主义问题上更青睐民主党人而非共和党人。",
+          "url": "https://flash.jin10.com/detail/20260806180146115800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -270,23 +211,47 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
         {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
           "source": "财联社热门",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
+          "url": "https://wallstreetcn.com/livenews/3145958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     }
