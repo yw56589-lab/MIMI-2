@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-09T06:19:26.679640+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-09T07:20:24.279768+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "ai_insight": {
-        "analysis": "该板块当前收录 14 条热点，覆盖 6 个来源平台，平均热榜排名约 9.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 15 条热点，覆盖 6 个来源平台，平均热榜排名约 10.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 83,
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -34,7 +34,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
+        },
+        {
+          "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
+          "url": "https://flash.jin10.com/detail/20260809060029178800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -45,7 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -56,40 +67,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "伊总统：伊朗要学中国做好自己的事",
           "url": "https://www.toutiao.com/trending/7670977056377618495/",
           "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
-          "url": "https://flash.jin10.com/detail/20260809051320025800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
-          "url": "https://flash.jin10.com/detail/20260809045339955800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
@@ -100,7 +89,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -111,29 +100,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
+          "url": "https://flash.jin10.com/detail/20260809051320025800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
           "url": "https://m.thepaper.cn/newsDetail_forward_33745289",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
-          "url": "https://flash.jin10.com/detail/20260809040308516800",
+          "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
+          "url": "https://flash.jin10.com/detail/20260809045339955800",
           "source": "金十数据",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -144,7 +144,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
+        },
+        {
+          "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
+          "url": "https://flash.jin10.com/detail/20260809040308516800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -155,7 +166,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
@@ -166,18 +177,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 5.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -190,7 +201,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -201,7 +212,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -212,7 +223,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -223,7 +234,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -234,18 +245,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "舒默怒斥特朗普：你在哪个星球",
-          "url": "https://www.toutiao.com/trending/7671480510048452651/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         }
       ]
     },
@@ -269,7 +269,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -280,7 +280,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -291,7 +291,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         }
       ]
     },
@@ -299,7 +299,7 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -311,11 +311,11 @@
           "url": "https://wallstreetcn.com/articles/3778993",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -326,7 +326,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         }
       ]
     },
@@ -334,7 +334,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -346,11 +346,11 @@
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         }
       ]
     },
@@ -374,7 +374,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         }
       ]
     },
@@ -382,23 +382,23 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
         {
           "title": "金价猛涨踏空的人哭麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         }
       ]
     }
