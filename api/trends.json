@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-09T01:22:14.958838+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-09T02:23:56.497003+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 16,
       "ai_insight": {
-        "analysis": "该板块当前收录 20 条热点，覆盖 6 个来源平台，平均热榜排名约 12.8 位，标题平均出现 1.4 次。",
+        "analysis": "该板块当前收录 16 条热点，覆盖 6 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 62,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -33,8 +33,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -55,8 +55,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "万斯：伊朗已告知美国暂无霍尔木兹海峡通行费计划",
+          "url": "https://flash.jin10.com/detail/20260809021634984800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "伊总统：伊朗要学中国做好自己的事",
@@ -66,8 +77,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "据以色列第13频道：以色列继续为在没有美国支持的情况下重新独立对伊朗发动攻击的可能性做准备。",
+          "url": "https://flash.jin10.com/detail/20260809020537439800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
+          "url": "https://wallstreetcn.com/livenews/3147022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -77,85 +110,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "土耳其外交部长：伊朗不是防御协议的目标，只要不攻击成员国，任何国家都不会成为目标。",
+          "url": "https://flash.jin10.com/detail/20260809012412977800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
           "url": "https://m.thepaper.cn/newsDetail_forward_33745289",
           "source": "澎湃新闻",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
-        },
-        {
-          "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
-          "url": "https://wallstreetcn.com/livenews/3147022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
-          "url": "https://flash.jin10.com/detail/20260808225609300800",
-          "source": "金十数据",
-          "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国副总统万斯：伊朗已通知美国将允许最大流量的石油通过海峡，但我们不信任他们。",
-          "url": "https://flash.jin10.com/detail/20260808225312164800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国副总统万斯：美国将继续对伊朗施加压力。",
-          "url": "https://flash.jin10.com/detail/20260808225228376800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国副总统万斯：已经大幅削弱了伊朗的非对称军事能力。",
-          "url": "https://flash.jin10.com/detail/20260808224916124800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
-          "url": "https://flash.jin10.com/detail/20260808224359664800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时23分"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -164,42 +142,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时23分"
         },
         {
-          "title": "据伊朗媒体：伊朗总统佩泽希齐扬表示，现在达成协议的最佳时机，因为伊朗是“强大而团结的，在战争中被视为胜利者”。",
-          "url": "https://flash.jin10.com/detail/20260808224230628800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
-          "url": "https://flash.jin10.com/detail/20260808223941497800",
+          "title": "万斯：美国在伊朗问题上“正处于博弈之中”",
+          "url": "https://flash.jin10.com/detail/20260809005907467800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "据阿曼国家通讯社：阿曼方面谴责（伊朗）在霍尔木兹海峡过境时对船只的反复攻击。",
-          "url": "https://flash.jin10.com/detail/20260808215846341800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时23分"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -208,9 +164,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时23分"
         },
         {
           "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
@@ -219,9 +175,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时23分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -230,9 +186,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时23分"
         }
       ]
     },
@@ -240,10 +196,10 @@
       "keyword_group": "特朗普",
       "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 5.4 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 61,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -255,8 +211,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3147026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -266,19 +233,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
-        },
-        {
-          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3147026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时23分"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -288,8 +244,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -299,30 +266,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
           "url": "https://flash.jin10.com/detail/20260809002354192800",
           "source": "金十数据",
           "ranks": [
-            7
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
-          "url": "https://wallstreetcn.com/livenews/3147021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时23分"
         }
       ]
     },
@@ -330,10 +286,10 @@
       "keyword_group": "美股",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 5.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 5.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -345,8 +301,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -356,8 +312,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -367,8 +323,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
@@ -376,10 +332,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 63,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -391,8 +347,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -401,9 +357,33 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
+          "url": "https://www.zhihu.com/question/2069133357099832441",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
@@ -411,10 +391,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -426,8 +406,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
@@ -435,7 +415,7 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 79,
@@ -444,14 +424,14 @@
       "titles": [
         {
           "title": "金价猛涨踏空的人哭麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     }
