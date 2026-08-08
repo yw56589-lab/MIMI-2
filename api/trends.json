@@ -1,51 +1,106 @@
 {
-  "generated_at": "2026-08-08T17:29:32.555778+08:00",
+  "generated_at": "2026-08-08T18:22:53.176807+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 9.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 5 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "是否将辞职？伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
+          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
+          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
+          "url": "https://flash.jin10.com/detail/20260808181945934800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。（伊拉克国家通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
+          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
-          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
-          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
+          "title": "是否将辞职？伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
+        },
+        {
+          "title": "曝美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://www.toutiao.com/trending/7671436241469538350/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "据伊拉克国家通讯社：伊拉克石油部长表示，巴格达正与伊朗进行谈判，以允许伊拉克石油出口，但相关安排尚未生效。",
+          "url": "https://flash.jin10.com/detail/20260808174542910800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "伊朗总统称敌人未能将伊朗推入崩溃",
           "url": "https://wallstreetcn.com/livenews/3146979",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
           "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
@@ -56,40 +111,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "曝美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://www.toutiao.com/trending/7671436241469538350/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
           "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
           "url": "https://wallstreetcn.com/livenews/3146980",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
           "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
           "url": "https://flash.jin10.com/detail/20260808144535599800",
           "source": "金十数据",
           "ranks": [
-            15
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         }
       ]
     },
@@ -97,7 +141,7 @@
       "keyword_group": "美股",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 5.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 73,
@@ -113,7 +157,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -124,7 +168,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -135,18 +179,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
           "title": "李大霄谈美股三大指数高开",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         }
       ]
     },
@@ -154,10 +198,10 @@
       "keyword_group": "特朗普",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -170,29 +214,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
           "url": "https://v.ifeng.com/c/8vONreNLVHw",
           "source": "凤凰网",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -203,7 +247,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         }
       ]
     },
@@ -227,7 +271,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -238,7 +282,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         }
       ]
     },
@@ -262,7 +306,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         }
       ]
     },
@@ -286,7 +330,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时22分"
         }
       ]
     }
