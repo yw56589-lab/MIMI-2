@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-10T06:21:17.828025+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-10T07:22:24.872853+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 7 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 6 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -23,29 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
-          "url": "https://wallstreetcn.com/livenews/3147123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.toutiao.com/trending/7670941843498287158/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -56,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -67,7 +45,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "伊朗在谈判关键时刻撤换最高安全官员",
+          "url": "https://flash.jin10.com/detail/20260810064649628800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "伊朗公布美军基地遭袭前后最新卫星对比图",
+          "url": "https://flash.jin10.com/detail/20260810063550783800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -78,152 +89,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
-          "url": "https://wallstreetcn.com/livenews/3147111",
+          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
+          "url": "https://wallstreetcn.com/livenews/3147123",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         },
         {
           "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
           "url": "https://flash.jin10.com/detail/20260810045918536800",
           "source": "金十数据",
           "ranks": [
-            15
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         },
         {
           "title": "伊朗任命雷扎伊为最高国家安全委员会秘书",
           "url": "https://flash.jin10.com/detail/20260810041124163800",
           "source": "金十数据",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "伊朗高层重要人事变动",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E9%87%8D%E8%A6%81%E4%BA%BA%E4%BA%8B%E5%8F%98%E5%8A%A8%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
-          "url": "https://flash.jin10.com/detail/20260810035604925800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：当今世界已经意识到伊朗是不可屈服的。",
-          "url": "https://flash.jin10.com/detail/20260810035338138800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：伊斯兰体制正处于历史上最关键的时刻之一，在地区和全球安全与稳定中发挥着无可替代的作用。",
-          "url": "https://flash.jin10.com/detail/20260810035319895800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 78,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普称正在“低调处理”伊朗问题",
-          "url": "https://wallstreetcn.com/livenews/3147122",
+          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
+          "url": "https://wallstreetcn.com/livenews/3147111",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
-          "url": "https://flash.jin10.com/detail/20260810052934153800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         }
       ]
     },
@@ -231,10 +141,10 @@
       "keyword_group": "美股",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -247,18 +157,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
-          "url": "https://flash.jin10.com/detail/20260810060135599800",
-          "source": "金十数据",
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -269,18 +179,75 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
+          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
+          "url": "https://flash.jin10.com/detail/20260810060135599800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普称正在“低调处理”伊朗问题",
+          "url": "https://wallstreetcn.com/livenews/3147122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
+          "url": "https://flash.jin10.com/detail/20260810052934153800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     },
@@ -288,10 +255,10 @@
       "keyword_group": "美元",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -300,11 +267,11 @@
           "url": "https://flash.jin10.com/detail/20260810053536334800",
           "source": "金十数据",
           "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时22分"
         }
       ]
     }
