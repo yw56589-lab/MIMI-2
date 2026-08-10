@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-08-10T23:51:59.913741+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-11T00:44:22.245119+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 16 条热点，覆盖 4 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 3 个来源平台，平均热榜排名约 10.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
+        {
+          "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
+          "url": "https://flash.jin10.com/detail/20260811001859720800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
           "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
@@ -23,183 +34,128 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "伊朗最高领袖对武装部队进行新任命",
-          "url": "https://wallstreetcn.com/livenews/3147599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "伊朗密集更换高层，释放何种信号？",
-          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
           "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
-          "title": "伊朗最高领袖将任命数名高级指挥官",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
-          "source": "百度热搜",
+          "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
+          "url": "https://wallstreetcn.com/livenews/3147604",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
-          "title": "伊朗总统：美以袭击依赖AI数据 但所有“算计”均被挫败",
-          "url": "https://flash.jin10.com/detail/20260810230305320800",
+          "title": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
+          "url": "https://flash.jin10.com/detail/20260810235617403800",
           "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
-          "title": "伊朗：霍尔木兹海峡局势取决于美方的行为",
-          "url": "https://flash.jin10.com/detail/20260810230128590800",
+          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260810234432760800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
-          "title": "伊朗最高领袖将任命数名高级军事指挥官",
-          "url": "https://wallstreetcn.com/livenews/3147590",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：伊朗外交部长与德国外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260810234334198800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
-          "title": "市场消息：伊朗外交部发言人表示，针对伊朗实施的海上封锁是对伊朗的侵略行径。",
-          "url": "https://flash.jin10.com/detail/20260810225708420800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "市场消息：伊朗外交部发言人表示，霍尔木兹海峡局势取决于美方的行为，以及美方如何扭转其违规做法。",
-          "url": "https://flash.jin10.com/detail/20260810225646997800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
-          "url": "https://wallstreetcn.com/livenews/3147587",
+          "title": "伊朗最高领袖对武装部队进行新任命",
+          "url": "https://wallstreetcn.com/livenews/3147599",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "市场消息：伊朗最高领袖任命阿卜杜拉希（Abdollahi）为武装部队总参谋长。",
+          "url": "https://flash.jin10.com/detail/20260810233849122800",
+          "source": "金十数据",
+          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
-          "title": "市场消息：伊朗外交部发言人表示，与阿曼的谈判进展顺利，但也有人试图阻挠这一进程。",
-          "url": "https://flash.jin10.com/detail/20260810225611129800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "市场消息：伊朗即将发布由最高统帅签发的多位高级军事指挥官的任命。",
-          "url": "https://flash.jin10.com/detail/20260810225542972800",
+          "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
+          "url": "https://flash.jin10.com/detail/20260810233716507800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
-          "title": "伊朗革命卫队总司令祝贺新任最高国家安全委员会秘书",
-          "url": "https://wallstreetcn.com/livenews/3147576",
+          "title": "伊朗最高领袖将任命数名高级军事指挥官",
+          "url": "https://wallstreetcn.com/livenews/3147590",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
-          "title": "巴基斯坦与伊朗外长通话 就地区局势交换意见",
-          "url": "https://wallstreetcn.com/livenews/3147570",
+          "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
+          "url": "https://wallstreetcn.com/livenews/3147587",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 8.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 7.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -212,7 +168,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
+        },
+        {
+          "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
+          "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -223,7 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -234,18 +201,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -256,40 +212,53 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
@@ -302,42 +271,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "美股CAPE升至42倍，未来十年会变成“失去的十年”吗？",
-          "url": "https://flash.jin10.com/detail/20260810230305789800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 71,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时44分"
         }
       ]
     }
