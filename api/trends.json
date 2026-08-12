@@ -1,163 +1,16 @@
 {
-  "generated_at": "2026-08-12T22:15:34.740170+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-12T23:53:20.645832+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 19.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股或迎史诗级“悖论”：业绩太好竟成最大利空？",
-          "url": "https://flash.jin10.com/detail/20260812215300699800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超2%，全球科技股ETF涨近2%，能源业ETF跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3148660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "美国7月通胀表现温和！美股盘初：纳指涨0.9%，光通信股、存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3148656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3148643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260812214127117800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "美股期货走高，纳斯达克100指数期货上涨1%，标普500指数期货上涨0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3148641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 1.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 69,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "谷歌推出Pixel 11、11 Pro、11 Pro XL和11 Pro Fold手机。",
-          "url": "https://flash.jin10.com/detail/20260812220126580800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "【谷歌提高新款手机价格，因内存“严重”短缺】谷歌新款手机比上一代提价100美元。",
-          "url": "https://wallstreetcn.com/livenews/3148673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "谷歌宣布升级版Pixel Watch 5，起售价为399美元。",
-          "url": "https://flash.jin10.com/detail/20260812220117525800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "【谷歌发布PIXEL 11、11 PRO、11 PRO XL和11 PRO折叠屏手机】谷歌发布升级版Pixel Watch 5，起售价399美元。",
-          "url": "https://wallstreetcn.com/livenews/3148672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "谷歌(GOOG.O)因内存严重短缺而提高新手机价格，谷歌新款智能手机起价899美元，折叠屏手机售价1899美元，比上一代贵100美元。",
-          "url": "https://flash.jin10.com/detail/20260812220110145800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.4 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 61,
         "chart": []
       },
       "titles": [
@@ -169,8 +22,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "23时53分"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -180,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
@@ -191,19 +55,131 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "特朗普宣称“美国完全控制着霍尔木兹海峡”",
+          "url": "https://wallstreetcn.com/livenews/3148693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "23时53分"
+        },
+        {
+          "title": "特朗普：美国完全控制霍尔木兹海峡。 伊朗只会空谈，没有实际行动。 认为我们将继续完全控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3148690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普被起诉，因他计划出售快速获取旗下社交媒体“真相”帖子的权限。",
+          "url": "https://flash.jin10.com/detail/20260812230344213800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "特朗普考虑削减资本利得税以提升共和党支持率",
+          "url": "https://wallstreetcn.com/livenews/3148682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 12.4 位，标题平均出现 1.6 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
+          "url": "https://wallstreetcn.com/livenews/3148701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "美股存储板块大涨 SK海力士涨超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%857%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.douyin.com/hot/2607617",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "市场消息：美银对冲基金客户持续加仓美股，单周买入力度创2008年以来新高。",
+          "url": "https://flash.jin10.com/detail/20260812230612614800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
@@ -211,10 +187,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 10.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -223,11 +199,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
@@ -237,8 +213,43 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 26.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 57,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "谷歌提高新款手机价格，因内存“严重”短缺",
+          "url": "https://wallstreetcn.com/livenews/3148673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "23时53分"
+        },
+        {
+          "title": "谷歌可穿戴设备将追踪胰岛素抵抗 向全面血糖监测迈出新一步",
+          "url": "https://wallstreetcn.com/livenews/3148672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
@@ -246,10 +257,10 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 68,
         "chart": []
       },
       "titles": [
@@ -258,11 +269,11 @@
           "url": "https://www.cls.cn/detail/2452735",
           "source": "财联社热门",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         }
       ]
     },
@@ -270,10 +281,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
@@ -282,11 +293,11 @@
           "url": "https://wallstreetcn.com/livenews/3148669",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "23时53分"
         }
       ]
     },
@@ -294,23 +305,23 @@
       "keyword_group": "伊朗",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗总统向多名新任军事指挥官致贺信",
-          "url": "https://www.toutiao.com/trending/7671934926010744875/",
+          "title": "伊朗：目前使用武器都是自主研发的",
+          "url": "https://www.toutiao.com/trending/7672229042539888694/",
           "source": "今日头条",
           "ranks": [
-            17
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         }
       ]
     }
