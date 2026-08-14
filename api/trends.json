@@ -1,19 +1,52 @@
 {
-  "generated_at": "2026-08-15T02:41:50.293746+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-15T03:43:25.643228+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 16.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 9.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
+        {
+          "title": "美国总统特朗普：不在乎在中期选举前打击伊朗经济。",
+          "url": "https://flash.jin10.com/detail/20260815032729753800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "特朗普：将对伊朗实施严厉经济打击",
+          "url": "https://flash.jin10.com/detail/20260815031855314800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美国总统特朗普：我不在乎在中期选举前打击伊朗经济。",
+          "url": "https://wallstreetcn.com/livenews/3149861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
           "url": "https://news.ifeng.com/c/8vaHza2NSPn",
@@ -23,18 +56,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时43分"
         },
         {
-          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
-          "url": "https://wallstreetcn.com/livenews/3149842",
+          "title": "特朗普料将出席白宫预测市场会议",
+          "url": "https://wallstreetcn.com/livenews/3149855",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时43分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普预计将参加与预测市场有关的会议。",
+          "url": "https://flash.jin10.com/detail/20260815025844466800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -45,80 +89,23 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时43分"
         },
         {
-          "title": "美国总统特朗普：经济表现好得令人难以置信。",
-          "url": "https://flash.jin10.com/detail/20260815012708562800",
-          "source": "金十数据",
+          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
+          "url": "https://wallstreetcn.com/livenews/3149842",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
-          "url": "https://flash.jin10.com/detail/20260815012635868800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时43分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 8.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 78,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
       "match_count": 3,
       "ai_insight": {
         "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 8.7 位，标题平均出现 1.0 次。",
@@ -129,37 +116,142 @@
       },
       "titles": [
         {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 16.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
           "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
           "url": "https://wallstreetcn.com/livenews/3149851",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
-          "url": "https://flash.jin10.com/detail/20260815021403053800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时43分"
         },
         {
           "title": "伊朗方面的最新表态传递出哪些信号",
           "url": "https://www.toutiao.com/trending/7673859930650054186/",
           "source": "今日头条",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时43分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://flash.jin10.com/detail/20260815021403053800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 69,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美元指数14日下跌",
+          "url": "https://flash.jin10.com/detail/20260815032503008800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美元指数14日下跌",
+          "url": "https://wallstreetcn.com/livenews/3149863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等",
+          "url": "https://flash.jin10.com/detail/20260815024758590800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         }
       ]
     },
@@ -183,7 +275,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时43分"
         }
       ]
     },
@@ -207,7 +299,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时43分"
         }
       ]
     },
@@ -231,7 +323,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时43分"
         }
       ]
     }
