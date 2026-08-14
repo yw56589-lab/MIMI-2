@@ -1,29 +1,108 @@
 {
-  "generated_at": "2026-08-14T20:43:58.820781+08:00",
+  "generated_at": "2026-08-14T22:11:09.780582+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 14.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 58,
         "chart": []
       },
       "titles": [
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260814214258805800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美股开盘，道指跌0.1%、标普500指数涨0.1%、纳指涨0.16%。闪迪(SNDK.O)涨7%，公司预计2028至2030财年营收将保持中高双位数增长。西部数据(WDC.O)和美光科技(MU.O)涨约4%。应用材料(AMAT.O)跌5%，公司此前公布业绩。",
+          "url": "https://flash.jin10.com/detail/20260814213040976800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF跌超1%，医疗业ETF跌近1%，公用事业ETF、能源业ETF微涨。",
+          "url": "https://wallstreetcn.com/livenews/3149790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3149787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814210622788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 12.2 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -33,41 +112,52 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         },
         {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         },
         {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
           "source": "知乎",
           "ranks": [
-            15
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
+        {
+          "title": "深度体验DeepSeek Harness 原谅涨价",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8CDeepSeek+Harness+%E5%8E%9F%E8%B0%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 14.8 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 64,
         "chart": []
       },
       "titles": [
@@ -79,19 +169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "内塔尼亚胡选战陷困境 特朗普迟迟未表态力挺",
-          "url": "https://flash.jin10.com/detail/20260814200838358800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         },
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -101,8 +180,30 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
+        {
+          "title": "纽约时报：特朗普女婿库什纳将在以色列访问期间会见以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20260814212323053800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美国总统特朗普请求最高法院允许白宫宴会厅继续建设。",
+          "url": "https://flash.jin10.com/detail/20260814211049947800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         }
       ]
     },
@@ -110,10 +211,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -125,8 +226,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         }
       ]
     },
@@ -134,10 +235,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -146,11 +247,11 @@
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         }
       ]
     },
@@ -158,10 +259,10 @@
       "keyword_group": "美元",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 29.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
@@ -170,11 +271,11 @@
           "url": "https://wallstreetcn.com/livenews/3149766",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "22时11分"
         }
       ]
     },
@@ -182,23 +283,23 @@
       "keyword_group": "伊朗",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 27.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
-          "url": "https://wallstreetcn.com/livenews/3149735",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部副部长加里巴巴迪：今天是伊斯兰抵抗日，它提醒人们要抵御侵略，并粉碎基于武力的算计。地区局势再次表明，各国人民抵抗侵略的坚定立场，依然在地区格局中发挥着决定性作用。",
+          "url": "https://flash.jin10.com/detail/20260814211912567800",
+          "source": "金十数据",
           "ranks": [
-            27
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "22时11分"
         }
       ]
     }
