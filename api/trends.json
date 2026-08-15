@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-16T01:13:10.205203+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-16T02:16:05.947888+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 3 个来源平台，平均热榜排名约 14.6 位，标题平均出现 1.2 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.4 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 54,
+        "confidence": 61,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -34,7 +34,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
+        },
+        {
+          "title": "伊朗外交部：塔吉克斯坦能源与水资源部长和交通部长为与伊朗相关部长进行会谈和磋商而赴德黑兰访问，于本周六晚会见了伊朗外长阿拉格齐。伊朗外长阿拉格齐强调，有必要利用两国现有的多样化潜力来发展和加强双边关系，特别是在经济和贸易领域。",
+          "url": "https://flash.jin10.com/detail/20260816015513210800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
@@ -45,7 +56,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "02时16分"
+        },
+        {
+          "title": "伊朗称与阿曼就霍尔木兹通行达成协议",
+          "url": "https://www.toutiao.com/trending/7674242385638870579/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 02时16分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -56,40 +78,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "伊朗总统召开三权领导人会议",
-          "url": "https://flash.jin10.com/detail/20260815224430312800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "伊朗与阿曼已就通过霍尔木兹海峡的航运路线达成一致",
-          "url": "https://flash.jin10.com/detail/20260815211849297800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://flash.jin10.com/detail/20260815205257469800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "02时16分"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
@@ -100,7 +89,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "02时16分"
         },
         {
           "title": "伊朗与塔吉克斯坦达成长期石油合作协议",
@@ -111,7 +100,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "02时16分"
         }
       ]
     },
@@ -119,7 +108,7 @@
       "keyword_group": "特朗普",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 10.2 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 10.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 79,
@@ -135,18 +124,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -157,7 +146,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -168,7 +157,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         }
       ]
     },
@@ -176,7 +165,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 17.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 15.7 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -192,7 +181,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 02时16分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -203,18 +203,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
-        },
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         }
       ]
     },
@@ -238,7 +227,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         }
       ]
     },
@@ -262,7 +251,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         }
       ]
     },
@@ -270,10 +259,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -282,11 +271,11 @@
           "url": "https://wallstreetcn.com/articles/3779437",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         }
       ]
     },
@@ -294,10 +283,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -306,11 +295,11 @@
           "url": "https://www.cls.cn/detail/2455043",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         }
       ]
     }
