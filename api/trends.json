@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:16:05.677528+08:00",
+  "generated_at": "2026-08-16T04:13:14.702653+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
@@ -7,10 +7,10 @@
       "keyword_group": "伊朗",
       "match_count": 15,
       "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 3 个来源平台，平均热榜排名约 8.9 位，标题平均出现 1.1 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 59,
+        "analysis": "该板块当前收录 15 条热点，覆盖 3 个来源平台，平均热榜排名约 11.9 位，标题平均出现 1.1 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 55,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -34,40 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
-          "url": "https://flash.jin10.com/detail/20260816024442715800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "卡塔尔外交部：搜救队发现一名伊朗飞行员的遗骸，已联系伊朗方面商讨移交事宜。",
-          "url": "https://flash.jin10.com/detail/20260816024231719800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "卡塔尔外交部：在伊朗飞行员侵犯了我们的领空后，我们采取了必要措施捍卫领土。",
-          "url": "https://flash.jin10.com/detail/20260816024215110800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "[04时12分 ~ 04时13分]"
         },
         {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
@@ -78,40 +45,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时13分"
         },
         {
-          "title": "卡塔尔外交部：当时伊朗飞行员侵犯了我们的领空，且未回应我们联系的尝试。",
-          "url": "https://flash.jin10.com/detail/20260816024142314800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "卡塔尔外交部：卡塔尔否认拘留伊朗飞行员。",
-          "url": "https://flash.jin10.com/detail/20260816024013037800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "伊朗外交部：我们重申，必须制止以色列在黎巴嫩南部的侵略行动，并从被占领土上撤军。",
-          "url": "https://flash.jin10.com/detail/20260816022857035800",
+          "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
+          "url": "https://flash.jin10.com/detail/20260816024442715800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时13分"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -122,40 +67,95 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时13分"
         },
         {
-          "title": "海湾合作委员会秘书长：伊朗的袭击是不可接受的升级行为，严重侵犯了国际航行自由。",
-          "url": "https://flash.jin10.com/detail/20260816015941120800",
+          "title": "卡塔尔外交部：搜救队发现一名伊朗飞行员的遗骸，已联系伊朗方面商讨移交事宜。",
+          "url": "https://flash.jin10.com/detail/20260816024231719800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "卡塔尔外交部：在伊朗飞行员侵犯了我们的领空后，我们采取了必要措施捍卫领土。",
+          "url": "https://flash.jin10.com/detail/20260816024215110800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "卡塔尔外交部：当时伊朗飞行员侵犯了我们的领空，且未回应我们联系的尝试。",
+          "url": "https://flash.jin10.com/detail/20260816024142314800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔否认拘留伊朗飞行员。",
+          "url": "https://flash.jin10.com/detail/20260816024013037800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时13分"
         },
         {
-          "title": "海湾合作委员会秘书长：我们谴责伊朗对阿联酋阿布扎比国家石油公司ADNOC油轮及霍尔木兹海峡船只的屡次袭击。",
-          "url": "https://flash.jin10.com/detail/20260816015918672800",
+          "title": "伊朗外交部：我们重申，必须制止以色列在黎巴嫩南部的侵略行动，并从被占领土上撤军。",
+          "url": "https://flash.jin10.com/detail/20260816022857035800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时13分"
+        },
+        {
+          "title": "海湾合作委员会秘书长：伊朗的袭击是不可接受的升级行为，严重侵犯了国际航行自由。",
+          "url": "https://flash.jin10.com/detail/20260816015941120800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "海湾合作委员会秘书长：我们谴责伊朗对阿联酋阿布扎比国家石油公司ADNOC油轮及霍尔木兹海峡船只的屡次袭击。",
+          "url": "https://flash.jin10.com/detail/20260816015918672800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "伊朗外交部：塔吉克斯坦能源与水资源部长和交通部长为与伊朗相关部长进行会谈和磋商而赴德黑兰访问，于本周六晚会见了伊朗外长阿拉格齐。伊朗外长阿拉格齐强调，有必要利用两国现有的多样化潜力来发展和加强双边关系，特别是在经济和贸易领域。",
           "url": "https://flash.jin10.com/detail/20260816015513210800",
           "source": "金十数据",
           "ranks": [
-            13
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时13分"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
@@ -166,7 +166,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时13分"
         },
         {
           "title": "伊朗与塔吉克斯坦达成长期石油合作协议",
@@ -177,7 +177,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时13分"
         }
       ]
     },
@@ -201,7 +201,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -212,7 +212,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -223,7 +223,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -234,7 +234,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         }
       ]
     },
@@ -242,7 +242,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 16.3 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 15.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -254,11 +254,22 @@
           "url": "https://www.zhihu.com/question/2071619812795609447",
           "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 04时13分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -269,18 +280,42 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
+          "time_info": "[04时12分 ~ 04时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.5 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 53,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
           "ranks": [
-            24
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
+        },
+        {
+          "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
+          "url": "https://flash.jin10.com/detail/20260816031526828800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -304,31 +339,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         }
       ]
     },
@@ -352,7 +363,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         }
       ]
     },
@@ -376,7 +387,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         }
       ]
     }
