@@ -1,16 +1,117 @@
 {
-  "generated_at": "2026-08-16T18:15:14.520509+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-16T19:12:11.866927+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "特朗普",
       "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 15.4 位，标题平均出现 1.4 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 61,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
+          "url": "https://flash.jin10.com/detail/20260816182514064800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普再促参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3150053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
+          "url": "https://flash.jin10.com/detail/20260816180839464800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
+          "url": "https://flash.jin10.com/detail/20260816172332854800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "ai_insight": {
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 15.7 位，标题平均出现 1.4 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 62,
         "chart": []
       },
       "titles": [
@@ -23,7 +124,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "伊朗三大权力机构负责人举行会晤",
@@ -34,152 +135,62 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
-          "title": "伊朗称三名飞行员被卡塔尔活捉",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%89%E5%90%8D%E9%A3%9E%E8%A1%8C%E5%91%98%E8%A2%AB%E5%8D%A1%E5%A1%94%E5%B0%94%E6%B4%BB%E6%8D%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
+          "source": "澎湃新闻",
           "ranks": [
-            30
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "伊朗革命卫队：科威特在关于四名被拘留的伊朗人命运方面向德黑兰隐瞒了信息。",
           "url": "https://flash.jin10.com/detail/20260816174041507800",
           "source": "金十数据",
           "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时12分"
         },
         {
           "title": "伊朗外交部强烈谴责以色列对黎袭击",
           "url": "https://wallstreetcn.com/livenews/3150039",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时12分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗梅赫兰市市长称，几分钟前在梅赫兰听到的爆炸声是由于在伊拉克境内销毁战争遗留弹药的操作所致。",
           "url": "https://flash.jin10.com/detail/20260816165308429800",
           "source": "金十数据",
           "ranks": [
-            19
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时12分"
         },
         {
           "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
           "url": "https://wallstreetcn.com/livenews/3150030",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "伊朗商会会长：伊朗经济已走出战争冲击",
-          "url": "https://flash.jin10.com/detail/20260816161606856800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.7 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 65,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
-          "url": "https://flash.jin10.com/detail/20260816180839464800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
-          "url": "https://flash.jin10.com/detail/20260816172332854800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时12分"
         }
       ]
     },
@@ -187,7 +198,7 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 13.3 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 69,
@@ -199,11 +210,11 @@
           "url": "https://wallstreetcn.com/articles/3779527",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -214,18 +225,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
           "url": "https://wallstreetcn.com/livenews/3150029",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时12分"
         }
       ]
     },
@@ -233,7 +244,7 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.3 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 71,
@@ -249,7 +260,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -260,18 +271,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
           "url": "https://wallstreetcn.com/articles/3779526",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         }
       ]
     },
@@ -279,7 +290,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 24.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 57,
@@ -291,11 +302,11 @@
           "url": "https://wallstreetcn.com/livenews/3150028",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时12分"
         }
       ]
     },
@@ -319,7 +330,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         }
       ]
     }
