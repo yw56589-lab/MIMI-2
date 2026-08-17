@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:11:16.485056+08:00",
+  "generated_at": "2026-08-18T07:14:32.550897+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
@@ -7,10 +7,10 @@
       "keyword_group": "特朗普",
       "match_count": 16,
       "ai_insight": {
-        "analysis": "该板块当前收录 16 条热点，覆盖 5 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.2 次。",
+        "analysis": "该板块当前收录 16 条热点，覆盖 5 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 58,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
@@ -33,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
@@ -54,9 +54,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
+        },
+        {
+          "title": "民调显示特朗普支持率创第二任期内新低",
+          "url": "https://flash.jin10.com/detail/20260818062651085800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -66,19 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
-        },
-        {
-          "title": "民调显示特朗普支持率创第二任期内新低",
-          "url": "https://flash.jin10.com/detail/20260818062651085800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "民调显示特朗普支持率创第二任期内新低",
@@ -87,9 +87,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
@@ -98,9 +98,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "土耳其总统埃尔多安对美国总统特朗普表示，继续与伊朗对话以充分利用外交途径十分重要，土耳其已准备好为此作出贡献。",
@@ -109,9 +109,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "土耳其总统埃尔多安与美国总统特朗普讨论了双边关系、伊朗和加沙的战争，以及与巴基斯坦和沙特阿拉伯的防务协议。",
@@ -120,9 +120,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "土耳其总统埃尔多安与美国总统特朗普通电话。双方讨论了土耳其与美国的双边关系以及地区和全球局势。",
@@ -131,9 +131,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "土耳其总统埃尔多安与美国总统特朗普通电话。（土耳其媒体Anadolu）",
@@ -142,9 +142,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "特朗普称金正恩已回应其“对话”请求",
@@ -153,9 +153,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "美国法官阻止了特朗普政府将新的美国联邦调查局总部从马里兰州迁至华盛顿特区的计划。",
@@ -164,9 +164,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "美国法官阻止特朗普政府将联邦调查局（FBI）新总部选址从马里兰州迁至华盛顿特区的计划。",
@@ -175,9 +175,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
@@ -186,9 +186,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         }
       ]
     },
@@ -196,10 +196,10 @@
       "keyword_group": "伊朗",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 64,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -211,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
@@ -222,8 +222,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "美国与伊朗继续僵持，油价上涨",
+          "url": "https://flash.jin10.com/detail/20260818062100594800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -233,19 +244,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
-        },
-        {
-          "title": "美国与伊朗继续僵持，油价上涨",
-          "url": "https://flash.jin10.com/detail/20260818062100594800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         },
         {
           "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦自治区苏莱曼尼亚发生燃料罐起火及爆炸事件。",
@@ -254,9 +254,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         }
       ]
     },
@@ -264,10 +264,10 @@
       "keyword_group": "美债",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.3 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -279,8 +279,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "地缘风险推高油价和美债收益率，美股三大指数两连跌，存储芯片、光通信逆势大涨",
@@ -290,8 +290,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
@@ -301,8 +301,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
@@ -310,13 +310,24 @@
       "keyword_group": "金价",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 29.5 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 29.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 63,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
+        {
+          "title": "国际金价涨0.9%，白银涨1.7%",
+          "url": "https://wallstreetcn.com/livenews/3150688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
         {
           "title": "金价回调半年抛压基本释放",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=30&Refer=top",
@@ -325,19 +336,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
-        },
-        {
-          "title": "国际金价涨0.9%，白银涨1.7%",
-          "url": "https://wallstreetcn.com/livenews/3150688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "07时14分"
         }
       ]
     },
@@ -345,10 +345,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -360,8 +360,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
@@ -369,10 +369,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -384,8 +384,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     }
