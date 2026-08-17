@@ -1,51 +1,62 @@
 {
-  "generated_at": "2026-08-17T07:12:19.523672+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-17T08:42:37.556850+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 4 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普要求“大幅缩减”美韩军演规模",
-          "url": "https://wallstreetcn.com/livenews/3150092",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "沙土巴3国签署共同防务协议，特朗普发声",
+          "url": "https://news.ifeng.com/c/8veP1BeKo8D",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
+          "url": "https://news.ifeng.com/c/8vePFPF1e1S",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时42分"
         },
         {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
+          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
-          "url": "https://flash.jin10.com/detail/20260817063335924800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时42分"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -56,229 +67,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时42分"
         },
         {
-          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
-          "url": "https://wallstreetcn.com/livenews/3150084",
+          "title": "特朗普要求“大幅缩减”美韩军演规模",
+          "url": "https://wallstreetcn.com/livenews/3150092",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
-          "url": "https://wallstreetcn.com/livenews/3150083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "特朗普称要大幅缩减美韩联合军演",
-          "url": "https://flash.jin10.com/detail/20260817054805585800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
-          "url": "https://flash.jin10.com/detail/20260817053245864800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "特朗普：已要求大幅削减与韩国的联合军演规模",
-          "url": "https://flash.jin10.com/detail/20260817051255445800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美国总统特朗普：我对美国很久以前就同意与韩国进行联合军事演习这一事实感到不满。我已指示战争部长赫格塞思大幅减少联合军事演习。",
-          "url": "https://flash.jin10.com/detail/20260817050745376800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美国总统特朗普：非常高兴看到沙特、土耳其和巴基斯坦最近终于签署了麦加联合防御协议。",
-          "url": "https://flash.jin10.com/detail/20260817050503839800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
-          "url": "https://flash.jin10.com/detail/20260817043331858800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 6 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 86,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗高层换血，革命卫队更强势了？",
-          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "伊朗三大权力机构负责人举行会晤",
-          "url": "https://news.ifeng.com/c/8vd393ITLzT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3150079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://www.toutiao.com/trending/7674484727768301577/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
-          "url": "https://flash.jin10.com/detail/20260817040612612800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "伊朗议会通过反渗透法案",
-          "url": "https://wallstreetcn.com/livenews/3150070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://wallstreetcn.com/livenews/3150068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
-          "url": "https://flash.jin10.com/detail/20260817033655350800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://wallstreetcn.com/livenews/3150063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "伊朗：美军不得进入霍尔木兹海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%86%9B%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B7%B2%E8%A2%AB%E9%A9%B1%E9%80%90%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时42分"
         }
       ]
     },
@@ -302,7 +102,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时42分"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -313,29 +113,132 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时42分"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
           "url": "https://www.cls.cn/detail/2455353",
           "source": "财联社热门",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
+          "url": "https://wallstreetcn.com/livenews/3150110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://www.toutiao.com/trending/7674484727768301577/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B7%B2%E8%A2%AB%E9%A9%B1%E9%80%90%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
+          "url": "https://www.zhihu.com/question/2072481373085028433",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "DeepSeek Harness邪修攻略",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         }
       ]
     },
@@ -343,10 +246,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -359,42 +262,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时42分"
         },
         {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 29.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "媒体人：美债买卖日本救火中国搬家",
-          "url": "https://www.toutiao.com/trending/7674607374035848723/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时42分"
         }
       ]
     }
