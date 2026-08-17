@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-17T14:35:25.241346+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-17T15:44:15.237433+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 10.2 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -19,22 +19,11 @@
           "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "沙土巴三国签署共同防务协议，特朗普发声",
-          "url": "https://news.ifeng.com/c/8veP1BeKo8D",
-          "source": "凤凰网",
-          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -44,128 +33,49 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
           "url": "https://wallstreetcn.com/articles/3779545",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
           "url": "https://www.zhihu.com/question/2072595818725336495",
           "source": "知乎",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
-          "title": "特朗普称被韩方拒绝",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A2%AB%E9%9F%A9%E6%96%B9%E6%8B%92%E7%BB%9D%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 14.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 85,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "伊朗秘密升级战争计划曝光！强硬派已定下全新打法",
-          "url": "https://flash.jin10.com/detail/20260817140632271800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://www.toutiao.com/trending/7674484727768301577/",
+          "title": "特朗普会让美航母全面退化吗",
+          "url": "https://www.toutiao.com/trending/7674860385295404590/",
           "source": "今日头条",
           "ranks": [
-            18
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "伊朗：媒体即战场 我方成功抵御舆论攻势",
-          "url": "https://flash.jin10.com/detail/20260817140035500800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "伊朗警告不要拿霍尔木兹海峡开玩笑",
-          "url": "https://wallstreetcn.com/livenews/3150228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 78,
@@ -177,22 +87,79 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
           "url": "https://www.zhihu.com/question/2072598571090538898",
           "source": "知乎",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "DeepSeek Harness 有什么好用的插件？",
+          "url": "https://www.zhihu.com/question/2071617281214378127",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 12.7 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://www.toutiao.com/trending/7674484727768301577/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         }
       ]
     },
@@ -200,10 +167,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -215,8 +182,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "OpenAI CEO：大学读两年就够了",
@@ -226,43 +193,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "20年期美债将于本周三拍卖，长端压力是否会升级？",
-          "url": "https://flash.jin10.com/detail/20260817135730731800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         }
       ]
     },
@@ -270,10 +202,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -282,35 +214,35 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
         {
-          "title": "金价大涨藏着什么信号",
-          "url": "https://www.toutiao.com/trending/7674833333351632403/",
-          "source": "今日头条",
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         }
       ]
     }
