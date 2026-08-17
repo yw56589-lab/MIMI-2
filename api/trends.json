@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-08-17T19:18:19.648459+08:00",
+  "generated_at": "2026-08-17T20:24:32.317730+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 12.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
+        {
+          "title": "市场消息：特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。",
+          "url": "https://flash.jin10.com/detail/20260817200146802800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
           "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
@@ -23,106 +34,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
+        },
+        {
+          "title": "特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3150496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
           "url": "https://wallstreetcn.com/livenews/3150476",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
         },
         {
           "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
           "url": "https://wallstreetcn.com/livenews/3150475",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "特朗普再称伊朗绝不能拥有核武器",
-          "url": "https://wallstreetcn.com/livenews/3150454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "特朗普重申伊朗不能拥有核武器",
-          "url": "https://flash.jin10.com/detail/20260817182053714800",
-          "source": "金十数据",
-          "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260817181911430800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "美国总统特朗普：首要目标是伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260817181853245800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 13.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 15.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -135,40 +91,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
         },
         {
-          "title": "伊朗最高领袖顾问Velayati：美国民众如今正在为其领导人在西亚的冒险付出代价。",
-          "url": "https://flash.jin10.com/detail/20260817184213741800",
-          "source": "金十数据",
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "伊朗外交部：在确认下落之前，我们将认定我方飞行员在卡塔尔处于被俘状态。",
-          "url": "https://flash.jin10.com/detail/20260817183746045800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "伊朗称正与阿曼敲定霍尔木兹海峡谅解协议",
-          "url": "https://wallstreetcn.com/livenews/3150460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -179,40 +113,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
         },
         {
-          "title": "伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放",
-          "url": "https://wallstreetcn.com/livenews/3150440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "据伊朗方面报道：近期冲突中有超过200架敌方飞机被击落。",
-          "url": "https://flash.jin10.com/detail/20260817181726177800",
+          "title": "伊朗物价飙涨，基本食品已沦为“奢侈品”",
+          "url": "https://flash.jin10.com/detail/20260817194519027800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
+        },
+        {
+          "title": "伊朗称正与阿曼敲定霍尔木兹海峡谅解协议",
+          "url": "https://wallstreetcn.com/livenews/3150460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -225,7 +159,53 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
+        },
+        {
+          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
+          "url": "https://www.zhihu.com/question/2072487733474359004",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 21.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
+          "url": "https://wallstreetcn.com/livenews/3150487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
@@ -233,7 +213,7 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -245,11 +225,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
         }
       ]
     },
@@ -257,10 +237,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -269,35 +249,11 @@
           "url": "https://wallstreetcn.com/articles/3779560",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 78,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "Snap美股盘前跌幅扩大至逾15%。",
-          "url": "https://wallstreetcn.com/livenews/3150462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时24分"
         }
       ]
     }
