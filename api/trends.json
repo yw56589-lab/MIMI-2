@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-18T13:20:44.171364+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-18T15:07:08.921259+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 65,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
@@ -33,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "为向伊朗革命卫队传话，美国找了谁？",
@@ -55,19 +55,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
-          "title": "伊拉克调查库区无人机事件 伊朗提醒警惕栽赃嫁祸",
-          "url": "https://wallstreetcn.com/livenews/3150851",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副总统阿里夫：如果伊朗在美国海湾搞航行，试问美国会作何反应？",
+          "url": "https://flash.jin10.com/detail/20260818144013492800",
+          "source": "金十数据",
           "ranks": [
-            6
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "伊朗副总统阿里夫：霍尔木兹海峡多年来一直属于我们，该问题将很快解决。",
+          "url": "https://flash.jin10.com/detail/20260818143948716800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "伊朗人如何看待龙餐馆",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%BA%BA%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%BE%99%E9%A4%90%E9%A6%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
@@ -77,74 +99,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
-          "title": "伊朗农业部副部长：尽管战争期间出现价格上涨，但基本商品的供应并没有出现短缺。",
-          "url": "https://flash.jin10.com/detail/20260818125700865800",
+          "title": "伊朗启动南部地区最大的科学与电子中心建设",
+          "url": "https://flash.jin10.com/detail/20260818141706492800",
           "source": "金十数据",
           "ranks": [
-            10
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "伊朗细数美方四连败：战场未胜、换权未果、分裂未遂、武装未成",
-          "url": "https://flash.jin10.com/detail/20260818123922267800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "伊朗：多国外长私下坦言 伊朗战争外交均取得胜利",
-          "url": "https://flash.jin10.com/detail/20260818123637038800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：这场战争是一次难以忘怀的战争，敌人未能实现任何目标。",
-          "url": "https://flash.jin10.com/detail/20260818123233326800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：伊朗在外交和战场上都取得了成功和胜利。",
-          "url": "https://flash.jin10.com/detail/20260818123000564800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "15时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 6.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 5.8 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -156,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -167,52 +145,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "美国议员：特朗普把欺骗到底当美德",
           "url": "https://www.toutiao.com/trending/7674814398469947401/",
           "source": "今日头条",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "特朗普：金正恩已回应其对话请求",
           "url": "https://news.ifeng.com/c/8vgIS66EJvG",
           "source": "凤凰网",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "埃尔多安与特朗普通话 呼吁外交解决美伊问题",
-          "url": "https://flash.jin10.com/detail/20260818130250125800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普被曝自己也通过邮寄选票投票",
-          "url": "https://www.toutiao.com/trending/7675157131825905718/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         }
       ]
     },
@@ -220,10 +187,10 @@
       "keyword_group": "美债",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 4.2 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -235,8 +202,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
@@ -246,54 +213,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
           "url": "https://wallstreetcn.com/articles/3779638",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
           "url": "https://www.cls.cn/detail/2456636",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 23.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI锁定4.25GW数据中心容量",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         }
       ]
     },
@@ -301,7 +244,7 @@
       "keyword_group": "黄金",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 66,
@@ -316,8 +259,32 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 57,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.5%，道指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3150885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "15时07分"
         }
       ]
     }
