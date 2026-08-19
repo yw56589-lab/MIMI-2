@@ -1,149 +1,13 @@
 {
-  "generated_at": "2026-08-19T12:34:48.779493+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-19T13:28:54.703829+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "施压韩国，示好朝鲜，特朗普到底想干啥？",
-          "url": "https://news.ifeng.com/c/8vi3DZqUo7u",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "特朗普寻求今秋与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "关税生效前特朗普急刹车，加拿大争取到三天“生死窗口”",
-          "url": "https://flash.jin10.com/detail/20260819115309468800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "特朗普：推迟对加拿大加征50%关税三天时间。 加拿大与美国之间已有协议，等待文件最终敲定。 Keystone XL输油管道或将重新运作。",
-          "url": "https://wallstreetcn.com/livenews/3151437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 20.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "知情人士：若美升级战争 伊朗考虑打击欧洲境内军事目标",
-          "url": "https://flash.jin10.com/detail/20260819120624596800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "伊朗称「美军比想象中更弱」，这一判断基于哪些事实，反映出美军的何种现状？",
-          "url": "https://www.zhihu.com/question/2071850141703729771",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：在此次访问中，我们将采取切实而重大的步骤，以巩固两国内生性和共同的安全，增进两国人民的福祉。",
-          "url": "https://flash.jin10.com/detail/20260819113957338800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：我们跟伊拉克的睦邻关系建立在最艰难岁月中的兄弟情谊、共同抵抗外来干涉以及对两国共同命运的信念之上，这段充满教益的过去将指引未来。",
-          "url": "https://flash.jin10.com/detail/20260819113948263800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：伊朗与伊拉克两国人民的纽带是历史性的、不可分割的。",
-          "url": "https://flash.jin10.com/detail/20260819113934084800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 4.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 3.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 72,
@@ -159,7 +23,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时28分"
+        },
+        {
+          "title": "李大霄提醒严防美股泡沫爆破冲击",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E4%B8%A5%E9%98%B2%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E5%86%B2%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
@@ -170,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时28分"
         },
         {
           "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
@@ -181,42 +56,53 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时28分"
         },
         {
           "title": "中东停火前景黯淡 美股能源板块再度冲向历史高位",
           "url": "https://www.cls.cn/detail/2457651",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时28分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 5.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
+        {
+          "title": "周三160亿美元20年期美债拍卖，收益率会否再创新高？",
+          "url": "https://flash.jin10.com/detail/20260819131552974800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
         {
           "title": "就在今晚！美债又将迎“大考”……",
           "url": "https://www.cls.cn/detail/2457871",
           "source": "财联社热门",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时28分"
         },
         {
           "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
@@ -227,29 +113,86 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时28分"
         },
         {
-          "title": "美债逼宫，黄金到底要攻还是要守？",
-          "url": "https://flash.jin10.com/detail/20260819120138252800",
-          "source": "金十数据",
+          "title": "这是当前美股最大风险？华尔街策略师：一旦美债“破6”……",
+          "url": "https://www.cls.cn/detail/2457916",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 6.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普寻求今秋与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "特朗普宣布：推迟3天加征关税",
+          "url": "https://news.ifeng.com/c/8viES1IRwn8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "据英国金融时报，伊朗军方内部人士透露，如果美国总统特朗普进一步升级美伊战争，伊朗已评估并将目标瞄准位于欧洲的美国及西方军事资产。",
+          "url": "https://wallstreetcn.com/livenews/3151483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -262,31 +205,53 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时28分"
+        },
+        {
+          "title": "OpenAI：下周起，ChatGPT广告将拓展至31个欧洲国家。",
+          "url": "https://flash.jin10.com/detail/20260819130720644800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "获利了结撞上5.3%长债，金价这轮行情走完了吗？",
-          "url": "https://flash.jin10.com/detail/20260819115156489800",
-          "source": "金十数据",
+          "title": "伊朗议会议长率团访问伊拉克 旨在加强两国战略合作",
+          "url": "https://wallstreetcn.com/livenews/3151487",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时28分"
+        },
+        {
+          "title": "伊朗：没有美军基地的国家更安全",
+          "url": "https://flash.jin10.com/detail/20260819125544077800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     }
