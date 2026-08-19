@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-19T19:17:15.084006+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-19T20:27:09.551449+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.2 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 58,
+        "analysis": "该板块当前收录 8 条热点，覆盖 3 个来源平台，平均热榜排名约 16.9 位，标题平均出现 1.4 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 60,
         "chart": []
       },
       "titles": [
@@ -23,62 +23,84 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
-          "title": "Moderna美股盘前涨超80%。",
-          "url": "https://wallstreetcn.com/livenews/3151747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "Moderna美股盘前涨超50%，默沙东前涨近6%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。其他疫苗股跟涨，BioNTech美股盘前涨近19%。",
-          "url": "https://wallstreetcn.com/livenews/3151745",
-          "source": "华尔街见闻-快讯",
+          "title": "股债市场短暂喘息，美股盘前存储芯片股普涨，SK海力士涨约6%，Moderna涨超80%，油价四连涨",
+          "url": "https://wallstreetcn.com/articles/3779750",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
-          "title": "Moderna美股盘前上涨超30%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
-          "url": "https://wallstreetcn.com/livenews/3151743",
+          "title": "美股盘前三大股指期货集体翻红",
+          "url": "https://www.douyin.com/hot/2615877",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "美股盘前：疫苗股大涨，Moderna涨102%",
+          "url": "https://wallstreetcn.com/livenews/3151772",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时27分"
         },
         {
-          "title": "塔吉特第二季度净销售额265.4亿美元，预期261.1亿美元。 第二季度调整后每股收益4.11美元。 第二季度同店销售额增长3.8%，预期增长2.43%。 塔吉特预计全年调整后每股收益为9.90至10.90美元。 塔吉特美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3151729",
+          "title": "Nebius美股盘前跌超7%，公司拟发行45亿美元可转换优先票据。",
+          "url": "https://wallstreetcn.com/livenews/3151762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时27分"
         },
         {
-          "title": "BioNTech SE(BNTX.O)美股盘前上涨14%，诺瓦瓦克斯医药(NVAX.O)盘前上涨5.8%。",
-          "url": "https://flash.jin10.com/detail/20260819190644669800",
-          "source": "金十数据",
+          "title": "Moderna美股盘前涨超80%，公司与默沙东宣布黑色素瘤疫苗研究取得成功。",
+          "url": "https://wallstreetcn.com/livenews/3151747",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时27分"
+        },
+        {
+          "title": "Moderna美股盘前涨超50%，默沙东涨近6%，公司与默沙东宣布黑色素瘤疫苗研究取得成功。其他疫苗股跟涨，BioNTech美股盘前涨近19%。",
+          "url": "https://wallstreetcn.com/livenews/3151745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "Moderna美股盘前涨超30%，公司与默沙东宣布黑色素瘤疫苗研究取得成功",
+          "url": "https://wallstreetcn.com/livenews/3151743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
@@ -86,113 +108,56 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 10.2 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 5.8 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
         {
-          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
-          "url": "https://wallstreetcn.com/articles/3779762",
-          "source": "华尔街见闻",
+          "title": "“价格屠夫”梁文锋“收刀”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
-          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
-          "url": "https://www.cls.cn/detail/2458007",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
           "url": "https://www.zhihu.com/question/2072997638685864311",
           "source": "知乎",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
-          "title": "“价格屠夫”梁文锋“收刀”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 9.2 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 77,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
-          "url": "https://www.cls.cn/detail/2458004",
+          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
+          "url": "https://www.cls.cn/detail/2458007",
           "source": "财联社热门",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
-          "title": "就在今晚！美债又将迎“大考”……",
-          "url": "https://www.cls.cn/detail/2457871",
-          "source": "财联社热门",
+          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
+          "url": "https://wallstreetcn.com/articles/3779762",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
-          "title": "这是当前美股最大风险？华尔街策略师：一旦美债“破6”……",
-          "url": "https://www.cls.cn/detail/2457916",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
-          "title": "160亿美债拍卖为何震动全球金融市场",
-          "url": "https://www.toutiao.com/trending/7675665468459322923/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "time_info": "[20时26分 ~ 20时27分]"
         }
       ]
     },
@@ -216,7 +181,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "特朗普寻求今秋与金正恩会晤",
@@ -227,7 +192,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
@@ -238,7 +203,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "time_info": "[20时26分 ~ 20时27分]"
         }
       ]
     },
@@ -262,7 +227,31 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "time_info": "[20时26分 ~ 20时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 66,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
+          "url": "https://www.cls.cn/detail/2458004",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         }
       ]
     },
@@ -270,23 +259,23 @@
       "keyword_group": "伊朗",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
         "direction": "平稳",
-        "confidence": 60,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗称若利益受损，将通过提高霍尔木兹海峡关税等方式反制",
-          "url": "https://wallstreetcn.com/livenews/3151740",
+          "title": "报道：伊朗启动铁路运输通道 将伊拉克成品油运往土耳其",
+          "url": "https://wallstreetcn.com/livenews/3151781",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时27分"
         }
       ]
     }
