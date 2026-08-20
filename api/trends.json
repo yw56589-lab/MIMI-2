@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-21T03:24:35.164796+08:00",
+  "generated_at": "2026-08-21T04:19:01.341579+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 9.9 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -22,19 +22,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "特朗普威胁对伊朗实施“毁灭性经济行动”，伊外长回应",
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
@@ -66,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "将给美国带来更大的失败！伊朗多位官员回应特朗普“经济战”言论",
@@ -77,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
@@ -88,19 +88,30 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普宣布对伊朗发起空前经济战",
+          "url": "https://www.toutiao.com/trending/7675885516922818089/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 16.8 位，标题平均出现 1.2 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 54,
         "chart": []
       },
       "titles": [
@@ -112,63 +123,74 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
+        },
+        {
+          "title": "美国副总统万斯谈伊朗：我们如今进入了一个新阶段，对伊朗施加经济压力是我们手中最有效的手段。 但这是一场微妙的博弈：当我们对其施加经济压力时，伊朗也会试图反过来对我们施加经济压力。 不过过去几周的实际情况是，伊朗承受的压力远大于我们。 我们会维持这一态势，因为我们认为这是最优途径。",
+          "url": "https://wallstreetcn.com/livenews/3152570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时19分"
         },
         {
           "title": "伊朗谴责美国新制裁 称将维护国家利益",
           "url": "https://wallstreetcn.com/livenews/3152556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "伊朗谴责美国新制裁 称将维护国家利益",
-          "url": "https://flash.jin10.com/detail/20260821022738382800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美财长威胁对伊朗实施“前所未有的经济孤立”",
-          "url": "https://flash.jin10.com/detail/20260821022611982800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时19分"
         },
         {
           "title": "美财长威胁对伊朗实施“前所未有的经济孤立”",
           "url": "https://wallstreetcn.com/livenews/3152553",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗谴责美国新制裁 称将维护国家利益",
+          "url": "https://flash.jin10.com/detail/20260821022738382800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美财长威胁对伊朗实施“前所未有的经济孤立”",
+          "url": "https://flash.jin10.com/detail/20260821022611982800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -180,8 +202,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -191,30 +213,41 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
+        },
+        {
+          "title": "中长期美债收益率涨约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3152571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时19分"
         },
         {
           "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
           "url": "https://wallstreetcn.com/articles/3779843",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "美债冲破40万亿美元 烂摊子谁来收拾",
           "url": "https://www.toutiao.com/trending/7676088298137194011/",
           "source": "今日头条",
           "ranks": [
-            17
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         }
       ]
     },
@@ -222,10 +255,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 14.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -237,19 +270,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
           "url": "https://www.zhihu.com/question/2072733800774354696",
           "source": "知乎",
           "ranks": [
-            19
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         }
       ]
     },
@@ -257,10 +290,10 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -272,8 +305,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
@@ -283,32 +316,67 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 66,
         "chart": []
       },
       "titles": [
         {
-          "title": "OpenAI：计算机网页现已在欧元区、英国和瑞士对Mac上的ChatGPT Pro、Business和Enterprise用户开放。 ChatGPT可以记住用户在应用和网站上的活动，因此未来的对话会感觉更个性化，并且需要更少的上下文。",
-          "url": "https://wallstreetcn.com/livenews/3152536",
+          "title": "美元指数20日上涨",
+          "url": "https://flash.jin10.com/detail/20260821035139320800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "周四（8月20日）纽约尾盘，ICE美元指数涨0.08%，报98.908点，日内交投区间为98.557-98.934点，整体呈现出V形反转行情、北京时间18:13刷新日低，美国财长贝森特讲话之初短暂下挫。 彭博美元指数涨0.09%，报1193.26点，日内交投区间为1190.11-1193.65点。",
+          "url": "https://wallstreetcn.com/livenews/3152565",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "标普500指数初步收跌0.8%，可选消费板块跌1.8%，日用消费品、保健板块跌1.7%，电信板块跌0.7%，科技板块跌0.4%，能源板块涨0.5%。 纳斯达克100指数初步收跌0.7%，成分股中，沃尔玛初步收跌9%，CrowdStrike跌5.7%，SpaceX跌3.7%，吉利德科学跌2.9%，苹果跌1.9%，谷歌A跌1.3%，西部数据涨1.4%，闪迪涨2.1%，美光涨4.1%，迈威尔科技涨5.8%，Lumentum涨6.2%，Strategy涨7.7%。 生物科技指数跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3152577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     }
