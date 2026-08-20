@@ -1,30 +1,19 @@
 {
-  "generated_at": "2026-08-21T02:24:54.565882+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-21T03:24:35.164796+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 7.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
-        {
-          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
           "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
@@ -34,7 +23,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "特朗普威胁对伊朗实施“毁灭性经济行动”，伊外长回应",
@@ -45,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         },
         {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
@@ -56,7 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         },
         {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
@@ -67,18 +67,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "特朗普砸30亿美元能复兴美国矿产业吗",
-          "url": "https://www.toutiao.com/trending/7676091719460326921/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         },
         {
           "title": "将给美国带来更大的失败！伊朗多位官员回应特朗普“经济战”言论",
@@ -89,7 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         },
         {
           "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
@@ -100,121 +89,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2459896",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
-          "url": "https://wallstreetcn.com/articles/3779853",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
-          "url": "https://wallstreetcn.com/articles/3779843",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美债冲破40万亿美元 烂摊子谁来收拾",
-          "url": "https://www.toutiao.com/trending/7676088298137194011/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 5.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3779750",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
-          "url": "https://www.cls.cn/detail/2459378",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美股三大指数进一步下跌，道指数跌超1%，标普500指数跌0.58%，纳指跌0.95%。",
-          "url": "https://flash.jin10.com/detail/20260821013832888800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 19.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -227,29 +113,108 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         },
         {
-          "title": "伊朗国防部称其武器装备震慑了敌人",
-          "url": "https://flash.jin10.com/detail/20260821011207289800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美财长：24日将举行新闻发布会，阐述针对伊朗的行动",
-          "url": "https://wallstreetcn.com/livenews/3152510",
+          "title": "伊朗谴责美国新制裁 称将维护国家利益",
+          "url": "https://wallstreetcn.com/livenews/3152556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗谴责美国新制裁 称将维护国家利益",
+          "url": "https://flash.jin10.com/detail/20260821022738382800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美财长威胁对伊朗实施“前所未有的经济孤立”",
+          "url": "https://flash.jin10.com/detail/20260821022611982800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美财长威胁对伊朗实施“前所未有的经济孤立”",
+          "url": "https://wallstreetcn.com/livenews/3152553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3779853",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2459896",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
+          "url": "https://wallstreetcn.com/articles/3779843",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美债冲破40万亿美元 烂摊子谁来收拾",
+          "url": "https://www.toutiao.com/trending/7676088298137194011/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -257,7 +222,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 15.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -273,64 +238,64 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         },
         {
           "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
           "url": "https://www.zhihu.com/question/2072733800774354696",
           "source": "知乎",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：AI智能体开发平台Antigravity现已作为符合条件的Gemini Enterprise应用订阅的一部分开放，支持开箱即用的管理员管理和支出控制功能。",
-          "url": "https://flash.jin10.com/detail/20260821013335050800",
-          "source": "金十数据",
+          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3779750",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         },
         {
-          "title": "谷歌：Gemma下载量突破10亿次。",
-          "url": "https://wallstreetcn.com/livenews/3152527",
-          "source": "华尔街见闻-快讯",
+          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
+          "url": "https://www.cls.cn/detail/2459378",
+          "source": "财联社热门",
           "ranks": [
-            16
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -339,46 +304,11 @@
           "url": "https://wallstreetcn.com/livenews/3152536",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "OpenAI：Mac桌面应用中的“电脑历史记录”功能现已向欧洲经济区、英国和瑞士的Pro、Business及Enterprise用户开放。",
-          "url": "https://flash.jin10.com/detail/20260821012025516800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "大摩：金价提前兑现Q4目标",
-          "url": "https://www.toutiao.com/trending/7676097064727481897/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时24分"
         }
       ]
     }
