@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-08-20T23:25:24.872331+08:00",
+  "generated_at": "2026-08-21T00:23:50.221230+08:00",
   "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 6 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
           "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
@@ -23,18 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
           "title": "特朗普威胁对伊朗实施“毁灭性经济行动”，伊外长回应",
@@ -45,7 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普称白宫立法事务主任布雷德将离职",
+          "url": "https://wallstreetcn.com/livenews/3152497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
@@ -56,7 +67,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
@@ -67,29 +78,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
-          "title": "据福克斯新闻：美国财政部禁止ESG基金出现在“特朗普账户”中。",
-          "url": "https://flash.jin10.com/detail/20260820223202064800",
-          "source": "金十数据",
+          "title": "将给美国带来更大的失败！伊朗多位官员回应特朗普“经济战”言论",
+          "url": "https://www.cls.cn/detail/2459793",
+          "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "美国财政部禁止特朗普账户持有ESG基金。（福克斯商业新闻）",
-          "url": "https://wallstreetcn.com/livenews/3152457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
           "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
@@ -100,31 +100,64 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普砸30亿美元能复兴美国矿产业吗",
+          "url": "https://www.toutiao.com/trending/7676091719460326921/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国财长贝森特：美国就业数据“有相当的噪音”。 总统特朗普打击移民之后，不需要那么多的就业人口了。",
+          "url": "https://wallstreetcn.com/livenews/3152479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国财长贝森特：（特朗普政府）将恢复2025年那样的关税收入，甚至收入更多。 由于关税退款，赤字暂时恶化。 “很有可能”财政赤字已经见顶。 我与美国管理和预算办公室（OMB）已受命推进财政整固工作。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3152476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 4.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 9.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "美国财长贝森特谈美债回购，称：这（仅仅是）市场上一个微不足道的交易而已。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3152475",
-          "source": "华尔街见闻-快讯",
+          "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2459896",
+          "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -135,18 +168,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2459896",
-          "source": "财联社热门",
+          "title": "美债干预效果为何“一日游”？阿里巴巴净利润大跌",
+          "url": "https://flash.jin10.com/detail/20260820233940393800",
+          "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
           "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
@@ -157,7 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
           "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
@@ -168,7 +201,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国财长贝森特回应美债回购的规模能有多大，称：将视条件而定。 24小时内的任何波动都是噪音而已。 试图让疲软的市场恢复平衡。",
+          "url": "https://wallstreetcn.com/livenews/3152484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美债冲破40万亿美元 烂摊子谁来收拾",
+          "url": "https://www.toutiao.com/trending/7676088298137194011/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
@@ -176,7 +231,7 @@
       "keyword_group": "伊朗",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 15.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -184,37 +239,37 @@
       },
       "titles": [
         {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗外交部回应美国制裁称，伊朗将利用一切可用工具和能力捍卫伊朗人民的尊严，保护国家利益。",
-          "url": "https://flash.jin10.com/detail/20260820225617027800",
-          "source": "金十数据",
+          "title": "美军瞒天过海运石油，伊朗的“王牌”废了？",
+          "url": "https://v.ifeng.com/c/8vkj42fNrYG",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
-          "title": "埃及央行连续第四次维持基准利率在19%不变，符合预期，伊朗战争还看不到结束的希望。",
-          "url": "https://wallstreetcn.com/livenews/3152450",
+          "title": "伊朗外交部谴责美国对伊实施新一轮经济制裁",
+          "url": "https://flash.jin10.com/detail/20260820233627479800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国财长贝森特：下周一将围绕“伊朗计划”举行新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3152480",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "伊朗真要“由守转攻”吗",
-          "url": "https://www.toutiao.com/trending/7675904120985255982/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         }
       ]
     },
@@ -222,10 +277,10 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -238,18 +293,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         },
         {
           "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
           "url": "https://www.cls.cn/detail/2459378",
           "source": "财联社热门",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         }
       ]
     },
@@ -265,7 +320,7 @@
       },
       "titles": [
         {
-          "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
+          "title": "如何看待8月19日下午DeepSeek被曝再次开始灰度测试，能力超过上次灰测？",
           "url": "https://www.zhihu.com/question/2073476043097359622",
           "source": "知乎",
           "ranks": [
@@ -273,31 +328,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "卫星初创公司Muon Space Inc.完成2.5亿美元融资，投资者包括Alphabet旗下谷歌公司和Salesforce。 该公司准备最快在2027年IPO。",
-          "url": "https://wallstreetcn.com/livenews/3152466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时23分"
         }
       ]
     }
