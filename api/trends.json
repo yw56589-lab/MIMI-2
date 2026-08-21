@@ -1,13 +1,103 @@
 {
-  "generated_at": "2026-08-21T21:38:38.639705+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-21T22:25:37.843540+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 6,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 9.6 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
+          "url": "https://v.ifeng.com/c/8vlFqYJqoVW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "特朗普如何靠经济施压逼伊朗低头？",
+          "url": "https://v.ifeng.com/c/8vm757az9xy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "据报道，阿曼官员表示，他们并不认真对待特朗普的威胁。",
+          "url": "https://flash.jin10.com/detail/20260821221427911800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "卡塔尔智库研究员：特朗普“经济D日”威胁剑指伊朗，美国市场却先承压",
+          "url": "https://flash.jin10.com/detail/20260821221353215800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://wallstreetcn.com/livenews/3153107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美媒：油价已在逐渐忽略特朗普发帖的影响",
+          "url": "https://flash.jin10.com/detail/20260821220855277800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "据CNBC：特朗普政府任命前摩根大通高管马特·扎梅斯担任社会保障局顾问。",
+          "url": "https://flash.jin10.com/detail/20260821215507852800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 79,
@@ -23,7 +113,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
         },
         {
           "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
@@ -34,51 +124,86 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2461060",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
         },
         {
           "title": "贝森特扩大美债回购被指“玩火” 美国或重演日本式货币贬值",
           "url": "https://wallstreetcn.com/livenews/3153086",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股三大指数高开 SK海力士涨超2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
-          "title": "美债回购“信号意义”重于“实际效果”！野村：如果市场继续恶化，美联储会下场“YCC或QE”",
-          "url": "https://wallstreetcn.com/articles/3779959",
-          "source": "华尔街见闻",
+          "title": "美股区块链概念股大涨，嘉楠科技涨超26%，第九城市涨超11%，MARA Holdings涨近10%，Coinbase Global涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3153104",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
         },
         {
-          "title": "美债还是美元？美国现在必须二选一",
-          "url": "https://flash.jin10.com/detail/20260821205631415800",
-          "source": "金十数据",
+          "title": "美股盘初，主要行业ETF普涨，全球航空业ETF涨超1%，区域银行业ETF、半导体ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3153096",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.5%，区块链概念股多数上涨",
+          "url": "https://wallstreetcn.com/livenews/3153094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
@@ -98,22 +223,22 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
         },
         {
           "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
           "url": "https://www.zhihu.com/question/2074181821978376015",
           "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
         },
         {
           "title": "DeepSeekV4视觉模型上线",
@@ -124,7 +249,53 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗总统：现在结束战争是更好的选择",
+          "url": "https://news.ifeng.com/c/8vmE3dZz2HS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "贝森特：美国将对伊朗实施史上最严厉制裁 或无需重启大规模军事行动",
+          "url": "https://www.cls.cn/detail/2460827",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗海军指挥官称，敌人将不被允许接近伊朗领土。",
+          "url": "https://flash.jin10.com/detail/20260821220047723800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
@@ -132,7 +303,7 @@
       "keyword_group": "金价",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 17.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -148,53 +319,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
         },
         {
           "title": "金价涨嗨了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E5%97%A8%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E5%97%A8%E4%BA%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
-          "url": "https://v.ifeng.com/c/8vlFqYJqoVW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "特朗普如何靠经济施压逼伊朗低头？",
-          "url": "https://v.ifeng.com/c/8vm757az9xy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
         }
       ]
     },
@@ -218,55 +354,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3153076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 67,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗总统：现在结束战争是更好的选择",
-          "url": "https://news.ifeng.com/c/8vmE3dZz2HS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时25分"
         }
       ]
     }
