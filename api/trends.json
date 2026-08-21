@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-22T01:20:59.625079+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-22T02:23:40.959850+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 12.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 5 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -23,29 +23,73 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         },
         {
-          "title": "伊朗与阿曼外长讨论恢复霍尔木兹海峡谈判",
-          "url": "https://wallstreetcn.com/livenews/3153151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "伊朗官员称美国已证明其“不懂外交语言”",
-          "url": "https://flash.jin10.com/detail/20260822005810712800",
+          "title": "伊朗寻求贸易突围，与阿曼敲定优惠贸易协定",
+          "url": "https://flash.jin10.com/detail/20260822020951714800",
           "source": "金十数据",
           "ranks": [
-            10
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫表示，伊朗 “从不干涉伊拉克内政”。 德黑兰方面愿同地区国家开展合作，通过区域协作构建可持续安全格局。 卡利巴夫结束对伊拉克为期三天的访问，于周五返回德黑兰。（伊朗学生通讯社ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3153178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "据半岛电视台：伊朗议会将对已敲定的伊朗与阿曼优惠贸易协议进行审议。",
+          "url": "https://flash.jin10.com/detail/20260822020252544800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗与伊拉克签署“全面”安全协议。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3153176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗议长卡利巴夫：伊朗与伊拉克已签署安全和边境安全协议，并讨论协议落实及伊拉克安全问题，伊朗从未干涉伊拉克内政。",
+          "url": "https://flash.jin10.com/detail/20260822015917482800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗与伊拉克签署全面安全协议。",
+          "url": "https://flash.jin10.com/detail/20260822015353238800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "贝森特：美国将对伊朗实施史上最严厉制裁 或无需重启大规模军事行动",
@@ -56,51 +100,119 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         },
         {
-          "title": "伊朗外长称美国经济施压注定失败",
-          "url": "https://wallstreetcn.com/livenews/3153140",
+          "title": "伊朗官员称美国已证明其“不懂外交语言”",
+          "url": "https://wallstreetcn.com/livenews/3153159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗与阿曼外长讨论恢复霍尔木兹海峡谈判",
+          "url": "https://wallstreetcn.com/livenews/3153151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "伊朗总统：现在结束战争是更好选择",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%8E%B0%E5%9C%A8%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%98%AF%E6%9B%B4%E5%A5%BD%E9%80%89%E6%8B%A9",
           "source": "百度热搜",
           "ranks": [
-            20
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
-        },
+          "time_info": "02时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "ai_insight": {
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "伊朗称将在海上给敌人历史性教训",
-          "url": "https://wallstreetcn.com/livenews/3153133",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
+          "url": "https://v.ifeng.com/c/8vlFqYJqoVW",
+          "source": "凤凰网",
           "ranks": [
-            20
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         },
         {
-          "title": "伊朗与阿曼外长讨论恢复霍尔木兹海峡谈判",
-          "url": "https://flash.jin10.com/detail/20260822003351390800",
+          "title": "美国最高法院允许特朗普政府暂时继续在白宫建设舞厅。",
+          "url": "https://flash.jin10.com/detail/20260822020641246800",
           "source": "金十数据",
           "ranks": [
-            21
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
+          "url": "https://news.ifeng.com/c/8vmLgZeIk2c",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "美国航空航天局（NASA）：美国总统特朗普将于当地时间8月28日向阿尔忒弥斯号宇航员颁发荣誉勋章。",
+          "url": "https://flash.jin10.com/detail/20260822014734392800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "卢拉致电特朗普，寻求重启关税谈判",
+          "url": "https://flash.jin10.com/detail/20260822013539043800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "巴西政府：总统卢拉周五与美国总统特朗普通电话。 卢拉告诉特朗普，两国应当继续磋商（特朗普挑起的）关税。",
+          "url": "https://wallstreetcn.com/livenews/3153148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
@@ -124,7 +236,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         },
         {
           "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
@@ -135,7 +247,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
@@ -146,7 +258,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -157,64 +269,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
-          "url": "https://v.ifeng.com/c/8vlFqYJqoVW",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
-          "url": "https://news.ifeng.com/c/8vmLgZeIk2c",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "巴西政府：总统卢拉周五与美国总统特朗普通电话。 卢拉告诉特朗普，两国应当继续磋商（特朗普挑起的）关税。",
-          "url": "https://wallstreetcn.com/livenews/3153148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
-          "url": "https://flash.jin10.com/detail/20260822005306229800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         }
       ]
     },
@@ -222,10 +277,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -234,22 +289,22 @@
           "url": "https://www.zhihu.com/question/2074181821978376015",
           "source": "知乎",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         },
         {
           "title": "DeepSeek多模态模型来了",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         }
       ]
     },
@@ -257,69 +312,58 @@
       "keyword_group": "金价",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
-        {
-          "title": "高盛：黄金看涨期权需求激增，或放大金价波动",
-          "url": "https://wallstreetcn.com/livenews/3153152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
         {
           "title": "国际金价重回4600美元",
           "url": "https://www.douyin.com/hot/2617802",
           "source": "抖音",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
+        },
+        {
+          "title": "高盛：黄金看涨期权需求激增，或放大金价波动",
+          "url": "https://wallstreetcn.com/livenews/3153152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 22.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
         {
-          "title": "金十图示：2026年08月21日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260822003219787800",
+          "title": "谷歌(GOOG.O)：Google Pay“轻触支付”功能将登陆沃尔玛。",
+          "url": "https://flash.jin10.com/detail/20260822015611956800",
           "source": "金十数据",
           "ranks": [
-            22
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "金十图示：2026年08月21日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260822003150893800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         }
       ]
     },
@@ -343,7 +387,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时23分"
         }
       ]
     }
