@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-22T02:23:40.959850+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-22T03:20:08.921880+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 5 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 14.4 位，标题平均出现 1.2 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 56,
         "chart": []
       },
       "titles": [
@@ -22,74 +22,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "伊朗寻求贸易突围，与阿曼敲定优惠贸易协定",
-          "url": "https://flash.jin10.com/detail/20260822020951714800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫表示，伊朗 “从不干涉伊拉克内政”。 德黑兰方面愿同地区国家开展合作，通过区域协作构建可持续安全格局。 卡利巴夫结束对伊拉克为期三天的访问，于周五返回德黑兰。（伊朗学生通讯社ISNA）",
           "url": "https://wallstreetcn.com/livenews/3153178",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "据半岛电视台：伊朗议会将对已敲定的伊朗与阿曼优惠贸易协议进行审议。",
-          "url": "https://flash.jin10.com/detail/20260822020252544800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "伊朗与伊拉克签署“全面”安全协议。（伊朗国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3153176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "伊朗议长卡利巴夫：伊朗与伊拉克已签署安全和边境安全协议，并讨论协议落实及伊拉克安全问题，伊朗从未干涉伊拉克内政。",
-          "url": "https://flash.jin10.com/detail/20260822015917482800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "据伊朗国家电视台：伊朗与伊拉克签署全面安全协议。",
-          "url": "https://flash.jin10.com/detail/20260822015353238800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时20分"
         },
         {
           "title": "贝森特：美国将对伊朗实施史上最严厉制裁 或无需重启大规模军事行动",
@@ -99,52 +44,74 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
+        },
+        {
+          "title": "伊朗与伊拉克签署“全面”安全协议。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3153176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗寻求贸易突围，与阿曼敲定优惠贸易协定",
+          "url": "https://flash.jin10.com/detail/20260822020951714800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "伊朗官员称美国已证明其“不懂外交语言”",
           "url": "https://wallstreetcn.com/livenews/3153159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时20分"
+        },
+        {
+          "title": "据半岛电视台：伊朗议会将对已敲定的伊朗与阿曼优惠贸易协议进行审议。",
+          "url": "https://flash.jin10.com/detail/20260822020252544800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "伊朗与阿曼外长讨论恢复霍尔木兹海峡谈判",
           "url": "https://wallstreetcn.com/livenews/3153151",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "伊朗总统：现在结束战争是更好选择",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%8E%B0%E5%9C%A8%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%98%AF%E6%9B%B4%E5%A5%BD%E9%80%89%E6%8B%A9",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时20分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 13.1 位，标题平均出现 1.4 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 61,
         "chart": []
       },
       "titles": [
@@ -156,63 +123,74 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "美国最高法院允许特朗普政府暂时继续在白宫建设舞厅。",
-          "url": "https://flash.jin10.com/detail/20260822020641246800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         },
         {
           "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
           "url": "https://news.ifeng.com/c/8vmLgZeIk2c",
           "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         },
         {
-          "title": "美国航空航天局（NASA）：美国总统特朗普将于当地时间8月28日向阿尔忒弥斯号宇航员颁发荣誉勋章。",
-          "url": "https://flash.jin10.com/detail/20260822014734392800",
+          "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33823287",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
+        },
+        {
+          "title": "据Axios：美国国务院发言人就E1地区建设计划回应称，正如美国总统特朗普明确指出的，美国不支持以色列吞并西岸。西岸的稳定有助于以色列安全，也符合美国政府推动该地区实现和平的目标。",
+          "url": "https://flash.jin10.com/detail/20260822022922508800",
           "source": "金十数据",
           "ranks": [
-            9
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时20分"
         },
         {
-          "title": "卢拉致电特朗普，寻求重启关税谈判",
-          "url": "https://flash.jin10.com/detail/20260822013539043800",
+          "title": "美国最高法院暂缓停工令，特朗普可继续建宴会厅",
+          "url": "https://flash.jin10.com/detail/20260822022746707800",
           "source": "金十数据",
           "ranks": [
-            14
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时20分"
         },
         {
-          "title": "巴西政府：总统卢拉周五与美国总统特朗普通电话。 卢拉告诉特朗普，两国应当继续磋商（特朗普挑起的）关税。",
-          "url": "https://wallstreetcn.com/livenews/3153148",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普力挺AI数据中心 称将创造大量就业和税收",
+          "url": "https://flash.jin10.com/detail/20260822021607120800",
+          "source": "金十数据",
           "ranks": [
-            29
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国最高法院允许特朗普政府暂时继续在白宫建设舞厅。",
+          "url": "https://flash.jin10.com/detail/20260822020641246800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         }
       ]
     },
@@ -220,10 +198,10 @@
       "keyword_group": "美债",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 3.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 3.8 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -235,8 +213,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         },
         {
           "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
@@ -246,8 +224,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
@@ -257,8 +235,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -268,8 +246,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         }
       ]
     },
@@ -277,10 +255,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -292,19 +270,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         }
       ]
     },
@@ -312,10 +290,10 @@
       "keyword_group": "金价",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 63,
         "chart": []
       },
       "titles": [
@@ -327,19 +305,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         },
         {
           "title": "高盛：黄金看涨期权需求激增，或放大金价波动",
           "url": "https://wallstreetcn.com/livenews/3153152",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时20分"
         }
       ]
     },
@@ -347,23 +325,23 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 65,
         "chart": []
       },
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：Google Pay“轻触支付”功能将登陆沃尔玛。",
-          "url": "https://flash.jin10.com/detail/20260822015611956800",
+          "title": "SpaceXAI在谷歌云Vertex AI上推出Grok 4.6。",
+          "url": "https://flash.jin10.com/detail/20260822025034252800",
           "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时20分"
         }
       ]
     },
@@ -371,10 +349,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
@@ -386,8 +364,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         }
       ]
     }
