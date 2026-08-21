@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-21T12:29:45.599780+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-21T13:24:38.159159+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "13时24分"
         },
         {
           "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
@@ -34,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "13时24分"
         },
         {
           "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
@@ -45,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "13时24分"
         },
         {
           "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
@@ -56,75 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "美债市场正在上演金融“三国演义”",
-          "url": "https://www.toutiao.com/trending/7676307698534583827/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
-          "url": "https://www.cls.cn/detail/2460003",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
-          "url": "https://www.cls.cn/detail/2460167",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "美国汽油“提前入冬”！特朗普政府希望用更便宜燃料压低油价",
-          "url": "https://flash.jin10.com/detail/20260821115539290800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "13时24分"
         }
       ]
     },
@@ -148,7 +80,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "13时24分"
         },
         {
           "title": "美股收盘：贝森特“救市”有效期仅持续一天 阿里巴巴绩后低开高走",
@@ -159,7 +91,42 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
+          "url": "https://www.cls.cn/detail/2460003",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
+          "url": "https://www.cls.cn/detail/2460167",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -183,7 +150,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "13时24分"
         },
         {
           "title": "美将公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
@@ -194,31 +161,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "长债一松一紧，金价4500后还要等信号！",
-          "url": "https://flash.jin10.com/detail/20260821115544413800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "13时24分"
         }
       ]
     }
