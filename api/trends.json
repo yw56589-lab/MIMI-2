@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-22T00:22:13.259736+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-22T01:20:59.625079+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 14.5 位，标题平均出现 1.3 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 12.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 59,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -22,30 +22,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
-          "title": "伊朗外长称美国经济施压注定失败",
-          "url": "https://wallstreetcn.com/livenews/3153140",
+          "title": "伊朗与阿曼外长讨论恢复霍尔木兹海峡谈判",
+          "url": "https://wallstreetcn.com/livenews/3153151",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时20分"
+        },
+        {
+          "title": "伊朗官员称美国已证明其“不懂外交语言”",
+          "url": "https://flash.jin10.com/detail/20260822005810712800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "贝森特：美国将对伊朗实施史上最严厉制裁 或无需重启大规模军事行动",
           "url": "https://www.cls.cn/detail/2460827",
           "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "伊朗外长称美国经济施压注定失败",
+          "url": "https://wallstreetcn.com/livenews/3153140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "伊朗总统：现在结束战争是更好选择",
@@ -55,74 +77,30 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "伊朗称将在海上给敌人历史性教训",
           "url": "https://wallstreetcn.com/livenews/3153133",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时20分"
         },
         {
-          "title": "伊朗外长称美国经济施压注定失败",
-          "url": "https://flash.jin10.com/detail/20260821234323052800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "伊朗称将在海上给敌人历史性教训",
-          "url": "https://flash.jin10.com/detail/20260821232958482800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐回应“历史上最具破坏性的经济行动”称，这次重演也注定失败。",
-          "url": "https://flash.jin10.com/detail/20260821232324379800",
+          "title": "伊朗与阿曼外长讨论恢复霍尔木兹海峡谈判",
+          "url": "https://flash.jin10.com/detail/20260822003351390800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：伊朗海军司令称，将很快在海上给敌人上历史性的一课。",
-          "url": "https://flash.jin10.com/detail/20260821231924432800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "伊朗陆军总司令：伊朗防御能力改变敌方战略计算",
-          "url": "https://flash.jin10.com/detail/20260821231836164800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时20分"
         }
       ]
     },
@@ -130,7 +108,7 @@
       "keyword_group": "美债",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 3.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 71,
@@ -145,8 +123,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
@@ -156,30 +134,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
           "url": "https://wallstreetcn.com/articles/3779986",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2461060",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
@@ -187,10 +165,10 @@
       "keyword_group": "特朗普",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 61,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -202,8 +180,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
@@ -213,76 +191,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "据巴西政府声明：巴西总统卢拉与美国总统特朗普于当地时间周五进行了电话会谈。",
-          "url": "https://flash.jin10.com/detail/20260822000809584800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时20分"
         },
         {
-          "title": "特朗普宣布暂时豁免碎牛肉进口关税",
-          "url": "https://wallstreetcn.com/livenews/3153107",
+          "title": "巴西政府：总统卢拉周五与美国总统特朗普通电话。 卢拉告诉特朗普，两国应当继续磋商（特朗普挑起的）关税。",
+          "url": "https://wallstreetcn.com/livenews/3153148",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.5 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "国际金价重回4600美元",
-          "url": "https://www.douyin.com/hot/2617802",
-          "source": "抖音",
-          "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
-          "title": "金价涨嗨了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E5%97%A8%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
+          "url": "https://flash.jin10.com/detail/20260822005306229800",
+          "source": "金十数据",
           "ranks": [
-            30
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -294,8 +237,89 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 71,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "高盛：黄金看涨期权需求激增，或放大金价波动",
+          "url": "https://wallstreetcn.com/livenews/3153152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "国际金价重回4600美元",
+          "url": "https://www.douyin.com/hot/2617802",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 22.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金十图示：2026年08月21日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260822003219787800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "金十图示：2026年08月21日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260822003150893800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
@@ -303,10 +327,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -318,32 +342,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 57,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股区块链概念股大涨，嘉楠科技涨超26%，第九城市涨超11%，MARA Holdings涨近10%，Coinbase Global涨超9%。",
-          "url": "https://wallstreetcn.com/livenews/3153104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时20分"
         }
       ]
     }
