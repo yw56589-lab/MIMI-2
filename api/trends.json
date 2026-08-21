@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-21T10:19:07.652569+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-21T11:43:12.633380+08:00",
+  "total_titles_processed": 319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 9.6 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -23,73 +23,51 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
-        },
-        {
-          "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2459896",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
-        },
-        {
-          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
-          "url": "https://wallstreetcn.com/articles/3779856",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
           "url": "https://www.cls.cn/detail/2460072",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
           "url": "https://wallstreetcn.com/articles/3779933",
           "source": "华尔街见闻",
           "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
+          "url": "https://wallstreetcn.com/articles/3779920",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "各国如何应对40万亿美债",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B940%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%80%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
-        },
-        {
-          "title": "狂飙美债对全球意味着什么",
-          "url": "https://www.toutiao.com/trending/7676018598879432235/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         }
       ]
     },
@@ -97,24 +75,13 @@
       "keyword_group": "特朗普",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 10.2 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
-        {
-          "title": "特朗普称将于11月同金正恩会晤，外交部回应",
-          "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
-        },
         {
           "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
           "url": "https://www.cls.cn/detail/2460003",
@@ -124,40 +91,97 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
           "url": "https://www.cls.cn/detail/2460167",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "特朗普签署太空运输新政，瞄准2030年前每年逾千次火箭发射",
+          "url": "https://flash.jin10.com/detail/20260821110707050800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 13.3 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗真要“由守转攻”吗？",
+          "url": "https://news.ifeng.com/c/8vkYUeb3fbE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "美将公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
+          "url": "https://news.ifeng.com/c/8vlKowYU0MT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "伊朗回应“美将公布经济孤立措施”",
+          "url": "https://www.toutiao.com/trending/7676254990444285503/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 6.3 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -170,7 +194,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "美股收盘：贝森特“救市”有效期仅持续一天 阿里巴巴绩后低开高走",
@@ -181,53 +205,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
-        },
-        {
-          "title": "美股三大指数全线收跌",
-          "url": "https://www.douyin.com/hot/2617626",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
-          "url": "https://news.ifeng.com/c/8vlKowYU0MT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
-        },
-        {
-          "title": "伊朗回应“美将公布经济孤立措施”",
-          "url": "https://www.toutiao.com/trending/7676254990444285503/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 10时19分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         }
       ]
     }
