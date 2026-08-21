@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-21T14:31:04.784049+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-21T15:35:42.544366+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -22,30 +22,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
           "url": "https://wallstreetcn.com/articles/3779933",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
-          "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
-          "url": "https://www.cls.cn/detail/2460072",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
@@ -55,76 +44,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
-          "title": "高盛：市场仍更倾向于认为美债收益率将上行",
-          "url": "https://wallstreetcn.com/livenews/3152784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 68,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "【早报】美股存储、光通信板块走强；医药牛股莫德纳暴跌23%；原油大涨、黄金微跌；泡泡玛特、阿里巴巴、中信证券最新业绩公布",
-          "url": "https://www.cls.cn/detail/2460127",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
-          "title": "李大霄提醒美股泡沫或已爆破",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E6%88%96%E5%B7%B2%E7%88%86%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
-          "title": "美股收盘：贝森特“救市”有效期仅持续一天 阿里巴巴绩后低开高走",
-          "url": "https://www.cls.cn/detail/2460111",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "time_info": "15时35分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 58,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -136,19 +68,65 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
-          "title": "伊拉克和瑞士两国外长在一次电话通话中强调，启动国际倡议以帮助结束冲突、推动伊朗和美国重新回到谈判桌具有重要意义。",
-          "url": "https://flash.jin10.com/detail/20260821141003563800",
-          "source": "金十数据",
+          "title": "美国威胁对伊朗实施“史上最严厉制裁”，并敦促中国与美国合作，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3152850",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "15时35分"
+        },
+        {
+          "title": "美对伊朗施压 外交部：军事手段和制裁施压无助于解决问题",
+          "url": "https://wallstreetcn.com/livenews/3152845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "【早报】美股存储、光通信板块走强；医药牛股莫德纳暴跌23%；原油大涨、黄金微跌；泡泡玛特、阿里巴巴、中信证券最新业绩公布",
+          "url": "https://www.cls.cn/detail/2460127",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "李大霄提醒美股泡沫或已爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E6%88%96%E5%B7%B2%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
@@ -156,10 +134,10 @@
       "keyword_group": "特朗普",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -168,11 +146,11 @@
           "url": "https://www.cls.cn/detail/2460167",
           "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     }
