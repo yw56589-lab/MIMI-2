@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-08-22T13:19:34.452509+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-22T14:23:43.250967+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 9,
+      "ai_insight": {
+        "analysis": "该板块当前收录 9 条热点，覆盖 2 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗：美国已然衰败 不再具有国际威望",
+          "url": "https://flash.jin10.com/detail/20260822131227792800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "伊朗武装部队发言人：美国在国际上已经不再具有威望。",
+          "url": "https://flash.jin10.com/detail/20260822131031289800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "伊朗武装部队发言人：任何侵略行为都将立即遭到回应，而且回应的规模完全可能大于侵略行为本身。",
+          "url": "https://flash.jin10.com/detail/20260822131024559800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "伊朗武装部队发言人：伊朗军事战略已从防御型转向进攻型。",
+          "url": "https://flash.jin10.com/detail/20260822131018963800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "伊朗武装部队发言人：美国衰落的迹象变得更加明显。",
+          "url": "https://flash.jin10.com/detail/20260822131013997800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "阿曼与伊朗外长讨论恢复霍尔木兹海峡自由航行",
+          "url": "https://wallstreetcn.com/livenews/3153324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "伊朗武装部队发言人：这场战争让全世界更加清楚地看到了敌人的险恶本质。",
+          "url": "https://flash.jin10.com/detail/20260822131009284800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "伊朗武装部队发言人：伊朗人的地缘政治觉醒是近期战争取得的成果之一。",
+          "url": "https://flash.jin10.com/detail/20260822131003732800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
+          "url": "https://wallstreetcn.com/livenews/3153305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 2 个来源平台，平均热榜排名约 7.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 76,
@@ -19,22 +131,22 @@
           "url": "https://wallstreetcn.com/articles/3780041",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
           "url": "https://www.cls.cn/detail/2461311",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         },
         {
           "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
@@ -45,18 +157,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
-          "url": "https://www.cls.cn/detail/2461262",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         },
         {
           "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
@@ -67,7 +168,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
+        },
+        {
+          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
+          "url": "https://www.cls.cn/detail/2461262",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
@@ -78,7 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -89,18 +201,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 15.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -113,7 +225,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         },
         {
           "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
@@ -124,108 +236,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33823287",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         },
         {
           "title": "特朗普敲打韩国却被李在明反将一军",
           "url": "https://www.toutiao.com/trending/7676039913854418950/",
           "source": "今日头条",
           "ranks": [
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         },
         {
-          "title": "特朗普吐槽伊朗：总统都没人愿意当 我到底该找谁谈？",
-          "url": "https://flash.jin10.com/detail/20260822112456871800",
-          "source": "金十数据",
+          "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33823287",
+          "source": "澎湃新闻",
           "ranks": [
-            24
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         },
         {
-          "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
-          "url": "https://wallstreetcn.com/livenews/3153298",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒称美军考虑将一在建航母改以特朗普命名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33824405",
+          "source": "澎湃新闻",
           "ranks": [
-            26
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 19.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "阿曼与伊朗外长讨论恢复霍尔木兹海峡自由航行",
-          "url": "https://wallstreetcn.com/livenews/3153324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
-          "url": "https://wallstreetcn.com/livenews/3153305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
-          "url": "https://flash.jin10.com/detail/20260822104831510800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
-          "url": "https://wallstreetcn.com/livenews/3153293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         }
       ]
     },
@@ -233,10 +277,10 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -249,26 +293,26 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
           "url": "https://www.cls.cn/detail/2461289",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -276,15 +320,15 @@
       },
       "titles": [
         {
-          "title": "为什么有 DeepSeek 娘但是没有人制作 GLM 娘？",
-          "url": "https://www.zhihu.com/question/2038382808817774665",
-          "source": "知乎",
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
           "ranks": [
-            17
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时23分"
         }
       ]
     }
