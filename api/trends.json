@@ -1,139 +1,150 @@
 {
-  "generated_at": "2026-08-22T16:18:59.821726+08:00",
+  "generated_at": "2026-08-22T17:19:12.291883+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 2 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 2 个来源平台，平均热榜排名约 14.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 58,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗工业部长：伊朗工业企业已积极参与太阳能发电站建设，并推进从阿曼湾和波斯湾获取所需水源，以在保持生产持续性的同时，减轻对国内生态和水资源的压力。",
-          "url": "https://flash.jin10.com/detail/20260822155214781800",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗官员呼吁卡塔尔将被拘留的伊朗飞行员转移至陆地医院。伊朗官员表示，被扣押的飞行员在水上，身体状况“很差”。",
+          "url": "https://flash.jin10.com/detail/20260822164151313800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗军方表示，呼吁科威特与伊朗飞行员及其家属进行初步联系。",
+          "url": "https://flash.jin10.com/detail/20260822163632897800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "伊拉克总统：如果局势持续升级，我们将成为仅次于伊朗的受害国，因为我们经济紧密相连，完全依赖石油。",
+          "url": "https://flash.jin10.com/detail/20260822162320476800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "伊拉克总统：我认为美国希望达成协议，以结束与伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260822161744100800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "伊朗称国防产能已翻倍",
           "url": "https://wallstreetcn.com/livenews/3153351",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
+        },
+        {
+          "title": "伊朗工业部长：伊朗工业企业已积极参与太阳能发电站建设，并推进从阿曼湾和波斯湾获取所需水源，以在保持生产持续性的同时，减轻对国内生态和水资源的压力。",
+          "url": "https://flash.jin10.com/detail/20260822155214781800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "伊朗外交部副部长哈提卜扎德：美国和以色列一直认为，一旦实施恐怖袭击，就会导致伊朗的政治和安全体系内部出现分裂。但他们亲眼看到，伊朗人民、官员和士兵全都以伊朗之名坚守阵地，甚至连休假申请都没有提交。",
           "url": "https://flash.jin10.com/detail/20260822152943000800",
           "source": "金十数据",
           "ranks": [
-            6
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
         },
         {
           "title": "伊朗外交部副部长哈提卜扎德：过去一年在伊朗发生的一切，是‘恐怖主义阵营’针对正义与抵抗阵营采取行动的最典型例证。我们有必要建立一个博物馆，将所有遇难者展示出来。",
           "url": "https://flash.jin10.com/detail/20260822152909038800",
           "source": "金十数据",
           "ranks": [
-            7
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
         },
         {
           "title": "伊朗外交部副部长哈提卜扎德：过去数年“恐怖主义阵营”对伊朗人民实施的一切，都将永远载入史册。",
           "url": "https://flash.jin10.com/detail/20260822152837989800",
           "source": "金十数据",
           "ranks": [
-            8
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
         },
         {
           "title": "伊朗第一副总统阿雷夫：伊朗最富裕家庭的汽油消费量约为最贫困家庭的23至24倍。与此同时，伊朗政府正面临燃料消费、产量和价格方面日益加大的压力。",
           "url": "https://flash.jin10.com/detail/20260822151500621800",
           "source": "金十数据",
           "ranks": [
-            11
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
         },
         {
           "title": "伊通社（IRNA）发布伊朗议会议长卡利巴夫访问伊拉克期间的现场图片。",
           "url": "https://flash.jin10.com/detail/20260822145341231800",
           "source": "金十数据",
           "ranks": [
-            14
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
         },
         {
           "title": "伊媒：伊朗决定允许伊拉克部分油轮通过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260822143639028800",
           "source": "金十数据",
           "ranks": [
-            17
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "伊朗革命卫队少将萨法维：我们必须严肃应对国家面临的可预见和非常规威胁，设计并生产智能、动态、全面的威慑力量。",
-          "url": "https://flash.jin10.com/detail/20260822143336719800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "伊朗革命卫队少将萨法维：美国正对伊朗社会各个领域发动“联合且复杂的敌对行动”。",
-          "url": "https://flash.jin10.com/detail/20260822143309000800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "阿曼与伊朗外长讨论恢复霍尔木兹海峡自由航行",
-          "url": "https://wallstreetcn.com/livenews/3153324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
         }
       ]
     },
@@ -141,10 +152,10 @@
       "keyword_group": "美债",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -156,30 +167,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
-          "url": "https://wallstreetcn.com/articles/3780012",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
           "url": "https://www.cls.cn/detail/2461311",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        },
+        {
+          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
+          "url": "https://wallstreetcn.com/articles/3780012",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
@@ -189,30 +201,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
           "url": "https://www.cls.cn/detail/2461262",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2461060",
           "source": "财联社热门",
           "ranks": [
+            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         }
       ]
     },
@@ -220,10 +234,10 @@
       "keyword_group": "特朗普",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 15.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -235,8 +249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
@@ -246,30 +260,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        },
+        {
+          "title": "特朗普：如果需要将出动美军干预债市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "特朗普敲打韩国却被李在明反将一军",
           "url": "https://www.toutiao.com/trending/7676039913854418950/",
           "source": "今日头条",
           "ranks": [
-            17
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "美国民主党参议员沃伦：特朗普对伊朗发动的战争推高了美国人的生活成本。特朗普曾承诺让生活变得更加负担得起。但他的经济议程却把工薪家庭放在了最后。",
-          "url": "https://flash.jin10.com/detail/20260822141400644800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         }
       ]
     },
@@ -277,10 +291,10 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -289,22 +303,47 @@
           "url": "https://wallstreetcn.com/articles/3779986",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
           "url": "https://www.cls.cn/detail/2461289",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何评价 0821 发布的 deepseek-v4-flash-vision-exp？",
+          "url": "https://www.zhihu.com/question/2074187767911925314",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         }
       ]
     },
@@ -312,10 +351,10 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -327,8 +366,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         }
       ]
     }
