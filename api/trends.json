@@ -1,106 +1,172 @@
 {
-  "generated_at": "2026-08-22T20:20:44.133823+08:00",
+  "generated_at": "2026-08-22T21:25:26.800407+08:00",
   "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 3 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗议长谴责美方霸凌行径 呼吁建立地区本土安全秩序",
-          "url": "https://flash.jin10.com/detail/20260822194922787800",
+          "title": "伊拉克希望伊朗向其油轮发放特别通行许可",
+          "url": "https://flash.jin10.com/detail/20260822210941749800",
           "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "伊朗称过去一年国防装备产量整体翻番",
+          "url": "https://wallstreetcn.com/livenews/3153403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "伊拉克希望伊朗向其油轮发放特别通行许可",
+          "url": "https://wallstreetcn.com/livenews/3153401",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
+        },
+        {
+          "title": "伊朗南帕尔斯第14炼油厂修复工作已完成70%",
+          "url": "https://flash.jin10.com/detail/20260822210347022800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "伊朗敦促卡塔尔转移被扣飞行员 卡方重申欢迎调查",
+          "url": "https://wallstreetcn.com/livenews/3153394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "伊朗称过去一年国防装备产量整体翻番",
+          "url": "https://flash.jin10.com/detail/20260822204819499800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "伊朗South Pars天然气加工厂完工70%。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3153391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
+          "url": "https://wallstreetcn.com/articles/3780046",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "伊朗国防部代理部长：即使在战争条件下，新型系统也已投入战场",
+          "url": "https://flash.jin10.com/detail/20260822201908214800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "伊朗议长谴责美方霸凌行径，呼吁建立地区本土安全秩序",
           "url": "https://wallstreetcn.com/livenews/3153384",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
+        },
+        {
+          "title": "伊朗议长谴责美方霸凌行径 呼吁建立地区本土安全秩序",
+          "url": "https://flash.jin10.com/detail/20260822194922787800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "据沙特卫星电视台：伊朗议会副议长表示，海湾国家新建石油管道的目的是“削弱”霍尔木兹海峡的战略重要性。任何压低油价的企图都是对伊朗的敌对行为；伊朗应阻止旨在运输石油的新管道建设。",
           "url": "https://flash.jin10.com/detail/20260822193816566800",
           "source": "金十数据",
           "ranks": [
-            6
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
           "title": "伊朗武装部队总参谋长视察地下基地",
           "url": "https://wallstreetcn.com/livenews/3153376",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
           "title": "伊朗武装部队总参谋长视察地下基地",
           "url": "https://flash.jin10.com/detail/20260822191555049800",
           "source": "金十数据",
           "ranks": [
-            11
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：伊朗收到邻国关于建立“新安全安排和经济合作”的信息。",
-          "url": "https://flash.jin10.com/detail/20260822182853050800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "据伊朗石油部官方网站Shana：伊朗帕尔斯石油和天然气公司表示，南帕尔斯14期炼油厂的恢复工作已完成70%。",
-          "url": "https://flash.jin10.com/detail/20260822181513886800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗官员呼吁卡塔尔将被拘留的伊朗飞行员转移至陆地医院。伊朗官员表示，被扣押的飞行员在水上，身体状况“很差”。",
-          "url": "https://flash.jin10.com/detail/20260822164151313800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         }
       ]
     },
@@ -108,10 +174,10 @@
       "keyword_group": "特朗普",
       "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -124,18 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "巴勒斯坦副总统：哈马斯不会以其名义参加选举，并且不会成为政府的一部分，这就是它在美国总统特朗普计划中签署的内容。",
-          "url": "https://flash.jin10.com/detail/20260822192220953800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -146,7 +201,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
           "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
@@ -157,64 +212,86 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
-          "title": "特朗普：如果需要将出动美军干预债市",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
-          "source": "百度热搜",
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260822203926369800",
+          "source": "金十数据",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
+        },
+        {
+          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
+          "url": "https://wallstreetcn.com/articles/3780037",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "巴勒斯坦副总统：哈马斯不会以其名义参加选举，并且不会成为政府的一部分，这就是它在美国总统特朗普计划中签署的内容。",
+          "url": "https://flash.jin10.com/detail/20260822192220953800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-22）",
           "url": "https://flash.jin10.com/detail/20260822185310302800",
           "source": "金十数据",
           "ranks": [
-            13
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33825790",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
+        {
+          "title": "美债抛售撞上高利率，黄金到底要攻还是守？",
+          "url": "https://flash.jin10.com/detail/20260822210503393800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
         {
           "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
           "url": "https://wallstreetcn.com/articles/3780041",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -225,75 +302,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
           "url": "https://wallstreetcn.com/articles/3780021",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
-          "url": "https://wallstreetcn.com/articles/3780012",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
           "url": "https://www.cls.cn/detail/2461262",
           "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "如何评价 0821 发布的 deepseek-v4-flash-vision-exp？",
-          "url": "https://www.zhihu.com/question/2074187767911925314",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
-          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-          "url": "https://www.zhihu.com/question/2074077084964733784",
-          "source": "知乎",
+          "title": "40万亿美债泡沫若崩盘对中国影响如何",
+          "url": "https://s.weibo.com/weibo?q=40%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%80%BA%E6%B3%A1%E6%B2%AB%E8%8B%A5%E5%B4%A9%E7%9B%98%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         }
       ]
     },
@@ -317,7 +359,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -328,7 +370,31 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+          "url": "https://www.zhihu.com/question/2074077084964733784",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     },
@@ -352,7 +418,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时25分"
         }
       ]
     }
