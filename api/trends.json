@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T19:13:26.217498+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-22T20:20:44.133823+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 2 个来源平台，平均热榜排名约 14.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -15,100 +15,190 @@
       },
       "titles": [
         {
-          "title": "伊朗议会议长卡利巴夫：伊朗收到邻国关于建立“新安全安排和经济合作”的信息。",
-          "url": "https://flash.jin10.com/detail/20260822182853050800",
+          "title": "伊朗议长谴责美方霸凌行径 呼吁建立地区本土安全秩序",
+          "url": "https://flash.jin10.com/detail/20260822194922787800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
-          "title": "据伊朗石油部官方网站Shana：伊朗帕尔斯石油和天然气公司表示，南帕尔斯14期炼油厂的恢复工作已完成70%。",
-          "url": "https://flash.jin10.com/detail/20260822181513886800",
-          "source": "金十数据",
+          "title": "伊朗议长谴责美方霸凌行径，呼吁建立地区本土安全秩序",
+          "url": "https://wallstreetcn.com/livenews/3153384",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗官员呼吁卡塔尔将被拘留的伊朗飞行员转移至陆地医院。伊朗官员表示，被扣押的飞行员在水上，身体状况“很差”。",
-          "url": "https://flash.jin10.com/detail/20260822164151313800",
+          "title": "据沙特卫星电视台：伊朗议会副议长表示，海湾国家新建石油管道的目的是“削弱”霍尔木兹海峡的战略重要性。任何压低油价的企图都是对伊朗的敌对行为；伊朗应阻止旨在运输石油的新管道建设。",
+          "url": "https://flash.jin10.com/detail/20260822193816566800",
           "source": "金十数据",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
-          "title": "据沙特媒体哈达斯：伊朗军方表示，呼吁科威特与伊朗飞行员及其家属进行初步联系。",
-          "url": "https://flash.jin10.com/detail/20260822163632897800",
+          "title": "伊朗武装部队总参谋长视察地下基地",
+          "url": "https://wallstreetcn.com/livenews/3153376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长视察地下基地",
+          "url": "https://flash.jin10.com/detail/20260822191555049800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：伊朗收到邻国关于建立“新安全安排和经济合作”的信息。",
+          "url": "https://flash.jin10.com/detail/20260822182853050800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
-          "title": "伊拉克总统：如果局势持续升级，我们将成为仅次于伊朗的受害国，因为我们经济紧密相连，完全依赖石油。",
-          "url": "https://flash.jin10.com/detail/20260822162320476800",
+          "title": "据伊朗石油部官方网站Shana：伊朗帕尔斯石油和天然气公司表示，南帕尔斯14期炼油厂的恢复工作已完成70%。",
+          "url": "https://flash.jin10.com/detail/20260822181513886800",
           "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
-          "title": "伊拉克总统：我认为美国希望达成协议，以结束与伊朗的战争。",
-          "url": "https://flash.jin10.com/detail/20260822161744100800",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗官员呼吁卡塔尔将被拘留的伊朗飞行员转移至陆地医院。伊朗官员表示，被扣押的飞行员在水上，身体状况“很差”。",
+          "url": "https://flash.jin10.com/detail/20260822164151313800",
           "source": "金十数据",
           "ranks": [
-            19
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
-        },
+          "time_info": "20时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "ai_insight": {
+        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "伊朗称国防产能已翻倍",
-          "url": "https://wallstreetcn.com/livenews/3153351",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普，打光了弹药？",
+          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
+          "source": "凤凰网",
           "ranks": [
-            19
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
-          "title": "伊朗工业部长：伊朗工业企业已积极参与太阳能发电站建设，并推进从阿曼湾和波斯湾获取所需水源，以在保持生产持续性的同时，减轻对国内生态和水资源的压力。",
-          "url": "https://flash.jin10.com/detail/20260822155214781800",
+          "title": "巴勒斯坦副总统：哈马斯不会以其名义参加选举，并且不会成为政府的一部分，这就是它在美国总统特朗普计划中签署的内容。",
+          "url": "https://flash.jin10.com/detail/20260822192220953800",
           "source": "金十数据",
           "ranks": [
-            24
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "特朗普：如果需要将出动美军干预债市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-22）",
+          "url": "https://flash.jin10.com/detail/20260822185310302800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825790",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 75,
@@ -124,7 +214,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -135,7 +225,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
@@ -146,18 +236,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
-          "url": "https://www.cls.cn/detail/2461262",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
           "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
@@ -168,75 +247,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
-          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2461060",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普，打光了弹药？",
-          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
-          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "特朗普：可出动美军干预债市",
-          "url": "https://www.cls.cn/detail/2461395",
+          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
+          "url": "https://www.cls.cn/detail/2461262",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "特朗普：如果需要将出动美军干预债市",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         }
       ]
     },
@@ -244,7 +266,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -256,22 +278,22 @@
           "url": "https://www.zhihu.com/question/2074187767911925314",
           "source": "知乎",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
           "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
           "url": "https://www.zhihu.com/question/2074077084964733784",
           "source": "知乎",
           "ranks": [
-            20
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         }
       ]
     },
@@ -295,7 +317,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -306,7 +328,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         }
       ]
     },
@@ -314,7 +336,7 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -326,35 +348,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价银价油价集体上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时20分"
         }
       ]
     }
