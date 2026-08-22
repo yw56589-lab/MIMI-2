@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-23T04:13:28.423796+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-23T05:13:31.465705+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 3 个来源平台，平均热榜排名约 14.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 3 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -15,15 +15,37 @@
       },
       "titles": [
         {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：伊朗将打击那些协助美国对伊朗发动经济战的国家的利益。",
-          "url": "https://flash.jin10.com/detail/20260823032609317800",
+          "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
+          "url": "https://flash.jin10.com/detail/20260823043655236800",
           "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长穆尼尔在周六进行了通话，就地区局势与安全议题展开探讨。",
+          "url": "https://flash.jin10.com/detail/20260823042809318800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐与埃及外长进行了通话，讨论了地区局势、波斯湾和红海的情况，以及缓解地区紧张局势的外交努力。",
+          "url": "https://flash.jin10.com/detail/20260823042323454800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
@@ -34,7 +56,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
+        },
+        {
+          "title": "雷扎伊警告伊朗邻国不要加入美国的经济战",
+          "url": "https://flash.jin10.com/detail/20260823040500477800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "俄罗斯国家原子能公司向伊朗布什尔核电站派回工作人员",
@@ -45,7 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "伊朗称过去一年国防装备产量整体翻番",
@@ -56,7 +89,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：伊朗将打击那些协助美国对伊朗发动经济战的国家的利益。",
+          "url": "https://flash.jin10.com/detail/20260823032609317800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "伊拉克希望伊朗向其油轮发放特别通行许可",
@@ -67,7 +111,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "伊朗敦促卡塔尔转移被扣飞行员 卡方重申欢迎调查",
@@ -78,7 +122,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "伊朗South Pars天然气加工厂完工70%。（IRNA）",
@@ -89,18 +133,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：只要我担任总理，就不会有一个由伊朗控制的巴勒斯坦国。",
-          "url": "https://flash.jin10.com/detail/20260823012713800800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "伊朗议长谴责美方霸凌行径，呼吁建立地区本土安全秩序",
@@ -111,18 +144,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 6.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -135,7 +168,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普与加拿大的贸易战可能刺痛美国经济",
+          "url": "https://flash.jin10.com/detail/20260823044205401800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -146,7 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -157,18 +201,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
-          "url": "https://flash.jin10.com/detail/20260823032509722800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -179,7 +212,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
+          "url": "https://flash.jin10.com/detail/20260823041421837800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -190,18 +234,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
-          "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔·哈撒韦",
-          "url": "https://flash.jin10.com/detail/20260823015208413800",
+          "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
+          "url": "https://flash.jin10.com/detail/20260823032509722800",
           "source": "金十数据",
           "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         }
       ]
     },
@@ -225,7 +269,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -236,7 +280,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -247,7 +291,42 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
+          "url": "https://www.zhihu.com/question/2074601403142649584",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
+          "url": "https://www.cls.cn/detail/2461482",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
@@ -271,7 +350,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -282,31 +361,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 69,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
-          "url": "https://www.zhihu.com/question/2074601403142649584",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         }
       ]
     },
@@ -330,7 +385,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         }
       ]
     }
