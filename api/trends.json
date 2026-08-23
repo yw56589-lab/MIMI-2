@@ -1,40 +1,51 @@
 {
-  "generated_at": "2026-08-23T19:13:36.056779+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-23T20:21:27.013886+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 4 个来源平台，平均热榜排名约 11.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 3 个来源平台，平均热榜排名约 8.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "据伊朗国家媒体：伊朗部长表示，伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气。",
-          "url": "https://flash.jin10.com/detail/20260823190225644800",
-          "source": "金十数据",
+          "title": "伊朗石油部长：法尔斯省南部发现7.5万亿立方英尺天然气",
+          "url": "https://wallstreetcn.com/livenews/3153459",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
-          "title": "据耶路撒冷邮报：伊朗已被邀请加入本月早些时候由沙特阿拉伯、土耳其和巴基斯坦建立的《麦加共同防御协议》（Mecca Joint Defence Agreement）。",
-          "url": "https://flash.jin10.com/detail/20260823183343870800",
+          "title": "伊朗外长：伊朗从未害怕过美国制裁",
+          "url": "https://wallstreetcn.com/livenews/3153458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "伊朗石油部长：法尔斯省南部发现7.5万亿立方英尺天然气",
+          "url": "https://flash.jin10.com/detail/20260823193320463800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -45,18 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
-          "url": "https://wallstreetcn.com/livenews/3153449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
           "title": "伊朗：感谢中方主持公道正义",
@@ -67,84 +67,84 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
-          "title": "据沙特卫星电视台： 消息人士表示，已提出修改原定于9月30日的限制武器归国家的截止日期的提案。伊拉克的派系倾向于根据“伊朗的愿景”冻结使用武器两年。",
-          "url": "https://flash.jin10.com/detail/20260823182050517800",
+          "title": "伊朗外长：伊朗从未害怕过美国制裁",
+          "url": "https://flash.jin10.com/detail/20260823192018409800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
+        },
+        {
+          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+          "url": "https://wallstreetcn.com/livenews/3153449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗部长表示，伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气。",
+          "url": "https://flash.jin10.com/detail/20260823190225644800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "伊朗总统说正全力克服美带来的困难",
           "url": "https://wallstreetcn.com/livenews/3153439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
-          "title": "外交部副部长苗得雨会见伊朗副外长",
-          "url": "https://www.toutiao.com/trending/7677137801623637567/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "伊朗警方在多地查获非法盗接燃油管道案件",
-          "url": "https://flash.jin10.com/detail/20260823164946474800",
+          "title": "据耶路撒冷邮报：伊朗已被邀请加入本月早些时候由沙特阿拉伯、土耳其和巴基斯坦建立的《麦加共同防御协议》（Mecca Joint Defence Agreement）。",
+          "url": "https://flash.jin10.com/detail/20260823183343870800",
           "source": "金十数据",
           "ranks": [
-            20
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
-          "title": "伊朗称巴基斯坦陆军参谋长穆尼尔将于周一访问德黑兰",
-          "url": "https://flash.jin10.com/detail/20260823163159912800",
+          "title": "据沙特卫星电视台： 消息人士表示，已提出修改原定于9月30日的限制武器归国家的截止日期的提案。伊拉克的派系倾向于根据“伊朗的愿景”冻结使用武器两年。",
+          "url": "https://flash.jin10.com/detail/20260823182050517800",
           "source": "金十数据",
           "ranks": [
-            22
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
           "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
           "url": "https://wallstreetcn.com/livenews/3153420",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
-          "url": "https://flash.jin10.com/detail/20260823161252842800",
-          "source": "金十数据",
-          "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         }
       ]
     },
@@ -152,7 +152,7 @@
       "keyword_group": "特朗普",
       "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 6 个来源平台，平均热榜排名约 8.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 6 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -160,15 +160,15 @@
       },
       "titles": [
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
-          "url": "https://flash.jin10.com/detail/20260823184420774800",
-          "source": "金十数据",
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -179,18 +179,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
-          "url": "https://www.cls.cn/detail/2461516",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -201,7 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -212,72 +201,48 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
+          "url": "https://flash.jin10.com/detail/20260823184420774800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
           "url": "https://wallstreetcn.com/livenews/3153431",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         },
         {
           "title": "UP主锐评特朗普海军新政",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 27.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "矿业大佬喊出金价5万美元",
-          "url": "https://www.toutiao.com/trending/7677127001466998308/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "金价反弹重要原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9%E9%87%8D%E8%A6%81%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -285,39 +250,15 @@
       },
       "titles": [
         {
-          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
-          "url": "https://www.cls.cn/detail/2461482",
-          "source": "财联社热门",
+          "title": "金价反弹重要原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9%E9%87%8D%E8%A6%81%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
-          "url": "https://www.cls.cn/detail/2461311",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时21分"
         }
       ]
     }
