@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-24T00:15:07.106958+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-24T01:13:55.369894+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 3 个来源平台，平均热榜排名约 12.9 位，标题平均出现 1.2 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 14.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 55,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "美军伊朗战争伤亡升至774人",
+          "url": "https://flash.jin10.com/detail/20260824004103737800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
@@ -32,9 +43,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时13分"
         },
         {
           "title": "伊朗：感谢中方主持公道正义",
@@ -44,19 +55,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "伊朗议会议长发文嘲讽：美国对伊朗施加经济压力的计划最终会反噬美国自身",
-          "url": "https://flash.jin10.com/detail/20260823225339141800",
+          "title": "伊朗议会批准向通过霍尔木兹海峡的船只收取服务费",
+          "url": "https://flash.jin10.com/detail/20260824002016022800",
           "source": "金十数据",
           "ranks": [
-            13
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时13分"
         },
         {
           "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
@@ -65,31 +76,53 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时13分"
+        },
+        {
+          "title": "伊朗反对周边国家参与美“经济战”：否则将被视为敌人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33835953",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "伊朗议会议长发文嘲讽：美国对伊朗施加经济压力的计划最终会反噬美国自身",
+          "url": "https://flash.jin10.com/detail/20260823225339141800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "分析师：伊朗基准股指年底前达到700万点并非遥不可及",
           "url": "https://flash.jin10.com/detail/20260823223133571800",
           "source": "金十数据",
           "ranks": [
-            17
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时13分"
         },
         {
           "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
           "url": "https://flash.jin10.com/detail/20260823221349760800",
           "source": "金十数据",
           "ranks": [
-            18
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时13分"
         },
         {
           "title": "伊朗总统：伊朗应摆脱“既非战争、也非和平”状态",
@@ -98,20 +131,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 10.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -123,8 +156,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -134,19 +167,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "特朗普：可出动美军干预债市",
           "url": "https://www.cls.cn/detail/2461395",
           "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
@@ -155,20 +188,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时13分"
+        },
+        {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 63,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -177,22 +221,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33835809",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        },
-        {
-          "title": "德黑兰市场黄金价格创纪录",
-          "url": "https://flash.jin10.com/detail/20260823215017623800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时13分"
         }
       ]
     }
