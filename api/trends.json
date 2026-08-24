@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-08-24T16:37:28.227319+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-24T17:37:37.365332+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 12.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 6 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 86,
         "chart": []
       },
       "titles": [
+        {
+          "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
+          "url": "https://wallstreetcn.com/articles/3780093",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
         {
           "title": "伊朗发现2100亿立方“甜气”，或带来数百亿美元收入",
           "url": "https://news.ifeng.com/c/8vpf5Gb0PHz",
@@ -23,73 +34,95 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
-          "url": "https://wallstreetcn.com/articles/3780093",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         },
         {
           "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
           "url": "https://wallstreetcn.com/articles/3780102",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         },
         {
-          "title": "美国新制裁还没落地，伊朗石油运输已接近全面停滞",
-          "url": "https://flash.jin10.com/detail/20260824160713542800",
-          "source": "金十数据",
+          "title": "据追踪网站，伊朗货币里亚尔兑美元跌破200万，创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3153810",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美国即将宣布“史上最严”对伊经济战细节 伊朗：恰恰暴露美方军事挫败",
+          "url": "https://www.cls.cn/detail/2461844",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "伊朗股市创下610万点新纪录",
+          "url": "https://flash.jin10.com/detail/20260824171452131800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "巴基斯坦陆军参谋长访问伊朗 将与多名伊朗官员会晤",
+          "url": "https://wallstreetcn.com/livenews/3153797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "伊朗军方：将战斗“10代人、20代人”捍卫国家安全",
+          "url": "https://flash.jin10.com/detail/20260824171039383800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "伊朗已收到加入麦加协议正式邀请",
           "url": "https://www.toutiao.com/trending/7677043230936728115/",
           "source": "今日头条",
           "ranks": [
-            15
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "美方称将对与伊朗贸易国家实施次级制裁，外交部：制裁施压只会加剧紧张",
-          "url": "https://wallstreetcn.com/livenews/3153750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 1 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -102,7 +135,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
+        },
+        {
+          "title": "据乌克兰媒体：由于俄罗斯的攻击，美国中东问题特使威特科夫和 特朗普高级顾问库什纳访问基辅的行程被推迟。",
+          "url": "https://flash.jin10.com/detail/20260824172103461800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "胖了快21斤！特朗普体重构成重大健康风险",
@@ -113,7 +157,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         },
         {
           "title": "伊朗官员：特朗普“说太多”",
@@ -124,7 +168,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         },
         {
           "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
@@ -135,88 +179,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 17.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股存储概念股盘前走弱，SK海力士(SKHY.O)、美光科技(MU.O)跌3.4%，闪迪(SNDK.O)跌4.2%，西部数据(WDC.O)跌2.9%。",
-          "url": "https://flash.jin10.com/detail/20260824161140831800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         },
         {
-          "title": "阿里巴巴(BABA.N)美股盘前跌4%。",
-          "url": "https://flash.jin10.com/detail/20260824160418159800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "美股盘前，存储芯片概念股集体下挫，闪迪跌超4%，西部数据跌超2%，美光科技、SK海力士均跌超3%；光通信板块下跌，Lumentum跌超4%，康宁跌超3%；中概股多数下跌，理想汽车、网易跌3%，阿里巴巴跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3153747",
+          "title": "报道：巴基斯坦陆军参谋长上周与特朗普通话",
+          "url": "https://wallstreetcn.com/livenews/3153796",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价狂飙 黄金牛市为何仍不敢喊",
-          "url": "https://www.toutiao.com/trending/7677476455512542730/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         },
         {
-          "title": "金价连破三道关口 水贝金条销量大涨",
-          "url": "https://wallstreetcn.com/livenews/3153775",
+          "title": "巴基斯坦陆军参谋长Munir在访问德黑兰前与特朗普通过电话。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3153790",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         }
       ]
     },
@@ -224,10 +209,10 @@
       "keyword_group": "美债",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -240,18 +225,42 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         },
         {
           "title": "全球央行年会本周召开！贝森特救不动的美债 沃什能救吗？",
           "url": "https://www.cls.cn/detail/2461879",
           "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepSeek“峰谷调价”背后",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B3%B0%E8%B0%B7%E8%B0%83%E4%BB%B7%E2%80%9D%E8%83%8C%E5%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     }
