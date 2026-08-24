@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:29:35.252215+08:00",
+  "generated_at": "2026-08-24T19:19:33.622461+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -7,10 +7,10 @@
       "keyword_group": "特朗普",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
+        },
+        {
+          "title": "金与正，没接特朗普的话",
+          "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "胖了快21斤！特朗普体重构成重大健康风险",
@@ -34,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         },
         {
           "title": "伊朗官员：特朗普“说太多”",
@@ -45,40 +56,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
           "url": "https://news.ifeng.com/c/8vqa82dukEb",
           "source": "凤凰网",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-24）",
-          "url": "https://flash.jin10.com/detail/20260824180559593800",
-          "source": "金十数据",
+          "title": "大V：特朗普想打经济战发现没人跟风",
+          "url": "https://www.toutiao.com/trending/7677517230615039526/",
+          "source": "今日头条",
           "ranks": [
-            10
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "伊朗货币贬值为特朗普“经济大决战”创造条件",
-          "url": "https://flash.jin10.com/detail/20260824175538075800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         }
       ]
     },
@@ -86,86 +86,154 @@
       "keyword_group": "伊朗",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 12.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
-        {
-          "title": "据伊通社（IRNA）报道，伊朗最大的核心钢铁生产企业之一胡齐斯坦钢铁公司生产线再次恢复运行 。",
-          "url": "https://flash.jin10.com/detail/20260824181718444800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
         {
           "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
           "url": "https://wallstreetcn.com/articles/3780102",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         },
         {
           "title": "伊朗发现2100亿立方“甜气”，或带来数百亿美元收入",
           "url": "https://news.ifeng.com/c/8vpf5Gb0PHz",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         },
         {
           "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
           "url": "https://wallstreetcn.com/articles/3780093",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         },
         {
-          "title": "伊朗央行行长：在过去两个月的艰难时期，我们成功控制了通胀加速。流动性增长速度也已停止上升。",
-          "url": "https://flash.jin10.com/detail/20260824180830122800",
-          "source": "金十数据",
+          "title": "伊朗副外长：美财长对伊表态前后矛盾",
+          "url": "https://wallstreetcn.com/livenews/3153911",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         },
         {
           "title": "中方回应美方威胁制裁伊朗贸易伙伴",
           "url": "https://www.toutiao.com/trending/7677478126213005366/",
           "source": "今日头条",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
+        },
+        {
+          "title": "伊朗副外长：美财长对伊表态前后矛盾",
+          "url": "https://flash.jin10.com/detail/20260824183717216800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "美股",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "小鹏汽车(XPEV.N)美股盘前跌约2%，公司季度营收未达预期。",
+          "url": "https://flash.jin10.com/detail/20260824184109365800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "大摩警告油价再飙升或冲击美股，建议增持能源股对冲",
+          "url": "https://flash.jin10.com/detail/20260824184039276800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "拼多多美股盘前走低后迅速拉升，现涨超3%，此前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3153897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "拼多多美股盘前跌近5%，公司第二季度营收不及预期。 小鹏汽车美股盘前跌超6%，公司第二季度营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3153895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "拼多多(PDD.O)美股盘前下跌5%。",
+          "url": "https://flash.jin10.com/detail/20260824183434967800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -173,15 +241,15 @@
       },
       "titles": [
         {
-          "title": "DeepSeek“峰谷调价”背后",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B3%B0%E8%B0%B7%E8%B0%83%E4%BB%B7%E2%80%9D%E8%83%8C%E5%90%8E",
-          "source": "百度热搜",
+          "title": "UP主对话Google总裁",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AF%B9%E8%AF%9DGoogle%E6%80%BB%E8%A3%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         }
       ]
     },
@@ -189,10 +257,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -201,35 +269,11 @@
           "url": "https://wallstreetcn.com/articles/3780106",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "不认同阿里新股配售？美股“大空头”重大调仓：清仓阿里、押注京东！",
-          "url": "https://www.cls.cn/detail/2461979",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时19分"
         }
       ]
     }
