@@ -1,128 +1,16 @@
 {
-  "generated_at": "2026-08-24T17:37:37.365332+08:00",
+  "generated_at": "2026-08-24T18:29:35.252215+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 9,
-      "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 6 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 86,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
-          "url": "https://wallstreetcn.com/articles/3780093",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "伊朗发现2100亿立方“甜气”，或带来数百亿美元收入",
-          "url": "https://news.ifeng.com/c/8vpf5Gb0PHz",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
-          "url": "https://wallstreetcn.com/articles/3780102",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "据追踪网站，伊朗货币里亚尔兑美元跌破200万，创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3153810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "美国即将宣布“史上最严”对伊经济战细节 伊朗：恰恰暴露美方军事挫败",
-          "url": "https://www.cls.cn/detail/2461844",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "伊朗股市创下610万点新纪录",
-          "url": "https://flash.jin10.com/detail/20260824171452131800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "巴基斯坦陆军参谋长访问伊朗 将与多名伊朗官员会晤",
-          "url": "https://wallstreetcn.com/livenews/3153797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "伊朗军方：将战斗“10代人、20代人”捍卫国家安全",
-          "url": "https://flash.jin10.com/detail/20260824171039383800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "伊朗已收到加入麦加协议正式邀请",
-          "url": "https://www.toutiao.com/trending/7677043230936728115/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -135,18 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "据乌克兰媒体：由于俄罗斯的攻击，美国中东问题特使威特科夫和 特朗普高级顾问库什纳访问基辅的行程被推迟。",
-          "url": "https://flash.jin10.com/detail/20260824172103461800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时29分"
         },
         {
           "title": "胖了快21斤！特朗普体重构成重大健康风险",
@@ -157,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时29分"
         },
         {
           "title": "伊朗官员：特朗普“说太多”",
@@ -168,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
@@ -179,64 +56,108 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时29分"
         },
         {
-          "title": "报道：巴基斯坦陆军参谋长上周与特朗普通话",
-          "url": "https://wallstreetcn.com/livenews/3153796",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-24）",
+          "url": "https://flash.jin10.com/detail/20260824180559593800",
+          "source": "金十数据",
           "ranks": [
-            22
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时29分"
         },
         {
-          "title": "巴基斯坦陆军参谋长Munir在访问德黑兰前与特朗普通过电话。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3153790",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗货币贬值为特朗普“经济大决战”创造条件",
+          "url": "https://flash.jin10.com/detail/20260824175538075800",
+          "source": "金十数据",
           "ranks": [
-            26
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时29分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "伊朗",
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
-          "url": "https://wallstreetcn.com/articles/3780106",
-          "source": "华尔街见闻",
+          "title": "据伊通社（IRNA）报道，伊朗最大的核心钢铁生产企业之一胡齐斯坦钢铁公司生产线再次恢复运行 。",
+          "url": "https://flash.jin10.com/detail/20260824181718444800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时29分"
         },
         {
-          "title": "全球央行年会本周召开！贝森特救不动的美债 沃什能救吗？",
-          "url": "https://www.cls.cn/detail/2461879",
-          "source": "财联社热门",
+          "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
+          "url": "https://wallstreetcn.com/articles/3780102",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "伊朗发现2100亿立方“甜气”，或带来数百亿美元收入",
+          "url": "https://news.ifeng.com/c/8vpf5Gb0PHz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
+          "url": "https://wallstreetcn.com/articles/3780093",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时29分"
+        },
+        {
+          "title": "伊朗央行行长：在过去两个月的艰难时期，我们成功控制了通胀加速。流动性增长速度也已停止上升。",
+          "url": "https://flash.jin10.com/detail/20260824180830122800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "中方回应美方威胁制裁伊朗贸易伙伴",
+          "url": "https://www.toutiao.com/trending/7677478126213005366/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -260,7 +181,55 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 69,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
+          "url": "https://wallstreetcn.com/articles/3780106",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "不认同阿里新股配售？美股“大空头”重大调仓：清仓阿里、押注京东！",
+          "url": "https://www.cls.cn/detail/2461979",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     }
