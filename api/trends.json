@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-25T20:29:31.098719+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-25T21:41:59.805524+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 8 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 8 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 87,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
           "title": "不加入美对伊朗“经济战”就将被制裁？外交部回应",
@@ -34,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
           "title": "还剩70天，美国发起经济绞杀，伊朗面临艰难抉择",
@@ -45,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
           "title": "美国发动“史上最严制裁”，伊朗央行行长拆穿美方恫吓",
@@ -56,7 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -67,7 +67,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
           "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
@@ -78,40 +78,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
           "title": "中方：同伊朗合作不应受到干扰破坏",
           "url": "https://www.toutiao.com/trending/7677060472058875428/",
           "source": "今日头条",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
+        },
+        {
+          "title": "巴基斯坦将向美国传达伊朗的条件和立场，伊朗的条件包括恢复谅解备忘录安排，涉及霍尔木兹海峡。（伊朗塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3154696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
           "url": "https://m.thepaper.cn/newsDetail_forward_33843711",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "伊朗与阿曼外长在德黑兰举行会谈。（伊朗法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3154630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
           "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
@@ -122,51 +122,165 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
-          "title": "美防长称不排除再次军事打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3154628",
+          "title": "据伊朗塔斯尼姆通讯社：巴基斯坦将向美国传达伊朗的条件和立场。",
+          "url": "https://flash.jin10.com/detail/20260825211328898800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：接近谈判者的人士称， 伊朗方面提出的条件包括恢复关于霍尔木兹的谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260825211302314800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：巴基斯坦陆军参谋长穆尼尔寻求为伊朗与美国的对话创造空间。",
+          "url": "https://flash.jin10.com/detail/20260825210951369800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
+          "url": "https://wallstreetcn.com/articles/3780224",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
+          "url": "https://wallstreetcn.com/articles/3780233",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
+          "url": "https://wallstreetcn.com/articles/3780187",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2463960",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 10.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股三大股指高开，道指涨0.36%，标普500指数涨0.35%，纳指涨0.65%。存储概念股反弹，闪迪、SK海力士涨约3%；英特尔涨3%，下一代服务器芯片Diamond Rapids亮相；英伟达涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3154706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美股三大股指高开 存储概念反弹",
+          "url": "https://flash.jin10.com/detail/20260825213026320800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-25）",
+          "url": "https://flash.jin10.com/detail/20260825211352057800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3154700",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "阿曼外长与伊朗外长会面",
-          "url": "https://flash.jin10.com/detail/20260825194325662800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "市场消息：巴基斯坦内政部长在从伊朗返回数小时后，与美国驻巴基斯坦临时代办进行了会面。",
-          "url": "https://flash.jin10.com/detail/20260825194123494800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 5.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -175,11 +289,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -190,7 +304,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
           "title": "特朗普称考虑将安大略湖更名为“美国湖”",
@@ -201,108 +315,77 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "民调：伊朗战事拖累特朗普支持率创新低",
-          "url": "https://wallstreetcn.com/livenews/3154636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "特朗普：我爱法裔加拿大人，绝不会干涉他们说法语",
-          "url": "https://flash.jin10.com/detail/20260825194901123800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "特朗普称考虑将安大略湖更名为“美国湖”",
-          "url": "https://wallstreetcn.com/livenews/3154625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "特朗普说美国也要有一座大会堂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%BE%8E%E5%9B%BD%E4%B9%9F%E8%A6%81%E6%9C%89%E4%B8%80%E5%BA%A7%E5%A4%A7%E4%BC%9A%E5%A0%82%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 4,
+      "keyword_group": "金价",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 1 个来源平台，平均热榜排名约 6.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 21.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
-          "url": "https://wallstreetcn.com/articles/3780164",
-          "source": "华尔街见闻",
+          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
+          "url": "https://www.cls.cn/detail/2463609",
+          "source": "财联社热门",
           "ranks": [
-            2
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         },
         {
-          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
-          "url": "https://wallstreetcn.com/articles/3780224",
-          "source": "华尔街见闻",
+          "title": "金价飞涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%9E%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美国国债收益率持续走低，美元指数下跌近0.1%，至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3154701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
-          "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
-          "url": "https://wallstreetcn.com/articles/3780233",
-          "source": "华尔街见闻",
+          "title": "美元指数DXY短线下跌约10点，现报98.9点。",
+          "url": "https://flash.jin10.com/detail/20260825211358399800",
+          "source": "金十数据",
           "ranks": [
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
-          "url": "https://wallstreetcn.com/articles/3780187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         }
       ]
     },
@@ -326,79 +409,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "谷歌云推出Gemini企业版法律服务。",
-          "url": "https://flash.jin10.com/detail/20260825200154964800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价飞涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%9E%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股延长交易时间有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%BB%B6%E9%95%BF%E4%BA%A4%E6%98%93%E6%97%B6%E9%97%B4%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时41分"
         }
       ]
     }
