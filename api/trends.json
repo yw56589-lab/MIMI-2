@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-25T16:32:04.960592+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-25T17:26:11.318392+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 6 个来源平台，平均热榜排名约 11.9 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 6 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.9 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "还剩70天，美国发起经济绞杀，伊朗面临艰难抉择",
@@ -34,7 +34,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
+          "title": "贝森特称对不参与制裁伊朗的国家可能采取反制措施，中方回应",
+          "url": "https://www.cls.cn/detail/2463503",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
@@ -45,29 +56,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "贝森特称对不参与制裁伊朗的国家可能采取反制措施，中方回应",
-          "url": "https://www.cls.cn/detail/2463503",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
           "url": "https://m.thepaper.cn/newsDetail_forward_33843711",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
@@ -78,65 +78,32 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
-          "title": "【美方称将向各国提供与伊朗停止往来的时间表，外交部回应】外交部发言人林剑主持8月25日例行记者会。有记者提问称，美国表示将向各国提供时间表，明确各国何时停止与伊朗的相关交往。请问中国是否已收到任何此类时间表？对于美国财政部相关公告涉及中国实体和个人，中方计划作何回应？林剑表示，我们正在密切关注相关动向，将采取一切必要措施，坚定维护自身权益。（环球网）",
-          "url": "https://wallstreetcn.com/livenews/3154439",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗官员：任何侵略都将遭到“前所未有的更强回应”",
+          "url": "https://flash.jin10.com/detail/20260825170723890800",
+          "source": "金十数据",
           "ranks": [
-            9
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美国对伊朗的新制裁包括一些中国公司，中方跟伊交往中是否愿意改变一些方式来遵从美国要求？外交部：正密切关注相关动向",
-          "url": "https://wallstreetcn.com/livenews/3154425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
-          "url": "https://wallstreetcn.com/livenews/3154410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时26分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 11.2 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 12.2 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
-        {
-          "title": "特朗普贴身助理的权力有多大",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%B4%E8%BA%AB%E5%8A%A9%E7%90%86%E7%9A%84%E6%9D%83%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
         {
           "title": "“伊朗悬赏1000万美金暗杀特朗普的小儿子”，美特勤局回应",
           "url": "https://news.ifeng.com/c/8vsFDQjkw57",
@@ -146,18 +113,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
           "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "特朗普接连晒三张与金正恩合照",
@@ -168,29 +135,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "特朗普对人民大会堂情有独钟",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%83%85%E6%9C%89%E7%8B%AC%E9%92%9F",
           "source": "百度热搜",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 7.3 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -203,29 +170,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
           "url": "https://wallstreetcn.com/articles/3780224",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
-          "url": "https://wallstreetcn.com/articles/3780187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         }
       ]
     },
@@ -249,7 +205,31 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时25分 ~ 17时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 57,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "现货钯金价格跌约3%，报1,314.98美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260825170547688800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         }
       ]
     },
@@ -257,23 +237,23 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
         "confidence": 69,
         "chart": []
       },
       "titles": [
         {
-          "title": "美股盘前，存储芯片股小幅走高，SK海力士涨2％，美光科技涨1％。",
-          "url": "https://wallstreetcn.com/livenews/3154447",
-          "source": "华尔街见闻-快讯",
+          "title": "美股延长交易时间有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%BB%B6%E9%95%BF%E4%BA%A4%E6%98%93%E6%97%B6%E9%97%B4%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         }
       ]
     }
