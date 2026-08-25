@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-26T04:19:00.615786+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-26T05:19:55.930768+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 18,
       "ai_insight": {
-        "analysis": "该板块当前收录 18 条热点，覆盖 7 个来源平台，平均热榜排名约 12.8 位，标题平均出现 1.3 次。",
+        "analysis": "该板块当前收录 18 条热点，覆盖 5 个来源平台，平均热榜排名约 13.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 62,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -33,41 +33,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
-        },
-        {
-          "title": "伊朗副外长：霍尔木兹海峡南部航道将关闭",
-          "url": "https://wallstreetcn.com/livenews/3154846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "05时19分"
         },
         {
-          "title": "伊朗称霍尔木兹海峡不会立即开放 与阿曼在60天内敲定新永久航线",
-          "url": "https://flash.jin10.com/detail/20260826040049904800",
+          "title": "伊朗外交部副部长加里巴巴迪：如果美国继续其行径，伊朗将展现新的能力。霍尔木兹海峡并非我们对抗美国的唯一工具。美国不应认为，只有自己能够造成经济损失。",
+          "url": "https://flash.jin10.com/detail/20260826044632829800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
-          "url": "https://wallstreetcn.com/articles/3780180",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗方面监控到英国军情六处间谍与以色列高级官员秘密联系。",
+          "url": "https://flash.jin10.com/detail/20260826044234350800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
@@ -77,8 +66,85 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗外交部副部长加里巴巴迪：敌人应该知道，伊朗已做好充分准备应对任何可能的情况。如果敌人愿回归协议、恪守承诺，伊朗将作出相应回应。",
+          "url": "https://flash.jin10.com/detail/20260826043813461800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗外交部副部长加里巴巴迪：伊朗利用谈判与战争，对敌人施以沉重打击。",
+          "url": "https://flash.jin10.com/detail/20260826043705574800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪对国家电视台表示：伊朗告知谈判代表，若美国希望霍尔木兹海峡重新开放，就必须纠正自身错误并重回所作承诺。 霍尔木兹海峡重新开放的条件是全面结束各战线战事、解除封锁以及化解也门局势。 我们已告知巴基斯坦陆军参谋长，海峡能否重开取决于美国履行谅解备忘录项下的各项承诺。",
+          "url": "https://wallstreetcn.com/livenews/3154857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗外交部副部长加里巴巴迪：如果美国推进对伊朗的新制裁，伊朗将公布针对美国利益的新措施。",
+          "url": "https://flash.jin10.com/detail/20260826043437276800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗外交部副部长加里巴巴迪：在与阿曼达成的谅解中，首次提到了安全问题以及防止霍尔木兹海峡面临威胁的内容。",
+          "url": "https://flash.jin10.com/detail/20260826043304846800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗外交部副部长加里巴巴迪：我们仍处于战争状态，霍尔木兹海峡将保持关闭。",
+          "url": "https://flash.jin10.com/detail/20260826043140508800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗外交部副部长加里巴巴迪：若美国首先履行其义务，可能不出一天，我们便会履行我们的承诺。",
+          "url": "https://flash.jin10.com/detail/20260826042959324800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
@@ -88,143 +154,88 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
-          "title": "美防长称不排除再次军事打击伊朗",
-          "url": "https://www.toutiao.com/trending/7677935692726698542/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
-        },
-        {
-          "title": "据俄新社：伊朗和巴基斯坦消息人士表示，德黑兰与华盛顿已就停火达成一致，其中包括霍尔木兹海峡的航行自由。预计未来几天将宣布正式停火。之后将举行谈判和一系列技术会议。",
-          "url": "https://flash.jin10.com/detail/20260826033239322800",
+          "title": "伊朗外交部副部长加里巴巴迪：我们告诉巴基斯坦陆军参谋长穆尼尔，我们不信任美国。",
+          "url": "https://flash.jin10.com/detail/20260826042518785800",
           "source": "金十数据",
           "ranks": [
-            7
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗外交部副部长加里巴巴迪：我们有自己的方式应对任何美国方案，包括对抗、升级和制裁。",
+          "url": "https://flash.jin10.com/detail/20260826042419703800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗外交部副部长加里巴巴迪：任何军舰都不得通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260826042344240800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗副外长：霍尔木兹海峡南部航道将关闭",
+          "url": "https://wallstreetcn.com/livenews/3154846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "媒体援引知情人士报道称，欧洲央行政策制定者准备9月加息，来遏制伊朗冲突带来的连锁负面影响。 欧洲央行政策制定者无意释放进一步收紧货币政策的信号。",
           "url": "https://wallstreetcn.com/livenews/3154840",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "消息人士：欧洲央行决策者准备在九月加息，以遏制伊朗战争的副作用，但欧洲央行决策者似乎不太愿意释放进一步收紧货币政策的信号。",
-          "url": "https://flash.jin10.com/detail/20260826032034907800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "伊朗外交部长：伊朗致力于维护地区和平与稳定，并以与邻国开展坚定外交行动与之相呼应。 新浪财经 在同巴基斯坦与阿曼来宾的会谈中，各方着重强调采取地区层面的解决方案。 拟议的新通道框架、联合排雷行动以及霍尔木兹海峡未来管理模式，就是典型例证。",
-          "url": "https://wallstreetcn.com/livenews/3154835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：拟议中的霍尔木兹海峡新通道、水雷联合清除以及未来管理框架，正是一个典型案例。",
-          "url": "https://flash.jin10.com/detail/20260826031107635800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "伊朗外长阿拉格奇：与巴基斯坦和阿曼会谈中，强调了区域解决方案。",
-          "url": "https://flash.jin10.com/detail/20260826031011671800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "伊朗外长阿拉格奇：伊朗致力于维护和平与稳定，这与其对邻国的坚定外交政策相符。",
-          "url": "https://flash.jin10.com/detail/20260826030942441800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗能源部长表示，伊朗目前拥有超过1000个发电机组，装机容量已从过去约7万兆瓦提升至超过10.3万兆瓦，并将在不久后达到13万兆瓦。",
-          "url": "https://flash.jin10.com/detail/20260826030623811800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗能源部长表示，伊朗的发电厂数量足够多，即使敌人倾尽全力，也无法打击所有的发电厂。",
-          "url": "https://flash.jin10.com/detail/20260826025651731800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：全球经济正在经受住能源冲击，对财政状况感到担忧。 能源需求下降、可再生能源占比提升，加之部分地区重新转向煤炭，也缓解了海湾地区的供应紧张局势。 需解决全球过度失衡问题以强化全球经济，国际货币基金组织正优化其外部平衡评估模型。 得益于油气储备释放以及非海湾地区能源供应增加，全球经济经受住伊朗战争带来的能源冲击，表现好于市场担忧。 油价再度上涨可能加剧通胀，迫使各国央行维持限制性政策立场。 所有国家都必须解决财政问题，并拿出可信方案，确保债务与赤字处于可持续发展轨道。",
-          "url": "https://wallstreetcn.com/livenews/3154815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "05时19分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.4 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 5.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
+        {
+          "title": "美联储巴尔金：如果债务继续增加，投资者迟早会在某个时点停止购买（美债）。",
+          "url": "https://flash.jin10.com/detail/20260826050047659800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
         {
           "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
           "url": "https://wallstreetcn.com/articles/3780233",
@@ -233,8 +244,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -244,52 +255,63 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
-        },
-        {
-          "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2463960",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "市场情绪谨慎回暖，美股高开，存储概念股反弹，SK海力士涨3％，比特币回落，美债收益率下行",
           "url": "https://wallstreetcn.com/articles/3780215",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2463960",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
           "url": "https://wallstreetcn.com/articles/3780187",
           "source": "华尔街见闻",
           "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "贝森特的真正算盘：逼空美债CTA，将10年期收益率打到4.3%？",
+          "url": "https://wallstreetcn.com/articles/3780229",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 10.4 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -301,8 +323,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -312,8 +334,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "特朗普称考虑将安大略湖更名为“美国湖”",
@@ -323,87 +345,65 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
           "url": "https://www.cls.cn/detail/2464064",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
-        },
-        {
-          "title": "StoneX Financial Inc.金属业务负责人库奥科（Michael Cuoco）：尽管市场对库存上升有所担忧，但实物铜需求依然稳健，同时持续的供应问题和来自电网、数据中心、国防及电气化领域日益增长的需求支撑了看涨前景。 不断升级的美加贸易战也使人们的注意力重新聚焦于是否对精炼铜进口征收关税的待决决定。 随着中期选举迅速临近，特朗普的贸易战言论再次成为市场焦点。",
-          "url": "https://wallstreetcn.com/livenews/3154819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "05时19分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 63,
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
         "chart": []
       },
       "titles": [
         {
-          "title": "OpenAI首席执行官奥尔特曼：我们做了一个很快的芯片。",
-          "url": "https://flash.jin10.com/detail/20260826035633665800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "OpenAI数据中心主管Chris Malone已经离职。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3154839",
+          "title": "周二（8月25日），美股存储芯片与硬件供应链指数涨1.56%，报195.40点。",
+          "url": "https://wallstreetcn.com/livenews/3154862",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "05时19分"
         },
         {
-          "title": "OpenAI高层持续变动 数据中心负责人离开公司",
-          "url": "https://flash.jin10.com/detail/20260826032846220800",
-          "source": "金十数据",
+          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3154858",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "05时19分"
         },
         {
-          "title": "据华尔街日报：OpenAI数据中心负责人已离职。",
-          "url": "https://flash.jin10.com/detail/20260826031849050800",
-          "source": "金十数据",
+          "title": "周二（8月25日），美股行业ETF涨跌各异，生物科技指数ETF收涨1.82%，半导体ETF涨1.65%，全球航空业ETF、科技行业ETF、网络股指数ETF等至多涨1.42%，能源业ETF跌1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3154856",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "05时19分"
         }
       ]
     },
@@ -411,34 +411,34 @@
       "keyword_group": "美元",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 59,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
+        {
+          "title": "北美科技软件股指数ETF跌0.59%，报101.85美元。 Global X网络安全ETF跌1.68%，纳斯达克网络安全ETF跌0.83%，ETFMG网络安全ETF跌1.35%。",
+          "url": "https://wallstreetcn.com/livenews/3154860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
         {
           "title": "周二（8月25日）纽约尾盘，ICE美元指数跌0.09%，报98.916点，日内交投区间为99.118-98.901点。 彭博美元指数跌0.11%，报1192.45点，日内交投区间为1194.74-1192.45点。",
           "url": "https://wallstreetcn.com/livenews/3154837",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "美元指数25日下跌",
-          "url": "https://flash.jin10.com/detail/20260826031954056800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "05时19分"
         }
       ]
     },
@@ -446,10 +446,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -458,11 +458,35 @@
           "url": "https://wallstreetcn.com/articles/3780194",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 27.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI数据中心主管Chris Malone已经离职。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3154839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
@@ -470,10 +494,10 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -485,32 +509,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 04时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股收盘：三大股指收涨 英伟达涨2%",
-          "url": "https://flash.jin10.com/detail/20260826040308455800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "05时19分"
         }
       ]
     }
