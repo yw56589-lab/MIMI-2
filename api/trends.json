@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-26T03:25:44.177381+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-26T04:19:00.615786+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 18,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 7 个来源平台，平均热榜排名约 12.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 18 条热点，覆盖 7 个来源平台，平均热榜排名约 12.8 位，标题平均出现 1.3 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 87,
+        "confidence": 62,
         "chart": []
       },
       "titles": [
@@ -22,19 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗能源部长表示，伊朗的发电厂数量足够多，即使敌人倾尽全力，也无法打击所有的发电厂。",
-          "url": "https://flash.jin10.com/detail/20260826025651731800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -44,8 +33,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
+        },
+        {
+          "title": "伊朗副外长：霍尔木兹海峡南部航道将关闭",
+          "url": "https://wallstreetcn.com/livenews/3154846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡不会立即开放 与阿曼在60天内敲定新永久航线",
+          "url": "https://flash.jin10.com/detail/20260826040049904800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
@@ -55,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
@@ -66,41 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：全球经济正在经受住能源冲击，对财政状况感到担忧。 能源需求下降、可再生能源占比提升，加之部分地区重新转向煤炭，也缓解了海湾地区的供应紧张局势。 需解决全球过度失衡问题以强化全球经济，国际货币基金组织正优化其外部平衡评估模型。 得益于油气储备释放以及非海湾地区能源供应增加，全球经济经受住伊朗战争带来的能源冲击，表现好于市场担忧。 油价再度上涨可能加剧通胀，迫使各国央行维持限制性政策立场。 所有国家都必须解决财政问题，并拿出可信方案，确保债务与赤字处于可持续发展轨道。",
-          "url": "https://wallstreetcn.com/livenews/3154815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "英国财政大臣：支持美国推动外交解决方案的努力，欢迎通过“经济孤立”等方式对伊朗加大施压。",
-          "url": "https://flash.jin10.com/detail/20260826023820823800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "英国财政大臣：（关于伊朗制裁）呼吁伊朗停止在包括霍尔木兹海峡在内的地区进行破坏性活动。",
-          "url": "https://flash.jin10.com/detail/20260826023616077800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
@@ -110,30 +88,129 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "美防长称不排除再次军事打击伊朗",
           "url": "https://www.toutiao.com/trending/7677935692726698542/",
           "source": "今日头条",
           "ranks": [
-            23
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
-          "title": "中方：同伊朗合作不应受到干扰破坏",
-          "url": "https://www.toutiao.com/trending/7677060472058875428/",
-          "source": "今日头条",
+          "title": "据俄新社：伊朗和巴基斯坦消息人士表示，德黑兰与华盛顿已就停火达成一致，其中包括霍尔木兹海峡的航行自由。预计未来几天将宣布正式停火。之后将举行谈判和一系列技术会议。",
+          "url": "https://flash.jin10.com/detail/20260826033239322800",
+          "source": "金十数据",
           "ranks": [
-            30
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "04时19分"
+        },
+        {
+          "title": "媒体援引知情人士报道称，欧洲央行政策制定者准备9月加息，来遏制伊朗冲突带来的连锁负面影响。 欧洲央行政策制定者无意释放进一步收紧货币政策的信号。",
+          "url": "https://wallstreetcn.com/livenews/3154840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "消息人士：欧洲央行决策者准备在九月加息，以遏制伊朗战争的副作用，但欧洲央行决策者似乎不太愿意释放进一步收紧货币政策的信号。",
+          "url": "https://flash.jin10.com/detail/20260826032034907800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗外交部长：伊朗致力于维护地区和平与稳定，并以与邻国开展坚定外交行动与之相呼应。 新浪财经 在同巴基斯坦与阿曼来宾的会谈中，各方着重强调采取地区层面的解决方案。 拟议的新通道框架、联合排雷行动以及霍尔木兹海峡未来管理模式，就是典型例证。",
+          "url": "https://wallstreetcn.com/livenews/3154835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：拟议中的霍尔木兹海峡新通道、水雷联合清除以及未来管理框架，正是一个典型案例。",
+          "url": "https://flash.jin10.com/detail/20260826031107635800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗外长阿拉格奇：与巴基斯坦和阿曼会谈中，强调了区域解决方案。",
+          "url": "https://flash.jin10.com/detail/20260826031011671800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗外长阿拉格奇：伊朗致力于维护和平与稳定，这与其对邻国的坚定外交政策相符。",
+          "url": "https://flash.jin10.com/detail/20260826030942441800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗能源部长表示，伊朗目前拥有超过1000个发电机组，装机容量已从过去约7万兆瓦提升至超过10.3万兆瓦，并将在不久后达到13万兆瓦。",
+          "url": "https://flash.jin10.com/detail/20260826030623811800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗能源部长表示，伊朗的发电厂数量足够多，即使敌人倾尽全力，也无法打击所有的发电厂。",
+          "url": "https://flash.jin10.com/detail/20260826025651731800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：全球经济正在经受住能源冲击，对财政状况感到担忧。 能源需求下降、可再生能源占比提升，加之部分地区重新转向煤炭，也缓解了海湾地区的供应紧张局势。 需解决全球过度失衡问题以强化全球经济，国际货币基金组织正优化其外部平衡评估模型。 得益于油气储备释放以及非海湾地区能源供应增加，全球经济经受住伊朗战争带来的能源冲击，表现好于市场担忧。 油价再度上涨可能加剧通胀，迫使各国央行维持限制性政策立场。 所有国家都必须解决财政问题，并拿出可信方案，确保债务与赤字处于可持续发展轨道。",
+          "url": "https://wallstreetcn.com/livenews/3154815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     },
@@ -141,10 +218,10 @@
       "keyword_group": "美债",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.4 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -156,8 +233,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -167,8 +244,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
@@ -178,8 +255,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "市场情绪谨慎回暖，美股高开，存储概念股反弹，SK海力士涨3％，比特币回落，美债收益率下行",
@@ -189,8 +266,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
@@ -200,8 +277,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         }
       ]
     },
@@ -209,10 +286,10 @@
       "keyword_group": "特朗普",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 7.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 10.4 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -224,8 +301,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -235,8 +312,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "特朗普称考虑将安大略湖更名为“美国湖”",
@@ -246,30 +323,122 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
+        },
+        {
+          "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
+          "url": "https://www.cls.cn/detail/2464064",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         },
         {
           "title": "StoneX Financial Inc.金属业务负责人库奥科（Michael Cuoco）：尽管市场对库存上升有所担忧，但实物铜需求依然稳健，同时持续的供应问题和来自电网、数据中心、国防及电气化领域日益增长的需求支撑了看涨前景。 不断升级的美加贸易战也使人们的注意力重新聚焦于是否对精炼铜进口征收关税的待决决定。 随着中期选举迅速临近，特朗普的贸易战言论再次成为市场焦点。",
           "url": "https://wallstreetcn.com/livenews/3154819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 63,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI首席执行官奥尔特曼：我们做了一个很快的芯片。",
+          "url": "https://flash.jin10.com/detail/20260826035633665800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
-          "title": "美移民执法局7月逮捕近5万名移民 创特朗普第二任期单月新高",
-          "url": "https://wallstreetcn.com/livenews/3154813",
+          "title": "OpenAI数据中心主管Chris Malone已经离职。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3154839",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "04时19分"
+        },
+        {
+          "title": "OpenAI高层持续变动 数据中心负责人离开公司",
+          "url": "https://flash.jin10.com/detail/20260826032846220800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI数据中心负责人已离职。",
+          "url": "https://flash.jin10.com/detail/20260826031849050800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 59,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "周二（8月25日）纽约尾盘，ICE美元指数跌0.09%，报98.916点，日内交投区间为99.118-98.901点。 彭博美元指数跌0.11%，报1192.45点，日内交投区间为1194.74-1192.45点。",
+          "url": "https://wallstreetcn.com/livenews/3154837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260826031954056800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     },
@@ -277,7 +446,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 72,
@@ -292,32 +461,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI：自发布首款定制推理芯片Jalapeño以来，我们一直在对该芯片及其配套系统开展测试。 测试结果取得重大进展：单位功耗可输出更高智能能力，响应速度更快。 该单一架构在不牺牲能效的前提下，同时实现更高吞吐量与更低延迟。 Jalapeño将带来更快的ChatGPT响应速度、反应更灵敏的Codex会话与智能体，并且在需求持续增长的情况下保障服务稳定可用。",
-          "url": "https://wallstreetcn.com/livenews/3154810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         }
       ]
     },
@@ -325,10 +470,10 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -340,8 +485,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 04时19分]"
         }
       ]
     },
@@ -349,47 +494,23 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 28.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 70,
         "chart": []
       },
       "titles": [
         {
-          "title": "美股芯片股多数上扬",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8A%E6%89%AC",
-          "source": "百度热搜",
+          "title": "美股收盘：三大股指收涨 英伟达涨2%",
+          "url": "https://flash.jin10.com/detail/20260826040308455800",
+          "source": "金十数据",
           "ranks": [
-            28
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "Figure AI推出指数与机器人训练数据集。 承诺未来12个月投资超过10亿美元，用于数据与算力。 4.4万的周活跃用户数对数据做出贡献。",
-          "url": "https://wallstreetcn.com/livenews/3154804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "04时19分"
         }
       ]
     }
