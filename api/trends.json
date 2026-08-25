@@ -1,51 +1,29 @@
 {
-  "generated_at": "2026-08-26T01:24:06.015718+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-26T02:27:37.006698+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 7 个来源平台，平均热榜排名约 12.6 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 7 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 87,
         "chart": []
       },
       "titles": [
         {
-          "title": "不加入美对伊朗“经济战”就将被制裁？外交部回应",
-          "url": "https://news.ifeng.com/c/8vsWeEJt8aa",
+          "title": "“经济诺曼底”？美国制裁伊朗拿错了剧本",
+          "url": "https://news.ifeng.com/c/8vt4XAsd86a",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "还剩70天，美国发起经济绞杀，伊朗面临艰难抉择",
-          "url": "https://news.ifeng.com/c/8vsOqqXmatd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "美国发动“史上最严制裁”，伊朗央行行长拆穿美方恫吓",
-          "url": "https://news.ifeng.com/c/8vseWlGVR41",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -55,19 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "美防长称不排除再次军事打击伊朗",
-          "url": "https://www.toutiao.com/trending/7677935692726698542/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
@@ -77,19 +44,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：全球经济在伊朗战争引发的能源冲击中表现优于预期，这得益于石油和天然气储备的减少，以及非海湾能源供应的增加。",
+          "url": "https://flash.jin10.com/detail/20260826020028514800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
           "url": "https://m.thepaper.cn/newsDetail_forward_33843711",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格奇与卡塔尔国首相兼外交大臣阿勒萨尼于当地时间周二下午举行电话会谈。双方在通话中回顾了最新地区局势，并强调应充分运用外交手段、持续加强协调，以防止地区紧张局势升级。",
+          "url": "https://flash.jin10.com/detail/20260826015522573800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
@@ -99,109 +88,87 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
-          "title": "中方：同伊朗合作不应受到干扰破坏",
-          "url": "https://www.toutiao.com/trending/7677060472058875428/",
+          "title": "美防长称不排除再次军事打击伊朗",
+          "url": "https://www.toutiao.com/trending/7677935692726698542/",
           "source": "今日头条",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国在军事和政治战争中已经失败，在经济举措上也将继续失败。",
           "url": "https://wallstreetcn.com/livenews/3154789",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
         },
         {
-          "title": "伊朗能源交易所：进口超级汽油最新成交价约每升9万土曼",
-          "url": "https://flash.jin10.com/detail/20260826003500556800",
+          "title": "据伊朗媒体Fars News：伊朗石油部副部长表示，随着年底前两座新炼油厂投产，伊朗汽油日产量将增加1200万升。",
+          "url": "https://flash.jin10.com/detail/20260826014350909800",
           "source": "金十数据",
           "ranks": [
-            11
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
         },
         {
           "title": "伊朗与阿曼拟建立霍尔木兹海峡安全海上通道",
           "url": "https://wallstreetcn.com/livenews/3154775",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "布伦特原油日内跌幅达4.0%，报86.9美元/桶，阿曼与伊朗提议设立霍尔木兹海峡临时航运通道。",
-          "url": "https://wallstreetcn.com/livenews/3154766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "伊朗外交部发言人：美国开启“经济诺曼底登陆日”。 部分国家一味顺从美方，对此表示默许，但情况绝非如此。 美国逼迫全球银行、企业、港口及各国政府服从其意志，否则就实施报复，此举已不只是针对伊朗，而是践踏国际法与联合国宪章的核心原则，破坏各国主权平等与民族自决。 任何重视主权的国家都不会容忍这种大规模违法与系统性霸凌，加拿大已经吸取该教训。",
-          "url": "https://wallstreetcn.com/livenews/3154764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "阿曼与伊朗提议设立霍尔木兹海峡临时航运通道",
-          "url": "https://wallstreetcn.com/livenews/3154763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.4 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 9.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 59,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "两名直接参与霍尔木兹海峡扫雷事务的美国官员证实了特朗普的声明，并表示美国海军已清理了位于海峡中部、阿曼与伊朗之间的船舶交通分离区。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3154791",
+          "title": "美移民执法局7月逮捕近5万名移民 创特朗普第二任期单月新高",
+          "url": "https://wallstreetcn.com/livenews/3154813",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
+        },
+        {
+          "title": "涉电磁弹射器，美海军要“硬顶”特朗普？",
+          "url": "https://news.ifeng.com/c/8vtCJJnz0Cx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -211,8 +178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "特朗普称考虑将安大略湖更名为“美国湖”",
@@ -222,74 +189,52 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
-          "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
-          "url": "https://www.cls.cn/detail/2464064",
-          "source": "财联社热门",
+          "title": "美移民执法局7月逮捕近5万名移民 创特朗普第二任期单月新高",
+          "url": "https://flash.jin10.com/detail/20260826015907972800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
-          "title": "据Axios：两名美国官员证实，特朗普此前宣布霍尔木兹海峡的水雷已全部清除的消息属实。美国海军已清理霍尔木兹海峡中央航道，也就是连接伊朗和阿曼之间、供商船通行的主要航线。",
-          "url": "https://flash.jin10.com/detail/20260826005419332800",
-          "source": "金十数据",
+          "title": "两名直接参与霍尔木兹海峡扫雷事务的美国官员证实了特朗普的声明，并表示美国海军已清理了位于海峡中部、阿曼与伊朗之间的船舶交通分离区。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3154791",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
         },
         {
           "title": "美国总统特朗普：美国即将在中东及海湾地区大赚一笔。",
           "url": "https://wallstreetcn.com/livenews/3154785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国总统特朗普：美国将要在中东及海湾地区大赚一笔。",
-          "url": "https://flash.jin10.com/detail/20260826002351008800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国财长贝森特：伊朗领导层已承认经济压力正在奏效，特朗普政府将继续切断支撑伊朗政权的经济命脉，直至德黑兰陷入孤立。",
-          "url": "https://flash.jin10.com/detail/20260826002310392800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -301,8 +246,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -312,8 +257,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
@@ -323,8 +268,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "市场情绪谨慎回暖，美股高开，存储概念股反弹，SK海力士涨3％，比特币回落，美债收益率下行",
@@ -334,8 +279,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
@@ -345,54 +290,43 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "美债收益率、国际油价下跌",
-          "url": "https://wallstreetcn.com/livenews/3154768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "chatgpt openai",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 57,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "金十图示：2026年08月25日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260826003149107800",
-          "source": "金十数据",
+          "title": "OpenAI：自发布首款定制推理芯片Jalapeño以来，我们一直在对该芯片及其配套系统开展测试。 测试结果取得重大进展：单位功耗可输出更高智能能力，响应速度更快。 该单一架构在不牺牲能效的前提下，同时实现更高吞吐量与更低延迟。 Jalapeño将带来更快的ChatGPT响应速度、反应更灵敏的Codex会话与智能体，并且在需求持续增长的情况下保障服务稳定可用。",
+          "url": "https://wallstreetcn.com/livenews/3154810",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
         },
         {
-          "title": "金十图示：2026年08月25日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260826003108560800",
+          "title": "OpenAI：推出适用于ChatGPT Work和Codex的管理员插件（Admin Plugin）。",
+          "url": "https://flash.jin10.com/detail/20260826014436454800",
           "source": "金十数据",
           "ranks": [
-            13
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
         }
       ]
     },
@@ -400,7 +334,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 72,
@@ -415,8 +349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
         }
       ]
     },
@@ -424,10 +358,10 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -439,8 +373,56 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 27.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股芯片股多数上扬",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8A%E6%89%AC",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "Figure AI推出指数与机器人训练数据集。 承诺未来12个月投资超过10亿美元，用于数据与算力。 4.4万的周活跃用户数对数据做出贡献。",
+          "url": "https://wallstreetcn.com/livenews/3154804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         }
       ]
     }
