@@ -1,153 +1,74 @@
 {
-  "generated_at": "2026-08-26T20:32:03.009215+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-26T21:52:57.560705+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 11,
+      "keyword_group": "特朗普",
+      "match_count": 25,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 3 个来源平台，平均热榜排名约 17.8 位，标题平均出现 1.1 次。",
+        "analysis": "该板块当前收录 25 条热点，覆盖 4 个来源平台，平均热榜排名约 13.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 57,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "停火谈判重大进展！美伊传就霍尔木兹自由通航达成共识、伊朗与阿曼拟设临时安全通道，布油一度跌6%",
-          "url": "https://wallstreetcn.com/articles/3780290",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：是时候教训加拿大了，你们不能再这样做了。",
+          "url": "https://flash.jin10.com/detail/20260826212857168800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
-          "title": "【伊朗称与阿曼就霍尔木兹海峡收益分配达成协议】据伊朗塔斯尼姆通讯社26日报道，伊朗伊斯兰革命卫队发言人侯赛因·穆赫比当天表示，伊朗与阿曼就霍尔木兹海峡收益分配等达成协议。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3155312",
-          "source": "华尔街见闻-快讯",
+          "title": "据半岛电视台援引特朗普的话表示，美国与伊朗的对抗不受任何时间表限制，将持续下去，无论需要多长时间。",
+          "url": "https://flash.jin10.com/detail/20260826212714816800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时52分"
         },
         {
-          "title": "伊朗称已就海峡收入分配与阿曼达成一致，美方介入令进程延误",
-          "url": "https://flash.jin10.com/detail/20260826195706113800",
+          "title": "美国总统特朗普：我们不能允许伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260826212704440800",
           "source": "金十数据",
           "ranks": [
-            16
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时52分"
         },
         {
-          "title": "伊朗总统：美国新一轮对伊经济制裁将一无所获",
-          "url": "https://wallstreetcn.com/livenews/3155298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "伊朗革命卫队：美国若不接受条件，霍尔木兹海峡“绝对不会开放”",
-          "url": "https://flash.jin10.com/detail/20260826195121925800",
+          "title": "美国总统特朗普：美国与伊朗的对抗没有任何时间表，无论需要多长时间，都将持续下去。",
+          "url": "https://flash.jin10.com/detail/20260826212649430800",
           "source": "金十数据",
           "ranks": [
-            19
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时52分"
         },
         {
-          "title": "伊朗革命卫队发言人：敌方所有军舰至少距离霍尔木兹海峡400公里，从军事和领土上看，任何船只在没有伊朗的许可和管理下都无法通过这一水道。靠近阿曼的水道也完全在我们的控制之下。",
-          "url": "https://flash.jin10.com/detail/20260826194858704800",
+          "title": "美国总统特朗普：我们已经对伊朗确立了绝对且真正的主导地位。",
+          "url": "https://flash.jin10.com/detail/20260826212623083800",
           "source": "金十数据",
           "ranks": [
-            20
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时52分"
         },
-        {
-          "title": "伊朗革命卫队发言人：如果美国不接受我们的条件，海峡将不会开放。",
-          "url": "https://flash.jin10.com/detail/20260826194759549800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：美国正在阻碍阿曼与伊朗之间的谈判进程，导致谈判延迟。",
-          "url": "https://flash.jin10.com/detail/20260826194753158800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：伊朗和阿曼就霍尔木兹海峡收入分配达成一致。",
-          "url": "https://wallstreetcn.com/livenews/3155289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "伊朗总统：美国新一轮对伊经济制裁将一无所获",
-          "url": "https://flash.jin10.com/detail/20260826194354069800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "伊朗革命卫队：霍尔木兹海峡在我们控制之下，敌方军舰未进入海湾水域。",
-          "url": "https://flash.jin10.com/detail/20260826194148655800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 18.7 位，标题平均出现 1.7 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
         {
           "title": "对加拿大态度强硬，特朗普底气何来？",
           "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
@@ -156,76 +77,331 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经在委内瑞拉取得胜利，很快也将在伊朗取得一场重大胜利。",
+          "url": "https://flash.jin10.com/detail/20260826212545041800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的通货膨胀率达到了300%。",
+          "url": "https://flash.jin10.com/detail/20260826212539442800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗货币现在几乎没有价值了。",
+          "url": "https://flash.jin10.com/detail/20260826212519912800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：我们的财政实力巨大，这些因素将导致对伊朗的重大胜利。许多伊朗士兵没有领取工资。",
+          "url": "https://flash.jin10.com/detail/20260826212450232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗：我们正在监视封锁区域的动向。",
+          "url": "https://flash.jin10.com/detail/20260826212319267800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "特朗普谈加拿大：他们没有任何我们必须要拥有的东西。 没有加拿大，“我们也能过得去”。",
+          "url": "https://wallstreetcn.com/livenews/3155381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：牛肉价格开始下跌。",
+          "url": "https://flash.jin10.com/detail/20260826212242036800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：牛肉价格开始下降。",
+          "url": "https://wallstreetcn.com/livenews/3155379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：我们的军队表现令人惊叹。",
+          "url": "https://flash.jin10.com/detail/20260826212130763800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：价格正在下降。",
+          "url": "https://flash.jin10.com/detail/20260826212104011800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡运转正常。 大量石油从霍尔木兹海峡流出。 昨天有1000万桶石油从霍尔木兹海峡运出。 价格正在下降。",
+          "url": "https://wallstreetcn.com/livenews/3155377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：昨天有1000万桶石油离开霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260826212025401800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗人并不是最值得信赖的谈判对象，不适合与他们达成协议。",
+          "url": "https://flash.jin10.com/detail/20260826212000723800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "特朗普重申美国对霍尔木兹海峡的封锁正在奏效。",
+          "url": "https://wallstreetcn.com/livenews/3155375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡正常运作，大量石油正在流出。",
+          "url": "https://flash.jin10.com/detail/20260826211948507800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普暗示昨晚有22艘船只通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260826211708516800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：关于美国中央情报局局长访俄，可能会有新消息。",
+          "url": "https://flash.jin10.com/detail/20260826211605028800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普重申美国对霍尔木兹海峡的封锁仍在生效。",
+          "url": "https://flash.jin10.com/detail/20260826211453378800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "美上将为何抗议特朗普拆电磁弹射",
           "url": "https://www.toutiao.com/trending/7678275949082709530/",
           "source": "今日头条",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "边加税边和谈？揭秘特朗普三条反常政策线！",
-          "url": "https://flash.jin10.com/detail/20260826194146902800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时52分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 6.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "一石激起千层浪！短短9个月，OpenAI自研ASIC芯片已超越英伟达Blackwell？",
-          "url": "https://wallstreetcn.com/articles/3780301",
+          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
-          "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
-          "url": "https://wallstreetcn.com/articles/3780270",
-          "source": "华尔街见闻",
+          "title": "7月核心PCE同比升3.3% 美股期指涨跌不一 市场静候英伟达财报 |今夜看点",
+          "url": "https://www.cls.cn/detail/2465311",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美股三大股指小幅低开，道指跌0.19%，标普500指数跌0.02%，纳指跌0.22%。Meta涨超3%，公司与美国多个州同意就青少年社交媒体危害案达成和解。柯尔百货跌超5%，此前公司公布二季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3155384",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3155370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "停火谈判重大进展！美伊传就霍尔木兹自由通航达成共识、伊朗与阿曼拟设临时安全通道，布油一度跌6%",
+          "url": "https://wallstreetcn.com/articles/3780290",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "伊朗称若美国不接受相关条件 霍尔木兹海峡不会开放",
+          "url": "https://wallstreetcn.com/livenews/3155378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "伊朗高级消息人士表示，与阿曼关于霍尔木兹海峡的协议尚未最终敲定。 伊朗和阿曼仍在就霍尔木兹海峡协议的细节进行磋商。",
+          "url": "https://wallstreetcn.com/livenews/3155363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -237,56 +413,67 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 63,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美债长端来了“不计回报的买家”，投资者削减曲线陡峭化押注",
-          "url": "https://wallstreetcn.com/livenews/3155308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 66,
-        "chart": []
-      },
-      "titles": [
+          "time_info": "21时52分"
+        },
         {
-          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
-          "url": "https://wallstreetcn.com/articles/3780215",
-          "source": "华尔街见闻",
+          "title": "黄金价格持续上涨",
+          "url": "https://www.douyin.com/hot/2624622",
+          "source": "抖音",
           "ranks": [
-            1
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "一石激起千层浪！短短9个月，OpenAI自研ASIC芯片已超越英伟达Blackwell？",
+          "url": "https://wallstreetcn.com/articles/3780301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 67,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "北美科技软件股指数ETF一度跌超1%，报99.79美元，逼近8月6日盘中最低位99.42美元。",
+          "url": "https://wallstreetcn.com/livenews/3155392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     }
