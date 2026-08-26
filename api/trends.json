@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-27T00:11:10.019845+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-27T02:50:56.102782+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 8.2 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 5 个来源平台，平均热榜排名约 12.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 59,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：卡塔尔首相将与伊朗官员就卡塔尔继续开展调解努力及地区其他事态发展进行讨论和交换意见。",
+          "url": "https://flash.jin10.com/detail/20260827024337307800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：近几个月来，在美国和以色列对伊朗发动军事行动后，卡塔尔为帮助防止地区紧张局势升级作出了值得肯定的努力。",
+          "url": "https://flash.jin10.com/detail/20260827024246995800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "卡塔尔外交部发言人：卡塔尔首相将于周四访问德黑兰。 卡塔尔首相将在德黑兰会见多名伊朗官员，商讨缓和紧张局势的途径。",
+          "url": "https://wallstreetcn.com/livenews/3155498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "美媒：伊朗曾企图在美国暗杀内塔尼亚胡长子",
@@ -33,30 +66,107 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
-          "title": "kpler：海上石油还能为伊朗提供5-6个月的收入",
-          "url": "https://flash.jin10.com/detail/20260826234624616800",
+          "title": "美国能源部长：华盛顿更倾向通过外交解决伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260827023157302800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时50分"
         },
         {
-          "title": "kpler：伊朗的炼油能力目前为220万桶/日左右",
-          "url": "https://flash.jin10.com/detail/20260826233902058800",
+          "title": "卡塔尔外交部发言人：卡塔尔首相将在德黑兰与多位伊朗官员会晤，讨论缓解紧张局势的办法。",
+          "url": "https://flash.jin10.com/detail/20260827022543722800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时50分"
+        },
+        {
+          "title": "伊朗外长谴责美对伊实施“经济恐怖主义行动”",
+          "url": "https://wallstreetcn.com/livenews/3155486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "伊朗央行：8月通胀率降至3.7% 通胀增速连续三个月放缓",
+          "url": "https://flash.jin10.com/detail/20260827021603088800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "美国能源部长：华盛顿更倾向于与伊朗进行外交对话，但“如有必要”，将摧毁德黑兰的核设施。",
+          "url": "https://flash.jin10.com/detail/20260827021234897800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "据伊朗Press TV：阿曼停止与美国就护卫油轮通过霍尔木兹海峡南部航线进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3155482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "曝伊朗曾企图在美暗杀内塔尼亚胡长子",
+          "url": "https://www.toutiao.com/trending/7678036513120354355/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：伊朗议会议长卡利巴夫顾问表示，通过霍尔木兹海峡的石油总量甚至达不到每日100万桶。",
+          "url": "https://flash.jin10.com/detail/20260827020149247800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "消息人士：美国可能已在清除国际水域水雷方面取得一些进展，但盟友估计伊朗布设的80至150枚水雷尚未被全部清除。",
+          "url": "https://flash.jin10.com/detail/20260827015519779800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
@@ -64,24 +174,13 @@
       "keyword_group": "美股",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.3 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
-        {
-          "title": "7月核心PCE同比升3.3% 美股期指涨跌不一 市场静候英伟达财报 |今夜看点",
-          "url": "https://www.cls.cn/detail/2465311",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
         {
           "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
           "url": "https://wallstreetcn.com/articles/3780215",
@@ -90,62 +189,38 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
-          "title": "静待英伟达财报，美股三大股指小幅低开，纳指跌0.22%，油价三连跌，债市走强",
+          "title": "7月核心PCE同比升3.3% 美股期指涨跌不一 市场静候英伟达财报 |今夜看点",
+          "url": "https://www.cls.cn/detail/2465311",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "静待英伟达财报，三大美股指小幅低开，Meta逆市走高，原油盘中转涨",
           "url": "https://wallstreetcn.com/articles/3780328",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 59,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2070165569941287944",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "智谱推出对标DeepSeek的轻量旗舰模型，由10万国产卡支持",
-          "url": "https://wallstreetcn.com/livenews/3155439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时50分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 20.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -153,72 +228,37 @@
       },
       "titles": [
         {
-          "title": "黄金价格持续上涨",
-          "url": "https://www.douyin.com/hot/2624622",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "黄金价格持续上涨",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "对加拿大态度强硬，特朗普底气何来？",
-          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "特朗普证实中情局局长访俄",
-          "url": "https://wallstreetcn.com/livenews/3155438",
+          "title": "谷歌：为北美及欧洲加速器项目遴选28家人工智能能源初创企业。 2026加速器批次将借助人工智能提升能源效率、推进电网现代化。",
+          "url": "https://wallstreetcn.com/livenews/3155485",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时50分"
+        },
+        {
+          "title": "谷歌发布语音转文本模型Gemini 3.5 Transcribe。",
+          "url": "https://wallstreetcn.com/livenews/3155476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -230,56 +270,113 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
         {
-          "title": "专家：美债失控结局已无法逆转",
-          "url": "https://www.toutiao.com/trending/7678295676790246975/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 27.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 57,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "彭博美元指数涨0.3%，意味着“贝森特回购”以来的失地收复一半。",
-          "url": "https://wallstreetcn.com/livenews/3155414",
+          "title": "OpenAI：已签署覆盖美国16个州的通用协议，加州另行签订单独协议",
+          "url": "https://wallstreetcn.com/livenews/3155484",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金价大涨终于熬出头",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BB%88%E4%BA%8E%E7%86%AC%E5%87%BA%E5%A4%B4%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "黄金价格持续上涨",
+          "url": "https://www.douyin.com/hot/2624622",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "对加拿大态度强硬，特朗普底气何来？",
+          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "美国盟友质疑特朗普“霍尔木兹海峡水雷已全部清除”说法",
+          "url": "https://flash.jin10.com/detail/20260827020531919800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2070165569941287944",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     }
