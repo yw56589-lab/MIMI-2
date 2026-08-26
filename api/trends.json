@@ -1,13 +1,59 @@
 {
-  "generated_at": "2026-08-26T16:32:47.476053+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-26T17:33:41.565905+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 10.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 71,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "民调：特朗普的支持率为33%，达历史最低",
+          "url": "https://news.ifeng.com/c/8vtcz08sie8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
+          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "对加拿大态度强硬，特朗普底气何来？",
+          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 15.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -23,119 +69,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美伊停火谈判重大进展！伊朗拟设“霍尔木兹临时通航走廊” 国际油价大幅下挫",
-          "url": "https://www.cls.cn/detail/2464238",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时33分"
         },
         {
           "title": "伊朗宣布发现大型天然气田，有望创造数百亿美元收益，这会对美伊博弈、中东能源格局产生哪些影响？",
           "url": "https://www.zhihu.com/question/2075179937275831775",
           "source": "知乎",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时33分"
         },
         {
-          "title": "伊朗问题是否在此次上合峰会讨论范畴中？外交部：会适时发布消息",
-          "url": "https://wallstreetcn.com/livenews/3155104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "中美是否就美方制裁伊朗进行过沟通？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3155101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 78,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "民调：特朗普的支持率为33%，达历史最低",
-          "url": "https://news.ifeng.com/c/8vtcz08sie8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
-          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "对加拿大态度强硬，特朗普底气何来？",
-          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "战场之外的暗杀战：内塔尼亚胡儿子、特朗普儿子接连遭伊朗点名",
-          "url": "https://flash.jin10.com/detail/20260826160530236800",
+          "title": "伊朗总统强调特殊形势下要着力“稳经济”",
+          "url": "https://flash.jin10.com/detail/20260826165605723800",
           "source": "金十数据",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时33分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 6.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -148,75 +115,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
-          "url": "https://wallstreetcn.com/articles/3780238",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时33分"
         },
         {
           "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
           "url": "https://wallstreetcn.com/articles/3780270",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美债最终恐无人接盘？美联储官员重磅警告 加息大门仍敞开",
-          "url": "https://www.cls.cn/detail/2464353",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "关键指标显效：贝森特美债“救市”并非无用功？",
-          "url": "https://www.cls.cn/detail/2464237",
-          "source": "财联社热门",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时33分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -229,7 +150,42 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时33分"
+        },
+        {
+          "title": "理想汽车第二季度营收257亿元人民币，同比下降15%，预估249.6亿元人民币。 第二季度毛利率11％，上年同期20.1％，预估11.3％。 第二季度交付量98330辆，同比下降11%，预估98212辆。 第二季度归属股东的调整后净亏损15.0亿元人民币，上年同期收益14.6亿元人民币，预估亏损11.5亿元人民币。 预计第三季度营收266亿元人民币至280亿元人民币，预估322.6亿元人民币。 理想汽车美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3155133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 71,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美债最终恐无人接盘？美联储官员重磅警告 加息大门仍敞开",
+          "url": "https://www.cls.cn/detail/2464353",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     }
