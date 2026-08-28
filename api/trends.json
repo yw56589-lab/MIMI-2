@@ -1,86 +1,51 @@
 {
-  "generated_at": "2026-08-28T16:03:38.735609+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-29T04:31:38.718013+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
+      "keyword_group": "伊朗",
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 3 个来源平台，平均热榜排名约 10.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普又干了两件事，全世界目瞪口呆",
-          "url": "https://news.ifeng.com/c/8vwy3JPTkqb",
+          "title": "伊朗外交部发表声明",
+          "url": "https://news.ifeng.com/c/8vxhTsH4n78",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "04时31分"
         },
         {
-          "title": "特朗普政府钨废料出口禁令正式生效！美国钨矿股本月暴涨",
-          "url": "https://www.cls.cn/detail/2467190",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件，初步调查报告公布",
-          "url": "https://news.ifeng.com/c/8vxLE853PWK",
+          "title": "交战半年，美国滤镜碎一地，伊朗智勇难双全",
+          "url": "https://news.ifeng.com/c/8vxbV6HugO2",
           "source": "凤凰网",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "04时31分"
         },
         {
-          "title": "特朗普给美国总统排名自封第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8E%92%E5%90%8D%E8%87%AA%E5%B0%81%E7%AC%AC%E4%B8%80%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "伊朗总统：若制裁持续，物价将进一步上涨",
+          "url": "https://flash.jin10.com/detail/20260829035906724800",
+          "source": "金十数据",
           "ranks": [
-            28
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗阿曼外交斡旋初现成效，霍尔木兹海峡运输量悄然恢复至战前75%水平",
-          "url": "https://wallstreetcn.com/articles/3780465",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "04时31分"
         },
         {
           "title": "伊朗官员：伊方已准备好一份对美条件清单",
@@ -91,37 +56,160 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "04时31分"
         },
         {
-          "title": "伊朗、阿曼同意开辟霍尔木兹临时航道 或助美伊打破僵局",
-          "url": "https://flash.jin10.com/detail/20260828153227467800",
+          "title": "伊朗总统：备忘录执行期间出口近9000万桶石油",
+          "url": "https://flash.jin10.com/detail/20260829035628284800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "04时31分"
         },
         {
-          "title": "美国中央司令部上将：近期美国军队在对伊朗实施海上封锁的同时，保护了近1500艘运输约7.5亿桶原油的商船通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260828152800341800",
+          "title": "伊朗总统佩泽希齐扬：在过渡协议实施期间，伊朗售出了约9000万桶石油。",
+          "url": "https://flash.jin10.com/detail/20260829033910875800",
           "source": "金十数据",
           "ranks": [
-            17
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：临时协议执行期间，伊朗出售了约9000万桶石油。",
+          "url": "https://wallstreetcn.com/livenews/3157113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：不应将谈判非黑即白地看待。",
+          "url": "https://flash.jin10.com/detail/20260829033729792800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：由于美国的制裁和封锁，伊朗的出口和进口已减少至多35%。",
+          "url": "https://flash.jin10.com/detail/20260829032347555800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：最高领袖的指示是全体国家官员的准则。",
+          "url": "https://flash.jin10.com/detail/20260829031801497800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：伊朗第三档汽油价格将约为1万土曼，但该计划实施时间尚未明确。",
+          "url": "https://flash.jin10.com/detail/20260829031155694800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "【伊朗最高领袖声明：禁止任何有损社会凝聚力的行为】8月28日，伊朗最高领袖穆杰塔巴·哈梅内伊发表声明。声明中，穆杰塔巴赞扬了政府在面对美以限制和阴谋、制裁和围困加剧情况下所采取的行动和工作。他强调，伊朗必须展现实力和力量，同时避免出现任何令人失望、削弱民族和公众精神等言论，任何有损社会凝聚力的行为都是被禁止的。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3157088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 11.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "牛弹琴：特朗普干的事让世界目瞪口呆",
+          "url": "https://www.toutiao.com/trending/7679035179687480858/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普所乘直升机遭遇飞行安全事件，初步调查报告公布",
+          "url": "https://news.ifeng.com/c/8vxLE853PWK",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普格陵兰野心搅动北欧 冰岛入欧公投增添安全变量",
+          "url": "https://www.cls.cn/detail/2468312",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：已经围绕霍尔木兹海峡通行路线达成内部共识。 若四项承诺得到履行，伊朗将开放航道。 伊朗已准备好与沙特阿拉伯、阿联酋等地区国家开展合作、达成谅解。 承诺内容包括（特朗普政府）解除对燃料、石化产品的制裁，还包括释放资金、恢复投资。 受美国制裁与封锁影响，伊朗进出口规模降幅最高达35%。",
+          "url": "https://wallstreetcn.com/livenews/3157101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 15.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 12.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -129,61 +217,72 @@
       },
       "titles": [
         {
-          "title": "软银寻求再获100亿美元贷款，用于OpenAI股权投资",
-          "url": "https://wallstreetcn.com/livenews/3156602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "软银寻求100亿美元贷款为OpenAI投资再融资",
-          "url": "https://flash.jin10.com/detail/20260828152833512800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "知情人士：软银寻求100亿美元贷款，为投资OpenAI融资债务再融资。",
-          "url": "https://flash.jin10.com/detail/20260828152403914800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价暴涨大批人变现跑路",
-          "url": "https://www.toutiao.com/trending/7678971217314844211/",
-          "source": "今日头条",
+          "title": "今夜，沃什能否拯救美债？或决定AI牛市命运",
+          "url": "https://wallstreetcn.com/articles/3780538",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "04时31分"
+        },
+        {
+          "title": "沃什鹰派发言提振加息预期，美债短端收益率走高，标普500指数持平，美元走强，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3780532",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "杰克逊霍尔迎来2009年以来最鹰派讲话，沃什推高美债收益率",
+          "url": "https://wallstreetcn.com/livenews/3157090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美元指数28日上涨",
+          "url": "https://flash.jin10.com/detail/20260829033425065800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美元指数本周涨超0.5%，沃什在杰克逊霍尔全球央行年会释放鹰派基调",
+          "url": "https://wallstreetcn.com/livenews/3157104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -191,23 +290,23 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
         {
-          "title": "沃什杰克逊霍尔首秀今晚来袭，美股如何走？历史数据这样说",
-          "url": "https://www.cls.cn/detail/2467173",
+          "title": "美股存储板块盘前走弱贝壳飙涨两位数 市场静待沃什利率信号 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2468152",
           "source": "财联社热门",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "04时31分"
         }
       ]
     }
