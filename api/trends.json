@@ -1,29 +1,84 @@
 {
-  "generated_at": "2026-08-29T22:50:13.129877+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-30T02:02:57.291841+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 3 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 58,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗总统办公室传播与信息事务副主任：总统前天接受、昨晚播出的电视访谈，其核心主旨与最高领袖所传达信息的精神完全一致。",
-          "url": "https://flash.jin10.com/detail/20260829214037220800",
+          "title": "据半岛电视台：伊朗支持的“真主党旅”称，在美沙联合空袭前曾收到警告。",
+          "url": "https://flash.jin10.com/detail/20260830013158079800",
           "source": "金十数据",
           "ranks": [
-            13
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队陆军指挥官库尔米表示，伊朗人民不惧怕任何强权。在为期12天的战争中，美国提出停火请求并来到谈判桌前，但随后却亲自掀翻了谈判桌。",
+          "url": "https://flash.jin10.com/detail/20260830013103999800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗革命卫队官员：美国发动战争并非因为伊朗铀浓缩",
+          "url": "https://flash.jin10.com/detail/20260830012821984800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国消息人士向阿拉伯电视台透露：与埃尔比勒方面的谅解备忘录将于9月30日到期，不会延期。<br/>伊朗库尔德方面消息人士透露：埃尔比勒与华盛顿之间的谅解备忘录不再延期，并不意味着双方合作结束。",
+          "url": "https://flash.jin10.com/detail/20260830004203466800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "贝森特称引导1.3亿桶原油通过海峡 伊朗议长：谎话连篇",
+          "url": "https://flash.jin10.com/detail/20260830003048133800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台：一段流传的视频显示，随着美国封锁持续，伊朗阿巴斯港的沙希德·拉贾伊港一片空旷。",
+          "url": "https://flash.jin10.com/detail/20260830002546837800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "伊朗外长阿拉格齐：我方情报显示，有人大肆操纵能源市场。 美国政府部分势力利用易受蒙蔽的媒体影响价格以谋取私利，同时让美国总统深陷一场必败的战争。 亲以色列势力也凭借美化的评估报告鼓吹战争。 美国消费者承受着实实在在的最终代价。",
@@ -32,31 +87,88 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "02时02分"
         },
         {
-          "title": "伊朗称在其境内捣毁一美以相关“恐怖分子团伙”",
-          "url": "https://flash.jin10.com/detail/20260829213351432800",
+          "title": "伊朗外长：日本民众应要求日本政府就美国罪行作出交代",
+          "url": "https://flash.jin10.com/detail/20260829223539321800",
           "source": "金十数据",
           "ranks": [
-            16
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "02时02分"
         },
         {
-          "title": "据伊通社（IRNA）：伊朗国家石油产品炼制和销售公司运营协调与监督负责人强调，汽油供应不存在短缺。他表示，需求增长10%，加之德黑兰部分燃料储存和物流能力受损，导致部分加油站的汽油供应速度放缓并出现排队现象。",
-          "url": "https://flash.jin10.com/detail/20260829203207062800",
+          "title": "伊朗发了一个嘲讽美国的神视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A5%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "英国“特朗普支持者”被美国驱逐",
+          "url": "https://flash.jin10.com/detail/20260830010927370800",
           "source": "金十数据",
           "ranks": [
-            28
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
+          "url": "https://news.ifeng.com/c/8vyyWf5TDzo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国独立参议员桑德斯：一位优步司机告诉我的一位同事，特朗普削减医保后，他的月保费上涨了400%。他每种药的自付额从1美元涨到了高达90美元。这不仅仅是这位优步司机的遭遇，这种情况在美国各地都在发生。我们需要全民医保。",
+          "url": "https://flash.jin10.com/detail/20260830003450743800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普发帖批评CNN和MSNOW",
+          "url": "https://flash.jin10.com/detail/20260829221912572800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
@@ -64,10 +176,10 @@
       "keyword_group": "美债",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 13.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 12.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -79,113 +191,65 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "2009年来最鹰杰克逊霍尔讲话！沃什首秀推升两年期美债收益率逾10个基点",
           "url": "https://wallstreetcn.com/articles/3780605",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美债违约风险有多大",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E5%A4%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 3.5 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 52,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
-          "url": "https://news.ifeng.com/c/8vyyWf5TDzo",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
-        },
-        {
-          "title": "特朗普发帖批评CNN和MSNOW",
-          "url": "https://flash.jin10.com/detail/20260829221912572800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "怎么看谷歌开始测试 Gemini 3.8 Flash ，谷歌放弃 Pro 了吗？",
-          "url": "https://www.zhihu.com/question/2076773014612586660",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 71,
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 18.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
         "chart": []
       },
       "titles": [
+        {
+          "title": "怎么看 OpenAI 因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型？",
+          "url": "https://www.zhihu.com/question/2076984800188093248",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
         {
           "title": "OpenAI Codex产品人员Derrick Choi：泰国的人工智能开发者社区正在快速发展。2026年，Codex在泰国的周活跃使用量增长超过350倍。OpenAI与泰国高等教育、科学、研究与创新部将汇集10家泰国初创企业，开展为期八周的加速器项目。",
           "url": "https://flash.jin10.com/detail/20260829222350051800",
           "source": "金十数据",
           "ranks": [
-            1
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "02时02分"
         }
       ]
     },
@@ -193,10 +257,10 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -205,11 +269,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33972251",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
@@ -217,10 +281,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -229,11 +293,11 @@
           "url": "https://www.cls.cn/detail/2468421",
           "source": "财联社热门",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
