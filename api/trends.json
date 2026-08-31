@@ -1,152 +1,222 @@
 {
-  "generated_at": "2026-08-31T14:27:05.020891+08:00",
+  "generated_at": "2026-08-31T22:39:09.097550+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 7 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
         {
-          "title": "局势升级！美军袭击伊朗拉腊克岛 伊朗向美军基地发射导弹",
-          "url": "https://www.cls.cn/detail/2469012",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "伊朗称在霍尔木兹海峡上空击落美军MQ－9无人机",
-          "url": "https://news.ifeng.com/c/8w2DjWsOABO",
+          "title": "时隔1个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
+          "url": "https://news.ifeng.com/c/8w2qkRl4JUw",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
           "url": "https://wallstreetcn.com/articles/3780670",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
-          "title": "机密文件曝光：伊朗战事拖半年，多名美军高官直呼吃不消",
-          "url": "https://news.ifeng.com/c/8w2IwUBYCeb",
+          "title": "伊朗称在霍尔木兹海峡上空击落美军MQ－9无人机",
+          "url": "https://news.ifeng.com/c/8w2DjWsOABO",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
+        },
+        {
+          "title": "参加上合峰会前，伊朗总统对美表态",
+          "url": "https://news.ifeng.com/c/8w2uy9wPmyT",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "伊朗打击约旦美军基地以回应美袭击",
-          "url": "https://www.toutiao.com/trending/7680054985328954923/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "海峡失控风险骤升！超级油轮触雷起火，伊朗击落美军无人机",
-          "url": "https://flash.jin10.com/detail/20260831141445215800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "美军袭击伊朗拉腊克岛，这是美军一个月来首次对伊采取军事行动，伊方誓言报复，本次冲突会升级吗？",
           "url": "https://www.zhihu.com/question/2077683153028888495",
           "source": "知乎",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
-          "title": "伊朗股市开盘10分钟内剧烈波动",
-          "url": "https://flash.jin10.com/detail/20260831140047676800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "伊朗称非法过海峡油轮触雷起火",
-          "url": "https://wallstreetcn.com/livenews/3157577",
+          "title": "伊朗军方：伊方决心将美国人逐出西亚地区",
+          "url": "https://wallstreetcn.com/livenews/3157916",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "22时39分"
         },
         {
-          "title": "据半岛电视台：伊朗国家石油公司总经理表示，哈尔克岛局势平静，石油生产未受影响。",
-          "url": "https://flash.jin10.com/detail/20260831135318748800",
+          "title": "伊朗军方：伊方决心将美国人逐出西亚地区",
+          "url": "https://flash.jin10.com/detail/20260831215659060800",
           "source": "金十数据",
           "ranks": [
-            24
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "22时39分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "特朗普",
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 28.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.2 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 55,
         "chart": []
       },
       "titles": [
         {
-          "title": "老铺黄金董事长：金价大跌时选择观望",
-          "url": "https://www.toutiao.com/trending/7680008702467771923/",
+          "title": "美国财政部长贝森特：总统特朗普一直说，伊朗还没有准备好达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3157933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "邱震海：特朗普政府极度缺乏长期战略",
+          "url": "https://www.toutiao.com/trending/7680160937143176710/",
           "source": "今日头条",
           "ranks": [
-            28
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "time_info": "[22时38分 ~ 22时39分]"
+        },
+        {
+          "title": "特朗普力推建设数据中心：别杀死这只“下金蛋的鹅”",
+          "url": "https://flash.jin10.com/detail/20260831220340032800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "特朗普想靠委内瑞拉石油救SPR，却暴露了美国能源安全的致命短板",
+          "url": "https://flash.jin10.com/detail/20260831220146999800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.5 位，标题平均出现 1.5 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 63,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
+          "url": "https://www.cls.cn/detail/2469595",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
+        },
+        {
+          "title": "OpenAI扫货数万台，Mac mini意外成AI基础设施，苹果自己都没准备好！",
+          "url": "https://flash.jin10.com/detail/20260831215129031800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.5 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 63,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美伊冲突重燃推高油价 美股三大期指小幅下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2469970",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
+        },
+        {
+          "title": "美股三大股指开盘齐跌，道指跌0.49％，标普500指数跌0.25％，纳指跌0.18％。英特尔涨1.8%，此前报道称SK海力士正寻求合作开展芯片生产。因野火诉讼风险，PG&E大跌20%，爱迪生国际下跌23%。",
+          "url": "https://wallstreetcn.com/livenews/3157900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
@@ -154,71 +224,23 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 67,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "贝森特反驳对美债市场压力的担忧：“不确定所谓的动荡究竟在哪里”",
-          "url": "https://flash.jin10.com/detail/20260831141503874800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
         {
-          "title": "美股牛市还能持续多久？美银：恐在秋季受挫，两大“逆风”来袭！",
-          "url": "https://www.cls.cn/detail/2469007",
-          "source": "财联社热门",
+          "title": "沃什鹰派发言提振加息预期，美股下跌，10年期美债收益率创2025年1月以来新高，中东局势升温油价急涨",
+          "url": "https://wallstreetcn.com/articles/3780702",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "邵永灵：罗德里格斯投特朗普所好",
-          "url": "https://www.toutiao.com/trending/7680046081513623090/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "time_info": "[22时38分 ~ 22时39分]"
         }
       ]
     }
