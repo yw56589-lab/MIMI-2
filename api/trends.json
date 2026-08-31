@@ -1,19 +1,362 @@
 {
-  "generated_at": "2026-08-31T22:39:09.097550+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-01T04:31:28.564476+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 29,
+      "ai_insight": {
+        "analysis": "该板块当前收录 29 条热点，覆盖 5 个来源平台，平均热榜排名约 14.6 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 85,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普被问及是否正在重新审视对马岛问题的立场时表示，会一直重新审视各种立场，称这也是其中之一。",
+          "url": "https://flash.jin10.com/detail/20260901040616441800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普称伊朗已死",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%AD%BB%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：我已排除对伊朗使用核武器的可能性。 我们在全球各地储备了大量弹药。",
+          "url": "https://wallstreetcn.com/livenews/3158034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：我已排除对伊朗使用核武器的可能。",
+          "url": "https://flash.jin10.com/detail/20260901040353162800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：将迅速补充战略石油储备（SPR）。 希望用委内瑞拉石油来回填SPR。",
+          "url": "https://wallstreetcn.com/livenews/3158032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们在全世界拥有大量弹药。",
+          "url": "https://flash.jin10.com/detail/20260901040232783800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普谈及委内瑞拉：我们有大型石油企业正进驻当地。这对他们而言是一笔不错的交易。 该国如何应对石油输出国组织，由他们自己决定。 埃克森美孚与雪佛龙将进入委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3158031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：我想填补石油战略储备。",
+          "url": "https://flash.jin10.com/detail/20260901040126081800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "霍尔木兹局势再升级：超级油轮疑遭水雷袭击，特朗普威胁“狠狠打击”，布油突破91美元关口",
+          "url": "https://wallstreetcn.com/articles/3780742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国最高法院允许特朗普政府在法律诉讼进行期间继续建设白宫宴会厅。",
+          "url": "https://flash.jin10.com/detail/20260901040017523800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：埃克森美孚石油(XOM.N)和雪佛龙(CVX.N)将进入委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20260901035939117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：这个交易对委内瑞拉来说是个好交易。",
+          "url": "https://flash.jin10.com/detail/20260901035856835800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普：沃什在利率问题上“会做他必须做的事”",
+          "url": "https://wallstreetcn.com/livenews/3158024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：（关于委内瑞拉）我们有大型石油公司进驻。",
+          "url": "https://flash.jin10.com/detail/20260901035816582800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗打击（美军基地）的影响将是有限的。 霍尔木兹海峡形势极其良好。 大量石油正从霍尔木兹海峡运出。 我们或许会打击伊朗，后续情况有待观察。 昨晚有很多船只通过了霍尔木兹海峡，平均每晚有30艘船通过。 伊朗方面不清楚谁是其领导人。",
+          "url": "https://wallstreetcn.com/livenews/3158023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉如何处理与欧佩克的关系，由委内瑞拉自己决定。",
+          "url": "https://flash.jin10.com/detail/20260901035814668800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普在加拿大的实名认证地标要没了",
+          "url": "https://www.toutiao.com/trending/7680204181482769962/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普称可能打击会打击伊朗 重申美国利率过高",
+          "url": "https://flash.jin10.com/detail/20260901035807972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：现在谈论美国国防部长赫格塞思在2028年选举的事还为时尚早。",
+          "url": "https://flash.jin10.com/detail/20260901035421064800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们应该享有全球最低的利率。",
+          "url": "https://flash.jin10.com/detail/20260901035010329800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：我非常尊重美联储主席沃什，他会做他必须做的事情。",
+          "url": "https://flash.jin10.com/detail/20260901034934902800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：利率过高。",
+          "url": "https://flash.jin10.com/detail/20260901034907045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260901034811737800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普：又有9家医药公司承诺降低药品价格",
+          "url": "https://wallstreetcn.com/livenews/3158016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：我觉得伊朗不知道他们的领导是谁。",
+          "url": "https://flash.jin10.com/detail/20260901034806968800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡有大量石油流出。",
+          "url": "https://flash.jin10.com/detail/20260901034806382800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们可能会打击伊朗，看看接下来会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260901034745122800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "邱震海：特朗普政府极度缺乏长期战略",
+          "url": "https://www.toutiao.com/trending/7680160937143176710/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：昨晚有很多船只通过了霍尔木兹海峡，平均每晚有30艘船通过。",
+          "url": "https://flash.jin10.com/detail/20260901034715970800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
+        {
+          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
+          "url": "https://wallstreetcn.com/articles/3780670",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
         {
           "title": "时隔1个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
           "url": "https://news.ifeng.com/c/8w2qkRl4JUw",
@@ -22,19 +365,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
-        },
-        {
-          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
-          "url": "https://wallstreetcn.com/articles/3780670",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "伊朗称在霍尔木兹海峡上空击落美军MQ－9无人机",
@@ -44,8 +376,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "参加上合峰会前，伊朗总统对美表态",
@@ -55,8 +387,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "美军袭击伊朗拉腊克岛，这是美军一个月来首次对伊采取军事行动，伊方誓言报复，本次冲突会升级吗？",
@@ -66,136 +398,66 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
-          "title": "伊朗军方：伊方决心将美国人逐出西亚地区",
-          "url": "https://wallstreetcn.com/livenews/3157916",
+          "title": "伊朗军方：绝不容忍任何侵略行为",
+          "url": "https://wallstreetcn.com/livenews/3158020",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "04时31分"
         },
         {
-          "title": "伊朗军方：伊方决心将美国人逐出西亚地区",
-          "url": "https://flash.jin10.com/detail/20260831215659060800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.2 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 55,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美国财政部长贝森特：总统特朗普一直说，伊朗还没有准备好达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3157933",
+          "title": "伊朗称美国必须重返谅解备忘录才能摆脱现在局面”",
+          "url": "https://wallstreetcn.com/livenews/3158009",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "邱震海：特朗普政府极度缺乏长期战略",
-          "url": "https://www.toutiao.com/trending/7680160937143176710/",
-          "source": "今日头条",
-          "ranks": [
-            13
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
-        },
-        {
-          "title": "特朗普力推建设数据中心：别杀死这只“下金蛋的鹅”",
-          "url": "https://flash.jin10.com/detail/20260831220340032800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "特朗普想靠委内瑞拉石油救SPR，却暴露了美国能源安全的致命短板",
-          "url": "https://flash.jin10.com/detail/20260831220146999800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.5 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 63,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
-          "url": "https://www.cls.cn/detail/2469595",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
-        },
-        {
-          "title": "OpenAI扫货数万台，Mac mini意外成AI基础设施，苹果自己都没准备好！",
-          "url": "https://flash.jin10.com/detail/20260831215129031800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "04时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 63,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
+        {
+          "title": "金十图示：2026年08月31日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260901040536689800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "周一（8月31日），美股行业ETF多数收跌，全球航空业ETF收跌2.33%，网络股指数ETF跌0.65%，全球科技股指数ETF涨0.38%，科技行业ETF涨0.44%，半导体ETF涨0.64%，能源业ETF涨2%。 1-8月，半导体ETF累涨54.56%，能源业ETF涨44.97%，全球科技股指数ETF、科技行业ETF至少涨29.86%，可选消费ETF跌1.97%。",
+          "url": "https://wallstreetcn.com/livenews/3158035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
         {
           "title": "美伊冲突重燃推高油价 美股三大期指小幅下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2469970",
@@ -204,19 +466,135 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
-          "title": "美股三大股指开盘齐跌，道指跌0.49％，标普500指数跌0.25％，纳指跌0.18％。英特尔涨1.8%，此前报道称SK海力士正寻求合作开展芯片生产。因野火诉讼风险，PG&E大跌20%，爱迪生国际下跌23%。",
-          "url": "https://wallstreetcn.com/livenews/3157900",
+          "title": "金十图示：2026年08月31日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260901040520302800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 特斯拉涨超5%",
+          "url": "https://flash.jin10.com/detail/20260901040117936800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 4.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 73,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "法律文件显示：苹果称在针对OpenAI的商业秘密案件中，被告利用苹果专有信息训练人工智能智能体。 在针对OpenAI的商业秘密案中，被告任职于OpenAI期间获取了电源转换器电路原理图。 苹果正请求美国联邦法院加快推进针对OpenAI商业秘密案件的证据开示程序。 苹果表示，作为司法程序的一部分，OpenAI于8月21日向苹果提供的MacBook电脑中发现了新证据。",
+          "url": "https://wallstreetcn.com/livenews/3158039",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "04时31分"
+        },
+        {
+          "title": "怎么看 OpenAI 的 Codex 将取消上下文压缩，换成「硬切窗口 」和「外部记忆」？",
+          "url": "https://www.zhihu.com/question/2077507444545165165",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
+          "url": "https://www.cls.cn/detail/2469595",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "北美科技软件股指数ETF涨0.44%，报109.98美元，8月份累计上涨16.28%，延续7月份反弹4.39%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3158038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "彭博美元指数8月份跌约0.9%",
+          "url": "https://wallstreetcn.com/livenews/3158017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "8月份，标普累涨约2.5%，道指累涨1.4%，纳指累涨4%。 标普500指数初步收跌0.3%，电信板块跌1.5%，科技板块涨0.2%，能源板块涨2.1%。 纳斯达克100指数初步收涨0.1%，成分股中，TTWO初步收跌6.5%，AXON跌5.4%，Workday跌3.8%，亚马逊跌2.2%，谷歌A跌1.9%，拼多多跌1.8%，美光科技涨2.5%，高通涨2.9%，Strategy涨4%，闪迪涨5.4%，CrowdStrike、特斯拉涨5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3158030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -224,10 +602,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -236,11 +614,11 @@
           "url": "https://wallstreetcn.com/articles/3780702",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     }
