@@ -1,19 +1,109 @@
 {
-  "generated_at": "2026-09-01T18:49:11.440269+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-09-01T23:21:06.349848+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "ai_insight": {
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.3 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 58,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗国家安全委员会发言人： 委员会批准了《霍尔木兹海峡可持续安全与进步战略行动》法案第二条第5款，该条款要求为航道通行潜在风险提供银行担保与保险保障。 法案第六条亦获通过，该条明确了服务费与保险费率的确定机制及执行条例。",
+          "url": "https://wallstreetcn.com/livenews/3158630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "美国被曝考虑“定期打击”海峡附近伊朗军事目标",
+          "url": "https://wallstreetcn.com/livenews/3158627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "普京与伊朗总统会晤",
+          "url": "https://news.ifeng.com/c/8w4YuyC1zJC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
+          "title": "普京与伊朗总统会面",
+          "url": "https://www.toutiao.com/trending/7680555589530910746/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
+          "title": "伊朗：不允许美国让船只从霍尔木兹海峡南线通过的企图",
+          "url": "https://wallstreetcn.com/livenews/3158606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "伊朗称外汇储备充足",
+          "url": "https://wallstreetcn.com/livenews/3158599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
+        {
+          "title": "特朗普“密友”戴安斯再度访华",
+          "url": "https://news.ifeng.com/c/8w4YuyC1zQl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
         {
           "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
           "url": "https://wallstreetcn.com/articles/3780764",
@@ -23,194 +113,65 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
+          "time_info": "[23时20分 ~ 23时21分]"
         },
         {
-          "title": "美媒曝光特朗普对伊新计划",
-          "url": "https://news.ifeng.com/c/8w3jli5zgve",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "特朗普：你们再反对建数据中心，中国要高兴死了",
-          "url": "https://news.ifeng.com/c/8w3rdWzNf5c",
+          "title": "事关马岛，特朗普首次公开表态",
+          "url": "https://news.ifeng.com/c/8w4Ju2hTtqD",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
+          "time_info": "[23时20分 ~ 23时21分]"
         },
         {
-          "title": "霍尔木兹局势再升级：超级油轮疑遭水雷袭击，特朗普威胁“狠狠打击”，布油突破91美元关口",
-          "url": "https://wallstreetcn.com/articles/3780742",
+          "title": "伊朗喊话美国重返停火备忘录，万斯称特朗普发轰炸哈尔克岛视频在向伊“传递信息”",
+          "url": "https://wallstreetcn.com/articles/3780760",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
+          "time_info": "[23时20分 ~ 23时21分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-01）",
-          "url": "https://flash.jin10.com/detail/20260901175806352800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 15.3 位，标题平均出现 1.3 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 57,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "时隔一个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33978400",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：伊朗总统佩泽希齐扬称，美国的压力和威胁削弱了外交努力。",
-          "url": "https://flash.jin10.com/detail/20260901181613722800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "市场消息：伊朗国会国家安全与外交政策委员会成员马哈茂德·纳巴维安称，伊朗应该对美国在中东的利益发起先发制人的攻击，以迫使华盛顿撤退并打破封锁。",
-          "url": "https://flash.jin10.com/detail/20260901175921713800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 60,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
-          "url": "https://wallstreetcn.com/articles/3780702",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "蔚来汽车：第二季度营收321.4亿元人民币，同比增长69%，市场预期333.6亿元。 第二季度汽车销售收入227.8亿元人民币，同比增长41%，市场预期298.3亿元。 第二季度交付量107,658辆，同比增长49%，市场预期111,501辆。 预计第三季度营收332.9亿元至340.5亿元人民币，市场预期355.8亿元。 预计第三季度交付量10.8万辆至11.1万辆，市场预期12.34万辆。 蔚来美股盘前跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3158471",
+          "title": "美联邦航空管理局拟限制特朗普佛州住所附近空域飞行",
+          "url": "https://wallstreetcn.com/livenews/3158604",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 73,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "Kimi向微软、亚马逊、谷歌要30%分成，开源模型开始“海外收租”了",
-          "url": "https://wallstreetcn.com/articles/3780733",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 60,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "软银支持的SB Energy称软银、OpenAI和英伟达是其业务的战略投资者。",
-          "url": "https://flash.jin10.com/detail/20260901180904478800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "23时21分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.7 位，标题平均出现 1.3 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 53,
         "chart": []
       },
       "titles": [
+        {
+          "title": "美债点火，负Gamma放大美股波动？",
+          "url": "https://flash.jin10.com/detail/20260901225009833800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
         {
           "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
           "url": "https://wallstreetcn.com/articles/3780747",
@@ -220,7 +181,64 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
+          "title": "30年美债连续55个交易日站上5%，大科技正在和国债抢钱？ | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260901223310960800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 2.7 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 69,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350",
+          "url": "https://wallstreetcn.com/articles/3780783",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
+          "title": "美股三大期指集体走低 市场转而押注美联储本月加息 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2471151",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
+          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
+          "url": "https://wallstreetcn.com/articles/3780702",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         }
       ]
     }
