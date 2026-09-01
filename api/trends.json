@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-02T03:02:25.871452+08:00",
+  "generated_at": "2026-09-02T06:13:24.505791+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 18 条热点，覆盖 3 个来源平台，平均热榜排名约 15.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 3 个来源平台，平均热榜排名约 16.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -15,26 +15,15 @@
       },
       "titles": [
         {
-          "title": "阿萨卢耶传出爆炸声，该地是波斯湾沿岸重要天然气枢纽。（伊朗媒体Fars News）",
-          "url": "https://wallstreetcn.com/livenews/3158710",
+          "title": "伊朗军方对美国驻巴林基地发动大规模无人机袭击。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3158794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗将针对美国在地区的基地和利益。（Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3158709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
           "title": "普京与伊朗总统会晤",
@@ -45,317 +34,128 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
-          "title": "伊朗已向敌方位置发射导弹和无人机。（伊朗媒体Fars）",
-          "url": "https://wallstreetcn.com/livenews/3158705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗多地再次传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3158702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美国将伊朗东南部Jiroft（吉罗夫特）机场列为袭击目标。（IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3158700",
+          "title": "两名美国官员表示，伊朗袭击约旦境内设施目前未造成美方人员伤亡。",
+          "url": "https://wallstreetcn.com/livenews/3158788",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
-          "title": "据伊朗媒体：霍尔木兹甘省阿萨卢耶和伦格港传出新的爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260902023449517800",
+          "title": "据伊朗Press TV：伊朗军方称，在密集无人机袭击中，美军及巴林空军基地的雷达设备成为打击目标。",
+          "url": "https://flash.jin10.com/detail/20260902053910291800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "伊朗称对巴林美军基地发动无人机打击",
+          "url": "https://flash.jin10.com/detail/20260902053527627800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
-          "title": "据伊朗媒体Fars News：阿萨卢耶传出爆炸声，该地是波斯湾沿岸重要天然气枢纽。",
-          "url": "https://flash.jin10.com/detail/20260902023204959800",
+          "title": "据伊朗媒体Fars News：伊朗军方对美军驻巴林基地发动无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260902053209311800",
           "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
-          "title": "伊朗岛屿Lavan Glasses传出爆炸声。（IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3158694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗阿萨卢耶县长称，该县境内听到了爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260902022904947800",
+          "title": "市场消息：两名美国官员表示，迄今为止，伊朗对约旦设施的攻击未造成美国人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260902051743667800",
           "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗南部工厂、码头、港口塔楼成为美军的袭击目标。（伊朗媒体MEHR）",
-          "url": "https://wallstreetcn.com/livenews/3158692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美、布两油短线拉升，WTI原油突破89美元/桶，日内涨4.22%。布伦特原油向上触及94美元/桶，日内涨4.07%。消息面上，伊朗已向敌方阵地发射了导弹和无人机。",
-          "url": "https://flash.jin10.com/detail/20260902022901066800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗武装部队：已发起决定性行动，以回应美国恐怖主义敌人。美国在该地区的基地和利益将成为伊朗导弹和无人机的打击目标。",
-          "url": "https://flash.jin10.com/detail/20260902022827835800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：侵略者将遭到严厉惩罚，美国会为其新一轮袭击感到后悔。",
-          "url": "https://wallstreetcn.com/livenews/3158689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：伊朗已向敌方阵地发射了导弹和无人机。",
-          "url": "https://flash.jin10.com/detail/20260902022342381800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗将针对美国袭击发起“更大规模”反击。（伊朗媒体Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3158687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗威胁巴林和科威特：“礼物已在路上”",
-          "url": "https://flash.jin10.com/detail/20260902022301046800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美军称对伊朗目标发动新一轮打击",
-          "url": "https://wallstreetcn.com/livenews/3158681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 11,
-      "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 5 个来源平台，平均热榜排名约 12.1 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 85,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普“密友”戴安斯再度访华",
-          "url": "https://news.ifeng.com/c/8w4YuyC1zQl",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
-          "url": "https://wallstreetcn.com/articles/3780764",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美国总统特朗普：美军新一轮空袭的目标是伊朗的雷达系统。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3158708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "事关马岛，特朗普首次公开表态",
-          "url": "https://news.ifeng.com/c/8w4Ju2hTtqD",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗喊话美国重返停火备忘录，万斯称特朗普发轰炸哈尔克岛视频在向伊“传递信息”",
-          "url": "https://wallstreetcn.com/articles/3780760",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "据NewsNation：白宫官员称特朗普总统与石油和天然气行业高管的会面已经结束。",
-          "url": "https://flash.jin10.com/detail/20260902024040951800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗达成的协议毫无价值，我已经给了伊朗很多机会。",
-          "url": "https://wallstreetcn.com/livenews/3158697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "大外交丨特朗普“密友”戴安斯再度访华，中美近期各领域互动频密",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33983668",
-          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
-          "title": "特朗普称伊朗若报复将遭更猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3158690",
+          "title": "【伊朗称用重型导弹打击约旦美军营地，造成大量美军死伤】当地时间今天凌晨，伊朗伊斯兰革命卫队发布声明称，向约旦亚喀巴湾沿岸的美国海军陆战队营地发射了重型弹道导弹，“摧毁了数个重要设施和敌方攻击直升机，造成大量美军死伤”。声明称，伊朗的复仇行动仍在继续。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3158776",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
-          "title": "美国总统特朗普：（当被问及今晚伊朗有哪些目标被击中时）大量雷达设施。",
-          "url": "https://flash.jin10.com/detail/20260902021943586800",
+          "title": "伊朗革命卫队航空航天部队发布了伊朗弹道导弹向约旦发射的画面，称这是今晚对美国基地报复行动的一部分。主要打击目标为位于约旦的穆瓦法克·萨尔蒂空军基地和蒂廷营地。",
+          "url": "https://flash.jin10.com/detail/20260902050303330800",
           "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "伊朗称用重型导弹打击约旦美军营地",
+          "url": "https://flash.jin10.com/detail/20260902045838386800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：已对约旦亚喀巴湾附近的美军海军陆战队基地蒂丁营地实施大规模弹道导弹打击，此次袭击造成美军重大人员伤亡，摧毁多处关键设施以及攻击直升机。",
+          "url": "https://wallstreetcn.com/livenews/3158771",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
-          "title": "美国总统特朗普：美军正对霍尔木兹海峡附近伊朗目标发动大规模强力打击，若伊朗报复将遭更重打击。 美国对袭击伊朗的行动规模和力度都大。 袭击行动是对伊朗布雷行动的报复。 伊朗向约旦的美军基地发射8枚导弹，美国成功击落8枚伊朗导弹。",
-          "url": "https://wallstreetcn.com/livenews/3158684",
+          "title": "伊朗一婚礼因美军袭击4死50伤",
+          "url": "https://wallstreetcn.com/livenews/3158769",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 4.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -368,64 +168,200 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
           "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
           "url": "https://wallstreetcn.com/articles/3780702",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
           "title": "美股三大期指集体走低 市场转而押注美联储本月加息 | 今夜看点",
           "url": "https://www.cls.cn/detail/2471151",
           "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
         },
         {
           "title": "Citadel：9月美股或迎“战术性下行窗口”，建议逢高减仓、低价买保护",
           "url": "https://wallstreetcn.com/articles/3780833",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美伊互轰深夜升级！特朗普称打击规模“庞大且强劲” 美股受累跳水",
+          "url": "https://www.cls.cn/detail/2471341",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数跌5.04%，报66.38点，跳空低开之后低位震荡。 00:55 最近24小时，比特币跌1.96%，暂报77310.62美元，整体持续下挫。 以太坊跌2.37%，报2414.265美元。",
+          "url": "https://wallstreetcn.com/livenews/3158779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "周二（9月1日）纽约尾盘，现货黄金跌2.48%，报4327.29美元/盎司，整体持续下挫。 现货白银跌3.70%，报64.1123美元/盎司。 COMEX铜期货跌2.31%，报6.5330美元/磅。 在美股时段交易的费城金银指数收跌3.88%，报391.81点，跳空低开之后，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.32%，报2742.58点。 在美股时段交易的原材料指数收跌1.47%，金属与矿业指数收跌0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3158770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 18.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "Google DeepMind首席执行官在G20技术会议上表示，各国应建立人工智能测试框架。",
-          "url": "https://wallstreetcn.com/livenews/3158688",
+          "title": "据华尔街日报，谷歌公司最快可能将在周三发布Gemini 3.8 Flash。 谷歌正在筹备一款编程能力更强的全新AI模型，力求缩小与OpenAI以及Anthropic之间的技术差距。 谷歌A美股盘后涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3158781",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时13分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，谷歌(GOOG.O)已增加投入到强化学习领域的资源。",
+          "url": "https://flash.jin10.com/detail/20260902050733709800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，谷歌(GOOG.O)员工在内部编程工具测试中，更倾向使用Gemini 3.8 Flash，而不是Claude Opus。",
+          "url": "https://flash.jin10.com/detail/20260902050731648800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，谷歌(GOOG.O)本周三将发布Gemini 3.8 Flash人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260902050651873800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普“密友”戴安斯再度访华",
+          "url": "https://news.ifeng.com/c/8w4YuyC1zQl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "事关马岛，特朗普首次公开表态",
+          "url": "https://news.ifeng.com/c/8w4Ju2hTtqD",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "大外交丨特朗普“密友”戴安斯再度访华，中美近期各领域互动频密",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33983668",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 69,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "沙特阿美销售32.5亿美元债券（五年期+10年期），获得超过150亿美元认购。 其中，10年期债券收益率定价较可比美债溢价0.8个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3158795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     }
