@@ -1,321 +1,152 @@
 {
-  "generated_at": "2026-09-01T08:13:58.040209+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-09-01T13:54:33.506697+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 11,
+      "keyword_group": "伊朗",
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 5 个来源平台，平均热榜排名约 13.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普将于美东时间周二13:30会见油气零售商及炼油厂代表。",
-          "url": "https://wallstreetcn.com/livenews/3158095",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长表示，尽管民众感受到了通胀的压力，我们尚未陷入恶性通胀，而且我认为其发生的可能性较低。",
+          "url": "https://flash.jin10.com/detail/20260901134705282800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         },
         {
-          "title": "特朗普称伊朗已死",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%AD%BB%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "据华尔街日报：亿万富翁乔斯利·巴蒂斯塔兼JBS股东，曾游说特朗普降低牛肉进口关税，以遏制美国国内牛肉价格上涨。",
-          "url": "https://flash.jin10.com/detail/20260901080624573800",
-          "source": "金十数据",
+          "title": "伊朗总统佩泽希齐扬：一旦美国恢复履行6月谅解备忘录中的承诺，伊朗将立即作出对等回应。",
+          "url": "https://wallstreetcn.com/livenews/3158278",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         },
         {
-          "title": "数据中心拖累选情 特朗普急喊：反对AI基建最终将“落后且贫穷”",
-          "url": "https://www.cls.cn/detail/2470175",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "美国总统特朗普周二日程一览",
-          "url": "https://flash.jin10.com/detail/20260901080450031800",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长表示，我可以明确声明，所谓伊朗濒临经济崩溃的说法是错误的。伊朗正在持续追回应收款项和外汇来源，此外，我们还拥有国内储备。我们还拥有一些资源，但出于各种原因，无法透露具体细节。我要对美国总统说，伊朗拥有外汇，而且数量充足。",
+          "url": "https://flash.jin10.com/detail/20260901134316738800",
           "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "委内瑞拉石油出口激增，特朗普寻求更大控制权",
-          "url": "https://wallstreetcn.com/livenews/3158079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "特朗普再与九家制药商达成药品补助协议，百济神州位列其中",
-          "url": "https://wallstreetcn.com/livenews/3158075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "特朗普豪言美国GDP能涨20%，还要求美联储降息",
-          "url": "https://flash.jin10.com/detail/20260901074639506800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "美陆军部长被曝已向特朗普递交辞呈",
-          "url": "https://www.toutiao.com/trending/7680307534724645403/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "美媒：美国陆军部长向特朗普递交辞呈",
-          "url": "https://wallstreetcn.com/livenews/3158063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "特朗普称美最高法院已裁定支持白宫宴会厅建设项目",
-          "url": "https://wallstreetcn.com/livenews/3158062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "【早报】纳指8月累涨3.9%；特斯拉大涨；美股存储芯片股，多数上涨；布油站上90美元；黄金走低",
-          "url": "https://www.cls.cn/detail/2470210",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
-          "url": "https://wallstreetcn.com/articles/3780702",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "美股收盘：中东战火冲击美国股债汇齐跌 特斯拉逆势涨超5%",
-          "url": "https://www.cls.cn/detail/2470198",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "美伊冲突重燃推高油价 美股三大期指小幅下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2469970",
-          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         },
         {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.toutiao.com/trending/7680282237199319598/",
-          "source": "今日头条",
+          "title": "前美国大使：美国的经济压力不会迫使伊朗改变行为",
+          "url": "https://flash.jin10.com/detail/20260901133529347800",
+          "source": "金十数据",
           "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         },
         {
-          "title": "摩根大通交易员放弃短期内看涨美股的立场",
-          "url": "https://wallstreetcn.com/livenews/3158064",
-          "source": "华尔街见闻-快讯",
+          "title": "时隔一个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33978400",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗总统在上合组织峰会上表示，实践清楚地表明，安全与发展并非两个独立的概念，而是相互关联、不可分割的。",
+          "url": "https://flash.jin10.com/detail/20260901132530373800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "伊朗学生通讯社：伊朗总统在上合组织峰会上表示，一旦美国恢复对6月谅解备忘录的承诺，伊朗将立即作出回应。",
+          "url": "https://flash.jin10.com/detail/20260901132255421800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
         {
-          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
-          "url": "https://wallstreetcn.com/articles/3780670",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "时隔1个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
-          "url": "https://news.ifeng.com/c/8w2qkRl4JUw",
+          "title": "美媒曝光特朗普对伊新计划",
+          "url": "https://news.ifeng.com/c/8w3jli5zgve",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         },
         {
-          "title": "参加上合峰会前，伊朗总统对美表态",
-          "url": "https://news.ifeng.com/c/8w2uy9wPmyT",
+          "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
+          "url": "https://wallstreetcn.com/articles/3780764",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "特朗普：你们再反对建数据中心，中国要高兴死了",
+          "url": "https://news.ifeng.com/c/8w3rdWzNf5c",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         },
         {
-          "title": "美国副总统万斯：美军昨晚袭击了伊朗。 美方正确保商业活动在霍尔木兹海峡自由流动。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3158076",
+          "title": "特朗普提议对美国电影行业推出联邦税收抵免措施",
+          "url": "https://wallstreetcn.com/livenews/3158274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "道明证券全球大宗商品策略主管梅莱克：由于伊朗冲突下一阶段的不确定性持续存在，交易员本周减少了原油净持仓。我们仍然预期原油价格将继续上涨，因为没有迹象表明霍尔木兹海峡的正常通行会在短期内恢复。",
-          "url": "https://flash.jin10.com/detail/20260901074405314800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
-          "url": "https://www.cls.cn/detail/2469595",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "怎么看 OpenAI 的 Codex 将取消上下文压缩，换成「硬切窗口 」和「外部记忆」？",
-          "url": "https://www.zhihu.com/question/2077507444545165165",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         }
       ]
     },
@@ -323,34 +154,69 @@
       "keyword_group": "美债",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 18.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
+        {
+          "title": "抛售再现！10年期美债收益率创19个月新高 关键堡垒告破……",
+          "url": "https://www.cls.cn/detail/2470279",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
         {
           "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
           "url": "https://wallstreetcn.com/articles/3780747",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
+          "url": "https://wallstreetcn.com/articles/3780702",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
-          "title": "10年期美债收益率涨3.2个基点，一度创2025年1月以来新高，8月份微涨1.5个基点",
-          "url": "https://wallstreetcn.com/livenews/3158058",
-          "source": "华尔街见闻-快讯",
+          "title": "美股近4周持仓首次转正，但要小心短期反弹后走弱",
+          "url": "https://flash.jin10.com/detail/20260901132850076800",
+          "source": "金十数据",
           "ranks": [
-            28
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         }
       ]
     },
@@ -358,10 +224,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -370,11 +236,11 @@
           "url": "https://wallstreetcn.com/articles/3780733",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时54分"
         }
       ]
     }
