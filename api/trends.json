@@ -1,13 +1,136 @@
 {
-  "generated_at": "2026-09-03T02:16:32.417187+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-03T05:27:48.194709+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 7,
+      "keyword_group": "美股",
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 6.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 2 个来源平台，平均热榜排名约 15.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "周三（9月2日），美股存储芯片与硬件供应链指数涨0.76%，报95.85点，绝大部分时间高位持稳。",
+          "url": "https://wallstreetcn.com/livenews/3159470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "油价涨势暂歇缓解通胀担忧，美股开盘涨跌互现，戴尔涨超8%，美元走低",
+          "url": "https://wallstreetcn.com/articles/3780885",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（9月2日），美国科技股七巨头（Magnificent 7）指数涨0.87%，报226.71点，美股早盘持续上涨，随后高位窄幅震荡。 “超大”市值科技股指数涨0.58%，报445.95点。",
+          "url": "https://wallstreetcn.com/livenews/3159468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "“Sell Sell or Sell”！美银警告：9月美股仅剩90亿美元买盘空间 ，一旦下跌或触发1630亿卖盘",
+          "url": "https://wallstreetcn.com/articles/3780920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "Snowflake美股盘后飙涨22%，该公司业绩报告“健康”、AI编程出现动能。",
+          "url": "https://wallstreetcn.com/livenews/3159462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "黄金ETF收盘反弹超1.5%，小盘股指ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3159460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "周三（9月2日），美股行业ETF几乎全线上涨，区域银行收涨2.23%，银行业ETF涨2.09%，全球航空业ETF涨1.58%，生物科技指数ETF涨1.41%，半导体ETF涨0.96%，全球科技股指数ETF涨0.27%，网络股指数ETF涨0.09%，科技行业ETF则跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3159454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "Snowflake美股盘后涨18%。 该公司二季度营收15.5亿美元，分析师预期14.9亿美元。 二季度产品收入14.9亿美元，分析师预期14.2亿美元。 二季度调整后、稀释后每股收益（EPS）为0.62美元，分析师预期0.45美元。 预计全年产品营收60.7亿美元，分析师预期58.6亿美元，公司原本预计58.4亿美元。 预计三季度产品营收15.9亿美元（左右），分析师预期15.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3159451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "C3.ai第一财季营收5240万美元，分析师预期5230万美元。 维持全年营收预期在2.10亿-2.40亿美元不变，分析师预期2.272亿美元。 预计第二财季营收5100万-5500万美元，分析师预期5680万美元。 C3.ai美股盘后涨7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3159450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "惠与（HPE）第三财季净营收122.1亿美元，分析师预期119亿美元。 预计全年调整后每股收益（EPS）为3.75-3.85美元，公司原本预计3.35-3.45美元。 惠与美股盘后转而下跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3159449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 75,
@@ -15,92 +138,48 @@
       },
       "titles": [
         {
-          "title": "美国总统特朗普：加拿大数十年来一直都在剥削美国。 继续在银行业问题上批评加拿大。",
-          "url": "https://wallstreetcn.com/livenews/3159416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗政府日益衰弱。",
-          "url": "https://wallstreetcn.com/livenews/3159414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
-          "url": "https://wallstreetcn.com/articles/3780851",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国总统特朗普与美国旅游业高管会面。",
-          "url": "https://flash.jin10.com/detail/20260903015049432800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国财政部发布多份委内瑞拉通用许可证。 特朗普政府允许一些与委内瑞拉煤炭、黄金、矿业相关的活动。",
-          "url": "https://wallstreetcn.com/livenews/3159412",
+          "title": "博通CEOHock Tan：新款谷歌TPU芯片与英伟达Vera Rubin一样优秀，甚至更好。 本季度，我们已开始向谷歌量产交付下一代TPU 8I版本产品。 同时预计第四季度将加大向谷歌批量交付TPU 8I版本产品。 预计第四季度将加快向Anthropic交付Ironwood芯片。 预计第四季度将大规模量产交付Meta定制版MTIA加速器。 将2026财年人工智能业务营收指引从560亿美元上调至580亿美元，预计同比将增长186%。 未来数年，每年都将交付数百亿块TPUs。 预计Anthropic将在2027年部署5GW TPU，OpenAI也有望仔2028年部署5GW芯片。",
+          "url": "https://wallstreetcn.com/livenews/3159473",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时27分"
         },
         {
-          "title": "美国商务部长卢特尼克：Anthropic与总统特朗普消除分歧。",
-          "url": "https://wallstreetcn.com/livenews/3159404",
-          "source": "华尔街见闻-快讯",
+          "title": "Gemini 3.8 Flash 发布，有什么值得关注的？",
+          "url": "https://www.zhihu.com/question/2078626349426683976",
+          "source": "知乎",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时27分"
         },
         {
-          "title": "美国铸币局正式推出印有特朗普头像的1美元硬币",
-          "url": "https://wallstreetcn.com/livenews/3159391",
-          "source": "华尔街见闻-快讯",
+          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
+          "source": "澎湃新闻",
           "ranks": [
-            23
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时27分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 17.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -113,7 +192,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时27分"
         },
         {
           "title": "伊朗总统儿子称“不搞浓缩铀我们也死不了”，强硬派怒了",
@@ -124,62 +203,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时27分"
         },
         {
-          "title": "伊朗军方：美方近期多场交战“均告失败”",
-          "url": "https://flash.jin10.com/detail/20260903013348504800",
-          "source": "金十数据",
+          "title": "美军轰炸伊朗南部多地",
+          "url": "https://www.douyin.com/hot/2632320",
+          "source": "抖音",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "伊朗外交部强烈谴责美军袭击伊朗民用基础设施",
-          "url": "https://wallstreetcn.com/livenews/3159396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "伊朗：昨夜美军袭击造成18人死亡，108人受伤。（伊朗媒体IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3159388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "汇率追踪网站显示，伊朗货币兑美元汇率跌至历史新低，超过220万里亚尔兑换1美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3159386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "伊朗：4名士兵在美军袭击中死亡",
-          "url": "https://www.toutiao.com/trending/7680509153680556086/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时27分"
         }
       ]
     },
@@ -187,7 +222,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -199,35 +234,11 @@
           "url": "https://www.zhihu.com/question/2077826134134282169",
           "source": "知乎",
           "ranks": [
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时27分"
         }
       ]
     },
@@ -235,7 +246,55 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 66,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "博通CEO：我们正与OpenAI合作开发第三代XPU。",
+          "url": "https://wallstreetcn.com/livenews/3159476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "国际金价周三涨约1.4%，美股盘初逼近4400美元",
+          "url": "https://wallstreetcn.com/livenews/3159467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 28.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -243,63 +302,15 @@
       },
       "titles": [
         {
-          "title": "OpenAI的CEO Sam Altman在二十国集团（G20）活动期间会见美国商务部长卢特尼克。 OpenAI称，人工智能将是全球商业史上规模最大的繁荣。",
-          "url": "https://wallstreetcn.com/livenews/3159393",
+          "title": "派拓网络PANW收跌9.3%，创逾两年来最差单日表现。 北美科技软件股指数ETF收跌2.6%，报103.42美元。 Global X网络安全ETF跌2.36%，纳斯达克网络安全ETF跌2.77%，ETFMG网络安全ETF跌2.21%。",
+          "url": "https://wallstreetcn.com/livenews/3159445",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 67,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "贝森特：美债回购旨在推动价格回归均衡并释放银行空间",
-          "url": "https://flash.jin10.com/detail/20260903015712677800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "油价涨势暂歇缓解通胀担忧，美股开盘涨跌互现，戴尔涨超8%，美元走低",
-          "url": "https://wallstreetcn.com/articles/3780885",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时27分"
         }
       ]
     }
