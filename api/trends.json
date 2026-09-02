@@ -1,16 +1,106 @@
 {
-  "generated_at": "2026-09-02T22:49:37.575030+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-09-03T02:16:32.417187+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 7.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 6.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美国总统特朗普：加拿大数十年来一直都在剥削美国。 继续在银行业问题上批评加拿大。",
+          "url": "https://wallstreetcn.com/livenews/3159416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗政府日益衰弱。",
+          "url": "https://wallstreetcn.com/livenews/3159414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
+          "url": "https://wallstreetcn.com/articles/3780851",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普与美国旅游业高管会面。",
+          "url": "https://flash.jin10.com/detail/20260903015049432800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国财政部发布多份委内瑞拉通用许可证。 特朗普政府允许一些与委内瑞拉煤炭、黄金、矿业相关的活动。",
+          "url": "https://wallstreetcn.com/livenews/3159412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：Anthropic与总统特朗普消除分歧。",
+          "url": "https://wallstreetcn.com/livenews/3159404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国铸币局正式推出印有特朗普头像的1美元硬币",
+          "url": "https://wallstreetcn.com/livenews/3159391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "ai_insight": {
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 17.4 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -23,7 +113,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "02时16分"
         },
         {
           "title": "伊朗总统儿子称“不搞浓缩铀我们也死不了”，强硬派怒了",
@@ -34,29 +124,97 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "02时16分"
+        },
+        {
+          "title": "伊朗军方：美方近期多场交战“均告失败”",
+          "url": "https://flash.jin10.com/detail/20260903013348504800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "伊朗外交部强烈谴责美军袭击伊朗民用基础设施",
+          "url": "https://wallstreetcn.com/livenews/3159396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "伊朗：昨夜美军袭击造成18人死亡，108人受伤。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3159388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "汇率追踪网站显示，伊朗货币兑美元汇率跌至历史新低，超过220万里亚尔兑换1美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3159386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "伊朗：4名士兵在美军袭击中死亡",
           "url": "https://www.toutiao.com/trending/7680509153680556086/",
           "source": "今日头条",
           "ranks": [
-            16
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "02时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "deepseek-v4-flash 、 glm-5.3-flash 、 qwen-3.8-flash 怎么选择？",
+          "url": "https://www.zhihu.com/question/2077826134134282169",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -65,57 +223,35 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "谷歌免于出售广告交易平台，法官转而下令技术整合。",
-          "url": "https://wallstreetcn.com/livenews/3159330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "02时16分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 2,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
-          "url": "https://wallstreetcn.com/articles/3780851",
-          "source": "华尔街见闻",
+          "title": "OpenAI的CEO Sam Altman在二十国集团（G20）活动期间会见美国商务部长卢特尼克。 OpenAI称，人工智能将是全球商业史上规模最大的繁荣。",
+          "url": "https://wallstreetcn.com/livenews/3159393",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "美伊再次开打，特朗普威胁伊朗若报复将遭受「更猛烈」打击，此轮袭击将如何影响中东局势？",
-          "url": "https://www.zhihu.com/question/2078394585563100576",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "02时16分"
         }
       ]
     },
@@ -123,23 +259,23 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
         {
-          "title": "30年期美债连续41个交易日站上5%，高利率正在常态化",
-          "url": "https://flash.jin10.com/detail/20260902224014806800",
+          "title": "贝森特：美债回购旨在推动价格回归均衡并释放银行空间",
+          "url": "https://flash.jin10.com/detail/20260903015712677800",
           "source": "金十数据",
           "ranks": [
-            11
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "02时16分"
         }
       ]
     },
@@ -147,10 +283,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -159,11 +295,11 @@
           "url": "https://wallstreetcn.com/articles/3780885",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "02时16分"
         }
       ]
     }
