@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-03T10:09:01.932925+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-03T15:31:55.398592+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 7.7 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "【早报】特朗普：随时准备打击伊朗；美股收涨，结束3连跌；原油、黄金、白银齐涨；涉及A股，重要指数调整",
@@ -33,166 +33,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "美股收盘：三大指数终于止跌 博通豪迈业绩指引震惊市场",
           "url": "https://www.cls.cn/detail/2472571",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "“Sell Sell or Sell”！美银警告：9月美股仅剩90亿美元买盘空间 ，一旦下跌或触发1630亿卖盘",
           "url": "https://wallstreetcn.com/articles/3780920",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "Snowflake美股盘后大涨22%",
-          "url": "https://www.baidu.com/s?wd=Snowflake%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E5%A4%A7%E6%B6%A822%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "韩国股市反弹，芯片股跟随美股走高",
-          "url": "https://flash.jin10.com/detail/20260903095354558800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 18.5 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 63,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗导弹致大量美军死伤",
-          "url": "https://www.toutiao.com/trending/7680453390819757609/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "美威胁再袭伊朗 伊称将摧毁敌方根基",
-          "url": "https://www.toutiao.com/trending/7681083508210535978/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "伊朗冲突久拖不决 美军中东部署延长至2027年",
-          "url": "https://flash.jin10.com/detail/20260903094253936800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "科威特军方表示，科威特防空系统正在应对来自伊朗的导弹和无人机袭击。若听到爆炸声，那是防空系统拦截敌方袭击所致。",
-          "url": "https://flash.jin10.com/detail/20260903094102127800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 7.3 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "Gemini 3.8 Flash 发布，有什么值得关注的？",
-          "url": "https://www.zhihu.com/question/2078626349426683976",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "才三周Flash就换代！谷歌上新两款Gemini 3.8：编程与推理能力升级，向RSI迈出一大步",
-          "url": "https://wallstreetcn.com/articles/3780934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "time_info": "15时31分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -201,33 +76,177 @@
           "url": "https://news.ifeng.com/c/8w5qfiJBYnP",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "美伊战火再起？特朗普直言不会持续太久，“戏称”要给霍尔木兹改名！",
           "url": "https://www.cls.cn/detail/2472592",
           "source": "财联社热门",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗导弹致大量美军死伤",
+          "url": "https://www.toutiao.com/trending/7680453390819757609/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
-          "title": "美国候任海军部长高雄：越南难民后裔，向特朗普表态将推进造船工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33994517",
-          "source": "澎湃新闻",
+          "title": "秘鲁宣布与伊朗断绝外交关系，这背后有哪些深层原因与影响？",
+          "url": "https://www.zhihu.com/question/2078399597790209034",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepSeek Harness 出来后，还会有人用 Workbuddy 或 Trae solo 吗？",
+          "url": "https://www.zhihu.com/question/2068005931439462317",
+          "source": "知乎",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "才三周Flash就换代！谷歌上新两款Gemini 3.8：编程与推理能力升级，向RSI迈出一大步",
+          "url": "https://wallstreetcn.com/articles/3780934",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "怎么看 OpenAI 的 Astra 报道称用了全新的 recurrent depth 型推理方法？",
+          "url": "https://www.zhihu.com/question/2078440102733337893",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金十图示：2026年09月03日（周四）上海金午盘价为956.67元/克，较国际金价(955.49元/克)，高1.18元/克",
+          "url": "https://flash.jin10.com/detail/20260903151153124800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "华尔街终于能喘口气：美债收益率小幅回落 “小非农”表现低迷",
+          "url": "https://www.cls.cn/detail/2472640",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     }
