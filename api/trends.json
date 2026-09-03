@@ -1,40 +1,84 @@
 {
-  "generated_at": "2026-09-03T20:23:49.288069+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-04T00:47:27.686764+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 15.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗官员：未经同意 霍尔木兹海峡之“锁”不会打开",
-          "url": "https://wallstreetcn.com/livenews/3159920",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列总理内塔尼亚胡：推翻伊朗仍是我们面前的核心任务，但已近在咫尺。并非不可能，而是触手可及。",
+          "url": "https://flash.jin10.com/detail/20260904001422207800",
+          "source": "金十数据",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时47分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗政权并不会无缘无故地攻击我们，它攻击所有人，唯独不攻击我们。",
+          "url": "https://flash.jin10.com/detail/20260904001134368800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我坚信我们有能力彻底消除这一威胁，也就是说，推翻伊朗政权。",
+          "url": "https://flash.jin10.com/detail/20260904001121060800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们坚信有能力推翻伊朗政权。这是我们的核心任务，迫在眉睫。",
+          "url": "https://flash.jin10.com/detail/20260904001025648800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗政权现在摇摇欲坠，比以往任何时候都更脆弱。",
+          "url": "https://flash.jin10.com/detail/20260904001011207800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
         },
         {
           "title": "三名伊朗飞行员在美军袭击中死亡",
-          "url": "https://wallstreetcn.com/livenews/3159914",
-          "source": "华尔街见闻-快讯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%90%8D%E4%BC%8A%E6%9C%97%E9%A3%9E%E8%A1%8C%E5%91%98%E5%9C%A8%E7%BE%8E%E5%86%9B%E8%A2%AD%E5%87%BB%E4%B8%AD%E6%AD%BB%E4%BA%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时47分"
         },
         {
           "title": "伊朗导弹致大量美军死伤",
@@ -45,29 +89,64 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
-        },
+          "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 22.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "秘鲁宣布与伊朗断绝外交关系，这背后有哪些深层原因与影响？",
-          "url": "https://www.zhihu.com/question/2078399597790209034",
+          "title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2078984478073136308",
           "source": "知乎",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时47分"
         },
         {
-          "title": "据塔斯尼姆通讯社：在本周的美国袭击中，6名伊朗海军士兵丧生。",
-          "url": "https://flash.jin10.com/detail/20260903195921773800",
-          "source": "金十数据",
+          "title": "OpenAI预告即将发布Astra模型（视频内容是ASTRA和A6TRA切换），模型名称可能为GPT-6-Astra。",
+          "url": "https://wallstreetcn.com/livenews/3160050",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时47分"
+        },
+        {
+          "title": "OpenAI、Anthropic等多家AI公司正遭遇服务中断",
+          "url": "https://wallstreetcn.com/livenews/3160049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "OpenAI：ChatGPT、Codex目前出现故障。",
+          "url": "https://wallstreetcn.com/livenews/3160045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
         }
       ]
     },
@@ -75,10 +154,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -87,11 +166,11 @@
           "url": "https://wallstreetcn.com/articles/3780960",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时47分"
         },
         {
           "title": "才三周Flash就换代！谷歌上新两款Gemini 3.8：编程与推理能力升级，向RSI迈出一大步",
@@ -102,42 +181,53 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时47分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "一图看懂 | 中长期金价怎么走？10多家机构表态",
-          "url": "https://www.cls.cn/detail/2473296",
-          "source": "财联社热门",
+          "title": "沃勒发言打击加息预期，美股高开，美债收益率走低，日元急升，布油突破96美元，现货黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3780985",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时47分"
+        },
+        {
+          "title": "纽约期金涨3%，美联储理事沃勒释放支持按兵不动的信号让美债市场“松了口气”",
+          "url": "https://wallstreetcn.com/livenews/3160048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -146,11 +236,81 @@
           "url": "https://wallstreetcn.com/articles/3780885",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时47分"
+        },
+        {
+          "title": "日元汇率大幅反弹 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2473472",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普要给霍尔木兹改名“特朗普海峡”，他认真的？",
+          "url": "https://v.ifeng.com/c/8w7s5GBo1wC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普肖像首登美国货币后，椭圆形办公室又现定制款“金色电话”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33999988",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 69,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "一图看懂 | 中长期金价怎么走？10多家机构表态",
+          "url": "https://www.cls.cn/detail/2473296",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
         }
       ]
     }
