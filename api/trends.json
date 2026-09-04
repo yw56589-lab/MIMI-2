@@ -1,16 +1,73 @@
 {
-  "generated_at": "2026-09-04T13:16:33.921027+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-09-04T18:12:12.674543+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "keyword_group": "伊朗",
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 6 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 14.8 位，标题平均出现 1.2 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 55,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "以防长威胁让伊朗回到石器时代",
+          "url": "https://news.ifeng.com/c/8w8XoLbfDkX",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
+        },
+        {
+          "title": "海湾地区基础设施投资热潮料不受伊朗战争影响",
+          "url": "https://flash.jin10.com/detail/20260904175234981800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "伊朗官员呼吁重新审视汇率与贸易政策",
+          "url": "https://flash.jin10.com/detail/20260904175005752800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "美军袭击致伊朗一婚礼4死50伤 万斯回应：正在调查",
+          "url": "https://wallstreetcn.com/livenews/3160502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -22,41 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
-          "url": "https://www.cls.cn/detail/2473745",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "海外三大AI模型接连宕机近4小时：OpenAI忙预热GPT6，智谱称“我们还在线”",
-          "url": "https://wallstreetcn.com/livenews/3160332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "美国AI服务发生大规模“宕机”事件 ChatGPT、Claude、Grok均受影响",
-          "url": "https://www.cls.cn/detail/2473674",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
@@ -66,19 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "OpenAI称AGI时代到来",
-          "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0AGI%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "OpenAI总裁宣布AGI到来",
@@ -88,30 +101,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "OpenAI发布GPT-6 Astra",
-          "url": "https://www.douyin.com/hot/2634754",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 4.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 63,
         "chart": []
       },
       "titles": [
@@ -123,89 +125,54 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
-          "title": "美股收盘：标普500指数创近一个月最大涨幅",
-          "url": "https://www.cls.cn/detail/2473761",
-          "source": "财联社热门",
+          "title": "今晚非农最危险的组合是什么？一图看懂美元黄金美股六大情景",
+          "url": "https://flash.jin10.com/detail/20260904174123653800",
+          "source": "金十数据",
           "ranks": [
-            3
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "美股这波大涨能走多远",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%BF%99%E6%B3%A2%E5%A4%A7%E6%B6%A8%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "18时12分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "特朗普",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 67,
         "chart": []
       },
       "titles": [
         {
-          "title": "以防长威胁让伊朗回到石器时代",
-          "url": "https://news.ifeng.com/c/8w8XoLbfDkX",
-          "source": "凤凰网",
+          "title": "克里姆林宫暗示，在美国中东问题特使威特科夫和特朗普高级顾问库什纳访问俄罗斯之前，美国可能会要求乌克兰停止恐怖活动。",
+          "url": "https://flash.jin10.com/detail/20260904175734523800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "18时12分"
         },
         {
-          "title": "万斯回应伊朗一婚礼遭袭：难免",
-          "url": "https://news.ifeng.com/c/8w8GA1b0MmW",
-          "source": "凤凰网",
+          "title": "克里姆林宫拒绝确认美国总统特使威特科夫和特朗普女婿库什纳访问莫斯科的消息，并表示将会在访问发生时通知。",
+          "url": "https://flash.jin10.com/detail/20260904175534606800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 66,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "【早报】美联储“放鸽”，美股走强；国际金价，大幅上涨；创业板芯片指数，今日发布；Lululemon，盘后暴跌",
-          "url": "https://www.cls.cn/detail/2473774",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "18时12分"
         }
       ]
     },
@@ -213,47 +180,23 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "挪威主权财富基金拟削减美债持仓约800亿美元",
-          "url": "https://flash.jin10.com/detail/20260904122011557800",
-          "source": "金十数据",
+          "title": "美债或遭800亿美元减持？挪威主权财富基金考虑调低政府债券权重",
+          "url": "https://www.cls.cn/detail/2474210",
+          "source": "财联社热门",
           "ranks": [
-            18
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普谈哈里王子和梅根离开美国",
-          "url": "https://news.ifeng.com/c/8w8ltCoeDgI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         }
       ]
     }
