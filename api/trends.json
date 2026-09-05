@@ -1,29 +1,130 @@
 {
-  "generated_at": "2026-09-05T13:05:36.013864+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-09-05T17:41:19.553152+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
+      "keyword_group": "伊朗",
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 6.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 3 个来源平台，平均热榜排名约 11.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普：美伊冲突只是小事一桩，美国没在作战",
-          "url": "https://original.ifeng.com/c/8wAYejoX9UM",
+          "title": "贝森特：伊朗冲突结束后油价将跌至40美元，债券收益率随之回落",
+          "url": "https://wallstreetcn.com/articles/3781120",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "据伊朗光明通讯社援引当地消息人士的话报道，一艘伊朗油轮在哈尔克岛附近被美军发射的一枚导弹击中。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3160876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗方面表示，遭袭伊朗油轮船员无人受伤，物质损失尚在评估中。",
+          "url": "https://flash.jin10.com/detail/20260905164419445800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "伊朗革命卫队否认核设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260905163025196800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "美伊开打半年多 美情报部门认为伊朗已“打出自信”",
+          "url": "https://flash.jin10.com/detail/20260905162305486800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "伊朗媒体称哈尔克岛附近传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3160869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "伊媒公布美国在伊朗婚礼遭袭事件使用的导弹信息",
+          "url": "https://flash.jin10.com/detail/20260905161418997800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "伊媒：一艘位于哈尔克岛附近的伊朗油轮遭到导弹袭击",
+          "url": "https://flash.jin10.com/detail/20260905145607753800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "ai_insight": {
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 6.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 77,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
+          "url": "https://original.ifeng.com/c/8wAjrDeDqv3",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         },
         {
           "title": "特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易",
@@ -34,51 +135,62 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         },
         {
           "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
           "url": "https://www.cls.cn/detail/2474788",
           "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         },
         {
           "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
           "url": "https://www.cls.cn/detail/2474852",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
+        },
+        {
+          "title": "据国际文传电讯社：载有美国特使美国总统特使威特科夫和特朗普女婿库什纳的飞机已降落在莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260905163910633800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "特朗普：美特使将向俄罗斯提交俄乌冲突“终战方案”",
           "url": "https://www.cls.cn/detail/2474830",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 3.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 4.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -91,7 +203,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         },
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
@@ -102,7 +214,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         },
         {
           "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
@@ -113,101 +225,99 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         },
         {
           "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
           "url": "https://www.cls.cn/detail/2474841",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 73,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗革命卫队：美国的护航在霍尔木兹海峡遭遇挫败",
-          "url": "https://flash.jin10.com/detail/20260905121420712800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         },
         {
-          "title": "贝森特：伊朗冲突结束后油价将跌至40美元，债券收益率随之回落",
-          "url": "https://wallstreetcn.com/articles/3781120",
+          "title": "非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%",
+          "url": "https://wallstreetcn.com/articles/3781124",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 16.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "市场消息：《西雅图时报》和《新闻日报》于周五起诉OpenAI和微软(MSFT.O)，他们在联邦法院指控这两家科技公司未经许可复制其报纸的新闻报道，以训练其人工智能系统。",
-          "url": "https://flash.jin10.com/detail/20260905113321828800",
-          "source": "金十数据",
+          "title": "OpenAI：我们关于“对齐失效”（Misalignment）事件的信息披露做法需要进一步扩展，正在制定用于报告模型“对齐失效”事件的框架。",
+          "url": "https://wallstreetcn.com/livenews/3160872",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
+        },
+        {
+          "title": "OpenAI：需要扩大对齐失范事件的披露范围",
+          "url": "https://flash.jin10.com/detail/20260905152849729800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "OpenAI官宣将自研人形机器人",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%AE%98%E5%AE%A3%E5%B0%86%E8%87%AA%E7%A0%94%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 23.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
         {
-          "title": "市场消息：周六开盘时，泰国金价下跌500泰铢，前一日的涨幅全数回吐。金条售价为每铢重69,150泰铢，黄金首饰售价为69,950泰铢。此次下跌源于全球范围内的抛售潮，因美国强劲的就业数据加剧了市场对美联储加息的预期。（注：铢重是泰国专门用来计算黄金与珠宝重量的传统计量单位）",
-          "url": "https://flash.jin10.com/detail/20260905105917878800",
-          "source": "金十数据",
+          "title": "美债抛售只是暂时现象？贝森特：伊朗战事结束后油价或跌至40美元",
+          "url": "https://www.cls.cn/detail/2474912",
+          "source": "财联社热门",
           "ranks": [
-            23
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时41分"
         }
       ]
     }
