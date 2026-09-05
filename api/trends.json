@@ -1,16 +1,84 @@
 {
-  "generated_at": "2026-09-05T08:29:44.731049+08:00",
+  "generated_at": "2026-09-05T13:05:36.013864+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 9,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 15.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 6.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普：美伊冲突只是小事一桩，美国没在作战",
+          "url": "https://original.ifeng.com/c/8wAYejoX9UM",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易",
+          "url": "https://wallstreetcn.com/articles/3781108",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
+          "url": "https://www.cls.cn/detail/2474788",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
+          "url": "https://www.cls.cn/detail/2474852",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "特朗普：美特使将向俄罗斯提交俄乌冲突“终战方案”",
+          "url": "https://www.cls.cn/detail/2474830",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 3.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -23,7 +91,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时29分"
+          "time_info": "13时05分"
         },
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
@@ -34,7 +102,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时29分"
+          "time_info": "13时05分"
+        },
+        {
+          "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
+          "url": "https://www.cls.cn/detail/2474846",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
@@ -45,141 +124,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
-          "url": "https://www.cls.cn/detail/2474846",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "美股资金正从软件转向硬件",
-          "url": "https://www.toutiao.com/trending/7681791302506807835/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数跌0.08%，报75.46点，本周累计上涨12.05%，8月31日至9月2日大致持平于67点附近，9月3日早盘显著上涨，之后高位持稳。 最近24小时，比特币跌1.96%，暂报79855.75美元，美国非农就业报告发布后从81000美元上方跳水、一度跌穿78650美元，上周五结束交易以来累计上涨3.14%，9月3日涨幅突出。 以太坊跌1.97%，暂报2455.927美元，非农带来一波显著的跳水行情，最近七天累涨1.23%。",
-          "url": "https://wallstreetcn.com/livenews/3160805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "金十图示：2026年09月04日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260905040538591800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "金十图示：2026年09月04日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260905040515141800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "周五（9月4日），美股行业ETF涨跌各异，半导体ETF收涨2.6%，全球科技股指数ETF涨1.21%，科技行业ETF涨0.72%，网络股指数ETF、能源业ETF跌0.87%，可选消费ETF跌1.33%。",
-          "url": "https://wallstreetcn.com/livenews/3160788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 77,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普：与伊朗的冲突是微不足道的小事",
-          "url": "https://news.ifeng.com/c/8wAF4cdAPy0",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易",
-          "url": "https://wallstreetcn.com/articles/3781108",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
-          "url": "https://www.cls.cn/detail/2474788",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "特朗普发帖称赞8月就业数据，抨击 “特朗普偏执症”",
-          "url": "https://wallstreetcn.com/livenews/3160814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "特朗普证实威特科夫和库什纳将访问俄乌",
-          "url": "https://wallstreetcn.com/livenews/3160812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
+          "time_info": "13时05分"
         }
       ]
     },
@@ -187,34 +132,34 @@
       "keyword_group": "伊朗",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
         {
-          "title": "一图世界｜美军称伊朗使用火箭布设水雷，真的可行吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34000995",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
-          "title": "据阿拉比亚电视台：也门总统表示，也门在任何情况下都不会允许伊朗政权控制曼德海峡。",
-          "url": "https://flash.jin10.com/detail/20260905040716502800",
+          "title": "伊朗革命卫队：美国的护航在霍尔木兹海峡遭遇挫败",
+          "url": "https://flash.jin10.com/detail/20260905121420712800",
           "source": "金十数据",
           "ranks": [
-            24
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时29分"
+          "time_info": "13时05分"
+        },
+        {
+          "title": "贝森特：伊朗冲突结束后油价将跌至40美元，债券收益率随之回落",
+          "url": "https://wallstreetcn.com/articles/3781120",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     },
@@ -222,7 +167,7 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -230,15 +175,15 @@
       },
       "titles": [
         {
-          "title": "OpenAI首席执行官奥尔特曼：GPT-6 Astra现已向所有Pro、Enterprise和Business Premium用户开放，并已可通过API使用。我们下一步将开始向Plus和Business用户开放。感谢大家的耐心等待。",
-          "url": "https://flash.jin10.com/detail/20260905041934250800",
+          "title": "市场消息：《西雅图时报》和《新闻日报》于周五起诉OpenAI和微软(MSFT.O)，他们在联邦法院指控这两家科技公司未经许可复制其报纸的新闻报道，以训练其人工智能系统。",
+          "url": "https://flash.jin10.com/detail/20260905113321828800",
           "source": "金十数据",
           "ranks": [
-            18
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时29分"
+          "time_info": "13时05分"
         }
       ]
     },
@@ -254,63 +199,15 @@
       },
       "titles": [
         {
-          "title": "国际金价在非农就业报告出炉时跳水将近80美元，打破本周稍早出现的V形反转",
-          "url": "https://wallstreetcn.com/livenews/3160799",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：周六开盘时，泰国金价下跌500泰铢，前一日的涨幅全数回吐。金条售价为每铢重69,150泰铢，黄金首饰售价为69,950泰铢。此次下跌源于全球范围内的抛售潮，因美国强劲的就业数据加剧了市场对美联储加息的预期。（注：铢重是泰国专门用来计算黄金与珠宝重量的传统计量单位）",
+          "url": "https://flash.jin10.com/detail/20260905105917878800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "两年期美债收益率于非农日涨超2.9个基点，同期实际收益率本周累跌将近9.1个基点",
-          "url": "https://wallstreetcn.com/livenews/3160810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 28.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "北美科技软件股指数ETF收跌2.23%，报104.57美元，本周回撤4.50%。 Global X网络安全ETF收跌0.72%，本周回撤3.68%。 纳斯达克网络安全ETF收跌0.77%，本周回撤4.03%。 ETFMG网络安全ETF收跌0.70%，本周回撤4.15%。",
-          "url": "https://wallstreetcn.com/livenews/3160791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时29分"
+          "time_info": "13时05分"
         }
       ]
     }
