@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-06T02:41:27.655570+08:00",
+  "generated_at": "2026-09-06T04:50:52.583895+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 5 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 4 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 83,
@@ -23,62 +23,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗外交部谴责美袭击伊朗油轮，警告后果自负",
-          "url": "https://flash.jin10.com/detail/20260906022523345800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "美军袭击三艘伊朗油轮",
           "url": "https://wallstreetcn.com/livenews/3160902",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
-          "title": "伊朗军方称如美继续其破坏行为 将对美军进行更大规模打击",
-          "url": "https://flash.jin10.com/detail/20260906021151379800",
+          "title": "伊朗议员：美国本不应出现封锁行为",
+          "url": "https://flash.jin10.com/detail/20260906040908555800",
           "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
-          "title": "伊朗外交部：美方须为在该地区采取的侵略性行动后果承担责任。",
-          "url": "https://flash.jin10.com/detail/20260906020339128800",
+          "title": "伊朗革命卫队：已打击3艘与美国有关联船只及3艘油轮",
+          "url": "https://flash.jin10.com/detail/20260906040024042800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗外交部：我们决心捍卫我们的主权和国家利益，应对包括海上封锁在内的敌对行动。",
-          "url": "https://flash.jin10.com/detail/20260906020129181800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "制裁半个世纪未果，美国这次能否让伊朗成为“经济弃儿”？",
@@ -89,73 +67,106 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
-          "title": "伊朗外交部：我们谴责美国在波斯湾和阿曼湾袭击我们的船只，其行为是战争罪，对海上航行安全构成威胁。",
-          "url": "https://flash.jin10.com/detail/20260906015946268800",
+          "title": "伊朗革命卫队海军称，已在其他海域打击了三艘美国船只。美方暂未予以证实。",
+          "url": "https://flash.jin10.com/detail/20260906034523804800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
-          "title": "据伊朗国家媒体：伊朗军方指挥部警告称，如果美国继续“骚扰”伊朗船只，袭击范围可能扩大。",
-          "url": "https://flash.jin10.com/detail/20260906013408048800",
+          "title": "伊朗革命卫队海军：已对三艘沿未经授权航线通过霍尔木兹海峡的船只进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260906034027805800",
           "source": "金十数据",
           "ranks": [
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
-          "title": "据伊朗国家媒体：伊朗军方指挥部警告称，如果华盛顿继续实施海上封锁，伊朗将加大对该地区美国军舰的打击力度。",
-          "url": "https://flash.jin10.com/detail/20260906013242713800",
+          "title": "以色列总理内塔尼亚胡：倘若我们当初没有对伊朗采取行动，如今伊朗就已经拥有用来消灭我们的核弹。现在他们会再度尝试。他们正在卷土重来。",
+          "url": "https://flash.jin10.com/detail/20260906033429048800",
           "source": "金十数据",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗专家：伊朗肯定有计划确保油价飙升至每桶100美元以上",
+          "url": "https://flash.jin10.com/detail/20260906024539696800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗外交部谴责美袭击伊朗油轮，警告后果自负",
+          "url": "https://flash.jin10.com/detail/20260906022523345800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗军方称如美继续其破坏行为 将对美军进行更大规模打击",
+          "url": "https://flash.jin10.com/detail/20260906021151379800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗外交部：美方须为在该地区采取的侵略性行动后果承担责任。",
+          "url": "https://flash.jin10.com/detail/20260906020339128800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "据伊朗光明通讯社援引当地消息人士的话报道，一艘伊朗油轮在哈尔克岛附近被美军发射的一枚导弹击中。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3160876",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美国称摧毁3艘伊朗油轮",
-          "url": "https://www.toutiao.com/trending/7682047926809398827/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 3 个来源平台，平均热榜排名约 7.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -168,7 +179,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "特朗普：我走后不会有人为我立碑，所以现在得大建特建",
@@ -179,7 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
@@ -190,7 +201,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
+        },
+        {
+          "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
+          "url": "https://flash.jin10.com/detail/20260906040447398800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "特朗普搅动马岛局势，米莱借机就油气争端强硬表态",
@@ -201,7 +223,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据泰晤士报：爱尔兰总理米歇尔·马丁将在下周六与美国总统特朗普会面时，敦促其结束伊朗冲突。",
+          "url": "https://flash.jin10.com/detail/20260906035057867800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
@@ -212,18 +245,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
-          "title": "美国特使威特科夫：（对普京表示）特朗普向您致以最美好的祝愿。",
-          "url": "https://flash.jin10.com/detail/20260906014035659800",
+          "title": "特朗普MAGA超级政治行动委员会首次为大选投入1000万美元",
+          "url": "https://flash.jin10.com/detail/20260906032713446800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据Politico：特朗普旗下“让美国再次伟大”超级政治行动委员会（MAGA Inc.）向得克萨斯州投入1000万美元，这是该机构本年度首次大选阶段开支。",
+          "url": "https://flash.jin10.com/detail/20260906031529578800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         }
       ]
     },
@@ -247,7 +291,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
@@ -258,7 +302,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
@@ -269,7 +313,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%",
@@ -280,7 +324,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
@@ -291,7 +335,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         }
       ]
     },
@@ -299,7 +343,7 @@
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -315,40 +359,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3160898",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
           "url": "https://wallstreetcn.com/livenews/3160884",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         },
         {
           "title": "OpenAI：我们关于“对齐失效”（Misalignment）事件的信息披露做法需要进一步扩展，正在制定用于报告模型“对齐失效”事件的框架。",
           "url": "https://wallstreetcn.com/livenews/3160872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         }
       ]
     },
@@ -356,10 +400,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -368,11 +412,11 @@
           "url": "https://www.toutiao.com/trending/7681981085961424425/",
           "source": "今日头条",
           "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         }
       ]
     },
@@ -396,7 +440,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "04时50分"
         }
       ]
     }
