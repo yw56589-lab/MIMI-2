@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-06T06:31:07.972236+08:00",
+  "generated_at": "2026-09-06T08:24:50.194016+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 64,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -22,19 +22,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普：我走后不会有人为我立碑，所以现在得大建特建",
-          "url": "https://news.ifeng.com/c/8wAxMNnJfyI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
@@ -44,30 +33,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
-          "title": "据塔斯社：美国总统特使威特科夫和特朗普女婿库什纳离开莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260906053124724800",
-          "source": "金十数据",
+          "title": "特朗普：我走后不会有人为我立碑，所以现在得大建特建",
+          "url": "https://news.ifeng.com/c/8wAxMNnJfyI",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
         },
         {
           "title": "特朗普：将向俄罗斯提交结束俄乌冲突的方案；泽连斯基：美总统特使访问期间，不对俄发动空中打击",
           "url": "https://wallstreetcn.com/articles/3781135",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "据塔斯社：美国总统特使威特科夫和特朗普女婿库什纳离开莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260906053124724800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "特朗普搅动马岛局势，米莱借机就油气争端强硬表态",
@@ -77,8 +77,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京与特朗普特使会谈内容充实、非常坦诚且富有建设性。",
+          "url": "https://flash.jin10.com/detail/20260906052944772800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
@@ -88,87 +99,76 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京与特朗普特使会谈内容充实、非常坦诚且富有建设性。",
-          "url": "https://flash.jin10.com/detail/20260906052944772800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：双方达成一致，俄罗斯总统普京与美国总统特朗普将保持联系。",
           "url": "https://flash.jin10.com/detail/20260906052807831800",
           "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
         },
         {
           "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
           "url": "https://flash.jin10.com/detail/20260906040447398800",
           "source": "金十数据",
           "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "据泰晤士报：爱尔兰总理米歇尔·马丁将在下周六与美国总统特朗普会面时，敦促其结束伊朗冲突。",
-          "url": "https://flash.jin10.com/detail/20260906035057867800",
-          "source": "金十数据",
-          "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 3 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.1 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 55,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
+        {
+          "title": "美国前外交官：美国对伊朗的制裁行动是一项缓慢推进的策略",
+          "url": "https://flash.jin10.com/detail/20260906063029865800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "美伊互袭油轮，伊朗军方称或进行更大规模打击",
+          "url": "https://news.ifeng.com/c/8wBmj2c9k33",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
         {
           "title": "伊朗否认伊斯法罕核设施遭到袭击",
           "url": "https://flash.jin10.com/detail/20260906055955985800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "伊朗革命卫队官员：上月霍尔木兹海峡每天都有船只遭“惩罚”",
-          "url": "https://flash.jin10.com/detail/20260906053718838800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
         },
         {
           "title": "美军袭击三艘伊朗油轮",
@@ -177,9 +177,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
+        },
+        {
+          "title": "伊朗革命卫队官员：上月霍尔木兹海峡每天都有船只遭“惩罚”",
+          "url": "https://flash.jin10.com/detail/20260906053718838800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "制裁半个世纪未果，美国这次能否让伊朗成为“经济弃儿”？",
@@ -189,41 +200,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "美国前外交官：美国对伊朗施压可能将付出经济代价",
           "url": "https://flash.jin10.com/detail/20260906050709295800",
           "source": "金十数据",
           "ranks": [
-            16
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
+        },
+        {
+          "title": "美军袭击三艘伊朗油轮",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%A2%AD%E5%87%BB%E4%B8%89%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "伊朗议员：美国本不应出现封锁行为",
           "url": "https://flash.jin10.com/detail/20260906040908555800",
           "source": "金十数据",
           "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "伊朗革命卫队：已打击3艘与美国有关联船只及3艘油轮",
-          "url": "https://flash.jin10.com/detail/20260906040024042800",
-          "source": "金十数据",
-          "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
         },
         {
           "title": "据伊朗光明通讯社援引当地消息人士的话报道，一艘伊朗油轮在哈尔克岛附近被美军发射的一枚导弹击中。（新华社）",
@@ -232,9 +243,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
         }
       ]
     },
@@ -242,10 +253,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 13.6 位，标题平均出现 1.4 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 13.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 59,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -257,19 +268,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
-        },
-        {
-          "title": "OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”",
-          "url": "https://wallstreetcn.com/articles/3781151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
@@ -278,9 +278,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
+        },
+        {
+          "title": "OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”",
+          "url": "https://wallstreetcn.com/articles/3781151",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
@@ -289,9 +300,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
         },
         {
           "title": "OpenAI：我们关于“对齐失效”（Misalignment）事件的信息披露做法需要进一步扩展，正在制定用于报告模型“对齐失效”事件的框架。",
@@ -300,9 +311,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "08时24分"
         }
       ]
     },
@@ -310,10 +321,10 @@
       "keyword_group": "美股",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 4.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -325,8 +336,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
@@ -336,43 +347,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
           "url": "https://www.cls.cn/detail/2474841",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "DeepSeek被曝将采购16万颗华为芯片",
-          "url": "https://www.toutiao.com/trending/7681981085961424425/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
         }
       ]
     },
@@ -380,10 +367,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -395,8 +382,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
         }
       ]
     }
