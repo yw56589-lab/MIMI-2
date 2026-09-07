@@ -1,62 +1,196 @@
 {
-  "generated_at": "2026-09-07T13:28:25.229188+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-09-07T19:05:56.487140+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 3.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "【早报】共增资3600亿元，8家中央金融企业将补充资本；伊朗：将宣布霍尔木兹海峡“禁区”；原油开盘拉升",
-          "url": "https://www.cls.cn/detail/2475286",
-          "source": "财联社热门",
+          "title": "伊朗：卡塔尔代表团到访“帮助缓和局势”",
+          "url": "https://flash.jin10.com/detail/20260907184209521800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "19时05分"
         },
         {
-          "title": "伊朗：已设立“经济战指挥中心”",
-          "url": "https://news.ifeng.com/c/8wCeirfU3HW",
+          "title": "“伊朗首次在美军舰上空试验特殊武器，爆炸场面如同地狱”",
+          "url": "https://original.ifeng.com/c/8wE8g6ewZxS",
           "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”",
+          "url": "https://wallstreetcn.com/articles/3781187",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "阿曼方面表示已撤离16名沙特SIDR船只的船员，该船此前遭伊朗袭击。",
+          "url": "https://flash.jin10.com/detail/20260907183516380800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "伊朗：卡塔尔代表团到访“帮助缓和局势”",
+          "url": "https://wallstreetcn.com/livenews/3161318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "国际原子能机构总干事格罗西：无论决议如何，我在伊朗的工作仍将继续。",
+          "url": "https://flash.jin10.com/detail/20260907183139433800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：谈判没有绝对好坏之分，谈判是推动国家利益的工具。外交与武装力量的行动相辅相成。",
+          "url": "https://flash.jin10.com/detail/20260907182418615800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗海军司令沙赫拉姆·伊朗尼强调，敌人对伊朗武装力量的作战创新感到极为担忧。如有必要，我们可以在任何地方让敌人陷入困境。",
+          "url": "https://flash.jin10.com/detail/20260907182303577800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "伊朗称与阿曼就霍尔木兹海峡谈判进入最后阶段",
+          "url": "https://wallstreetcn.com/livenews/3161291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 5.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
+          "url": "https://wallstreetcn.com/articles/3781186",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "欧盟委员会发言人：我们已收到来自OpenAI的事件报告。",
+          "url": "https://flash.jin10.com/detail/20260907184148969800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "19时05分"
         },
         {
-          "title": "美伊冲突持续升级！伊朗：未来几天将宣布霍尔木兹海峡“禁区”",
-          "url": "https://www.cls.cn/detail/2475316",
+          "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+          "url": "https://www.cls.cn/detail/2475526",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "19时05分"
+        },
+        {
+          "title": "OpenAI首度公布“内部RSI进展”：已实现“自动化研究实习生”",
+          "url": "https://wallstreetcn.com/articles/3781192",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
+          "url": "https://wallstreetcn.com/articles/3781214",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -69,50 +203,48 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "19时05分"
         },
         {
           "title": "从金发到深褐：特朗普发色突变再引“假发”猜测",
           "url": "https://m.thepaper.cn/newsDetail_forward_34022309",
           "source": "澎湃新闻",
           "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普给美国总统从夯到拉排名",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E6%8E%92%E5%90%8D%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "克里姆林宫：美特使斡旋会谈后，普京与特朗普可能进行通话。",
+          "url": "https://wallstreetcn.com/livenews/3161302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "19时05分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 69,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
-          "url": "https://wallstreetcn.com/articles/3781186",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -120,39 +252,61 @@
       },
       "titles": [
         {
-          "title": "世界黄金协会：金价年化回报约5%，长期趋势由财富贮存需求支撑",
-          "url": "https://wallstreetcn.com/livenews/3161084",
+          "title": "法兴银行认为10年期美债收益率5.5%是股市开始受冲击的临界点",
+          "url": "https://wallstreetcn.com/livenews/3161333",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "19时05分"
+        },
+        {
+          "title": "狂抛美债护日元！日本8月外汇储备创史上最大降幅",
+          "url": "https://www.cls.cn/detail/2475541",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "法兴银行：美债10年期收益率5.5%为临界点 突破将施压股市估值",
+          "url": "https://flash.jin10.com/detail/20260907182812948800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
         {
-          "title": "两件大事来袭 美债迎来关键一周……",
-          "url": "https://www.cls.cn/detail/2475330",
-          "source": "财联社热门",
+          "title": "高盛：AI或重新成为美股行情关键催化剂",
+          "url": "https://flash.jin10.com/detail/20260907183657288800",
+          "source": "金十数据",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "19时05分"
         }
       ]
     }
