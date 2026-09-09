@@ -1,198 +1,16 @@
 {
-  "generated_at": "2026-09-10T02:12:56.510759+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-10T05:24:06.922307+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 15.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美伊互袭持续升温！国际油价重返100美元 伊朗划设海上新“制裁区”",
-          "url": "https://www.cls.cn/detail/2478558",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
-          "url": "https://original.ifeng.com/c/8wHN09cxCTv",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "伊朗打击美军基地和战舰",
-          "url": "https://www.douyin.com/hot/2641814",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "中国男排1:3不敌伊朗",
-          "url": "https://www.douyin.com/hot/2642210",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "伊朗媒体报道称，一艘油轮在霍尔木兹海峡遭到袭击。（沙特媒体哈达斯Alhadath）",
-          "url": "https://wallstreetcn.com/livenews/3162710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "伊朗高官称德黑兰做好激战准备，无意向美方压力低头",
-          "url": "https://wallstreetcn.com/livenews/3162708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
-          "url": "https://www.cls.cn/detail/2478606",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？",
-          "url": "https://www.zhihu.com/question/2081037199122895830",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "曝DeepSeek正筹备科创板IPO",
-          "url": "https://www.toutiao.com/trending/7682375308184387610/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "DeepSeek新模型要来了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
-          "url": "https://wallstreetcn.com/articles/3781396",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2080253796941415480",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "OpenAI官宣攻克千禧年难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 10.9 位，标题平均出现 1.6 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -204,8 +22,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "美国总统特朗普的交通部成立新版太空工作组。",
+          "url": "https://wallstreetcn.com/livenews/3162810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时12分"
+          "time_info": "05时24分"
+        },
+        {
+          "title": "耶伦等经济学家向法庭陈述：特朗普关税越权",
+          "url": "https://wallstreetcn.com/livenews/3162808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
@@ -215,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
         },
         {
           "title": "特朗普政府未反对英国等国涉以制裁，暴露对以失望",
@@ -226,19 +66,221 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "克宫披露普京与特朗普通话更多细节： 讨论重启三方谈判 由美国方面担任调解方",
+          "url": "https://www.cls.cn/detail/2478653",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普关税政策现状如何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "知情人士透露，一名军事随员在美国总统特朗普乘坐的“空军一号”上误操作展开了充气式紧急滑梯。",
+          "url": "https://flash.jin10.com/detail/20260910050857825800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时12分"
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普政府寻求防范外国风险对美国电网的威胁",
+          "url": "https://wallstreetcn.com/livenews/3162774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "ai_insight": {
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.4 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 62,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美伊互袭持续升温！国际油价重返100美元 伊朗划设海上新“制裁区”",
+          "url": "https://www.cls.cn/detail/2478558",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
+          "url": "https://original.ifeng.com/c/8wHN09cxCTv",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗打击美军基地和战舰",
+          "url": "https://www.douyin.com/hot/2641814",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "据伊朗国家媒体：目前尚不清楚爆炸声是来自海面还是来自格什姆岛本身。",
+          "url": "https://flash.jin10.com/detail/20260910051158520800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "伊朗第一副总统：美国无权就伊朗核计划进行道德说教。",
+          "url": "https://wallstreetcn.com/livenews/3162804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗格什姆岛传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260910051112063800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：要在经济上“扼杀”伊朗，针对伊朗油轮的袭击行动将会持续。 我们认为，没有任何一方给予伊朗的东西能够改变当前局势与现状。 伊朗持续向海军舰船发动袭击；一旦他们袭击我方舰船，就要付出油轮受损的代价。 他们没能击中我方舰船，但已经损失了五艘油轮。 昨晚他们又损失五艘，四艘受损，一艘沉没。 他们将持续为此付出代价。 与此同时，我们会继续在经济上遏制伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3162786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "伊朗第一副总统在国际原子能机构决议后于X发帖表示：将坚定维护和平利用核能的权利。",
+          "url": "https://wallstreetcn.com/livenews/3162781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.5 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 62,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2080253796941415480",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "OpenAI切断Adobe等企业在ChatGPT投放部分竞品AI产品广告",
+          "url": "https://wallstreetcn.com/livenews/3162806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "OpenAI官宣攻克千禧年难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "据The Information：OpenAI已告知部分商业合作伙伴，ChatGPT将不再接受与自身功能竞争的AI图像生成和音频生成产品广告。",
+          "url": "https://flash.jin10.com/detail/20260910045914364800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 13.2 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -247,33 +289,55 @@
           "url": "https://wallstreetcn.com/articles/3781389",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
         },
         {
           "title": "贝森特如何“回购美债”？今晚初见端倪",
           "url": "https://wallstreetcn.com/articles/3781371",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "震撼大手笔落空！美财政部长债回购三倍扩容，60亿仅达预期低端，美债再跌",
+          "url": "https://wallstreetcn.com/articles/3781432",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "美债收益率全面上涨，美国财政部债券回购计划带来一波短线拉升行情",
+          "url": "https://wallstreetcn.com/livenews/3162773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时12分"
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 64,
         "chart": []
       },
       "titles": [
@@ -285,19 +349,100 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
         },
         {
           "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
           "url": "https://www.cls.cn/detail/2478595",
           "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，小盘股指ETF跌约1.4%，地产ETF跌1%，黄金ETF涨0.9%，布油基金涨超2.7%",
+          "url": "https://wallstreetcn.com/livenews/3162795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时12分"
+          "time_info": "05时24分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.08%，报5826.91点，逼近6月29日收盘位5810.91点、6月25日收盘位5690.24点，美股早盘显著走低、北京时间22:00以来持续低位震荡。日线图上，中概指数8月11日跌穿100日均线、8月26日跌穿50日均线。 热门中概股里，小马智行初步收跌5.6%，美团跌4.6%，理想跌4.2%，世纪互联跌3.3%，携程、阿特斯太阳能、小米跌3.2%，网易跌2.9%，阿里巴巴跌2.6%，比亚迪跌2.5%，拼多多跌1.3%，腾讯跌1%，百度跌0.4%，日月光半导体涨3.4%，盛大科技涨20%。 ETF中，中概互联网指数ETF（KWEB）收跌2.29%，中国科技指数ETF（CQQQ）收跌1.33%。 XtrackersHarvest中证50（ASHS）收跌0.43%，MSCI新兴市场ex中国ETF（EMXC）收跌0.24%，德银嘉实沪深300指数ETF（ASHR）收跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3162780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.5 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 69,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
+          "url": "https://www.cls.cn/detail/2478606",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "曝DeepSeek正筹备科创板IPO",
+          "url": "https://www.toutiao.com/trending/7682375308184387610/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "国际金价周三涨1%，白银涨2.3%",
+          "url": "https://wallstreetcn.com/livenews/3162809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     }
