@@ -1,73 +1,106 @@
 {
-  "generated_at": "2026-09-10T07:41:57.178103+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-09-10T10:11:55.758718+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 23,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 8.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 23 条热点，覆盖 6 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
         {
-          "title": "美媒：特朗普亲信推敲伊朗战事可能打到特朗普卸任",
-          "url": "https://flash.jin10.com/detail/20260910070957410800",
+          "title": "特朗普声称会场“爆满”，但实际空座还有很多",
+          "url": "https://flash.jin10.com/detail/20260910100020613800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
-          "title": "据华尔街日报：美国官员透露，白宫高层顾问向特朗普提出一种可能性，即战事可能会拖至其任期结束。",
-          "url": "https://flash.jin10.com/detail/20260910070302255800",
+          "title": "美国总统特朗普：我请求你们让我们完成这项工作。我们将共同把两年的复苏转变为250年的领先。",
+          "url": "https://flash.jin10.com/detail/20260910100017564800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普预告战事将终结 伊朗开出条件",
+          "url": "https://www.toutiao.com/trending/7683678605951372809/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水",
           "url": "https://www.cls.cn/detail/2478633",
           "source": "财联社热门",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
-          "title": "特朗普顾问告诉他，伊朗战争可能会持续到他任期结束。就伊朗战争持续时间向特朗普发出警告的包括万斯、卢比奥。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3162844",
+          "title": "特朗普建议将霍尔木兹海峡更名为“特朗普海峡”。",
+          "url": "https://wallstreetcn.com/livenews/3162914",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
-          "title": "特朗普关税政策现状如何",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
+          "title": "美伊战事中期选举后“终结”！特朗普抛最新时间表 伊朗重申止战条件",
+          "url": "https://www.cls.cn/detail/2478825",
+          "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普誓言打破中期选举魔咒",
+          "url": "https://flash.jin10.com/detail/20260910095731127800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普：我们将赢得与伊朗的战争。一旦我们赢得伊朗战争，油价就会下跌。",
+          "url": "https://wallstreetcn.com/livenews/3162913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
@@ -78,7 +111,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普：（谈到美国在委内瑞拉的行动时表示）650亿桶石油是我们的。",
+          "url": "https://flash.jin10.com/detail/20260910095726902800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大想达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3162911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普称美伊战事将在中期选举后“立即终结” | 环球市场",
+          "url": "https://www.cls.cn/detail/2478812",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "特朗普政府未反对英国等国涉以制裁，暴露对以失望",
@@ -89,255 +155,242 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
-          "title": "美国官员：特朗普政府正致力于达成更多药品定价协议",
-          "url": "https://flash.jin10.com/detail/20260910061925532800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "美伊海上“报复循环”加剧，特朗普预告战事将终结，伊朗开出条件",
-          "url": "https://wallstreetcn.com/livenews/3162828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 9,
-      "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 6 个来源平台，平均热榜排名约 16.9 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 86,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
-          "url": "https://original.ifeng.com/c/8wHN09cxCTv",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "美伊互袭持续升温！国际油价重返100美元 伊朗划设海上新“制裁区”",
-          "url": "https://www.cls.cn/detail/2478558",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "霍尔木兹海峡风险骤升！伊朗称将设立新的海上“制裁区域”，布油重返100美元",
-          "url": "https://wallstreetcn.com/articles/3781415",
-          "source": "华尔街见闻",
+          "title": "特朗普关税政策现状如何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
-          "title": "伊朗打击美军基地和战舰",
-          "url": "https://www.douyin.com/hot/2641814",
-          "source": "抖音",
+          "title": "特朗普提议将新墨西哥州改名为“新美国”，引发现场欢呼",
+          "url": "https://flash.jin10.com/detail/20260910095605991800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
-          "title": "据伊朗Press TV：沙特的法赫德国王空军基地据悉传出数次爆炸声。（注：伊朗媒体报道阿拉伯地区遇袭信息的可靠性稍弱）",
-          "url": "https://flash.jin10.com/detail/20260910060915532800",
-          "source": "金十数据",
+          "title": "克宫披露普京与特朗普通话更多细节： 讨论重启三方谈判 由美国方面担任调解方",
+          "url": "https://www.cls.cn/detail/2478653",
+          "source": "财联社热门",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
-          "title": "伊朗外交部发言人巴加埃：美国国务卿鲁比奥的谎言无法取代事实。安萨尔真主组织（胡塞武装）是一个独立行动者，会自行作出决定；既不会接受任何人的指令，也不是任何其他人的代理人。",
-          "url": "https://flash.jin10.com/detail/20260910055823739800",
+          "title": "美国总统特朗普重申提议将新墨西哥州改名为“新美国州”。",
+          "url": "https://flash.jin10.com/detail/20260910095446018800",
           "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "中东泥潭重现？白宫核心幕僚承认：伊朗战争或打到特朗普任期结束",
+          "url": "https://flash.jin10.com/detail/20260910095153769800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正在崩溃，它几十年来一直是中东的霸凌者，但现在不再是了。我们正处于美国的黄金时代。",
+          "url": "https://flash.jin10.com/detail/20260910094951600800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普：我们应该把霍尔木兹海峡改名为“特朗普海峡”。",
+          "url": "https://flash.jin10.com/detail/20260910094643551800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普在美国共和党全国代表大会上发表主旨演讲：就当我的名字出现在今年11月的选票上吧。",
+          "url": "https://wallstreetcn.com/livenews/3162887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "曝特朗普未反对英国等国涉以制裁",
+          "url": "https://www.toutiao.com/trending/7683674493318860314/",
+          "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
-          "title": "伊朗媒体IRNA：伊朗Sirik遭到敌人火力袭击。",
-          "url": "https://wallstreetcn.com/livenews/3162823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "据伊朗媒体10日报道，伊朗南部格什姆岛海域、锡里克等地传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260910054238589800",
+          "title": "美国总统特朗普：我们将在与伊朗的战争中获胜。",
+          "url": "https://flash.jin10.com/detail/20260910094616443800",
           "source": "金十数据",
           "ranks": [
-            28
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "伊朗方面称格什姆岛传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3162821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
-          "url": "https://wallstreetcn.com/articles/3781291",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "美股收盘：三大指数连跌三天 存储&光通信逆市走高",
-          "url": "https://www.cls.cn/detail/2478787",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2478595",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数跌2.96%，报73.86点。 最近24小时，现货比特币跌0.21%，暂报78262美元，整体冲高回落，北京时间16:36曾达到79745.84美元。 现货以太坊跌0.65%，暂报2469.540美元。",
-          "url": "https://wallstreetcn.com/livenews/3162820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 14.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
+        {
+          "title": "27岁研究员连辞OpenAI、Anthropic！两家都在拿我们的命下注",
+          "url": "https://wallstreetcn.com/articles/3781412",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
+          "url": "https://wallstreetcn.com/articles/3781396",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
         {
           "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
           "url": "https://www.zhihu.com/question/2080253796941415480",
           "source": "知乎",
           "ranks": [
-            3
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "OpenAI收紧ChatGPT广告政策，Adobe等竞争对手遭遇限制",
-          "url": "https://flash.jin10.com/detail/20260910064849440800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
           "title": "OpenAI官宣攻克千禧年难题",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 5.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 74,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "被伊朗警告后，韩国还派兵吗？",
+          "url": "https://news.ifeng.com/c/8wHYX9oATYv",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
+          "url": "https://original.ifeng.com/c/8wHN09cxCTv",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "霍尔木兹海峡风险骤升！伊朗称将设立新的海上“制裁区域”，布油重返100美元",
+          "url": "https://wallstreetcn.com/articles/3781415",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "伊朗打击美军基地和战舰",
+          "url": "https://www.douyin.com/hot/2641814",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
@@ -346,68 +399,70 @@
           "url": "https://wallstreetcn.com/articles/3781389",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "贝森特如何“回购美债”？今晚初见端倪",
-          "url": "https://wallstreetcn.com/articles/3781371",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         },
         {
           "title": "震撼大手笔落空！美财政部长债回购三倍扩容，60亿仅达预期低端，美债再跌",
           "url": "https://wallstreetcn.com/articles/3781432",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
-        {
-          "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
-          "url": "https://www.cls.cn/detail/2478606",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
         {
           "title": "曝DeepSeek正筹备科创板IPO",
           "url": "https://www.toutiao.com/trending/7682375308184387610/",
           "source": "今日头条",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 67,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股收盘：三大指数连跌三天 存储&光通信逆市走高",
+          "url": "https://www.cls.cn/detail/2478787",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     }
