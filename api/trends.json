@@ -1,16 +1,374 @@
 {
-  "generated_at": "2026-09-11T00:47:05.185352+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-09-11T03:22:41.743321+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 20,
+      "ai_insight": {
+        "analysis": "该板块当前收录 20 条热点，覆盖 3 个来源平台，平均热榜排名约 10.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗拦截1艘美国无人水面艇",
+          "url": "https://news.ifeng.com/c/8wJoPOwElX7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：与沙特外交大臣举行电话会谈，就地区最新局势交换意见。双方在会谈中指出，地区紧张局势加剧、不安全状况上升，并强调有必要继续开展合作和外交努力，以防止紧张局势进一步扩大，并恢复地区稳定与安全。",
+          "url": "https://flash.jin10.com/detail/20260911025511345800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国财政部围绕制裁伊朗相关制裁发布声明：本次行动针对真主党旅和真主党。",
+          "url": "https://wallstreetcn.com/livenews/3163446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗外长与巴基斯坦陆军参谋长通电话",
+          "url": "https://wallstreetcn.com/livenews/3163445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐与沙特外交大臣通话，讨论地区稳定问题。",
+          "url": "https://flash.jin10.com/detail/20260911025231051800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗议会议会经济委员会与伊朗外长举行会议",
+          "url": "https://wallstreetcn.com/livenews/3163444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "据今日以色列：以色列进入戒备状态，担心伊朗作出回应；北部居民收到通知：“做好应对爆炸的准备”。",
+          "url": "https://flash.jin10.com/detail/20260911024900010800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "中方反对个别国强推安理会制裁伊朗",
+          "url": "https://flash.jin10.com/detail/20260911024544056800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国财政部金融犯罪执法网络（FinCEN）：发布举报人公告，寻求有关支持伊朗非法融资活动的线索。",
+          "url": "https://flash.jin10.com/detail/20260911023652537800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国财政部：更新关于伊朗许可申请的声明，推定拒绝处理；将拒绝大多数尚未处理的涉伊朗许可申请。",
+          "url": "https://flash.jin10.com/detail/20260911023629410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国财政部：宣布针对支持伊朗在中东代理人的实体实施新制裁，包括伊拉克商业高管。",
+          "url": "https://flash.jin10.com/detail/20260911023604444800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美官员称伊朗石油装载量大幅下降",
+          "url": "https://flash.jin10.com/detail/20260911023600054800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗总统将于周五前往印度，参加金砖国家峰会。（FARS）",
+          "url": "https://wallstreetcn.com/livenews/3163429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国官员：伊朗石油卸货量降至每日90万桶，低于战争前的每日140万桶。",
+          "url": "https://flash.jin10.com/detail/20260911023417697800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国官员：过去30天，伊朗石油装载量约为每日20万桶，低于1月/2月的每日180万桶。",
+          "url": "https://flash.jin10.com/detail/20260911023409732800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国官员：过去一周，水上运输中的伊朗或疑似伊朗原油平均为1.1亿桶，而战争前为1.8亿桶。",
+          "url": "https://flash.jin10.com/detail/20260911023351284800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国财政部网站发布新一轮伊朗相关制裁。",
+          "url": "https://flash.jin10.com/detail/20260911023310762800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美媒称伊朗恢复生产弹道导弹",
+          "url": "https://wallstreetcn.com/livenews/3163425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗最高安全官员雷扎伊就国际原子能机构理事会决议表态：该机构”政治化”举动将迫使各国退出《不扩散核武器条约》。",
+          "url": "https://wallstreetcn.com/livenews/3163420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗拦截一艘美国无人水面艇",
+          "url": "https://wallstreetcn.com/livenews/3163418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 11.4 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 84,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
+          "url": "https://news.ifeng.com/c/8wJ8CuFiLFy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
+          "url": "https://wallstreetcn.com/articles/3781501",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "每人发5000美元？“特朗普红利”震惊中期选举 智库警告根本没有盈余",
+          "url": "https://www.cls.cn/detail/2479400",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "加拿大总理卡尼称近日已与特朗普通话。",
+          "url": "https://wallstreetcn.com/livenews/3163427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "加拿大总理卡尼：在最近几天与美国总统特朗普聊了几次。",
+          "url": "https://flash.jin10.com/detail/20260911021724069800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 20.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAICodex产品负责人Tibo：OpenAI为了确保现有用户能够获得出色的体验，并继续使用Astra，我们将暂停订阅每月200美元的Pro计划。 该计划对我们的系统造成的压力最大，因此我们希望采取最小幅度的调整，以便继续为尽可能多的用户提供访问权限。 其他所有套餐以及API服务仍可正常使用。现有账户不会受到任何影响，我们正在尽快增加更多容量。",
+          "url": "https://wallstreetcn.com/livenews/3163431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "消息人士：OpenAI首席执行官奥尔特曼会见了顶级电力公用事业公司，讨论保护电网的方法。",
+          "url": "https://flash.jin10.com/detail/20260911022723924800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "OpenAI：就设计问题与摩根士丹利、Evercore ISI合作。",
+          "url": "https://wallstreetcn.com/livenews/3163419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "OpenAI推出金融服务版ChatGPT，剑指华尔街初级银行家岗位",
+          "url": "https://wallstreetcn.com/livenews/3163413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 7.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
@@ -19,11 +377,11 @@
           "url": "https://wallstreetcn.com/articles/3781481",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
@@ -33,87 +391,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
           "url": "https://wallstreetcn.com/articles/3781454",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
-          "title": "美债市场出现大额期权交易，押注10年期收益率升破5%",
-          "url": "https://wallstreetcn.com/livenews/3163369",
+          "title": "美债收益率上涨，此前回购规模没能达到目标",
+          "url": "https://wallstreetcn.com/livenews/3163428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 5.2 位，标题平均出现 1.8 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 65,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
-          "url": "https://news.ifeng.com/c/8wJ8CuFiLFy",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
-        {
-          "title": "特朗普的委内瑞拉石油项目计划到2028年将产量提高150%",
-          "url": "https://wallstreetcn.com/livenews/3163386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
-          "url": "https://wallstreetcn.com/articles/3781501",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
-        {
-          "title": "每人发5000美元？“特朗普红利”震惊中期选举 智库警告根本没有盈余",
-          "url": "https://www.cls.cn/detail/2479400",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "time_info": "03时22分"
         }
       ]
     },
@@ -121,24 +422,13 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 15.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 21.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
-        {
-          "title": "DeepSeek V4.1 Flash发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
         {
           "title": "如何评价正式发布的 DeepSeek V4.1 Flash？",
           "url": "https://www.zhihu.com/question/2081380378493961583",
@@ -147,8 +437,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "DeepSeek正式发布新模型 定价下调",
@@ -158,78 +448,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 60,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "谷歌公司针对微软Windows 10和11推出Gemini APP。",
-          "url": "https://wallstreetcn.com/livenews/3163385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "03时22分"
         },
         {
-          "title": "谷歌(GOOG.O)：推出谷歌云开发者插件，用于人工智能编码助手。",
-          "url": "https://flash.jin10.com/detail/20260911000710468800",
-          "source": "金十数据",
+          "title": "DeepSeek V4.1 Flash发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini应用现已在Windows平台上推出。",
-          "url": "https://flash.jin10.com/detail/20260911000655451800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 27.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 57,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI在ChatGPT Work推出新款数据代理（Data agent）。 数据代理与“获得批准的数据源”衔接。",
-          "url": "https://wallstreetcn.com/livenews/3163361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "03时22分"
         }
       ]
     },
@@ -237,7 +468,7 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 76,
@@ -249,11 +480,11 @@
           "url": "https://wallstreetcn.com/articles/3781457",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
@@ -261,10 +492,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 68,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -273,11 +504,11 @@
           "url": "https://www.cls.cn/detail/2479913",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     }
