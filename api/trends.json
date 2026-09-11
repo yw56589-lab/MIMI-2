@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-09-11T06:07:40.671085+08:00",
+  "generated_at": "2026-09-11T08:42:36.223634+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 7.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 8 个来源平台，平均热榜排名约 13.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 88,
         "chart": []
       },
       "titles": [
+        {
+          "title": "特朗普祝贺德极右翼后被默茨取消通话",
+          "url": "https://www.toutiao.com/trending/7683178689881735210/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
         {
           "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
           "url": "https://news.ifeng.com/c/8wJ8CuFiLFy",
@@ -23,152 +34,117 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "特朗普称5000美元“选举红利”无需国会批准",
-          "url": "https://flash.jin10.com/detail/20260911054545168800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "特朗普公布计划，拟取消H-1B员工失业后的宽限期",
-          "url": "https://wallstreetcn.com/livenews/3163509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
         },
         {
           "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
           "url": "https://wallstreetcn.com/articles/3781501",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "特朗普称派发5000美元无需国会批准",
-          "url": "https://wallstreetcn.com/livenews/3163504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "每人发5000美元？“特朗普红利”震惊中期选举 智库警告根本没有盈余",
-          "url": "https://www.cls.cn/detail/2479400",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美伊战事或持续至2029年？万斯、鲁比奥私下警告特朗普：卸任前都打不完",
-          "url": "https://www.cls.cn/detail/2480029",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "特朗普否认美战机在约旦遭伊朗袭击受损",
-          "url": "https://flash.jin10.com/detail/20260911052421089800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "特朗普否认美战机在约旦遭伊朗袭击受损",
-          "url": "https://wallstreetcn.com/livenews/3163490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 73,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
-          "url": "https://wallstreetcn.com/articles/3781481",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国财长贝森特：今天，并没有像我之前所说的规模那样回购债券，因为我们买得便宜。 我们拥有全球表现最佳的债券市场。 美国国债市场形势良好。 投资者并不要求长端美债溢价。",
-          "url": "https://wallstreetcn.com/livenews/3163507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
         },
         {
-          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
-          "url": "https://wallstreetcn.com/articles/3781454",
+          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+          "url": "https://wallstreetcn.com/articles/3781496",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
+        },
+        {
+          "title": "美伊战事或持续至2029年？万斯、鲁比奥私下警告特朗普：卸任前都打不完",
+          "url": "https://www.cls.cn/detail/2480029",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "胡塞武装占领红海战略要地 特朗普称派发5000美元无需国会批准 | 环球市场",
+          "url": "https://www.cls.cn/detail/2480152",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "经济学家称：特朗普提议的5000美元选举“红利”可能加剧通胀",
+          "url": "https://wallstreetcn.com/livenews/3163557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普：伊朗有一些导弹，大部分已被摧毁。",
+          "url": "https://wallstreetcn.com/livenews/3163539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普：将通过经济增长来处理40万亿美元债务问题。",
+          "url": "https://wallstreetcn.com/livenews/3163538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普给三位女助手各发4.5万美元被质疑违规，白宫：个人赠礼而已",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34042579",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普表示，相信共和党有很大机会赢得美国中期选举。",
+          "url": "https://flash.jin10.com/detail/20260911075704546800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普关税政策现状如何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         }
       ]
     },
@@ -176,67 +152,67 @@
       "keyword_group": "美股",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
+        {
+          "title": "【早报】油价大涨，黄金、白银大跌；美股存储板块，集体回落；燧原科技，今日上市；甲骨文，业绩超预期",
+          "url": "https://www.cls.cn/detail/2480154",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
         {
           "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2479913",
           "source": "财联社热门",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
         },
         {
-          "title": "周四（9月10日），美股降息赢家指数跌1.09%，报90.27点，在国际油价上涨之际、跳空低开之后低位持稳。 “特朗普关税输家”指数跌1.57%，报106.89点，整体低位持稳。 “特朗普金融指数”跌0.62%，报175.66点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.89%，报12.06点，美股盘初低开高走，整体冲高回落。",
-          "url": "https://wallstreetcn.com/livenews/3163506",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：美油破百三大指数四连跌 芯片、存储、光通信集体回落",
+          "url": "https://www.cls.cn/detail/2480136",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
         },
         {
-          "title": "周四（9月10日），美股存储芯片与硬件供应链指数跌4.28%，报205.62点，跳空低开之后低位窄幅震荡，成分股全线溃败，拉姆研究收跌5.65%，SK海力士ADR跌5.2%，美光、西部数据、闪迪至少跌4.06%，泰瑞达、应用材料至少跌3.17%，希捷科技、Rambus至少跌2.62%。 信息科技指数跌2.42%，报414.93点，跳空低开之后低位震荡。 人工智能（AI）赢家指数跌2.82%，报402.69点，跳空低开之后低位企稳。 AI软件先驱指数跌0.91%，报125.67点，低开之后冲高回落。",
-          "url": "https://wallstreetcn.com/livenews/3163503",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大指数4连跌 SK海力士跌超5%",
+          "url": "https://www.toutiao.com/trending/7684043643438501418/",
+          "source": "今日头条",
           "ranks": [
-            7
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数收跌3.45%，报71.31点，跳空低开、盘初刷新日低至70.88点，整体低位震荡。 最近24小时，现货比特币跌1.22%，暂报77248.19美元，北京时间20:00过后出现一波短线加速下跌行情。 现货以太坊跌0.38%，报2460.125美元，21:12跌至2405.248美元——前后短时呈现出V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3163500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -249,51 +225,75 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
         },
         {
-          "title": "据伊朗媒体Fars News：也门胡塞武装向位于曼德海峡以南“拉斯·阿拉雷”（Ras al-Arah）地区的阵地和集结点发动导弹袭击。",
-          "url": "https://flash.jin10.com/detail/20260911053724878800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：阿拉伯媒体称，沙特阿拉伯对也门穆哈港发动了空袭。",
-          "url": "https://flash.jin10.com/detail/20260911053617135800",
-          "source": "金十数据",
+          "title": "美再次威胁打击伊朗镐山核设施，为军事打击进行机密作战能力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34045770",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
         },
         {
-          "title": "美财政部宣布对伊朗相关个人和实体实施制裁",
-          "url": "https://flash.jin10.com/detail/20260911045859503800",
-          "source": "金十数据",
+          "title": "伊朗战争、俄乌冲突与厄尔尼诺叠加，汇丰：全球大宗商品进入\"超级牛市\"",
+          "url": "https://wallstreetcn.com/articles/3781500",
+          "source": "华尔街见闻",
           "ranks": [
-            24
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "观察人士称干预美债似乎与沃什的表态背道而驰，贝森特本人回应",
+          "url": "https://wallstreetcn.com/livenews/3163541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "贝森特淡化美债回购担忧，称债市状况强劲",
+          "url": "https://wallstreetcn.com/livenews/3163533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -302,70 +302,11 @@
           "url": "https://wallstreetcn.com/articles/3781457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "国际金价跌1.9%，白银跌5.4%，纽约铜跌超5.2%",
-          "url": "https://wallstreetcn.com/livenews/3163492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "DeepSeek正式发布新模型 定价下调",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B+%E5%AE%9A%E4%BB%B7%E4%B8%8B%E8%B0%83",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI因“严重关切”而被美国参议员质询Astra模型",
-          "url": "https://wallstreetcn.com/livenews/3163491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "08时42分"
         }
       ]
     }
