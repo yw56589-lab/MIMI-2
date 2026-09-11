@@ -1,198 +1,220 @@
 {
-  "generated_at": "2026-09-11T18:16:11.822171+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-09-11T22:43:36.623418+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 6.6 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普称不后悔对伊朗开战",
-          "url": "https://news.ifeng.com/c/8wKJwXU2xzx",
+          "title": "美研究员发出“末日警告”，特朗普：一点不担心",
+          "url": "https://news.ifeng.com/c/8wKy1i5xyaT",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
-          "url": "https://wallstreetcn.com/articles/3781501",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特朗普：不后悔对伊朗开战 战争将在中期选举后立即停止",
           "url": "https://www.cls.cn/detail/2480503",
           "source": "财联社热门",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "沙特王储两次致电特朗普敦促美方打击胡塞武装，均遭拒绝",
-          "url": "https://news.ifeng.com/c/8wKo2D5E3dD",
-          "source": "凤凰网",
-          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-          "url": "https://wallstreetcn.com/articles/3781496",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
           "url": "https://wallstreetcn.com/articles/3781540",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
-          "title": "特朗普发钱是福利还是买选票",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E9%92%B1%E6%98%AF%E7%A6%8F%E5%88%A9%E8%BF%98%E6%98%AF%E4%B9%B0%E9%80%89%E7%A5%A8",
-          "source": "bilibili 热搜",
+          "title": "特朗普驳斥AI末日论：我只担心发展的不够快",
+          "url": "https://www.cls.cn/detail/2481122",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "沙特王储两次致电特朗普敦促美方打击胡塞武装，均遭拒绝",
+          "url": "https://news.ifeng.com/c/8wKo2D5E3dD",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "哈塞特：如果美联储加息 特朗普会有看法",
+          "url": "https://flash.jin10.com/detail/20260911215635220800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美国密歇根大学消费者信心调查主任Joanne Hsu在一份声明中表示：本月对特朗普政府经济政策的看法恶化了约10%，且仍远低于2026年2月的水平，即伊朗冲突爆发前夕。 值得注意的是，即使是通常支持现任政府经济政策的共和党人，其好感度也出现了明显下降。",
+          "url": "https://wallstreetcn.com/livenews/3164008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗拦截1艘美国无人水面艇",
-          "url": "https://news.ifeng.com/c/8wJoPOwElX7",
+          "title": "霍尔木兹传来新消息？伊朗与海湾六国下周会晤 油价应声走低",
+          "url": "https://www.cls.cn/detail/2480923",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "“伊朗发了一条消息，嘲讽美国”",
+          "url": "https://news.ifeng.com/c/8wKuxrz593c",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号",
           "url": "https://wallstreetcn.com/articles/3781565",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "美再次威胁打击伊朗镐山核设施，为军事打击进行机密作战能力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34045770",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "胡塞武装攻占红海重要港口、沙特冲突升级，伊朗被曝恢复产弹道导弹，原油盘中涨超7%",
           "url": "https://wallstreetcn.com/articles/3781524",
           "source": "华尔街见闻",
           "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "伊朗说14日将在阿曼开会讨论霍尔木兹海峡商运航线",
+          "url": "https://wallstreetcn.com/livenews/3164017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：（美国）对德黑兰施加的压力已达到“危险”阶段。",
+          "url": "https://flash.jin10.com/detail/20260911215958670800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：当一个国家面临政治、军事和经济压力时，其影响将超出国界。",
+          "url": "https://flash.jin10.com/detail/20260911215901833800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 22.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "如何评价贝赫和斯维纳通 - 戴尔猜想（BSD 猜想，七大千禧难题）疑被 OpenAI 或 Anthropic 解决？",
-          "url": "https://www.zhihu.com/question/2081426911943718567",
-          "source": "知乎",
+          "title": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
+          "url": "https://wallstreetcn.com/articles/3781534",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "OpenAI或再推进数学七大难题",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "ChatGPT Pro 200美元档停售",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%20Pro%20200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
@@ -200,69 +222,34 @@
       "keyword_group": "美债",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 62,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
         {
-          "title": "全球市场的“终极考验”来了：10年期美债收益率兵临5%！",
-          "url": "https://www.cls.cn/detail/2480317",
-          "source": "财联社热门",
+          "title": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
+          "url": "https://wallstreetcn.com/articles/3781549",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "调查：10年期美债收益率若达5%至5.25% 或触发美股10%回调",
-          "url": "https://flash.jin10.com/detail/20260911173750011800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 17.5 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 63,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "AI泡沫破裂会如何？惠誉：美股或暴跌35%，美国乃至全球经济恐衰退！",
-          "url": "https://www.cls.cn/detail/2480307",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "time_info": "22时43分"
         },
         {
-          "title": "甲骨文美股盘前涨近7%，公司第一财季营收193亿美元、同比增长30%，云基础设施部门营收同比大增121%。",
-          "url": "https://wallstreetcn.com/livenews/3163818",
+          "title": "长端美债价格走高，市场计入年内美联储加息溢价",
+          "url": "https://wallstreetcn.com/livenews/3164021",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "22时43分"
         }
       ]
     }
