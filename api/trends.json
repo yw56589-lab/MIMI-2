@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-13T05:50:55.656762+08:00",
+  "generated_at": "2026-09-13T07:36:12.400504+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 5 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 9.7 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 85,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普扬言能解决马岛问题",
-          "url": "https://news.ifeng.com/c/8wMlTUy37Ni",
+          "title": "特朗普：英国会有意见，但我乐见爱尔兰统一",
+          "url": "https://news.ifeng.com/c/8wMngvlWOwB",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "油价是特朗普的“大麻烦”，而日元是所有人的",
@@ -33,221 +33,210 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普称胡塞武装已致电美方",
+          "url": "https://news.ifeng.com/c/8wNNWAeJ2Fk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "“胡塞武装粉碎了特朗普的计划”",
           "url": "https://news.ifeng.com/c/8wN3YhgAwg2",
           "source": "凤凰网",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
           "url": "https://www.cls.cn/detail/2481345",
           "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "特朗普：英国会有意见，但我乐见爱尔兰统一",
-          "url": "https://news.ifeng.com/c/8wMngvlWOwB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "俄方不排除普京和特朗普在中国会晤",
           "url": "https://www.toutiao.com/trending/7683801352208891967/",
           "source": "今日头条",
           "ranks": [
-            10
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "特朗普：与委内瑞拉人相处得非常好，他们现在非常开心。 爱尔兰正在扩大军事投资。 美国国防工业基础正在迅速增长。 对美国武器的需求“惊人”，包括爱国者系统。 （谈毒品走私）我们尚未聚焦陆地渠道。 英国必须像美国一样遣返犯罪移民。",
-          "url": "https://wallstreetcn.com/livenews/3164343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "特朗普盛赞就业形势，将工厂建设归功于关税。 特朗普批评欧洲的商业监管“不可接受”。",
-          "url": "https://wallstreetcn.com/livenews/3164342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
-          "url": "https://wallstreetcn.com/livenews/3164341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "特朗普称赞美国股市是“独一无二的”。",
-          "url": "https://wallstreetcn.com/livenews/3164340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "特朗普7400万美元广告砸向关键选区",
           "url": "https://www.toutiao.com/trending/7684655611652345380/",
           "source": "今日头条",
           "ranks": [
-            24
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "特朗普：关于爱尔兰统一，无论怎样回答都不讨好。",
-          "url": "https://wallstreetcn.com/livenews/3164336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 12.4 位，标题平均出现 1.1 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 55,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗总统：目前无法做出与美国直接谈判的决定，美国必须停止封锁",
-          "url": "https://wallstreetcn.com/livenews/3164359",
-          "source": "华尔街见闻-快讯",
+          "title": "伊拉克外长同伊朗外长通话 讨论边境口岸关闭及沙特遭袭事件",
+          "url": "https://flash.jin10.com/detail/20260913060023421800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "伊朗、伊拉克外长通话，讨论边境口岸关闭及沙特遭袭事件",
+          "url": "https://news.ifeng.com/c/8wNOw311E94",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "伊朗外交部：伊朗外长阿拉格齐与伊拉克外长通话确认，有必要继续就共同边境安全保持协调。",
           "url": "https://flash.jin10.com/detail/20260913050839757800",
           "source": "金十数据",
           "ranks": [
-            4
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "07时36分"
+        },
+        {
+          "title": "伊拉克外长同伊朗外长通话，讨论边境口岸关闭及沙特遭袭事件",
+          "url": "https://wallstreetcn.com/livenews/3164382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "伊朗南部格什姆岛方向传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3164377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "伊朗总统：目前无法做出与美国直接谈判的决定，美国必须停止封锁",
+          "url": "https://wallstreetcn.com/livenews/3164359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "伊朗将于周一向海湾国家通报霍尔木兹海峡航运协议。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3164355",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "伊朗和阿曼将通报霍尔木兹海峡通航磋商结果",
-          "url": "https://flash.jin10.com/detail/20260913020613882800",
-          "source": "金十数据",
-          "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "07时36分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 17.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 58,
         "chart": []
       },
       "titles": [
         {
-          "title": "OpenAI的CEO Altman：我同意Dario（Anthropic的CEO Amodei）有关需要控制前沿模型发展步伐的观点。",
-          "url": "https://wallstreetcn.com/livenews/3164361",
+          "title": "OpenAI CEO：今年不会上市，不能冒哪怕10%杀死所有人的风险",
+          "url": "https://wallstreetcn.com/livenews/3164364",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "07时36分"
         },
         {
           "title": "奥尔特曼：OpenAI今年不会上市 仍有大量安全工作需要完成",
           "url": "https://flash.jin10.com/detail/20260913033345855800",
           "source": "金十数据",
           "ranks": [
-            14
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "07时36分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：鉴于OpenAI还有很多安全方面的工作要做，公司今年不会上市。",
           "url": "https://flash.jin10.com/detail/20260913032928385800",
           "source": "金十数据",
           "ranks": [
-            15
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "07时36分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：我同意Dario（Anthropic的CEO Amodei）有关需要控制前沿模型发展步伐的观点。",
+          "url": "https://wallstreetcn.com/livenews/3164361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         }
       ]
     },
@@ -255,10 +244,10 @@
       "keyword_group": "美股",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -270,8 +259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
@@ -281,8 +270,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键",
@@ -292,8 +281,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         }
       ]
     },
@@ -301,10 +290,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -313,11 +302,11 @@
           "url": "https://www.zhihu.com/question/2082041103209820593",
           "source": "知乎",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         }
       ]
     },
@@ -325,10 +314,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 29.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
@@ -337,11 +326,11 @@
           "url": "https://wallstreetcn.com/livenews/3164350",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "07时36分"
         }
       ]
     }
