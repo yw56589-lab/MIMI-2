@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T16:20:19.998339+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-14T23:28:30.545547+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 8.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 4 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -15,59 +15,70 @@
       },
       "titles": [
         {
+          "title": "特朗普声称：美国在人工智能领域大幅领先。",
+          "url": "https://wallstreetcn.com/livenews/3164935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "特朗普在英阿主权争端中偏向阿根廷？阿方表态",
           "url": "https://original.ifeng.com/c/8wPLgfuiHXV",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国总统特朗普：人工智能/数据中心热潮之所以出现，唯一原因是美国遥遥领先于其他所有国家。不要扼杀这只“下金蛋的鹅”！",
+          "url": "https://flash.jin10.com/detail/20260914232429224800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
           "url": "https://wallstreetcn.com/articles/3781667",
           "source": "华尔街见闻",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "【特朗普称俄乌同意不攻击对方能源目标】美国总统特朗普14日在社交媒体上说，俄罗斯和乌克兰已同意不攻击对方的能源目标。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3164932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "“我比任何人都懂公式”，特朗普：美国的利率理应全球最低",
+          "url": "https://news.ifeng.com/c/8wPtYgPuyUB",
+          "source": "凤凰网",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "AI行业大佬齐呼“放慢脚步”？特朗普淡化担忧：赢AI竞赛者赢天下！",
-          "url": "https://www.cls.cn/detail/2481830",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "事关中企，特朗普“口头接受”",
-          "url": "https://news.ifeng.com/c/8wP2USEga22",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "特朗普盯上伊朗石油：就像在委内瑞拉那样",
-          "url": "https://news.ifeng.com/c/8wPCZU6JFfM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
         },
         {
           "title": "特朗普称，考虑解密更多“9·11事件”档案",
@@ -78,29 +89,73 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
         },
         {
-          "title": "柴油价格飙升之际 特朗普要求乌克兰停止袭击俄罗斯炼厂",
-          "url": "https://wallstreetcn.com/livenews/3164687",
+          "title": "纽约柴油期货价格涨幅收窄，目前报5.04美元/加仑，美国总统特朗普宣称，伊朗战争并没有造成全球柴油价格波动。 WTI原油5分钟内下跌0.74美元/桶，报102.67美元/桶；布伦特原油5分钟内下跌0.82美元/桶，报107.61美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3164926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰已经同意，不袭击俄罗斯能源目标。 俄罗斯同意暂时不打击乌克兰能源目标。 俄乌冲突造成全球柴油价格波动。 全球柴油价格上涨并非伊朗战争所致。",
+          "url": "https://wallstreetcn.com/livenews/3164924",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
         },
         {
-          "title": "特朗普：可以接受中国车企在美建厂",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E4%BB%A5%E6%8E%A5%E5%8F%97%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%9C%A8%E7%BE%8E%E5%BB%BA%E5%8E%82",
-          "source": "百度热搜",
+          "title": "美、布两油短线下跌1.4美元，现分别报98.749美元/桶和104.29美元/桶。特朗普称俄乌已同意不打击对方能源目标。",
+          "url": "https://flash.jin10.com/detail/20260914230832989800",
+          "source": "金十数据",
           "ranks": [
-            26
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
+        },
+        {
+          "title": "特朗普：俄乌已同意不打击对方能源目标",
+          "url": "https://flash.jin10.com/detail/20260914230734477800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯也同意停止对乌克兰能源目标的打击。",
+          "url": "https://flash.jin10.com/detail/20260914230632462800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰已同意不打击俄罗斯能源目标。",
+          "url": "https://flash.jin10.com/detail/20260914230603516800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
@@ -108,7 +163,7 @@
       "keyword_group": "伊朗",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -116,129 +171,129 @@
       },
       "titles": [
         {
-          "title": "伊朗：有关核监督机构观察到镐山出现活动的说法毫无根据",
-          "url": "https://wallstreetcn.com/livenews/3164702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
           "title": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
           "url": "https://wallstreetcn.com/articles/3781665",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
         },
         {
-          "title": "事关霍尔木兹海峡新通道！伊朗与海湾国家重磅会议推迟 国际油价大涨3%",
-          "url": "https://www.cls.cn/detail/2481858",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "伊朗：勿一边封锁一边要求他国维护航运",
-          "url": "https://flash.jin10.com/detail/20260914160721671800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "伊朗：沙特要求推迟有关霍尔木兹海峡的会议",
-          "url": "https://wallstreetcn.com/livenews/3164657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股盘前，存储芯片股普跌，SK海力士跌超6%，美光科技跌近5%，西部数据跌近4%，闪迪跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3164696",
+          "title": "伊朗与海湾国家未撕破脸仍可能对话",
+          "url": "https://wallstreetcn.com/livenews/3164931",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
         },
         {
-          "title": "美联储本周加息“箭在弦上”！华尔街热议：会终结美股牛市吗？",
-          "url": "https://www.cls.cn/detail/2482000",
-          "source": "财联社热门",
+          "title": "美国财长贝森特：美国财政部启动“经济弃儿行动”，旨在切断伊朗政权及其支持者的所有资金生命线。因此，我发布了新的呼吁，鼓励举报人提供有关协助伊朗实施恐怖活动人员的信息。",
+          "url": "https://flash.jin10.com/detail/20260914230218723800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "伊朗：因美国施压缺席国际原子能机构大会",
+          "url": "https://wallstreetcn.com/livenews/3164906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "伊朗媒体报道称，一名高级逊尼派穆斯林神职人员在伊朗东南部遭身份不明枪手枪杀。",
+          "url": "https://flash.jin10.com/detail/20260914225241707800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "曾准确预测10年期美债收益率达5%的策略师称：抛售尚未结束",
+          "url": "https://wallstreetcn.com/livenews/3164930",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
         },
         {
-          "title": "美股芯片股盘前普跌，英伟达(NVDA.O)美股盘前下跌2%，AMD(AMD.O)下跌4.1%，英特尔(INTC.O)下跌4.9%，迈威尔科技(MRVL.O)下跌5.5%。 美光科技(MU.O)下跌4.4%，应用材料(AMAT.O)下跌4.6%，博通(AVGO.O)下跌3%。",
-          "url": "https://flash.jin10.com/detail/20260914160552088800",
-          "source": "金十数据",
+          "title": "10年期美债收益率约三年来首次突破5%，美联储利率会议开幕在即",
+          "url": "https://wallstreetcn.com/livenews/3164910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "25位菲尔兹奖得主联名愤怒，OpenAI退出赞助：AI正在激怒整个数学界",
-          "url": "https://wallstreetcn.com/articles/3781657",
-          "source": "华尔街见闻",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "23时28分"
         }
       ]
     }
