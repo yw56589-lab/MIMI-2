@@ -1,16 +1,117 @@
 {
-  "generated_at": "2026-09-15T22:01:54.089736+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-16T02:02:26.775002+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
+      "keyword_group": "美债",
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 7 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 84,
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
+          "url": "https://www.cls.cn/detail/2483760",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "油价飙升加剧通胀担忧，美股低开，存储芯片、光通信股逆势走高，10年期美债收益率破5%创2007年来新高",
+          "url": "https://wallstreetcn.com/articles/3781779",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美债收益率破5%市场反应如何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E5%B8%82%E5%9C%BA%E5%8F%8D%E5%BA%94%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "10年期美债收益率冲破5%！华尔街上调收益率预期，神准分析师：抛售还没结束",
+          "url": "https://wallstreetcn.com/articles/3781729",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
+          "url": "https://wallstreetcn.com/articles/3781749",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "10年期美债收益率创19年新高 美股期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2483994",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国财长贝森特：我们不设定美债收益率的均衡价格。 我相信我们有必要的工具。 10年期美债收益率体现出诸多因素，包括（财政）赤字。",
+          "url": "https://wallstreetcn.com/livenews/3165661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "ai_insight": {
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 7.4 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -23,40 +124,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34068616",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
-          "url": "https://wallstreetcn.com/articles/3781756",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
         },
         {
           "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
           "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
           "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
+          "url": "https://wallstreetcn.com/articles/3781756",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
@@ -67,29 +157,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国总统特朗普：最高法院此前关于关税的糟糕裁决将让美国在未来多年付出数万亿美元的代价。同样，关于出生公民权的裁决对美国而言也是一场彻底的灾难，并且已经导致美国“公民身份”问题上出现大规模腐败。",
-          "url": "https://flash.jin10.com/detail/20260915212944882800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "美国总统特朗普：美国最高法院在邮寄投票案件中又给了共和党一个糟糕的裁决。",
-          "url": "https://flash.jin10.com/detail/20260915212912209800",
-          "source": "金十数据",
+          "title": "能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂",
+          "url": "https://wallstreetcn.com/articles/3781803",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
         },
         {
           "title": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
@@ -100,220 +179,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "美国总统特朗普在社交媒体上批评最高法院多项裁决，称其令美国遭受重大损失。",
-          "url": "https://flash.jin10.com/detail/20260915212900611800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "特朗普为何喊停乌克兰炸俄炼油厂",
-          "url": "https://www.toutiao.com/trending/7685695429031235108/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
         },
         {
           "title": "特朗普宣布赴深圳参加APEC会议",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%B5%B4%E6%B7%B1%E5%9C%B3%E5%8F%82%E5%8A%A0APEC%E4%BC%9A%E8%AE%AE",
           "source": "百度热搜",
           "ranks": [
-            23
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
         },
         {
-          "title": "白宫国家经济委员会主任称其与特朗普会尊重沃什明天的决定",
-          "url": "https://wallstreetcn.com/livenews/3165555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 7,
-      "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 5.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
-          "url": "https://www.cls.cn/detail/2483760",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
-          "url": "https://wallstreetcn.com/articles/3781670",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "美债收益率破5%市场反应如何",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E5%B8%82%E5%9C%BA%E5%8F%8D%E5%BA%94%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "10年期美债收益率冲破5%！华尔街上调收益率预期，神准分析师：抛售还没结束",
-          "url": "https://wallstreetcn.com/articles/3781729",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
-          "url": "https://wallstreetcn.com/articles/3781749",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "油价飙升加剧通胀担忧，美股低开，存储芯片、光通信股逆势走高，10年期美债收益率破5%创2007年来新高",
-          "url": "https://wallstreetcn.com/articles/3781779",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "10年期美债收益率创19年新高 美股期指走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2483994",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 12.6 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超1%，生物科技指数ETF跌超1%，日常消费品ETF跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3165580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "美股开盘，道指跌0.2%，标普500指数跌0.1%，纳指跌0.1%。存储概念股多数走高，美光科技(MU.O)涨0.9%，此前演示全球首款512GB DDR5 RDIMM内存模块，预计2027年下半年实现量产。SK海力士(SKHY.O)涨2%。明星科技股涨跌不一，英伟达(NVDA.O)涨0.8%，英特尔(INTC.O)涨1.6%，微软(MSFT.O)跌0.8%，甲骨文(ORCL.N)跌0.5%。",
-          "url": "https://flash.jin10.com/detail/20260915213053573800",
+          "title": "据华盛顿邮报：据美国官员透露，特朗普政府正准备向以色列出售价值28亿美元的重型炸弹。",
+          "url": "https://flash.jin10.com/detail/20260916010941425800",
           "source": "金十数据",
           "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "美股盘初微跌：道指跌0.2%，光通信股普涨",
-          "url": "https://wallstreetcn.com/livenews/3165576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "美股期货走高，原油走低",
-          "url": "https://wallstreetcn.com/livenews/3165561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3165557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 9.4 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -322,79 +221,88 @@
           "url": "https://original.ifeng.com/c/8wRjWjgjNhe",
           "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
         },
         {
           "title": "伊朗总统：穆杰塔巴还健在，不能让美以获知他的行踪",
           "url": "https://news.ifeng.com/c/8wRgmNyW2fF",
           "source": "凤凰网",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐将访华",
+          "url": "https://news.ifeng.com/c/8wRQxeSggZb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗原子能组织发言人在国际原子能机构会议上表示：伊朗不会屈服，我国核计划是和平性质的。 伊朗是《不扩散核武器条约》最早的成员国之一，并且一直恪守条约义务。 国际原子能机构核查人员在对伊朗核设施开展反复、持续核查后，至今是否提交过显示伊朗存在违规行为的报告？ 国际原子能机构总干事与理事会当年难道没有谴责1981年针对伊拉克核设施的军事袭击吗？ 那么，针对伊朗核设施规模大得多的军事袭击，为何没有受到谴责？",
+          "url": "https://wallstreetcn.com/livenews/3165683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国周一摧毁两艘伊朗小型船只。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3165565",
+          "title": "伊朗原子能组织发言人卡马万迪在国际原子能机构会议上表示，伊朗不会屈服，其核计划完全出于和平目的。",
+          "url": "https://flash.jin10.com/detail/20260916010419822800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：虚构说法称伊朗毫无防御能力。 事实却是， 美国国防部发布的消息称数百处美军军事设施被炸得粉碎，数十架军机被烧毁。 而这仅仅只是冰山一角。我们将在适当时机披露全部真相。 对于那些编造有关伊朗谎言的人，结局不会好看。",
+          "url": "https://wallstreetcn.com/livenews/3165672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "报道：美国、以色列与阿拉伯国家军方高官就伊朗问题举行秘密会议",
+          "url": "https://wallstreetcn.com/livenews/3165671",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI支持众议院安全评估计划。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3165582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "集体踩刹车，微软加入OpenAI、Anthropic，表态放缓AI前沿开发",
-          "url": "https://wallstreetcn.com/articles/3781726",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 66,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -407,7 +315,77 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "DeepSeek工程师发长文引热议",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8F%91%E9%95%BF%E6%96%87%E5%BC%95%E7%83%AD%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "谷歌公司发布Gemini 3.8实时对话模型。 推出Gemini 3.8 Live和Gemini 3.8 Live Extended Thinking，两款模型为我们目前最出色的对话式人工智能模型。 与Salesforce、Genspark、以及Lumeris构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3165685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：推出Gemini 3.8 Live和Gemini 3.8 Live Extended Thinking，两款模型为我们目前最出色的对话式人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260916010827692800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI考虑在加拿大建立数据中心，赞赏总理卡尼的计划。",
+          "url": "https://wallstreetcn.com/livenews/3165678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
