@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T10:33:38.744779+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-09-15T16:12:39.117337+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 8.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 8.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -15,103 +15,215 @@
       },
       "titles": [
         {
-          "title": "特朗普急了，现场连线黄仁勋，斥责AI危险论是骗局",
-          "url": "https://tech.ifeng.com/c/8wQkfkSVHfL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
           "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
           "url": "https://wallstreetcn.com/articles/3781728",
           "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "特朗普公开致电黄仁勋：AI风险是骗局，数据中心是未来石油！",
+          "url": "https://www.cls.cn/detail/2483181",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
+        },
+        {
+          "title": "特朗普急了，现场连线黄仁勋，斥责AI危险论是骗局",
+          "url": "https://tech.ifeng.com/c/8wQkfkSVHfL",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
+          "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34068616",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
+        },
+        {
+          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
+          "url": "https://wallstreetcn.com/articles/3781756",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "“AI减速论”愈演愈烈 特朗普再度驳斥：AI将成史上最强经济发展引擎",
           "url": "https://www.cls.cn/detail/2482942",
           "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
-          "url": "https://wallstreetcn.com/articles/3781745",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
         },
         {
           "title": "特朗普称对与伊朗谈判持开放态度 霍尔木兹海峡单日通行量降至个位数 | 环球市场",
           "url": "https://www.cls.cn/detail/2482905",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
         },
         {
-          "title": "特朗普称俄乌已同意不打击对方能源目标 国际油价短线走低",
-          "url": "https://www.cls.cn/detail/2482848",
-          "source": "财联社热门",
+          "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34072434",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
         },
         {
-          "title": "特朗普急了 致电黄仁勋斥责AI危险论",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A5%E4%BA%86+%E8%87%B4%E7%94%B5%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%A5%E8%B4%A3AI%E5%8D%B1%E9%99%A9%E8%AE%BA",
-          "source": "百度热搜",
+          "title": "黄仁勋峰会现场公放接特朗普电话",
+          "url": "https://www.douyin.com/hot/2650726",
+          "source": "抖音",
           "ranks": [
-            21
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "ai_insight": {
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 10.4 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "市场消息：伊朗政府飞机已抵达沙特阿拉伯利雅得。",
+          "url": "https://flash.jin10.com/detail/20260915154943359800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "美飞行员被伊朗击落后数十小时才获救，细节披露",
+          "url": "https://news.ifeng.com/c/8wQEGFmgtju",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "美军飞行员讲述伊朗逃生经历",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AE%B2%E8%BF%B0%E4%BC%8A%E6%9C%97%E9%80%83%E7%94%9F%E7%BB%8F%E5%8E%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "伊朗称在霍尔木兹海峡以东击落MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3165351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "市场消息：美国阻止伊朗核负责人参加在维也纳举行的国际原子能机构（IAEA）会议",
+          "url": "https://flash.jin10.com/detail/20260915153857117800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "美军因伊朗战事面临兵力或资源短缺，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3165336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "伊朗称在霍尔木兹海峡以东击落MQ-1无人机",
+          "url": "https://flash.jin10.com/detail/20260915153513293800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -124,75 +236,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
         },
         {
           "title": "10年期美债收益率冲破5%！华尔街上调收益率预期，神准分析师：抛售还没结束",
           "url": "https://wallstreetcn.com/articles/3781729",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
+        },
+        {
+          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
+          "url": "https://wallstreetcn.com/articles/3781749",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "这一天终于还是来了：10年期美债收益率升穿5%！",
           "url": "https://www.cls.cn/detail/2482972",
           "source": "财联社热门",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI CEO详谈放慢AI发展脚步原因：未来或走向两大极端，均可能失控！",
-          "url": "https://www.cls.cn/detail/2482954",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "9月15日投资避雷针：英伟达限制使用OpenAI和Anthropic最先进模型",
-          "url": "https://www.cls.cn/detail/2482946",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 1.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -205,7 +293,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
         },
         {
           "title": "美股收盘：AI降速呼声重挫芯片股 三大指数集体收跌",
@@ -216,47 +304,47 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美飞行员被伊朗击落后数十小时才获救，细节披露",
-          "url": "https://news.ifeng.com/c/8wQEGFmgtju",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
         },
         {
-          "title": "伊朗和韩国杠上了",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%92%8C%E9%9F%A9%E5%9B%BD%E6%9D%A0%E4%B8%8A%E4%BA%86",
-          "source": "百度热搜",
+          "title": "美联储决议前多重压力叠加 欧洲股市与美股期货齐跌",
+          "url": "https://flash.jin10.com/detail/20260915153340019800",
+          "source": "金十数据",
           "ranks": [
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 69,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
+          "url": "https://www.zhihu.com/question/2083123101873844765",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
         "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
@@ -267,15 +355,15 @@
       },
       "titles": [
         {
-          "title": "严文韬或将出任DeepSeek CFO",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A5%E6%96%87%E9%9F%AC%E6%88%96%E5%B0%86%E5%87%BA%E4%BB%BBDeepSeek%20CFO",
-          "source": "bilibili 热搜",
+          "title": "OpenAI CEO详谈放慢AI发展脚步原因：未来或走向两大极端，均可能失控！",
+          "url": "https://www.cls.cn/detail/2482954",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "16时12分"
         }
       ]
     }
