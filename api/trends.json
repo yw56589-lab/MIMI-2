@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T16:06:20.896432+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-16T21:54:32.493119+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 12.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -15,91 +15,78 @@
       },
       "titles": [
         {
-          "title": "deepseek工程师自嘲被AI取代",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&amp;topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-          "url": "https://wallstreetcn.com/articles/3781850",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "国产开源模型再迎“DeepSeek时刻”：Kimi K3成全球最大开源模型",
-          "url": "https://flash.jin10.com/detail/20260916153809100800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 5.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普真急了，一个电话打到黄仁勋那里",
-          "url": "https://news.ifeng.com/c/8wSWne5GO3Z",
-          "source": "凤凰网",
+          "title": "美股盘初：存储芯片股、光通信股普涨，英特尔涨约6%，SK海力士涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3166302",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时54分"
         },
         {
-          "title": "能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂",
-          "url": "https://wallstreetcn.com/articles/3781803",
-          "source": "华尔街见闻",
+          "title": "美股三大股指高开，道指涨0.1%，标普500指数涨0.3%，纳指涨0.5%。Meta Platforms(META.O)涨1.6%，花旗将Meta列入未来90天上行催化剂观察名单。苹果(AAPL.O)涨0.6%，报道称其正在开发采用自研芯片的企业级服务器。英伟达(NVDA.O)涨0.9%，英特尔(INTC.O)涨5.2%，SK海力士(SKHY.O)涨3%。",
+          "url": "https://flash.jin10.com/detail/20260916213035051800",
+          "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时54分"
         },
         {
-          "title": "美联储加息风暴倒计时！白宫高官：我和特朗普将尊重沃什的决定",
-          "url": "https://www.cls.cn/detail/2484462",
-          "source": "财联社热门",
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3166287",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美股开盘：英特尔涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美元指数短线小幅走低，现报99.70。美股期货短线波动不大，纳斯达克100指数期货涨0.6%。美国10年期国债收益率短线波动不大，现报4.979%。现货黄金短线小幅走高，现报4341.06美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3166278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-09-16）",
+          "url": "https://flash.jin10.com/detail/20260916210745480800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -107,48 +94,48 @@
       },
       "titles": [
         {
-          "title": "伊朗总统：穆杰塔巴还健在，不能让美以获知他的行踪",
-          "url": "https://news.ifeng.com/c/8wRgmNyW2fF",
-          "source": "凤凰网",
+          "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
+          "url": "https://wallstreetcn.com/articles/3781850",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时54分"
         },
         {
-          "title": "欧盟委员会主席冯德莱恩：伊朗冲突使欧盟额外支付900亿欧元化石燃料进口费用。 必须在2027年底前完成单一市场改革。 将就银行业碎片化问题提出一揽子方案。 将设立新的关键原材料公司。 欧盟委员会将建立气候保险联盟。 需要建立更好的热浪预警系统。 将就水资源短缺问题提出倡议。 人工智能风险已变得更加突出。",
-          "url": "https://wallstreetcn.com/livenews/3166076",
-          "source": "华尔街见闻-快讯",
+          "title": "deepseek工程师自嘲被AI取代",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&amp;topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
+          "source": "贴吧",
           "ranks": [
-            15
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时54分"
         },
         {
-          "title": "伊朗外长阿拉格齐于 9 月 16 日访华，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2083227260400702253",
-          "source": "知乎",
+          "title": "DeepSeek研究员文章走红",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%96%87%E7%AB%A0%E8%B5%B0%E7%BA%A2",
+          "source": "bilibili 热搜",
           "ranks": [
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时54分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 5.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -161,26 +148,107 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时54分"
         },
         {
           "title": "20年期美债拍卖收益率创历史新高，10年期美债收益率再刷20年新高",
           "url": "https://wallstreetcn.com/articles/3781822",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时54分"
+        },
+        {
+          "title": "笃信今晚美联储加息！美债市场现“极端空头”",
+          "url": "https://wallstreetcn.com/articles/3781839",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "报道：英伟达、谷歌、Emerald AI发起成立AI能源管理联盟",
+          "url": "https://wallstreetcn.com/livenews/3166298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Emerald AI、谷歌与英伟达宣布建立联盟，将推动灵活的人工智能数据中心发展。",
+          "url": "https://flash.jin10.com/detail/20260916210855614800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI：在美国测试ChatGPT广告的赞助代理功能。将广告平台与HubSpot、Shopify进行整合。",
+          "url": "https://wallstreetcn.com/livenews/3166297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "OpenAI将广告平台与HubSpot、Shopify进行整合",
+          "url": "https://flash.jin10.com/detail/20260916210615479800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 76,
@@ -188,15 +256,50 @@
       },
       "titles": [
         {
-          "title": "美联储加息风暴即将来袭？瑞银：别慌！历史证明美股总能扛过去",
-          "url": "https://www.cls.cn/detail/2484498",
-          "source": "财联社热门",
+          "title": "美军飞行员获救过程遭质疑，伊朗发AI视频嘲讽",
+          "url": "https://news.ifeng.com/c/8wTKr5D1mPA",
+          "source": "凤凰网",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时54分"
+        },
+        {
+          "title": "伊朗本周击中一艘与美国签有合同的船只",
+          "url": "https://wallstreetcn.com/livenews/3166291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 66,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普真急了，一个电话打到黄仁勋那里",
+          "url": "https://news.ifeng.com/c/8wSWne5GO3Z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         }
       ]
     }
