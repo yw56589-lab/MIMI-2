@@ -1,152 +1,16 @@
 {
-  "generated_at": "2026-09-17T04:40:16.084711+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-09-17T07:26:00.450096+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 5.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 66,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "布油基金收跌2.9%，与道指ETF领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3166480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "周三（9月16日），美股降息赢家指数收跌1.79%，报88.51点。 美股开盘至北京时间02:00大致持平，美联储宣布加息后持续下跌，03:26刷新日低至87.61点。 成分股普遍下跌，俄亥俄州亨廷顿银行控股HBAN收跌5.55%，公民金融集团CFG跌4.84%，Polarris跌4.51%，Truist金融公司跌4%跌幅第四大。",
-          "url": "https://wallstreetcn.com/livenews/3166478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "周三（9月16日），美股行业ETF多数收跌，能源业ETF跌2.88%，区域银行ETF、银行业ETF、金融业ETF至多跌1.77%，网络股指数ETF跌0.43%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.4%，半导体ETF涨0.64%。",
-          "url": "https://wallstreetcn.com/livenews/3166475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "金十图示：2026年09月16日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260917040530581800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "金十图示：2026年09月16日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260917040527372800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美股收盘：美联储加息落地 三大股指收跌",
-          "url": "https://flash.jin10.com/detail/20260917040118872800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.8 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 64,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-          "url": "https://wallstreetcn.com/articles/3781779",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
-        },
-        {
-          "title": "中日7月均减持美债 英国大笔增持",
-          "url": "https://flash.jin10.com/detail/20260917041123510800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇",
-          "url": "https://wallstreetcn.com/articles/3781871",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
-        },
-        {
-          "title": "20年期美债拍卖收益率创历史新高，10年期美债收益率再刷20年新高",
-          "url": "https://wallstreetcn.com/articles/3781822",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 19,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 19 条热点，覆盖 4 个来源平台，平均热榜排名约 14.1 位，标题平均出现 1.2 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 68,
+        "confidence": 55,
         "chart": []
       },
       "titles": [
@@ -155,11 +19,11 @@
           "url": "https://wallstreetcn.com/articles/3781919",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
           "title": "加拿大总理用“特朗普送钥匙”形容美加关系",
@@ -170,18 +34,297 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "据英国卫报：美国众议院外委会民主党领袖拟阻止特朗普28亿美元对以军售。",
-          "url": "https://flash.jin10.com/detail/20260917035135329800",
+          "title": "特朗普：若加拿大成欧盟“联席成员” 将对欧盟加征关税并切断部分贸易",
+          "url": "https://flash.jin10.com/detail/20260917071917232800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心",
+          "url": "https://wallstreetcn.com/articles/3781922",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "美联储刚把利率加到4%，特朗普就要求降至1%：沃什与白宫“休战”生变？",
+          "url": "https://flash.jin10.com/detail/20260917064553630800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们认为接纳加拿大作为观察员国属于敌对行为，就可能对欧洲征收高额关税。 若欧洲采取恶意举措，美国将征收关税。",
+          "url": "https://wallstreetcn.com/livenews/3166526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国众议院通过俄罗斯制裁法案，将送交特朗普签署",
+          "url": "https://flash.jin10.com/detail/20260917064407371800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：希望我们更接近伊朗战争的尾声。",
+          "url": "https://wallstreetcn.com/livenews/3166525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "特朗普让沃什随波逐流",
+          "url": "https://flash.jin10.com/detail/20260917064407053800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗非常希望达成协议。",
+          "url": "https://flash.jin10.com/detail/20260917063410046800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：重申美联储主席沃什有个难搞的理事会。 利率太高。 已经与沃什谈过。 我跟沃什说了让他做他想做的事。 （被问及是否仍然对沃什有信心）是的。",
+          "url": "https://wallstreetcn.com/livenews/3166522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们认为欧盟把加拿大列为观察员国是敌对行为，我们可能对欧洲征收高额关税。",
+          "url": "https://flash.jin10.com/detail/20260917063327910800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "特朗普在北卡罗来纳州降落后与媒体交谈。",
+          "url": "https://flash.jin10.com/detail/20260917063106220800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国众议院以262票对159票通过法案，对俄罗斯实施制裁和关税。美国总统特朗普预计将签署成为法律。",
+          "url": "https://flash.jin10.com/detail/20260917063012997800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：希望伊朗战争接近结束。",
+          "url": "https://flash.jin10.com/detail/20260917062929545800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：应当实行全球最低水平的利率。",
+          "url": "https://flash.jin10.com/detail/20260917062859347800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：我希望美联储主席沃什保持独立。",
+          "url": "https://flash.jin10.com/detail/20260917062827624800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时40分"
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：沃什有个难搞的理事会。利率太高。",
+          "url": "https://flash.jin10.com/detail/20260917062730958800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：仍然对美联储主席沃什充满信心。",
+          "url": "https://flash.jin10.com/detail/20260917062622007800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.5 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 60,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美军飞行员获救过程遭质疑，伊朗发AI视频嘲讽",
+          "url": "https://news.ifeng.com/c/8wTKr5D1mPA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "土耳其称伊朗支持土方解散库尔德工人党",
+          "url": "https://flash.jin10.com/detail/20260917071713840800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "伊朗单日击落 3 架美军 MQ-1 无人机，美军密集出动同一侦察机，想获取什么情报？还是试探伊朗防空？",
+          "url": "https://www.zhihu.com/question/2083344144982980584",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "安全消息人士称，一架携带爆炸物的无人机袭击了伊拉克苏莱曼尼亚西北部一个伊朗库尔德反对派组织的营地；无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260917063401501800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 71,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股收盘：FED鹰派加息打压市场情绪 三大指数集体走低",
+          "url": "https://www.cls.cn/detail/2485595",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "【早报】时隔3年多，美联储重启加息；美股、原油、黄金全线跳水；多家A股公司，披露回购进展",
+          "url": "https://www.cls.cn/detail/2485626",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         }
       ]
     },
@@ -205,7 +348,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
           "title": "deepseek工程师自嘲被AI取代",
@@ -216,15 +359,15 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
+          "time_info": "[07时25分 ~ 07时26分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 57,
@@ -232,61 +375,87 @@
       },
       "titles": [
         {
-          "title": "彭博美元指数收涨0.5%，创6月17日以来最佳单日表现。",
-          "url": "https://wallstreetcn.com/livenews/3166470",
+          "title": "美国法官表示，鉴于谷歌反垄断违法行为的 “严重性”，谷歌应任命一名内部合规官。",
+          "url": "https://wallstreetcn.com/livenews/3166508",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美元指数有望创6月17日以来最佳单日表现",
-          "url": "https://wallstreetcn.com/livenews/3166455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "time_info": "07时26分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
         {
-          "title": "美军飞行员获救过程遭质疑，伊朗发AI视频嘲讽",
-          "url": "https://news.ifeng.com/c/8wTKr5D1mPA",
-          "source": "凤凰网",
+          "title": "OpenAI将向美国政府提议设立AI安全报告机制",
+          "url": "https://wallstreetcn.com/livenews/3166517",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
-        },
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 73,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "伊朗单日击落 3 架美军 MQ-1 无人机，美军密集出动同一侦察机，想获取什么情报？还是试探伊朗防空？",
-          "url": "https://www.zhihu.com/question/2083344144982980584",
-          "source": "知乎",
+          "title": "美联储如期加息，美债收益率反弹，美股下跌，美元指数走强，金价跳水",
+          "url": "https://wallstreetcn.com/articles/3781920",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
+          "time_info": "[07时25分 ~ 07时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 57,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "两年期美债收益率于美联储加息日涨超7个基点，两年期实际收益率涨约15个基点",
+          "url": "https://wallstreetcn.com/livenews/3166510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     }
