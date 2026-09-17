@@ -1,182 +1,92 @@
 {
-  "generated_at": "2026-09-18T04:46:57.664868+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-09-18T07:17:34.790918+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 8,
+      "keyword_group": "特朗普",
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 8.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 17.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "美联储加息后，美股哪些板块更“抗压”？历史指向能源与科技",
-          "url": "https://www.cls.cn/detail/2486411",
+          "title": "特朗普：伊朗战争下一步，“一个大决定”就要来了",
+          "url": "https://flash.jin10.com/detail/20260918065241095800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "特朗普：美伊战争迎来关键节点 我面临一个重大决定",
+          "url": "https://www.cls.cn/detail/2486613",
           "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "美联储加息落地，美股高开，纳指涨1.5%，存储芯片、光通信股普涨，布油跌3%，黄金逼近4370",
-          "url": "https://wallstreetcn.com/articles/3781940",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "新兴市场ETF收涨1.8%，领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3166987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "金十图示：2026年09月17日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260918040529053800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "周四（9月17日），美股行业ETF普遍收涨，半导体ETF涨2.76%，生物科技指数ETF、全球科技股指数ETF、科技行业ETF至少涨2.25%，网络股指数ETF涨1.02%，能源业ETF涨0.69%，金融业ETF、银行业ETF至多跌0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3166985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "金十图示：2026年09月17日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260918040519501800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "加息冲击暂缓 美股三大期指均涨超1% 布油跌近4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2486467",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "美股收盘：三大股指齐涨 芯片股领涨",
-          "url": "https://flash.jin10.com/detail/20260918040102502800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI推出面向律师事务所的新型AI模型。",
-          "url": "https://flash.jin10.com/detail/20260918041155058800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "如何看待前 OpenAI 研究员发布的新模型「Jev」 ？这类模型会成为 Agent 的新技术路线吗？",
-          "url": "https://www.zhihu.com/question/2083549123160925836",
-          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "07时17分"
         },
         {
-          "title": "OpenAI推出法律人工智能平台Astra for Law。",
-          "url": "https://wallstreetcn.com/livenews/3166982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "OpenAI：任命Brian McCarthy为全球销售副总裁，其此前任职于SpaceX(SPCX.O)。",
-          "url": "https://flash.jin10.com/detail/20260918035036796800",
-          "source": "金十数据",
+          "title": "特朗普呼吁美联储赶紧降息",
+          "url": "https://www.douyin.com/hot/2653171",
+          "source": "抖音",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "07时17分"
         },
         {
-          "title": "OpenAI聘请SpaceX的McCarthy为全球销售副总裁。（财富杂志）",
-          "url": "https://wallstreetcn.com/livenews/3166973",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普考虑在联合国大会期间会见委内瑞拉临时总统",
+          "url": "https://flash.jin10.com/detail/20260918060033392800",
+          "source": "金十数据",
           "ranks": [
-            17
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美国总统特朗普料将最快于下周会见委内瑞拉代总统Rodriguez。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3167015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "诉状文件显示：迪士尼称，鉴于美国总统特朗普持续发出威胁，美国法官必须阻止美国联邦通信委员会开展牌照提前审查。",
+          "url": "https://wallstreetcn.com/livenews/3167012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 15.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 13.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -192,116 +102,37 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "07时17分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们必须将任务进行到底，推翻伊朗政权 。",
-          "url": "https://flash.jin10.com/detail/20260918035335425800",
+          "title": "据伊朗法尔斯通讯社：非官方消息称，沙特吉达市的警报响起，机场航班已暂停。该市的防空系统已启动。",
+          "url": "https://flash.jin10.com/detail/20260918062305769800",
           "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：如果我们没有及时采取行动打击伊朗，我们今天就不会在这里会面，因为以色列国可能已经不复存在了。",
-          "url": "https://flash.jin10.com/detail/20260918034731989800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "中方反对在安理会强推恢复对伊朗制裁",
-          "url": "https://wallstreetcn.com/livenews/3166969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：单极秩序中，一方通过武力和胁迫迫使他方让步的时代已经结束。我们必须捍卫多边主义；单边主义不符合任何一方的利益。",
-          "url": "https://flash.jin10.com/detail/20260918032053267800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心",
-          "url": "https://wallstreetcn.com/articles/3781922",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "据NewsNation：白宫官员表示，美国总统特朗普今晚（北京时间18日早上7时）将在白宫玫瑰园举行晚宴，邀请超过100名猎人、钓鱼爱好者及户外产业领导者参加。特朗普计划在活动期间签署行政命令，扩大美国民众狩猎和捕鱼机会，并撤销部分拜登政府时期实施的相关限制措施。",
-          "url": "https://flash.jin10.com/detail/20260918040948794800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "特朗普呼吁美联储赶紧降息",
-          "url": "https://www.douyin.com/hot/2653171",
-          "source": "抖音",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "07时17分"
         },
         {
-          "title": "美国总统特朗普称参议院已推进新版《农业法案》，并称该法案将在共和党支持下最终通过。",
-          "url": "https://flash.jin10.com/detail/20260918033804697800",
-          "source": "金十数据",
+          "title": "美媒：伊朗领导人将出席在纽约举行的联合国大会",
+          "url": "https://wallstreetcn.com/livenews/3167018",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "07时17分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美债",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 20.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -309,26 +140,61 @@
       },
       "titles": [
         {
-          "title": "美元指数17日下跌",
-          "url": "https://flash.jin10.com/detail/20260918034013650800",
-          "source": "金十数据",
+          "title": "美债价格反弹，市场选择“暂时相信”沃什",
+          "url": "https://wallstreetcn.com/articles/3782002",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "07时17分"
         },
         {
-          "title": "周四（9月17日）纽约尾盘，ICE美元指数跌0.02%，报100.227点，日内交投区间为100.367-100.022点。 彭博美元指数跌0.06%，报1202.89点，日内交投区间为1204.78-1200.82点。",
-          "url": "https://wallstreetcn.com/livenews/3166964",
+          "title": "10年期美债收益率跌超9个基点，追随国际油价走低的表现",
+          "url": "https://wallstreetcn.com/livenews/3167011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "07时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 67,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美联储加息后，美股哪些板块更“抗压”？历史指向能源与科技",
+          "url": "https://www.cls.cn/detail/2486411",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美股收盘：华尔街走出加息阴霾 科技股集体反弹纳指大涨近1.7%",
+          "url": "https://www.cls.cn/detail/2486633",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
@@ -352,31 +218,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 71,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美联储如期加息，美债收益率反弹，美股下跌，美元指数走强，金价跳水",
-          "url": "https://wallstreetcn.com/articles/3781920",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "07时17分"
         }
       ]
     }
