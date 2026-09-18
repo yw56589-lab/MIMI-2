@@ -1,95 +1,117 @@
 {
-  "generated_at": "2026-09-19T00:50:10.395977+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-09-19T03:20:47.909162+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 12.2 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 14.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 65,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "据NewsNation：美国总统特朗普表示，是否“消灭”伊朗，“我们拭目以待”。",
-          "url": "https://flash.jin10.com/detail/20260919003645817800",
+          "title": "特朗普封禁三家媒体进入白宫 指控其报道失实",
+          "url": "https://flash.jin10.com/detail/20260919030733559800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：即日起禁止CNN、MSNOW（前MSNBC）和Politico进入白宫，理由是这些媒体“持续报道假新闻”。",
+          "url": "https://flash.jin10.com/detail/20260919030527975800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "据NewsNation：美国总统特朗普表示，美国正在与胡塞武装进行谈判，胡塞武装也希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20260919002943478800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "美国总统特朗普：美国正与也门胡塞武装对话。 （与伊朗一样）胡塞也希望达成一份协议。（Newsnation）",
-          "url": "https://wallstreetcn.com/livenews/3167413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "03时20分"
         },
         {
           "title": "沃什是如何在不激怒特朗普的情况下加息的",
           "url": "https://wallstreetcn.com/articles/3782071",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "美媒：全球为特朗普的历史执念买单",
-          "url": "https://www.toutiao.com/trending/7685735571751272454/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "李在明：特朗普金正恩数月内或会晤",
           "url": "https://www.toutiao.com/trending/7686804726591065663/",
           "source": "今日头条",
           "ranks": [
-            29
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：美国正与也门胡塞武装对话。 （与伊朗一样）胡塞也希望达成一份协议。（Newsnation）",
+          "url": "https://wallstreetcn.com/livenews/3167413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：阿什利·穆迪（Ashley Moody）获得我对其竞选连任佛罗里达州联邦参议员的“完全且全面的支持，她永远不会让你们失望！",
+          "url": "https://flash.jin10.com/detail/20260919021038443800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美媒：全球为特朗普的历史执念买单",
+          "url": "https://www.toutiao.com/trending/7685735571751272454/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：丹·沙利文（Dan S. Sullivan）获得我对其竞选连任阿拉斯加州联邦参议员的“完全且全面的支持，他永远不会让你们失望！",
+          "url": "https://flash.jin10.com/detail/20260919021019180800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 5.2 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 11.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 64,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -101,19 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "巴勒斯坦消息人士经伊朗学生通讯社（ISNA）披露：沙特高级安全与军事代表团会晤摩萨德及以色列军事情报部门负责人，在美国中央司令部监督下寻求针对胡塞武装行动的支援。",
-          "url": "https://wallstreetcn.com/livenews/3167417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "03时20分"
         },
         {
           "title": "中俄投反对票，伊朗表态",
@@ -123,8 +134,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "联合国调查团：美国袭击伊朗米纳卜小学和一体育设施构成战争罪",
@@ -134,19 +145,52 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美媒：伊朗战争中美军死亡人数或高于五角大楼公开数据",
+          "url": "https://flash.jin10.com/detail/20260919023056065800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "据华盛顿邮报：在伊朗战争期间死亡的美军人数超过五角大楼公开披露的数量。",
+          "url": "https://flash.jin10.com/detail/20260919022750046800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "巴勒斯坦消息人士经伊朗学生通讯社（ISNA）披露：沙特高级安全与军事代表团会晤摩萨德及以色列军事情报部门负责人，在美国中央司令部监督下寻求针对胡塞武装行动的支援。",
+          "url": "https://wallstreetcn.com/livenews/3167417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 63,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -155,57 +199,11 @@
           "url": "https://wallstreetcn.com/articles/3782055",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "谷歌最新旗舰模型Gemini 4 Pro疑似“偷跑”，多项指标领先Astra和Fable 5.1",
-          "url": "https://wallstreetcn.com/livenews/3167389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 3.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 68,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金十图示：2026年09月18日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260919003122053800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "金十图示：2026年09月18日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260919003118655800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "03时20分"
         }
       ]
     },
@@ -213,10 +211,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -225,11 +223,11 @@
           "url": "https://wallstreetcn.com/articles/3782066",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 1,
+          "time_info": "03时20分"
         }
       ]
     }
