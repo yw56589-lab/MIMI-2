@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-20T03:06:23.139698+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-09-20T05:58:17.957576+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 6 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 7 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 84,
         "chart": []
       },
       "titles": [
@@ -23,18 +23,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         },
         {
           "title": "特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权",
           "url": "https://www.cls.cn/detail/2487690",
           "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         },
         {
           "title": "特朗普宣布美国丹麦达成格陵兰协议，美将获该岛“永久安全控制权”",
@@ -45,7 +45,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
+        },
+        {
+          "title": "特朗普在戴维营期间 一架飞机闯入禁飞区遭F-16拦截",
+          "url": "https://flash.jin10.com/detail/20260920034909374800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "特朗普称将组建一支“人工智能部队”",
+          "url": "https://wallstreetcn.com/livenews/3167727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
@@ -56,18 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "特朗普称美国将获得对格陵兰岛安全「永久控制权」，丹麦称下周签署协议，保留主权，这是变相拿下格陵兰了吗？",
-          "url": "https://www.zhihu.com/question/2084546841962603642",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         },
         {
           "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
@@ -78,7 +89,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
+        },
+        {
+          "title": "市场消息：美国F-16战机拦截一架违反戴维营禁飞区规定的飞机。当时美国总统特朗普正在戴维营内活动。",
+          "url": "https://flash.jin10.com/detail/20260920033313637800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "特朗普称美国将获得对格陵兰岛安全「永久控制权」，丹麦称下周签署协议，保留主权，这是变相拿下格陵兰了吗？",
+          "url": "https://www.zhihu.com/question/2084546841962603642",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》",
@@ -89,7 +122,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         },
         {
           "title": "特朗普：对伊战争将很快结束 美国正与也门胡塞武装接触",
@@ -100,54 +133,54 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         },
         {
-          "title": "特朗普称不会限制AI发展 将设立“AI沙皇”负责监管",
-          "url": "https://flash.jin10.com/detail/20260920011703437800",
-          "source": "金十数据",
+          "title": "伊朗称仍在通过调解方向美方传递谈判条件，正等待特朗普的回应",
+          "url": "https://wallstreetcn.com/livenews/3167726",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美国总统特朗普：计划成立“人工智能工作组”，并将在未来任命一名负责AI事务的“AI沙皇”。",
-          "url": "https://flash.jin10.com/detail/20260920011442886800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "伊朗称已通过卡塔尔向华盛顿转达谈判三大条件 等待特朗普决定",
-          "url": "https://flash.jin10.com/detail/20260920001331263800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 15.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 13.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
+        {
+          "title": "伊朗向美国开出7项谈判条件",
+          "url": "https://flash.jin10.com/detail/20260920053131353800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗向美国开出7项谈判条件",
+          "url": "https://wallstreetcn.com/livenews/3167742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
         {
           "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
           "url": "https://www.cls.cn/detail/2487905",
@@ -157,29 +190,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美国中央司令部指挥官库珀：由于封锁，伊朗原油出口量为零。 过去数月，超过10亿桶石油通过霍尔木兹海峡（对外输送）。 过去两周的石油、货物、液化天然气（LNG）创最近六个月新高。",
-          "url": "https://wallstreetcn.com/livenews/3167714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "据阿拉比亚电视台：伊朗高级官员批准一项法律条款，以监管途经霍尔木兹海峡的数据路由传输。",
-          "url": "https://flash.jin10.com/detail/20260920020547695800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         },
         {
           "title": "伊朗：佩达兰被处决",
@@ -190,73 +201,62 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         },
         {
-          "title": "伊朗外交部：参加联合国大会是伊朗合法权利 并非他国“恩惠”",
-          "url": "https://flash.jin10.com/detail/20260920015004420800",
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：伊朗向美国政府传达了启动任何谈判的七项条件。德黑兰的立场“明确且没有歧义”，如果华盛顿希望摆脱当前局势并避免进一步陷入困境，就必须接受伊朗提出的权利和条件。",
+          "url": "https://flash.jin10.com/detail/20260920031749566800",
           "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：伊朗参加联合国大会是“合法权利”，并非其他国家给予的“恩惠”。",
-          "url": "https://flash.jin10.com/detail/20260920013144250800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
-          "url": "https://wallstreetcn.com/livenews/3167699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：巴基斯坦内政部长的访问将围绕伊朗和巴基斯坦双边关系展开，并不涉及传递任何关于斡旋的特别信息。",
-          "url": "https://flash.jin10.com/detail/20260920010044663800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "乌克兰称研制针对伊朗自杀式无人机的新型拦截无人机",
-          "url": "https://wallstreetcn.com/livenews/3167693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         },
         {
           "title": "美军方：与伊朗战争已耗资451亿美元",
           "url": "https://www.toutiao.com/trending/7686448583844167743/",
           "source": "今日头条",
           "ranks": [
-            30
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美国中央司令部指挥官库珀：由于封锁，伊朗原油出口量为零。 过去数月，超过10亿桶石油通过霍尔木兹海峡（对外输送）。 过去两周的石油、货物、液化天然气（LNG）创最近六个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3167714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "据阿拉比亚电视台：伊朗高级官员批准一项法律条款，以监管途经霍尔木兹海峡的数据路由传输。",
+          "url": "https://flash.jin10.com/detail/20260920020547695800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "消息称美方已准备好与伊朗谈判",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B0%E7%BE%8E%E6%96%B9%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         }
       ]
     },
@@ -264,10 +264,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -276,11 +276,11 @@
           "url": "https://www.zhihu.com/question/2084194257187902845",
           "source": "知乎",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         }
       ]
     },
@@ -304,7 +304,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         }
       ]
     },
@@ -328,7 +328,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "05时58分"
         }
       ]
     }
