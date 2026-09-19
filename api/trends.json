@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-19T08:49:19.547533+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-19T13:19:37.445233+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 18 条热点，覆盖 6 个来源平台，平均热榜排名约 13.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 6.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -23,262 +23,130 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "特朗普：已达成协议，获得格陵兰岛永久安全控制权",
-          "url": "https://news.ifeng.com/c/8wXHwFjsRIx",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "沃什是如何在不激怒特朗普的情况下加息的",
-          "url": "https://wallstreetcn.com/articles/3782071",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         },
         {
           "title": "特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权",
           "url": "https://www.cls.cn/detail/2487690",
           "source": "财联社热门",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         },
         {
-          "title": "美国法官裁定：特朗普政府取消70亿美元太阳能项目违法",
-          "url": "https://wallstreetcn.com/livenews/3167516",
-          "source": "华尔街见闻-快讯",
+          "title": "沃什是如何在不激怒特朗普的情况下加息的",
+          "url": "https://wallstreetcn.com/articles/3782071",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         },
         {
-          "title": "特朗普称获格陵兰岛永久安全控制权",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%8E%B7%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%B0%B8%E4%B9%85%E5%AE%89%E5%85%A8%E6%8E%A7%E5%88%B6%E6%9D%83%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "特朗普：将获得格陵兰岛永久安全控制权",
+          "url": "https://news.ifeng.com/c/8wXHwFjsRIx",
+          "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         },
         {
           "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
           "url": "https://www.cls.cn/detail/2487698",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         },
         {
-          "title": "特朗普点名纽约时报与华盛顿邮报或也将禁入白宫",
-          "url": "https://flash.jin10.com/detail/20260919081611430800",
-          "source": "金十数据",
+          "title": "特朗普称美国将获得对格陵兰岛安全「永久控制权」，丹麦称下周签署协议，保留主权，这是变相拿下格陵兰了吗？",
+          "url": "https://www.zhihu.com/question/2084546841962603642",
+          "source": "知乎",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         },
         {
-          "title": "美国总统特朗普下周将在纽约市会见委内瑞拉代总统Rodriguez。",
-          "url": "https://wallstreetcn.com/livenews/3167507",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：对伊战争将很快结束 美国正与也门胡塞武装接触",
+          "url": "https://www.cls.cn/detail/2487749",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34102730",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。 特朗普将与海湾领导人举行多边会议。",
-          "url": "https://wallstreetcn.com/livenews/3167505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
-          "url": "https://flash.jin10.com/detail/20260919061129307800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "【美总统特朗普签署针对俄罗斯和伊朗的制裁法案】9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3167503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基感谢美国总统特朗普签署俄罗斯制裁法案，并感谢国会成员对此的支持。",
-          "url": "https://flash.jin10.com/detail/20260919060817824800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "美国民主党参议员沃伦：总统为何要审查媒体？特朗普将美国拖入一场无休止的战争，抬高了从汽油到食品等各类商品的价格。 特朗普想要掩盖自己的败绩。选民会追究他的责任。",
-          "url": "https://wallstreetcn.com/livenews/3167501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "白宫公告：对部分非移民工人实施美国入境限制。 总统特朗普将H-1B签证入境限制延长12个月至2027年9月。",
-          "url": "https://wallstreetcn.com/livenews/3167499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "特朗普称美国与丹麦就格陵兰安全协议达成一致",
-          "url": "https://flash.jin10.com/detail/20260919055223697800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "白宫：特朗普签署俄罗斯制裁法案，使其正式成为法律。",
-          "url": "https://flash.jin10.com/detail/20260919054532930800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "特朗普：美国已与丹麦达成协议，将永久控制格陵兰岛的安全",
-          "url": "https://wallstreetcn.com/livenews/3167487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 12.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
         {
-          "title": "刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable",
-          "url": "https://wallstreetcn.com/articles/3782055",
+          "title": "88小时抵一个人思考4000年！OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”",
+          "url": "https://wallstreetcn.com/articles/3782066",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         },
         {
-          "title": "Gemini首次出现自主访问外部系统事件 谷歌称未造成实际损害",
-          "url": "https://flash.jin10.com/detail/20260919061946164800",
-          "source": "金十数据",
+          "title": "OpenAI算了笔惊人的账：预计到2030年底将累计烧钱近2800亿美元！",
+          "url": "https://www.cls.cn/detail/2487720",
+          "source": "财联社热门",
           "ranks": [
-            15
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "据华尔街日报：谷歌Gemini模型在网络安全测试中自主攻击3家公司系统，系谷歌AI首次已知自主执行此类行为。",
-          "url": "https://flash.jin10.com/detail/20260919061626069800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "继OpenAI、Anthropic、Meta之后，谷歌也披露AI入侵事件",
-          "url": "https://wallstreetcn.com/livenews/3167504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 8.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -291,7 +159,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         },
         {
           "title": "伊朗总统将赴纽约参会！巴勒斯坦总统遭美国拒签，只能通过预制录像发言",
@@ -302,64 +170,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "联合国调查团：美国袭击伊朗米纳卜小学和一体育设施构成战争罪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34094739",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "88小时抵一个人思考4000年！OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”",
-          "url": "https://wallstreetcn.com/articles/3782066",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "报道：OpenAI到2030年这段时间料将烧钱将近2800亿美元",
-          "url": "https://wallstreetcn.com/livenews/3167512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
@@ -368,22 +190,11 @@
           "url": "https://wallstreetcn.com/articles/3782058",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "两年期美债收益率创去年4月底以来新高，周五涨约8个基点，两年期实际收益率本周涨超19个基点",
-          "url": "https://wallstreetcn.com/livenews/3167494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         }
       ]
     },
@@ -407,7 +218,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "13时19分"
         }
       ]
     }
