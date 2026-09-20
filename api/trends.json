@@ -1,73 +1,95 @@
 {
-  "generated_at": "2026-09-20T16:06:03.443297+08:00",
+  "generated_at": "2026-09-20T21:21:01.854930+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 18,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 9 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.7 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 73,
+        "analysis": "该板块当前收录 18 条热点，覆盖 9 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.4 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 65,
         "chart": []
       },
       "titles": [
         {
-          "title": "中国U23男足0:0伊朗U23",
-          "url": "https://www.douyin.com/hot/2657642",
-          "source": "抖音",
+          "title": "周末要闻汇总：伊朗向美国开出7项谈判条件；沈鼓集团部分投资者被暂停交易",
+          "url": "https://www.cls.cn/detail/2488155",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
-          "title": "亚运男足0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B30-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
+          "title": "亚运会男篮铜牌赛，中国男篮 70-79 伊朗男篮，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2084935724428744525",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "中国U23男足0:0伊朗U23",
+          "url": "https://www.douyin.com/hot/2657642",
+          "source": "抖音",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
-          "url": "https://www.cls.cn/detail/2487905",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "伊议长：伊朗条件得到满足前霍尔木兹海峡将保持关闭",
-          "url": "https://wallstreetcn.com/livenews/3167783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "中东突传大消息！伊方：获调解方告知，美国已准备好与伊朗进行谈判并达成协议，且“态度认真”",
           "url": "https://wallstreetcn.com/articles/3782140",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "伊朗军队陆军司令称在边境地区部署大规模部队",
+          "url": "https://flash.jin10.com/detail/20260920210330622800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "埃及总统：支持政治途径解决伊朗、巴勒斯坦问题",
+          "url": "https://wallstreetcn.com/livenews/3167825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "伊朗在边境地区部署大规模部队",
+          "url": "https://wallstreetcn.com/livenews/3167824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "伊朗7个谈判条件曝光，增加了1项新内容",
@@ -78,73 +100,128 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
-          "title": "伊朗：佩达兰被处决",
-          "url": "https://www.cls.cn/detail/2487907",
-          "source": "财联社热门",
+          "title": "中国男篮不敌伊朗无缘领奖台",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
+          "source": "贴吧",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
-          "title": "U23国足战平伊朗",
-          "url": "https://www.toutiao.com/trending/7687508697869716998/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "亚运会男足小组赛，中国 U23 0-0 伊朗 U23，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2084935818477621596",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "卡利巴夫：伊朗条件得到满足前霍尔木兹海峡将保持关闭",
-          "url": "https://flash.jin10.com/detail/20260920143243632800",
-          "source": "金十数据",
+          "title": "中国男篮铜牌战不敌伊朗，无缘爱知·名古屋亚运会领奖台",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34109298",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
-          "title": "据伊朗媒体Fars News：伊朗议会议长：在德黑兰的条件得到满足之前，霍尔木兹海峡将保持关闭。",
-          "url": "https://flash.jin10.com/detail/20260920141021227800",
+          "title": "如何评价中国男篮不敌伊朗无缘奖牌，以亚运会第 4 名惨淡收官，创历史第二差成绩？中国男篮的问题到底出在哪？",
+          "url": "https://www.zhihu.com/question/2085058316040922203",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "埃及总统：支持政治途径解决伊朗、巴勒斯坦问题",
+          "url": "https://flash.jin10.com/detail/20260920204849304800",
           "source": "金十数据",
           "ranks": [
-            17
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "21时21分"
+        },
+        {
+          "title": "伊朗关闭德黑兰法语中心 指控其从事“非法”活动",
+          "url": "https://flash.jin10.com/detail/20260920204451612800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "卡塔尔首相Majed al Ansari：（与伊朗战争相关的）调停方的目标是阻止伊朗战争、开放霍尔木兹海峡。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3167819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "伊朗军方：任何美国袭击都将导致伊方的报复",
+          "url": "https://wallstreetcn.com/livenews/3167800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "伊朗称捣毁三个与美以关联的恐怖分子团伙",
+          "url": "https://wallstreetcn.com/livenews/3167799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "伊朗称美国除接受伊朗条件别无选择",
+          "url": "https://wallstreetcn.com/livenews/3167796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "伊朗最高安全官员：也门局势变化并非伊朗煽动",
+          "url": "https://flash.jin10.com/detail/20260920192829642800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
@@ -157,73 +234,86 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
-          "title": "特朗普究竟是如何逼迫丹麦同意格陵兰协议的？",
-          "url": "https://news.ifeng.com/c/8wZAjw655ET",
+          "title": "美国和丹麦都宣布“赢了”，特朗普的协议有哪些变化？",
+          "url": "https://news.ifeng.com/c/8wZn77TYY38",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？",
+          "url": "https://news.ifeng.com/c/8wZnFcitScK",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
-          "title": "特朗普为何劝乌克兰停手",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%8A%9D%E4%B9%8C%E5%85%8B%E5%85%B0%E5%81%9C%E6%89%8B",
-          "source": "bilibili 热搜",
+          "title": "特朗普说禁就禁：CNN记者现场被没收记者证，只留证件套",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34108031",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
-          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
-          "url": "https://www.cls.cn/detail/2487946",
-          "source": "财联社热门",
+          "title": "一周展望：黄金扛住加息盯4500，特朗普“大决定”将至，沙特危局升温",
+          "url": "https://flash.jin10.com/detail/20260920203442050800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
-          "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
-          "url": "https://www.cls.cn/detail/2487942",
-          "source": "财联社热门",
+          "title": "特朗普称拟将美国凯旋门改建为军事综合设施",
+          "url": "https://flash.jin10.com/detail/20260920193703313800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
+          "url": "https://www.zhihu.com/question/2084432664535241222",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "美国总统特朗普：美国保守派记者马修·康蒂内蒂（Matthew Continetti）在马克·莱文节目中关于所谓“AI灾难骗局”的访谈表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20260920131649591800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "胡塞武装打到利雅得！沙特首都首次拉响空袭警报，特朗普会出手吗？",
-          "url": "https://flash.jin10.com/detail/20260920122940307800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "[21时20分 ~ 21时21分]"
         }
       ]
     }
