@@ -1,142 +1,41 @@
 {
-  "generated_at": "2026-09-20T10:29:24.015114+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-09-20T16:06:03.443297+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 84,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普提前返回白宫",
-          "url": "https://wallstreetcn.com/livenews/3167752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "“特朗普要对欧洲下狠手：拟撤走一半美军”",
-          "url": "https://news.ifeng.com/c/8wYTU4GPY51",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "美国总统特朗普周日日程一览",
-          "url": "https://flash.jin10.com/detail/20260920093844270800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "特朗普提前返回白宫",
-          "url": "https://flash.jin10.com/detail/20260920092656040800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
-          "url": "https://www.cls.cn/detail/2487946",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34102730",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "特朗普：对伊战争将很快结束 美国正与也门胡塞武装接触",
-          "url": "https://www.cls.cn/detail/2487749",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34102731",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "特朗普称将组建一支“人工智能部队”",
-          "url": "https://wallstreetcn.com/livenews/3167727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "伊朗称仍在通过调解方向美方传递谈判条件，正等待特朗普的回应",
-          "url": "https://wallstreetcn.com/livenews/3167726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 12.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 9 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
+        {
+          "title": "中国U23男足0:0伊朗U23",
+          "url": "https://www.douyin.com/hot/2657642",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "亚运男足0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B30-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
         {
           "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
           "url": "https://www.cls.cn/detail/2487905",
@@ -145,122 +44,186 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
-          "url": "https://news.ifeng.com/c/8wYWDibyN20",
-          "source": "凤凰网",
+          "title": "伊议长：伊朗条件得到满足前霍尔木兹海峡将保持关闭",
+          "url": "https://wallstreetcn.com/livenews/3167783",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "中东突传大消息！伊方：获调解方告知，美国已准备好与伊朗进行谈判并达成协议，且“态度认真”",
+          "url": "https://wallstreetcn.com/articles/3782140",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "伊朗7个谈判条件曝光，增加了1项新内容",
+          "url": "https://original.ifeng.com/c/8wZarodPVy4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "伊朗：佩达兰被处决",
           "url": "https://www.cls.cn/detail/2487907",
           "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "伊朗向美国开出7项谈判条件",
-          "url": "https://wallstreetcn.com/livenews/3167742",
-          "source": "华尔街见闻-快讯",
+          "title": "U23国足战平伊朗",
+          "url": "https://www.toutiao.com/trending/7687508697869716998/",
+          "source": "今日头条",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "美国驻伊朗、伊拉克、黎巴嫩、科威特、巴林、约旦等地使领馆近日陆续发布安全警告，称由于中东紧张局势持续，地区安全环境复杂，存在局势进一步升级的可能。",
-          "url": "https://flash.jin10.com/detail/20260920060455822800",
+          "title": "亚运会男足小组赛，中国 U23 0-0 伊朗 U23，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2084935818477621596",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "卡利巴夫：伊朗条件得到满足前霍尔木兹海峡将保持关闭",
+          "url": "https://flash.jin10.com/detail/20260920143243632800",
           "source": "金十数据",
           "ranks": [
-            24
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "16时06分"
         },
         {
-          "title": "伊朗向美国开出7项谈判条件",
-          "url": "https://flash.jin10.com/detail/20260920053131353800",
+          "title": "据伊朗媒体Fars News：伊朗议会议长：在德黑兰的条件得到满足之前，霍尔木兹海峡将保持关闭。",
+          "url": "https://flash.jin10.com/detail/20260920141021227800",
           "source": "金十数据",
           "ranks": [
-            25
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "16时06分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
         {
-          "title": "DeepSeek明确节假日计费规则",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%98%8E%E7%A1%AE%E8%8A%82%E5%81%87%E6%97%A5%E8%AE%A1%E8%B4%B9%E8%A7%84%E5%88%99",
-          "source": "bilibili 热搜",
+          "title": "特朗普提前返回白宫，确切原因不明",
+          "url": "https://original.ifeng.com/c/8wZIQaL65A7",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "Deepseek 用现在的 ds harness 好还是 zcode 好？",
-          "url": "https://www.zhihu.com/question/2081862888633922641",
-          "source": "知乎",
+          "title": "特朗普究竟是如何逼迫丹麦同意格陵兰协议的？",
+          "url": "https://news.ifeng.com/c/8wZAjw655ET",
+          "source": "凤凰网",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
         {
-          "title": "谷歌承认Gemini“越狱”",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%89%BF%E8%AE%A4Gemini%E2%80%9C%E8%B6%8A%E7%8B%B1%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普为何劝乌克兰停手",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%8A%9D%E4%B9%8C%E5%85%8B%E5%85%B0%E5%81%9C%E6%89%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
+          "url": "https://www.cls.cn/detail/2487946",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
+          "url": "https://www.cls.cn/detail/2487942",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "美国总统特朗普：美国保守派记者马修·康蒂内蒂（Matthew Continetti）在马克·莱文节目中关于所谓“AI灾难骗局”的访谈表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260920131649591800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "16时06分"
+        },
+        {
+          "title": "胡塞武装打到利雅得！沙特首都首次拉响空袭警报，特朗普会出手吗？",
+          "url": "https://flash.jin10.com/detail/20260920122940307800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     }
