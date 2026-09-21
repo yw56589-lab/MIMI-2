@@ -1,163 +1,189 @@
 {
-  "generated_at": "2026-09-21T19:32:17.045176+08:00",
+  "generated_at": "2026-09-22T01:28:40.782456+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 7,
+      "keyword_group": "美股",
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 12.6 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 15.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "五角大楼“披萨指数”飙升！特朗普提前返回白宫",
-          "url": "https://news.ifeng.com/c/8wam18kkida",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "美媒称特朗普下令空袭胡塞后又变卦",
-          "url": "https://news.ifeng.com/c/8wbLU7n9HHo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
-          "url": "https://news.ifeng.com/c/8wb657JvMmu",
-          "source": "凤凰网",
+          "title": "市场聚焦中美对话，美股高开，科技股普涨，英特尔涨超9%，油价四连跌",
+          "url": "https://wallstreetcn.com/articles/3782211",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
-          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34110440",
-          "source": "澎湃新闻",
+          "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2489316",
+          "source": "财联社热门",
           "ranks": [
-            17
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "多家新闻机构将就白宫禁令起诉特朗普政府",
-          "url": "https://flash.jin10.com/detail/20260921185646336800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "01时28分"
         },
         {
-          "title": "WTI原油日内大跌3.00%，现报92.40美元/桶。布伦特原油回落至97美元/桶下方，日内跌2.70%。消息面上，特朗普对美国柴油上涨表示担忧，施压泽连斯基停止攻击俄炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260921183738448800",
+          "title": "金十图示：2026年09月21日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260922003147816800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "01时28分"
         },
         {
-          "title": "报道：特朗普与泽连斯基通电话 要求停止攻击俄罗斯炼油厂",
-          "url": "https://wallstreetcn.com/livenews/3168226",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年09月21日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260922003058348800",
+          "source": "金十数据",
           "ranks": [
-            24
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 20.8 位，标题平均出现 1.4 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 61,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
+        {
+          "title": "伊朗、巴基斯坦的内政部长们讨论和平进程。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3168415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
         {
           "title": "中国男篮不敌伊朗无缘领奖台",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
           "source": "贴吧",
           "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "伊朗男篮赢中国获铜牌全队免服兵役",
+          "url": "https://www.toutiao.com/trending/7687041430028124187/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "巴基斯坦与伊朗两国内政部长就双边关系和地区局势交换意见",
+          "url": "https://wallstreetcn.com/livenews/3168401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
+          "url": "https://news.ifeng.com/c/8wb657JvMmu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "据两名美国高级官员向 News 12 记者透露，特朗普曾考虑在周末下令对也门胡塞武装发动袭击，但目前已决定暂不采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3168416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "美国总统特朗普：我只会鼓励AI。 重申AI末日警告是“骗局”。 我们会谨慎行事，如有必要将加以约束。",
+          "url": "https://wallstreetcn.com/livenews/3168407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI与Anthropic带来高昂成本，迫使初创企业转向开源模型",
+          "url": "https://wallstreetcn.com/livenews/3168413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "伊朗总统22日赴美出席联合国大会",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F22%E6%97%A5%E8%B5%B4%E7%BE%8E%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "伊朗查封法国使馆下属法语教学中心",
-          "url": "https://wallstreetcn.com/livenews/3168239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "伊朗查封法国使馆下属法语教学中心",
-          "url": "https://flash.jin10.com/detail/20260921184719290800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "伊朗总统22日赴美出席联合国大会",
-          "url": "https://wallstreetcn.com/livenews/3168211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "01时28分"
         }
       ]
     }
