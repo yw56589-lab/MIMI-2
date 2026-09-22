@@ -1,174 +1,416 @@
 {
-  "generated_at": "2026-09-22T18:37:41.914233+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-22T23:17:40.908122+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 9,
+      "keyword_group": "特朗普",
+      "match_count": 29,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 6 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 29 条热点，覆盖 3 个来源平台，平均热榜排名约 14.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗罕见公开女子特战队画面：骑摩托机动，手握火箭筒",
-          "url": "https://news.ifeng.com/c/8wcjxRKO7wm",
-          "source": "凤凰网",
+          "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34121849",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普在联合国大会上结束发言。",
+          "url": "https://flash.jin10.com/detail/20260922230648818800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
         },
         {
-          "title": "伊朗：伊朗欢迎重启外交，但需美方采取切实措施",
-          "url": "https://wallstreetcn.com/livenews/3168854",
+          "title": "美国总统特朗普：所有美国文件都将使用“超级智能”。 我们将鼓励超级智能，而不是限制它。",
+          "url": "https://wallstreetcn.com/livenews/3169027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "特朗普谈及多项国际事务：将加快结束乌克兰冲突、寻求改变古巴",
+          "url": "https://flash.jin10.com/detail/20260922230358945800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：不应该存在全球税率。",
+          "url": "https://wallstreetcn.com/livenews/3169023",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
         },
         {
-          "title": "美油跌破90美元！伊朗称若美方解除封锁，将在7天内重开霍尔木兹海峡，伊方代表团已抵达纽约",
-          "url": "https://wallstreetcn.com/articles/3782296",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：任何美国对手都不再被允许在格陵兰岛建立军事存在或在未经我们批准的情况下进行敏感投资。",
+          "url": "https://flash.jin10.com/detail/20260922230345922800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：今天晚些时候将签署格陵兰协议。 将在那里建造两个大型军事基地。",
+          "url": "https://wallstreetcn.com/livenews/3169022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：我们将鼓励超级智能，而不是限制它。",
+          "url": "https://flash.jin10.com/detail/20260922230332518800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：（关于人工智能）所有美国文件将使用“超级智能（Super Intelligence）”。",
+          "url": "https://flash.jin10.com/detail/20260922230150105800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：寻求从根本上改变古巴局势。",
+          "url": "https://wallstreetcn.com/livenews/3169019",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队：若符合国家利益则必须谈判。",
-          "url": "https://wallstreetcn.com/livenews/3168833",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：美国反对任何试图控制人工智能的全球性“图谋”。",
+          "url": "https://flash.jin10.com/detail/20260922230118877800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
         },
         {
-          "title": "伊朗总统启程赴美",
-          "url": "https://wallstreetcn.com/livenews/3168825",
+          "title": "美国总统特朗普：希望将人工智能更名为“超级智能”",
+          "url": "https://flash.jin10.com/detail/20260922230112036800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯与乌克兰之间的和平“将会发生”。",
+          "url": "https://wallstreetcn.com/livenews/3169017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：美国在与墨西哥的关系上取得了重大进展。",
+          "url": "https://flash.jin10.com/detail/20260922230102118800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：特朗普这个恶魔要知道，他面对的是一个独立的民族。",
+          "url": "https://flash.jin10.com/detail/20260922225921709800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：自（美国+以色列发动）伊朗战争以来，（霍尔木兹海峡）当前的石油流量达到最高水平。 伊朗冲突结束之后，油价将急剧下跌，届时油价将低于冲突之前的水平。",
+          "url": "https://wallstreetcn.com/livenews/3169012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：我呼吁国际刑事法院（ICC）的所有法官辞职。",
+          "url": "https://flash.jin10.com/detail/20260922225903802800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "特朗普：相信将在美国中期选举之后与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3169011",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
         },
         {
-          "title": "伊朗官方统计称受战争影响，该国经济萎缩 10% ，这对伊朗经济意味着什么？伊朗还能撑多久？",
-          "url": "https://www.zhihu.com/question/2085374733873426688",
-          "source": "知乎",
+          "title": "美国总统特朗普：不会有全球税收。",
+          "url": "https://flash.jin10.com/detail/20260922225824282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：美国完全反对国际刑事法院。",
+          "url": "https://flash.jin10.com/detail/20260922225821181800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
         },
         {
-          "title": "伊朗被曝抛出重开海峡方案，原油正对新预期展开定价｜原油头条",
-          "url": "https://flash.jin10.com/detail/20260922175741191800",
-          "source": "金十数据",
+          "title": "美国总统特朗普在联合大会国鼓吹美国经济，称：自我（2025年）上任以来，美国新增了超过100万个就业岗位，国内贫困率降至历史最低水平。 过去12个月我们对美国军队的投资比以往任何时候都多。 我们重塑了世界舞台。",
+          "url": "https://wallstreetcn.com/livenews/3169009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥是贩毒集团暴力的中心。",
+          "url": "https://flash.jin10.com/detail/20260922225547503800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：今天稍后将签署格陵兰岛协议。",
+          "url": "https://flash.jin10.com/detail/20260922225502693800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：将在格陵兰岛建立两个主要军事基地。",
+          "url": "https://flash.jin10.com/detail/20260922225442238800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛协议使美国控制该地区。",
+          "url": "https://flash.jin10.com/detail/20260922225436157800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：我正在考虑两种选择，一个是与伊朗达成协议，或者把伊朗“送进地狱”。",
+          "url": "https://flash.jin10.com/detail/20260922225427422800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：美国国务卿鲁比奥正在与古巴进行深入谈判。",
+          "url": "https://flash.jin10.com/detail/20260922225413214800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "古巴代表团在美国总统特朗普演讲期间退出联合国大会。",
+          "url": "https://flash.jin10.com/detail/20260922225302112800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：古巴是一个失败的国家，将会崩溃。",
+          "url": "https://flash.jin10.com/detail/20260922225246685800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "ai_insight": {
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 85,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗议会议长卡利巴夫：我们将坚定地站在威胁面前，并一定会有力地解除制裁。我们的国家拥有持久的威慑力。",
+          "url": "https://flash.jin10.com/detail/20260922230907591800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：我们既不会等待，也不会屈服，更不会让国家停摆。",
+          "url": "https://flash.jin10.com/detail/20260922230851309800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "受美国制裁影响，土耳其多家航司取消往返伊朗航班",
+          "url": "https://news.ifeng.com/c/8wdHkOOBEmw",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "伊朗据悉可在7天内重开霍尔木兹海峡 前提是美国缓和军事施压",
+          "url": "https://www.cls.cn/detail/2490361",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "伊朗总统赴联大由美特勤局安保",
+          "url": "https://www.toutiao.com/trending/7688262092155929126/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "中国男篮不敌伊朗无缘领奖台",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
           "source": "贴吧",
           "ranks": [
-            20
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "报道：伊朗提议一旦美国解除封锁，将在7天内开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3168814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 3.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "遭白宫封杀，CNN等起诉特朗普政府",
-          "url": "https://original.ifeng.com/c/8wcWg8Fzt0M",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "凤凰记者：伊朗总统赴美有两个目的，预计不会和特朗普会晤",
-          "url": "https://original.ifeng.com/c/8wcbOB9VdFe",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34121849",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "特朗普施压泽连斯基：停止袭击俄罗斯炼厂，“都是柴油、柴油、柴油”",
-          "url": "https://wallstreetcn.com/articles/3782225",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
         }
       ]
     },
@@ -176,10 +418,10 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -188,54 +430,30 @@
           "url": "https://www.cls.cn/detail/2490024",
           "source": "财联社热门",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
         },
         {
-          "title": "国际原油短线跳水，美股股指期货拉升",
-          "url": "https://wallstreetcn.com/livenews/3168824",
-          "source": "华尔街见闻-快讯",
+          "title": "油价回落至100美元下方 美股期指走高 科技股盘前分化 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2490404",
+          "source": "财联社热门",
           "ranks": [
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 67,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI设独立数学顾问小组",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E8%AE%BE%E7%8B%AC%E7%AB%8B%E6%95%B0%E5%AD%A6%E9%A1%BE%E9%97%AE%E5%B0%8F%E7%BB%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -243,15 +461,39 @@
       },
       "titles": [
         {
-          "title": "汇丰新款AI模型显示未来一个月美债收益率将走低",
-          "url": "https://wallstreetcn.com/livenews/3168801",
+          "title": "知情人士：DeepSeek将向联合国安理会介绍AI风险",
+          "url": "https://wallstreetcn.com/livenews/3169014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "23时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美联储三把手威廉姆斯：美债中央清算推进超预期，准备金供应将保持弹性",
+          "url": "https://wallstreetcn.com/livenews/3169002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     }
