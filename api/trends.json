@@ -1,16 +1,128 @@
 {
-  "generated_at": "2026-09-23T06:33:51.706876+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-09-23T09:05:26.940033+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 9,
+      "ai_insight": {
+        "analysis": "该板块当前收录 9 条热点，覆盖 6 个来源平台，平均热榜排名约 12.1 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 86,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗外长批欧洲“双标”：一边谈人权法治，一边纵容美以对伊侵略",
+          "url": "https://flash.jin10.com/detail/20260923083641016800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "受美国制裁影响，土耳其多家航司取消往返伊朗航班",
+          "url": "https://news.ifeng.com/c/8wdHkOOBEmw",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "伊朗总统：将在联大“坚定捍卫”伊朗立场",
+          "url": "https://wallstreetcn.com/livenews/3169210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "伊朗伊拉克外长联大期间会晤，聚焦双边合作与航运安全",
+          "url": "https://flash.jin10.com/detail/20260923080958812800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "伊朗据悉可在7天内重开霍尔木兹海峡 前提是美国缓和军事施压",
+          "url": "https://www.cls.cn/detail/2490361",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "伊朗外长与美特使在纽约会晤",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E4%B8%8E%E7%BE%8E%E7%89%B9%E4%BD%BF%E5%9C%A8%E7%BA%BD%E7%BA%A6%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特使威特科夫：与伊朗代表团进行了长时间会谈。 通过调解人与伊朗代表团进行会谈，调解人将继续他们的工作。 希望会谈能够取得建设性成果。",
+          "url": "https://wallstreetcn.com/livenews/3169199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸： 今日日本股市因秋分节休市一日，伊朗总统佩泽希齐扬将在联合国大会发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260923075720912800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "中国男篮不敌伊朗无缘领奖台",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 6 个来源平台，平均热榜排名约 12.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -23,244 +135,143 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "09时05分"
         },
         {
           "title": "特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”",
           "url": "https://wallstreetcn.com/articles/3782313",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美媒：泽连斯基向特朗普求冬季军援，预计美方将推动能源停火",
+          "url": "https://flash.jin10.com/detail/20260923082619522800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "“我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌”",
           "url": "https://wallstreetcn.com/articles/3782306",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普称美伊会谈“非常有成效” 纳指再创新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2490617",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "特朗普将敦促泽连斯基达成“能源停火” 称俄罗斯已失去对柴油行业的控制",
           "url": "https://www.cls.cn/detail/2490453",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "09时05分"
         },
         {
-          "title": "如何看待特朗普禁止三家媒体进入白宫",
-          "url": "https://www.toutiao.com/trending/7688335849867447834/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "据Axios：两名知情人士透露，美国中东问题特使威特科夫和特朗普高级顾问库什纳当地时间今晚将在纽约会见乌克兰谈判团队以及英国、法国和德国的国家安全顾问，讨论乌克兰关于与俄罗斯达成降级协议的建议。",
-          "url": "https://flash.jin10.com/detail/20260923044625909800",
+          "title": "据华尔街日报：乌克兰总统泽连斯基请求美国总统特朗普提供“冬季装备”军事物资，认为特朗普将寻求就能源基础设施达成停火。",
+          "url": "https://flash.jin10.com/detail/20260923075956567800",
           "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "美国总统特朗普特使史蒂夫・维特科夫与贾里德・库什纳将于今晚在纽约会见乌克兰谈判团队以及英、法、德三国国家安全顾问，商讨乌方提出的俄乌局势缓和协议方案。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3169142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 6 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 86,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "受美国制裁影响，土耳其多家航司取消往返伊朗航班",
-          "url": "https://news.ifeng.com/c/8wdHkOOBEmw",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "报道：伊朗格什姆岛附近传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3169166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "据伊通社（IRNA）：在伊朗格什姆岛附近传出爆炸声。据悉声响似乎来自海上；格什姆岛未报告受到任何影响。",
-          "url": "https://flash.jin10.com/detail/20260923053602939800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "伊朗据悉可在7天内重开霍尔木兹海峡 前提是美国缓和军事施压",
-          "url": "https://www.cls.cn/detail/2490361",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "伊朗总统赴联大由美特勤局安保",
-          "url": "https://www.toutiao.com/trending/7688262092155929126/",
-          "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "伊朗议会国家安全委员会已批准有关霍尔木兹海峡的新法律条款，根据这些条款，违反海峡通行规定的船只，除需缴纳相当于货物价值20%的罚款外，还将被暂时扣押，直至罚款缴清；伊朗将设立专门的司法部门分支确保规定执行，伊朗武装部队将每三个月报告执行情况。",
-          "url": "https://wallstreetcn.com/livenews/3169146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "中国男篮不敌伊朗无缘领奖台",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 18.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 5.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
         {
-          "title": "油价回落至100美元下方 美股期指走高 科技股盘前分化 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2490404",
+          "title": "【早报】美股存储股，集体上涨；伊外长与美特使在纽约会晤；原油跳水，五连跌；中金公司，今日复牌",
+          "url": "https://www.cls.cn/detail/2490628",
           "source": "财联社热门",
           "ranks": [
-            9
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "09时05分"
         },
         {
           "title": "美股收盘：纳指又创新高 Muse概念股继续走强",
           "url": "https://www.cls.cn/detail/2490610",
           "source": "财联社热门",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "09时05分"
         },
         {
-          "title": "美股大类资产类ETF多数收跌，布油基金跌超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3169143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "周二（9月22日），美股行业ETF多数收涨，半导体ETF涨1.92%，生物科技指数ETF涨1.76%，全球科技股指数ETF、科技行业ETF至少涨0.73%，能源业ETF跌1.09%，网络股指数ETF跌1.15%，银行业ETF跌1.27%，金融业ETF跌1.97%。",
-          "url": "https://wallstreetcn.com/livenews/3169139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "国际金价涨约0.4%，白银涨约1.6%，纽约铜涨超1.9%一度逼近6.93美元",
-          "url": "https://wallstreetcn.com/livenews/3169157",
-          "source": "华尔街见闻-快讯",
+          "title": "油价回落至100美元下方 美股期指走高 科技股盘前分化 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2490404",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "“DeepSeek将向联合国安理会作通报”",
+          "url": "https://news.ifeng.com/c/8wdIpvxWoQW",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     }
