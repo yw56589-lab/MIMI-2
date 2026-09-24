@@ -1,41 +1,19 @@
 {
-  "generated_at": "2026-09-24T10:19:59.742401+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-24T15:59:35.728361+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 7 个来源平台，平均热榜排名约 4.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 6 个来源平台，平均热榜排名约 5.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 78,
         "chart": []
       },
       "titles": [
-        {
-          "title": "习近平抵美 特朗普夫妇热情迎接",
-          "url": "https://www.toutiao.com/trending/7688854750091185690/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
-          "title": "特朗普将举行宴会欢迎习近平到访：各界人士都想来",
-          "url": "https://news.ifeng.com/c/8wfu3V4YHkI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
         {
           "title": "特朗普夫妇机场迎接",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E6%9C%BA%E5%9C%BA%E8%BF%8E%E6%8E%A5",
@@ -45,152 +23,106 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
+        },
+        {
+          "title": "特朗普将举行宴会欢迎习近平到访：各界人士都想来",
+          "url": "https://news.ifeng.com/c/8wfu3V4YHkI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "特朗普总统赴机场，欢迎习近平主席到访",
           "url": "https://wallstreetcn.com/articles/3782407",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
-          "title": "特朗普挥手并目送习近平专车离开",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%A5%E6%89%8B%E5%B9%B6%E7%9B%AE%E9%80%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%93%E8%BD%A6%E7%A6%BB%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
-          "title": "特朗普表示这是一个伟大的时刻",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%97%B6%E5%88%BB%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
-          "title": "特朗普遗憾欢迎晚宴座位不够多",
-          "url": "https://www.toutiao.com/trending/7688270536492781092/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
-          "title": "特朗普抵达机场",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
         },
         {
           "title": "特朗普总统抵达机场，迎接习近平主席到访",
           "url": "https://m.thepaper.cn/newsDetail_forward_34137674",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
         },
         {
-          "title": "特朗普再喊1%利率 分析人士警告：或推高通胀预期、打压美元",
-          "url": "https://www.cls.cn/detail/2491618",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 14.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI：ChatGPT 将开始在印尼、马来西亚、菲律宾、新加坡、泰国、越南和中国台湾地区投放广告。",
-          "url": "https://flash.jin10.com/detail/20260924100615995800",
-          "source": "金十数据",
+          "title": "特朗普遗憾欢迎晚宴座位不够多",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%97%E6%86%BE%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E5%BA%A7%E4%BD%8D%E4%B8%8D%E5%A4%9F%E5%A4%9A",
+          "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
         },
         {
-          "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34130539",
+          "title": "凤凰直击：特朗普提前40多分钟到场，中美元首舷梯下交谈数分钟",
+          "url": "https://original.ifeng.com/c/8wg22nIPJVH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "特朗普遗憾欢迎晚宴座位不够多",
+          "url": "https://www.toutiao.com/trending/7688270536492781092/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "特朗普：将举行晚宴欢迎习主席到访，人人都想来，唯一遗憾是座位有限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34139663",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
         },
         {
-          "title": "澳大利亚称OpenAI智能体入侵政府卫生数据门户",
-          "url": "https://flash.jin10.com/detail/20260924095121359800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
-          "title": "澳大利亚国防部长Marles：OpenAI智能体入侵是一起“严重事件”。 OpenAI安全事件“绝不可接受”。 事件程度较轻，未有个人数据被访问。 OpenAI正就该事件与澳大利亚方面展开合作。 该事件是对人工智能发展的一次警示。 正在调查这起事件，包括其是否违反法律。 已向OpenAI表明立场，对其耗时如此之久才做出通知感到担忧。 OpenAI仅通过电子邮件通知我们“做得远远不够”。",
-          "url": "https://wallstreetcn.com/livenews/3169958",
+          "title": "是否邀请特朗普出席APEC深圳峰会？外交部：中美就年内两国元首互动安排保持着沟通",
+          "url": "https://wallstreetcn.com/livenews/3170163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 5.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 8.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -203,29 +135,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
+        },
+        {
+          "title": "美元走强与美债收益率升至多年高点，黄金承压",
+          "url": "https://flash.jin10.com/detail/20260924155615920800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "美股收盘：美债抛售潮再起 纳指告别纪录高位跌超1%",
           "url": "https://www.cls.cn/detail/2491731",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
+        },
+        {
+          "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
+          "url": "https://wallstreetcn.com/articles/3782417",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "美国9月综合PMI初值大幅超预期，创五年新高，10年期美债收益率再破5%",
           "url": "https://wallstreetcn.com/articles/3782392",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
         },
         {
           "title": "油价涨、美债跌，市场再掀加息风暴！美联储10月加息概率逼近七成",
@@ -236,15 +190,26 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
+        },
+        {
+          "title": "报道：美国拟推动美元稳定币海外使用 以巩固美元地位并提振美债需求",
+          "url": "https://wallstreetcn.com/livenews/3170148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "伊朗",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 14.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -252,37 +217,85 @@
       },
       "titles": [
         {
-          "title": "怎么看 DeepSeek 的梁文锋署名的 Agent 训练论文 DSec？",
-          "url": "https://www.zhihu.com/question/2086074213694293548",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
-          "title": "梁文锋署名，DeepSeek发新论文，剑指大规模Agent训练",
-          "url": "https://wallstreetcn.com/articles/3782390",
+          "title": "伊朗总统联大讲话：愿谈判但不接受强权威胁，霍尔木兹不能被“自由使用”",
+          "url": "https://wallstreetcn.com/articles/3782393",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
         },
         {
-          "title": "DeepSeek新论文作者名单超过130人",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E8%AE%BA%E6%96%87%E4%BD%9C%E8%80%85%E5%90%8D%E5%8D%95%E8%B6%85%E8%BF%87130%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "外交部回应伊朗总统联大讲话：美伊战事延宕不符合当事方和国际社会共同利益",
+          "url": "https://wallstreetcn.com/livenews/3170166",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
+        },
+        {
+          "title": "乌克兰外长讲述在联合国与伊朗外长阿拉格齐会谈情况",
+          "url": "https://flash.jin10.com/detail/20260924154934270800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepSeek将参加联合国会议",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金价过山车背后两股力量的博弈",
+          "url": "https://www.toutiao.com/trending/7688945839728758315/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         }
       ]
     },
@@ -306,12 +319,12 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美元",
       "match_count": 1,
       "ai_insight": {
         "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
@@ -322,39 +335,15 @@
       },
       "titles": [
         {
-          "title": "布油重返100美元附近 美股期指小幅下挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2491498",
+          "title": "升破101关口！美元指数刷新八周高位 加息预期全面点燃",
+          "url": "https://www.cls.cn/detail/2491963",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 74,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗总统联大讲话：愿谈判但不接受强权威胁，霍尔木兹不能被“自由使用”",
-          "url": "https://wallstreetcn.com/articles/3782393",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时59分"
         }
       ]
     }
