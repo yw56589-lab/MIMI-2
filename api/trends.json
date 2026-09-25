@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-25T13:38:56.266135+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-25T18:52:34.419714+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 8 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 17 条热点，覆盖 8 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
@@ -34,18 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "习近平在特朗普举行的欢迎宴会上的祝酒辞（全文）",
-          "url": "https://news.ifeng.com/c/8whWBeegMN2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
           "title": "特朗普听到大熊猫将落户美国笑了",
@@ -56,7 +45,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
+        },
+        {
+          "title": "特朗普外孙女18个月大就开始学中文",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%96%E5%AD%99%E5%A5%B318%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B8%AD%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
+          "url": "https://wallstreetcn.com/articles/3782517",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "大国外交进行时丨特朗普：这是一次“伟大的会晤”",
@@ -67,51 +78,84 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
           "url": "https://www.cls.cn/detail/2492836",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
-          "title": "特朗普听到大熊猫将落户美国笑了",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AC%E5%88%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B0%86%E8%90%BD%E6%88%B7%E7%BE%8E%E5%9B%BD%E7%AC%91%E4%BA%86&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "学者：白宫国宴中，特朗普的一个细节很有意思",
+          "url": "https://original.ifeng.com/c/8whmAAddUiM",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "特朗普讲到开心处称必须要脱稿",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E5%88%B0%E5%BC%80%E5%BF%83%E5%A4%84%E7%A7%B0%E5%BF%85%E9%A1%BB%E8%A6%81%E8%84%B1%E7%A8%BF",
+          "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
-          "title": "特朗普：这是一次伟大的会晤",
-          "url": "https://www.toutiao.com/trending/7689240553585954350/",
+          "title": "特朗普会中文的外孙女出席欢迎仪式",
+          "url": "https://www.toutiao.com/trending/7688663315194809910/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "https://www.cls.cn/detail/2492899",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "特朗普展示白宫翻修成果",
+          "url": "https://www.toutiao.com/trending/7688231467637489710/",
           "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
-          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
-          "url": "https://wallstreetcn.com/articles/3782517",
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://wallstreetcn.com/articles/3782507",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
           "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
@@ -122,62 +166,130 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
-          "title": "特朗普担忧日元疲软，美日汇率协调再受关注",
-          "url": "https://flash.jin10.com/detail/20260925123848930800",
-          "source": "金十数据",
+          "title": "日本首相高市早苗：告知特朗普日元被低估是个问题。 没有和特朗普讨论货币政策或财政政策。",
+          "url": "https://wallstreetcn.com/livenews/3170729",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
-          "title": "日元兑美元短线快速走强。日本财务大臣片山皋月称，特朗普对日元走弱表达了担忧。",
-          "url": "https://wallstreetcn.com/livenews/3170675",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：这是一次伟大的会晤",
+          "url": "https://www.toutiao.com/trending/7689240553585954350/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
-          "title": "日本财务大臣片山皋月：具体的货币政策工具由日本央行决定。 日本央行最近的加息举措旨在实现通胀目标。 希望日本央行在与政府保持沟通协调的同时，实施恰当的货币政策。 不对具体的汇率水平及汇率检查发表评论。 特朗普及美方在峰会期间对日元走弱表达了担忧。 将在外汇问题上与美方保持密切协调。 高市早苗首相总体上对日元走弱表示关注。",
-          "url": "https://wallstreetcn.com/livenews/3170674",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-25）",
+          "url": "https://flash.jin10.com/detail/20260925175839253800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "ai_insight": {
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 9.6 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗总统：最高领袖很健康",
+          "url": "https://wallstreetcn.com/livenews/3170744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
-          "title": "特朗普：今年到访北京感受到中国人民的热情好客，我们希望以同样的热情款待各位",
-          "url": "https://wallstreetcn.com/livenews/3170670",
+          "title": "卡塔尔首相兼外交大臣在纽约与伊朗总统讨论了推动降级局势以及为对话创造适宜条件所作的努力。",
+          "url": "https://flash.jin10.com/detail/20260925182109549800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "报道称美伊探讨分阶段重启霍尔木兹海峡，伊朗官媒否认、总统喊话“中期选举前签协议”、军方威胁“将战事扩大至印度洋地区”",
+          "url": "https://wallstreetcn.com/articles/3782499",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "伊朗总统：不想拥有核武器，愿推进与美谈判",
+          "url": "https://news.ifeng.com/c/8wi7oaRXQ6L",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "据悉又有两个伊拉克机场将暂停伊朗航班",
+          "url": "https://flash.jin10.com/detail/20260925180732219800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "伊朗总统：伊朗不想拥有核武器 愿推进与美谈判",
+          "url": "https://wallstreetcn.com/livenews/3170728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "据伊拉克国家通讯社，伊拉克纳杰夫机场暂停所有往返伊朗的航班。",
+          "url": "https://wallstreetcn.com/livenews/3170721",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "新华社：习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
-          "url": "https://wallstreetcn.com/livenews/3170665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         }
       ]
     },
@@ -185,10 +297,10 @@
       "keyword_group": "美债",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 5.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -201,97 +313,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
           "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
           "url": "https://www.cls.cn/detail/2492840",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
-          "title": "美债5%失去震慑力，摩根大通称股市断裂阈值或已升至6%",
-          "url": "https://wallstreetcn.com/articles/3782453",
+          "title": "债市抛售暂歇，10年期美债收益率下行，美股盘前光通信股普涨，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3782519",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         },
         {
-          "title": "美债被疯狂抛售，美元为什么反而更强了？",
-          "url": "https://flash.jin10.com/detail/20260925121209862800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "报道称美伊探讨分阶段重启霍尔木兹海峡，伊朗官媒否认、总统喊话“中期选举前签协议”、军方威胁“将战事扩大至印度洋地区”",
-          "url": "https://wallstreetcn.com/articles/3782499",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "伊朗外长：愿在七天内重开霍尔木兹海峡，但提出需满足相关条件",
-          "url": "https://flash.jin10.com/detail/20260925131130054800",
-          "source": "金十数据",
+          "title": "华尔街面对利率新格局 5%美债收益率或成常态甚至下限",
+          "url": "https://wallstreetcn.com/livenews/3170737",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗外交部长阿拉格齐在出席联合国大会期间，分别与葡萄牙、塞浦路斯和文莱外交部长举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260925123054628800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "以色列在联大用星链挑衅伊朗遭无视",
-          "url": "https://flash.jin10.com/detail/20260925122514105800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
         }
       ]
     },
@@ -315,7 +370,31 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "18时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "CPI不是衡量通胀的最佳指标 亚洲实物需求能托住金价吗？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260925181735870800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     }
