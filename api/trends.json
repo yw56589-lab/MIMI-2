@@ -1,106 +1,128 @@
 {
-  "generated_at": "2026-09-25T05:55:27.834371+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-25T08:11:16.891205+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 18,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 6 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 18 条热点，覆盖 10 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
         {
-          "title": "习近平同特朗普会谈",
-          "url": "https://www.toutiao.com/trending/7688663315194678838/",
-          "source": "今日头条",
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
+          "url": "https://flive.ifeng.com/live/1017286.html?webkit=1",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%B0%88",
           "source": "百度热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
           "title": "特朗普欢迎习近平访美",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A2%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
-          "title": "习近平出席特朗普举行的欢迎仪式",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E7%9A%84%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F",
+          "title": "特朗普夫妇热情迎接习近平夫妇",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E7%83%AD%E6%83%85%E8%BF%8E%E6%8E%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%AB%E5%A6%87",
           "source": "百度热搜",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
-          "title": "习近平同美国总统特朗普小范围交流",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BA%A4%E6%B5%81",
-          "source": "bilibili 热搜",
+          "title": "特朗普：这是一次伟大的会晤",
+          "url": "https://www.toutiao.com/trending/7689240553585954350/",
+          "source": "今日头条",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
-          "title": "特朗普总统抵达机场，迎接习近平主席到访",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34137674",
-          "source": "澎湃新闻",
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://www.cls.cn/detail/2492836",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
+        },
+        {
+          "title": "习近平出席美国总统特朗普举行的欢迎宴会",
+          "url": "https://wallstreetcn.com/livenews/3170652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "08时11分"
+        },
+        {
+          "title": "特朗普说这是一次伟大的会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%A1%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BC%9A%E6%99%A4%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
           "title": "特朗普：这是一次“伟大的会晤”",
-          "url": "https://flash.jin10.com/detail/20260925050639805800",
-          "source": "金十数据",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%A1%E2%80%9C%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BC%9A%E6%99%A4%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
-          "title": "中方回应会否邀请特朗普出席APEC峰会",
-          "url": "https://www.toutiao.com/trending/7689007069815357961/",
-          "source": "今日头条",
+          "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
+          "url": "https://wallstreetcn.com/articles/3782488",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
           "title": "特朗普遗憾欢迎晚宴座位不够多",
@@ -110,234 +132,311 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
-          "title": "特朗普称CNN和MSNBC收视率下滑 批评其“不具公信力”",
-          "url": "https://flash.jin10.com/detail/20260925045251902800",
-          "source": "金十数据",
+          "title": "中方回应会否邀请特朗普出席APEC峰会",
+          "url": "https://www.toutiao.com/trending/7689007069815357961/",
+          "source": "今日头条",
           "ranks": [
-            12
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://flash.jin10.com/detail/20260925042126702800",
-          "source": "金十数据",
+          "title": "图讯｜习近平同美国总统特朗普小范围交流",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34146030",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://wallstreetcn.com/livenews/3170606",
+          "title": "据沙特阿拉比亚电视台：伊朗外长阿拉格齐表示，我们在纽约与美国中东问题特使威特科夫和特朗普高级顾问库什纳举行了富有成果的会晤。与美国的对外接触正通过中间人持续进行。",
+          "url": "https://flash.jin10.com/detail/20260925074117901800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "美国总统特朗普、众议院议长约翰逊将于9月29日与科技界CEO们开会，讨论AI问题。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3170647",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "08时11分"
         },
         {
-          "title": "特朗普总统夫妇在下车处迎候",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E5%A4%AB%E5%A6%87%E5%9C%A8%E4%B8%8B%E8%BD%A6%E5%A4%84%E8%BF%8E%E5%80%99",
+          "title": "习近平和彭丽媛将出席特朗普总统夫妇举行的欢迎宴会",
+          "url": "https://wallstreetcn.com/livenews/3170643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：特朗普不断说“我想给伊朗人民一份礼物”，但他们给我们的礼物，是制导导弹、重型武器和毁灭。",
+          "url": "https://flash.jin10.com/detail/20260925065905832800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "据Axios：美国总统特朗普、众议院议长约翰逊及科技公司首席执行官将于9月29日就人工智能召开会议。",
+          "url": "https://flash.jin10.com/detail/20260925064617501800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "ai_insight": {
+        "analysis": "该板块当前收录 8 条热点，覆盖 3 个来源平台，平均热榜排名约 16.5 位，标题平均出现 1.1 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 55,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "哥伦比亚宣布与伊朗断交",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%96%AD%E4%BA%A4",
           "source": "百度热搜",
           "ranks": [
-            27
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
+        },
+        {
+          "title": "内塔尼亚胡称打伊朗是最容易决定",
+          "url": "https://flash.jin10.com/detail/20260925072844708800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "08时11分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗不断恶化的经济状况是美国政策造成的。我们确实面临经济问题，但我们准备承受任何困难，抵御美国制裁。",
+          "url": "https://flash.jin10.com/detail/20260925071621001800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬： 我们从未谋求战争，现在也不想要战争。 我深信人类不应互相残杀。但凡可以通过对话解决问题，就不该诉诸杀戮。 但在以色列的煽动之下，这场战争被强加于我们。 我们并不希望战事持续。 是否结束冲突，决定权在美国。",
+          "url": "https://wallstreetcn.com/livenews/3170645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "英国外交大臣米利班德警告伊朗外长阿拉格齐，英国“不会容忍在英国领土上的敌对活动”。",
+          "url": "https://wallstreetcn.com/livenews/3170642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：也门胡塞武装队他们自己的行动负责。 并没有与胡塞武装联系并授意对方（针对沙特等）采取行动。 （对于浓缩铀问题）伊朗将遵循国际法。 如果我们遭到（美国+以色列）袭击，我们将自卫。 我们不想要任何核弹。 我们面临经济问题，但会熬过艰难时刻。 愿意接受核查。",
+          "url": "https://wallstreetcn.com/livenews/3170638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：任何人都可以提出抗议。",
+          "url": "https://flash.jin10.com/detail/20260925065710429800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "哥伦比亚宣布与伊朗断交",
+          "url": "https://wallstreetcn.com/livenews/3170631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.2 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
         {
-          "title": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
-          "url": "https://wallstreetcn.com/articles/3782354",
-          "source": "华尔街见闻",
+          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
+          "url": "https://www.cls.cn/detail/2492840",
+          "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
           "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
           "url": "https://wallstreetcn.com/articles/3782417",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
-          "title": "全球债市抛售加剧，30年期美债收益率创逾20年新高，美股指低开，布油涨破100",
+          "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
           "url": "https://wallstreetcn.com/articles/3782452",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
+        },
+        {
+          "title": "美债5%失去震慑力，摩根大通称股市断裂阈值或已升至6%",
+          "url": "https://wallstreetcn.com/articles/3782453",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
           "title": "美债收益率与油价齐升 美股期指下跌 纳指期货跌1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2492618",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 21.8 位，标题平均出现 1.2 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 55,
+        "chart": []
+      },
+      "titles": [
         {
-          "title": "美债暴跌威胁新兴市场套息交易，花旗选择撤退",
-          "url": "https://wallstreetcn.com/livenews/3170619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "20+年期美债ETF收跌约1.3%，领跌美股大类资产类ETF，布油基金涨超2.4%",
-          "url": "https://wallstreetcn.com/livenews/3170608",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34139046",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 7.6 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "哥伦比亚外交部：自2026年9月19日起，哥伦比亚政府正式与伊朗伊斯兰共和国断绝外交关系。",
-          "url": "https://flash.jin10.com/detail/20260925052520364800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
-          "title": "据伊朗媒体Fars News：伊斯兰革命卫队发言人表示，尽管拥有庞大的海军力量，美国仍未能让霍尔木兹海峡局势恢复到其预期的状态。美军舰艇已后撤至距霍尔木兹海峡区域400公里外，目前仍驻扎在巴林。这是伊朗的重大胜利。",
-          "url": "https://flash.jin10.com/detail/20260925051525219800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "哥伦比亚宣布已与伊朗断绝外交关系。",
-          "url": "https://wallstreetcn.com/livenews/3170631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "据科威特通讯社：科威特王储表示，自今年2月以来，尽管科威特、海湾合作委员会（GCC）国家以及约旦并非当前地区冲突的一方，却遭到伊朗以弹道导弹、巡航导弹和无人机发动的“罪恶侵略”。这一行为公然违反国际法、国际人道法以及《联合国宪章》。",
-          "url": "https://flash.jin10.com/detail/20260925044417511800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "也门领导委员会副主席批评胡塞武装 称其服务于伊朗",
-          "url": "https://flash.jin10.com/detail/20260925043748061800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 14.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "周四（9月24日）纽约尾盘，现货黄金跌0.37%，报4271.49美元/盎司。 现货白银跌1%，报63.7915美元/盎司。 COMEX铜期货涨0.16%，报6.7645美元/磅。 在美股时段交易的费城金银指数收跌1.53%，报381.05点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.75%，报2645.04点，全天处于下跌状态，开盘之前维持微幅下跌状态——持续交投于2680点一线，之后“跳空”下挫并持续低位震荡。 在美股时段交易的原材料指数收跌1.30%，金属与矿业指数收跌0.59%。 State Street金属与矿业ETF收跌1.48%，报107.96美元。",
-          "url": "https://wallstreetcn.com/livenews/3170622",
+          "title": "OpenAI正准备在未来几天预览其最新的网络安全专用模型GPT-6 Cyber。 该公司还将发布一款新产品，帮助客户以更安全、自动化的方式部署GPT-6 Cyber。（财富杂志）",
+          "url": "https://wallstreetcn.com/livenews/3170646",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "08时11分"
         },
         {
-          "title": "周四（9月24日），美股行业ETF多数收跌，公用事业ETF收跌0.98%，科技行业ETF、全球科技股指数ETF、半导体ETF至多跌0.32%，能源业ETF涨0.37%，网络股指数ETF涨0.77%，区域银行ETF涨0.8%，生物科技指数ETF涨1.28%。",
-          "url": "https://wallstreetcn.com/livenews/3170609",
-          "source": "华尔街见闻-快讯",
+          "title": "据《财富》杂志：OpenAI还将推出一款新产品，帮助客户以更安全、更自动化的方式部署GPT-6 Cyber。",
+          "url": "https://flash.jin10.com/detail/20260925064247788800",
+          "source": "金十数据",
           "ranks": [
-            19
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "08时11分"
+        },
+        {
+          "title": "据《财富》杂志：OpenAI正准备在未来几天预览其最新网络安全专用模型GPT-6 Cyber。",
+          "url": "https://flash.jin10.com/detail/20260925064219213800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         }
       ]
     },
@@ -345,10 +444,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -360,80 +459,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "标普500指数的11个板块中，公用事业、原材料板块至多收跌1.02%，信息技术/科技板块跌0.32%，能源板块涨0.43%，电信板块涨1.92%——成分股Meta收涨4.5%领跑、谷歌A涨超1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3170610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34139046",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "北美科技软件股指数ETF跌0.88%，报107.15美元。 Global X网络安全ETF跌1%，纳斯达克网络安全ETF跌0.79%，ETFMG网络安全ETF跌1.52%。",
-          "url": "https://wallstreetcn.com/livenews/3170615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         }
       ]
     }
