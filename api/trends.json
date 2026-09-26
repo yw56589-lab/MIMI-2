@@ -1,51 +1,62 @@
 {
-  "generated_at": "2026-09-26T14:54:11.178431+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-09-26T19:59:32.332965+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 15 条热点，覆盖 8 个来源平台，平均热榜排名约 9.8 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 8 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 84,
         "chart": []
       },
       "titles": [
         {
-          "title": "习近平结束访美 特朗普第一时间发文",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E8%AE%BF%E7%BE%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E5%8F%91%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34147373",
+          "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34151574",
           "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
-          "title": "中美元首会晤结束后，特朗普第一时间发文",
-          "url": "https://news.ifeng.com/c/8wjVM91vFuO",
-          "source": "凤凰网",
+          "title": "波兰将为美军基地“特朗普堡”支付高达44亿美元",
+          "url": "https://flash.jin10.com/detail/20260926192549312800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "特朗普第一时间发帖：期待下次会面",
+          "url": "https://www.toutiao.com/trending/7689304243416616490/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "习近平结束访美 特朗普第一时间发文",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E8%AE%BF%E7%BE%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E5%8F%91%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸",
@@ -55,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
@@ -66,118 +77,241 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "吴心伯：稳定中美关系，是特朗普的“大利所在”",
           "url": "https://news.ifeng.com/c/8wiO7CsXvep",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
-          "title": "日元强势反攻！日本财务大臣：特朗普对日元贬值表达了担忧，将与美方密切协调",
-          "url": "https://wallstreetcn.com/articles/3782526",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-26）",
+          "url": "https://flash.jin10.com/detail/20260926185257163800",
+          "source": "金十数据",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
           "url": "https://www.cls.cn/detail/2492836",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        },
-        {
-          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
-          "url": "https://www.cls.cn/detail/2492899",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "特朗普：这次访问富有成效",
           "url": "https://www.toutiao.com/trending/7689614804578733595/",
           "source": "今日头条",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
-          "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34151574",
-          "source": "澎湃新闻",
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "https://www.cls.cn/detail/2492899",
+          "source": "财联社热门",
           "ranks": [
-            20
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "特朗普：这次访问富有成效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34151570",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "特朗普急于表明他“并不着急”回应伊朗提议",
+          "url": "https://flash.jin10.com/detail/20260926164243594800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "特朗普在社交媒体发图，内容为近4任美国总统任期内油价高于100美元的天数统计。图片显示，奥巴马、拜登任期内，该数字分别为308天、83天；而特朗普第一任期为0天，本任期目前为24天。",
           "url": "https://wallstreetcn.com/livenews/3170952",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "19时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 12,
+      "ai_insight": {
+        "analysis": "该板块当前收录 12 条热点，覆盖 6 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 85,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "亚运乒乓男单 1/4 决赛，张本智和 3-4 不敌伊朗阿拉米扬，如何评价本场比赛，张本到底什么水平？",
+          "url": "https://www.zhihu.com/question/2087227137711240686",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
-          "title": "美媒：特朗普拒绝伊朗七日内重开霍尔木兹海峡提议",
-          "url": "https://wallstreetcn.com/livenews/3170943",
+          "title": "分析师：中期选举如果......，可能推动美国升级与伊朗的冲突",
+          "url": "https://flash.jin10.com/detail/20260926184352040800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "伊朗总统：也门正在发生的事情与伊朗无关“与伊朗无关”",
+          "url": "https://flash.jin10.com/detail/20260926183540743800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "伊朗总统：我们不再信任与美国谈判",
+          "url": "https://flash.jin10.com/detail/20260926183104626800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：也门发生的事件与伊朗无关。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3170975",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "伊朗提“七天方案”但划核红线：霍尔木兹可谈、浓缩铀不让步",
+          "url": "https://wallstreetcn.com/articles/3782564",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "油市重磅：沙特9月出口量创伊朗战争爆发来新高 环比飙升近80%",
+          "url": "https://www.cls.cn/detail/2493247",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "伊朗外长：美以袭击致5000余人丧生",
+          "url": "https://wallstreetcn.com/livenews/3170971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "伊朗海关否认调整iPhone进口关税",
+          "url": "https://flash.jin10.com/detail/20260926175607590800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "伊朗：美以袭击致5000余人丧生",
+          "url": "https://www.toutiao.com/trending/7689760497964548159/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "19时59分"
         },
         {
-          "title": "特朗普第一时间发帖总结会晤",
-          "url": "https://flash.jin10.com/detail/20260926120345983800",
+          "title": "伊朗基准股指收盘重挫，6.3万亿资金流出伊朗股市",
+          "url": "https://flash.jin10.com/detail/20260926172102023800",
           "source": "金十数据",
           "ranks": [
-            22
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "19时59分"
         },
         {
-          "title": "特朗普政府就停摆裁员与工会达成和解",
-          "url": "https://wallstreetcn.com/livenews/3170937",
+          "title": "伊朗外长与沙特外交大臣会晤 讨论霍尔木兹海峡等议题",
+          "url": "https://wallstreetcn.com/livenews/3170959",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "19时59分"
         }
       ]
     },
@@ -185,10 +319,10 @@
       "keyword_group": "美债",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -197,147 +331,44 @@
           "url": "https://wallstreetcn.com/articles/3782519",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        },
-        {
-          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
-          "url": "https://www.cls.cn/detail/2492840",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高",
           "url": "https://www.cls.cn/detail/2493190",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        },
-        {
-          "title": "通胀、赤字、AI发债齐施压，超半数市场人士押注30年期美债收益率年底前触及6%",
-          "url": "https://wallstreetcn.com/articles/3782544",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.2 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 55,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "以色列在联大拿出星链挑衅，遭伊朗代表团人员无视",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34149928",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        },
-        {
-          "title": "伊朗外长与沙特外交大臣会晤 讨论霍尔木兹海峡等议题",
-          "url": "https://wallstreetcn.com/livenews/3170959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "19时59分"
         },
         {
-          "title": "据半岛电视台：伊拉克政府声明称，正与华盛顿进行磋商，以使（部分）伊拉克机场免受美国财政部针对伊朗航班措施的影响。",
-          "url": "https://flash.jin10.com/detail/20260926140911863800",
-          "source": "金十数据",
+          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
+          "url": "https://www.cls.cn/detail/2492840",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "19时59分"
         },
         {
-          "title": "伊朗外长与沙特外交大臣会晤 讨论霍尔木兹海峡等议题",
-          "url": "https://flash.jin10.com/detail/20260926115437060800",
-          "source": "金十数据",
+          "title": "“Agent vs 美债”——谁将主导美股？",
+          "url": "https://wallstreetcn.com/articles/3782574",
+          "source": "华尔街见闻",
           "ranks": [
-            26
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 17.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI在博客文章中详述9月20日发现的沙箱“漏洞”，AI Agent获得互联网访问权限，并向公共聊天机器人提问，在上次AI事故发生后暂停了最强模型的大部分训练工作。",
-          "url": "https://wallstreetcn.com/livenews/3170956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "OpenAI的模型访问了美国人口普查局和SEC的公开数据",
-          "url": "https://wallstreetcn.com/livenews/3170944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "OpenAI产品团队成员发文称，在智能代理时代，安全标准的要求要高得多。安全行业需要加快步伐以满足这一要求。很高兴看到我们放慢脚步，为应对风险做好准备。",
-          "url": "https://flash.jin10.com/detail/20260926115550070800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "19时59分"
         }
       ]
     },
@@ -345,10 +376,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -360,8 +391,32 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI在博客文章中详述9月20日发现的沙箱“漏洞”，AI Agent获得互联网访问权限，并向公共聊天机器人提问，在上次AI事故发生后暂停了最强模型的大部分训练工作。",
+          "url": "https://wallstreetcn.com/livenews/3170956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
@@ -369,10 +424,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 68,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
@@ -384,8 +439,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     }
