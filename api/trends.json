@@ -1,19 +1,52 @@
 {
-  "generated_at": "2026-09-27T02:53:03.401234+08:00",
+  "generated_at": "2026-09-27T05:45:33.997772+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 26,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 7 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.4 次。",
+        "analysis": "该板块当前收录 26 条热点，覆盖 7 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 63,
+        "confidence": 86,
         "chart": []
       },
       "titles": [
+        {
+          "title": "伊朗“波斯湾海峡管理局”：船东必须警惕某些租船人的此类违法行为。一旦查实，相关租船人将被列入“不合规名单”，其名下所有船舶经由霍尔木兹海峡的通行将受到限制。",
+          "url": "https://flash.jin10.com/detail/20260927053330338800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗总统：不再信任同美国的对话",
+          "url": "https://wallstreetcn.com/livenews/3171008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”：报告显示，一些租船方正强迫船舶使用“非法航线”。此举不仅使船舶、船东、船长及船员面临经济损失和生命安全风险，还将严重限制该船未来通过霍尔木兹海峡的能力。",
+          "url": "https://flash.jin10.com/detail/20260927053243344800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
         {
           "title": "亚运乒乓男单 1/4 决赛，张本智和 3-4 不敌伊朗阿拉米扬，如何评价本场比赛，张本到底什么水平？",
           "url": "https://www.zhihu.com/question/2087227137711240686",
@@ -22,41 +55,63 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：只有通过谈判达成的解决方案才能打破僵局，这就是我们的立场。",
+          "url": "https://flash.jin10.com/detail/20260927051653816800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们的条件很明确，任何重新开放霍尔木兹海峡的举措都取决于这些条件的满足。",
+          "url": "https://flash.jin10.com/detail/20260927051426636800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "伊拉克总理办公室：伊拉克正与美国谈判，请求为部分伊拉克机场免除针对伊朗航空公司的限制措施。",
           "url": "https://wallstreetcn.com/livenews/3171004",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们看到了美国总统针对伊朗提议的初步反应，但调解方尚未向我们传达任何信息。我们正等待调解方传达确切意见，并将据此做出决定。",
+          "url": "https://flash.jin10.com/detail/20260927051404628800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "伊朗总统：已与最高领袖协调",
           "url": "https://wallstreetcn.com/livenews/3171000",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "目前在美国纽约出席联合国相关会议的伊朗外长阿拉格齐及其随行代表团计划于下周二返回伊朗。（塔斯尼姆通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3170998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "05时45分"
         },
         {
           "title": "伊朗提“七天方案”但划核红线：霍尔木兹可谈、浓缩铀不让步",
@@ -66,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "油市重磅：沙特9月出口量创伊朗战争爆发来新高 环比飙升近80%",
@@ -77,8 +132,96 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐对土耳其为维护地区和平与安全所做的建设性努力表示赞赏，并强调美国违背承诺导致伊斯兰堡谅解备忘录在签署后不到三周便遭到破坏，其后果波及整个地区乃至全世界。他强调，地区各国必须致力于通过建立互信——特别是避免配合美国干涉主义及非法的军事和经济行动——来恢复和平与安全，并重申伊朗愿为此开展合作。",
+          "url": "https://flash.jin10.com/detail/20260927050132465800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "目前在美国纽约出席联合国相关会议的伊朗外长阿拉格齐及其随行代表团计划于下周二返回伊朗。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3170998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐在纽约会见了土耳其外长菲丹，两国外长就双边关系以及地区和国际局势发展交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260927050107713800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "据伊朗最高国家安全委员会：否认有关伊朗计划针对近期航空限制措施采取军事报复行动的说法。 正严肃推进与相关国家的谈判，以解除某些被非法实施的航空限制措施。 针对特定机场，我们掌握多种非军事反制手段，必要时将予以实施，当然，我们希望事态不至于发展到那一步。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3170994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗：与土耳其、巴基斯坦的航班仍然处于运营状态。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3170987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗向美方提出重开霍尔木兹海峡计划",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E6%96%B9%E6%8F%90%E5%87%BA%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗武装部队发言人：任何试图在霍尔木兹海峡偏离我方指定航线航行的船只，其安全将无法得到保障。",
+          "url": "https://flash.jin10.com/detail/20260927041237025800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗武装部队：美国人绝无可能干预霍尔木兹海峡的管理；若其进行干预，将面临我们的打击。",
+          "url": "https://flash.jin10.com/detail/20260927040913735800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "张本智和爆冷不敌伊朗老将，日本队无缘亚运会乒乓球男单四强",
@@ -88,85 +231,85 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
-        },
-        {
-          "title": "伊朗：美以袭击致5000余人丧生",
-          "url": "https://www.toutiao.com/trending/7689760497964548159/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
-        },
-        {
-          "title": "据伊朗最高国家安全委员会：否认有关伊朗计划针对近期航空限制措施采取军事报复行动的说法。 正严肃推进与相关国家的谈判，以解除某些被非法实施的航空限制措施。 针对特定机场，我们掌握多种非军事反制手段，必要时将予以实施，当然，我们希望事态不至于发展到那一步。（伊朗媒体IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3170994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "05时45分"
         },
         {
-          "title": "伊朗：与土耳其、巴基斯坦的航班仍然处于运营状态。（伊朗媒体IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3170987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "伊朗驻伊拉克大使：两国很快将宣布航班安排新决定",
-          "url": "https://flash.jin10.com/detail/20260927012715292800",
+          "title": "前五角大楼官员称伊朗用力过猛却成效有限 美以伊博弈将迎来变化",
+          "url": "https://flash.jin10.com/detail/20260927035814566800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "05时45分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：也门发生的事件与伊朗无关。（半岛电视台）",
           "url": "https://wallstreetcn.com/livenews/3170975",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们和也门均未参与针对沙特输油管道的袭击。以色列实施这一行动以激化紧张局势并挑起争端的可能性不容排除。",
+          "url": "https://flash.jin10.com/detail/20260927025914915800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "伊朗外长：美以袭击致5000余人丧生",
           "url": "https://wallstreetcn.com/livenews/3170971",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "05时45分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：也门武装部队称，胡塞武装使用的防空武器对航空安全构成严重威胁。胡塞武装正使用伊朗制防空武器，从荷台达向红海南部空域的飞行航线发起攻击。",
+          "url": "https://flash.jin10.com/detail/20260927025847092800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：以色列总理内塔尼亚胡没能击败加沙，又怎么能推翻伊朗政权？",
+          "url": "https://flash.jin10.com/detail/20260927025146875800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 6 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.6 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 6 个来源平台，平均热榜排名约 14.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 65,
+        "confidence": 86,
         "chart": []
       },
       "titles": [
@@ -178,8 +321,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸",
@@ -189,8 +332,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国总统特朗普：美国不会给AI“踩刹车”。",
+          "url": "https://wallstreetcn.com/livenews/3171006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "特朗普拒绝伊朗提议",
@@ -200,41 +354,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
-        },
-        {
-          "title": "美国总统特朗普：美国不会给AI“踩刹车”。",
-          "url": "https://wallstreetcn.com/livenews/3171006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "美媒：特朗普的铁杆支持群体不觉得存在生活成本问题",
-          "url": "https://flash.jin10.com/detail/20260927022702577800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "特朗普：这次访问富有成效",
-          "url": "https://www.toutiao.com/trending/7689614804578733595/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "time_info": "05时45分"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
@@ -244,8 +365,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国总统特朗普重申，伊朗不可以拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3170986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
@@ -255,41 +387,85 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
-        },
-        {
-          "title": "美国总统特朗普重申，伊朗不可以拥有核武器。",
-          "url": "https://wallstreetcn.com/livenews/3170986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "05时45分"
         },
         {
-          "title": "据以色列i24News：一位安全消息人士表示，在特朗普拒绝伊朗重新开放霍尔木兹海峡的提议后，美国参谋长联席会议正在恢复对下一步行动方案的评估。这并不意味着正在为迫在眉睫的攻击做准备。",
-          "url": "https://flash.jin10.com/detail/20260927012217172800",
+          "title": "特朗普：这次访问富有成效",
+          "url": "https://www.toutiao.com/trending/7689614804578733595/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "特朗普：批准新的燃油经济性标准 废除拜登时代的电动汽车强制令",
+          "url": "https://flash.jin10.com/detail/20260927031908923800",
           "source": "金十数据",
           "ranks": [
-            20
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国总统特朗普：批准了新的燃油经济性标准，废除了拜登的电动汽车强制令。",
+          "url": "https://flash.jin10.com/detail/20260927031550189800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "特朗普称美国经济“史上最佳” 批评媒体和民主党不愿承认",
+          "url": "https://flash.jin10.com/detail/20260927031306217800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国总统特朗普：商业活动蒸蒸日上，美国人的收入达到前所未有的水平，贫困率降至历史最低，出口也在激增！“假新闻”媒体和“蠢民主党人”痛恨这些报告和这些破纪录的数据。",
+          "url": "https://flash.jin10.com/detail/20260927030058388800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国总统特朗普：美国经通胀调整后的家庭收入中位数现已达到历史最高水平；美国的贫困率也降至有记录以来的最低点。2026年美国商品出口有望创下历史新高，数以万亿美元计的新投资正源源不断地涌入美国。如果换作其他人担任总统，媒体定会对此大肆报道。",
+          "url": "https://flash.jin10.com/detail/20260927030025573800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.8 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -301,8 +477,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "“Agent vs 美债”——谁将主导美股？",
@@ -312,8 +488,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高",
@@ -323,8 +499,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
@@ -334,19 +510,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
-        },
-        {
-          "title": "即便油价下跌，30年期美债收益率依旧突破了5.5%",
-          "url": "https://wallstreetcn.com/articles/3782571",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
         }
       ]
     },
@@ -354,10 +519,10 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -369,8 +534,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元",
@@ -380,8 +545,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
         }
       ]
     },
@@ -389,10 +554,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -404,8 +569,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 1,
+          "time_info": "05时45分"
         }
       ]
     }
