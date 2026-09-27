@@ -1,30 +1,153 @@
 {
-  "generated_at": "2026-09-28T04:38:50.494075+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-09-28T07:31:29.511403+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 12,
+      "keyword_group": "特朗普",
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 12 条热点，覆盖 4 个来源平台，平均热榜排名约 10.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 3 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "据伊朗Press TV：真主党领导人卡西姆表示拒绝解除真主党武装，称黎巴嫩必须保留抵抗力量并保持团结，以维护国家主权。没有抵抗力量，黎巴嫩将不复存在。",
-          "url": "https://flash.jin10.com/detail/20260928042134431800",
-          "source": "金十数据",
+          "title": "特朗普拒绝重开霍尔木兹方案，伊朗军方称做好迎战准备",
+          "url": "https://news.ifeng.com/c/8wldujH90Z0",
+          "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         },
+        {
+          "title": "特朗普拒绝伊朗提议 油价开盘上涨",
+          "url": "https://flash.jin10.com/detail/20260928062850376800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美国总统特朗普：将与Anthropic首席执行官Amodei（阿莫代伊）会谈，商讨人工智能议题。",
+          "url": "https://wallstreetcn.com/livenews/3171082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普：AI领域没有第三名的位置。",
+          "url": "https://flash.jin10.com/detail/20260928055828218800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美国总统特朗普就中期选举前是否打击伊朗一事表态：不想说。 截至今晨，伊朗通胀率达到318%。 我们很快就会赢得这场战争，油价也会下跌。 我们将在军事和经济战中战胜伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3171081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普称他在“非常认真”地考虑禁止柴油出口",
+          "url": "https://wallstreetcn.com/livenews/3171080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "报道：Anthropic的CEO将与特朗普共进晚餐",
+          "url": "https://wallstreetcn.com/livenews/3171083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普称近日将继续与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3171091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普表示，美国将在与伊朗的军事和经济战中获胜，伊朗通胀率已达318%，并预计战争将“很快”结束、油价将下跌。不想回答是否会在中期选举前恢复打击伊朗的问题。",
+          "url": "https://flash.jin10.com/detail/20260928050519436800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普：正在“非常认真地”考虑禁止柴油出口",
+          "url": "https://flash.jin10.com/detail/20260928050338084800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美国总统特朗普表示将与Anthropic首席执行官讨论人工智能，并谈及这次会面称：“出发吧，让我们赢。”",
+          "url": "https://flash.jin10.com/detail/20260928050209876800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "ai_insight": {
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 18.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
         {
           "title": "油市重磅：沙特9月出口量创伊朗战争爆发来新高 环比飙升近80%",
           "url": "https://www.cls.cn/detail/2493247",
@@ -34,7 +157,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         },
         {
           "title": "伊朗捕获第2艘美军无人潜航器",
@@ -45,106 +168,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         },
         {
-          "title": "消息人士称，黎巴嫩真主党就伊朗航班禁令问题与伊拉克领导人进行了接触。",
-          "url": "https://flash.jin10.com/detail/20260928035403550800",
+          "title": "消息人士：伊朗外长将于周二回国，代表团没有与美举行会谈的计划",
+          "url": "https://flash.jin10.com/detail/20260928053902428800",
           "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：隶属于伊朗革命卫队的法尔斯通讯社援引当地消息人士报道，一枚海军巡航导弹向一艘在霍尔木兹海峡沿“未经授权航线”航行的船只发射。",
-          "url": "https://flash.jin10.com/detail/20260928035101357800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "伊朗媒体Fars News：据当地消息，霍尔木兹海峡内一艘沿未经授权航线航行的违规船只遭到了海军巡航导弹的攻击。",
-          "url": "https://flash.jin10.com/detail/20260928033938800800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "伊朗媒体Fars News：知情人士表示，关于伊美开启新一轮间接谈判的说法不实。",
-          "url": "https://flash.jin10.com/detail/20260928033651989800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：（在结束战争方面）没有看到伊朗重返外交途径的理由。 伊朗在做好战争准备的同时，也对外交手段持开放态度。 即使面对“末日战争”，也会立场坚定。",
-          "url": "https://wallstreetcn.com/livenews/3171069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "伊拉克政府消息人士向沙特媒体哈达斯（Alhadath）透露：正与华盛顿进行谈判，以允许伊朗飞机仅在纳杰夫降落。",
-          "url": "https://flash.jin10.com/detail/20260928031448604800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "伊朗武装部队于过去两个夜晚在霍尔木兹海峡打击19艘违反规定的船只。 涉事船只试图采用未经授权的水道。 周五夜间打击12艘船只，周六夜间打击了七艘。（伊朗媒体FARS）",
-          "url": "https://wallstreetcn.com/livenews/3171049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "伊朗捕获第2艘美军无人潜航器",
-          "url": "https://wallstreetcn.com/livenews/3171045",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         },
         {
-          "title": "伊朗总统称愿促胡塞与沙特和谈",
-          "url": "https://flash.jin10.com/detail/20260928012614921800",
-          "source": "金十数据",
+          "title": "伊朗称在霍尔木兹海峡捕获美国无人潜航器",
+          "url": "https://wallstreetcn.com/livenews/3171092",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗革命卫队表示，从海岸到深海，伊朗霍尔木兹甘省举行11万人规模的“伊朗献身者军演”。",
+          "url": "https://flash.jin10.com/detail/20260928051424239800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗革命卫队发言人表示，霍尔木兹海峡不仅没有开放，它是伊朗海军打击美国水下舰艇的猎场。",
+          "url": "https://flash.jin10.com/detail/20260928044113648800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -152,7 +220,7 @@
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 7.2 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 76,
@@ -168,7 +236,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         },
         {
           "title": "下周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报",
@@ -179,7 +247,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         },
         {
           "title": "入侵美澳政府网站！OpenAI暂停最先进模型训练",
@@ -190,18 +258,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         },
         {
           "title": "沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发",
           "url": "https://www.cls.cn/detail/2493381",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         },
         {
           "title": "环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相",
@@ -212,86 +280,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美国总统特朗普再次在社媒放出图片，将霍尔木兹海峡称为“特朗普海峡”。",
-          "url": "https://flash.jin10.com/detail/20260928043250399800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "特朗普拒绝重开霍尔木兹方案，伊朗军方称做好迎战准备",
-          "url": "https://news.ifeng.com/c/8wldujH90Z0",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗战争很快就会结束，届时油价将下跌。 昨晚我们从霍尔木兹海峡抽取了创纪录数量的石油。",
-          "url": "https://wallstreetcn.com/livenews/3171062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "这座“特朗普堡”造价高达44亿美元",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%BA%A7%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A0%A1%E2%80%9D%E9%80%A0%E4%BB%B7%E9%AB%98%E8%BE%BE44%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "特朗普：美国和古巴会达成协议，美方“不需要动用军队”",
-          "url": "https://wallstreetcn.com/livenews/3171053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -304,7 +304,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         },
         {
           "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
@@ -315,7 +315,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股期货走低，标普500指数期货小幅下跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3171100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股三大股指期货周一低开，跌幅约为0.1%。",
+          "url": "https://flash.jin10.com/detail/20260928060152599800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -339,7 +361,31 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金价回落叠加节日促销，黄金零售市场迎来消费旺季",
+          "url": "https://wallstreetcn.com/livenews/3171103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -363,7 +409,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "07时31分"
         }
       ]
     }
