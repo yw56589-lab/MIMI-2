@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-29T06:47:27.780157+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-09-29T10:26:11.803672+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 13 条热点，覆盖 3 个来源平台，平均热榜排名约 13.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.8 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -22,385 +22,174 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "特朗普称美伊代表已通过调解方交换信息",
-          "url": "https://wallstreetcn.com/livenews/3171775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "WTI原油小幅高开0.2%，报92.15美元/桶，特朗普否认有关“放松伊朗制裁”报道。",
-          "url": "https://flash.jin10.com/detail/20260929060043873800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "特朗普点名美媒有关“放松伊朗制裁和解冻资金”的报道不实",
-          "url": "https://flash.jin10.com/detail/20260929054419083800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "美国总统特朗普：Axios刚发布的有关“特朗普愿向伊朗提供制裁缓解和解冻被冻结资金”的报道不属实，我要求该媒体“立即撤回”相关报道。",
-          "url": "https://flash.jin10.com/detail/20260929053550059800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "特朗普：没有建议对伊朗实施制裁豁免",
-          "url": "https://wallstreetcn.com/livenews/3171769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "据CNN：Palantir(PLTR.N)CEO 亚历克斯·卡普也将参加当地时间周二在白宫举行的特朗普与科技行业高管的会晤。",
-          "url": "https://flash.jin10.com/detail/20260929053136100800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "Palantir的CEO将列席美国总统特朗普周二（与众议长约翰逊）的（午餐）会议。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3171768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "美国参议院Grassley：不相信总统特朗普会祭出柴油出口禁令。 特朗普政府在柴油禁令问题上承受着太大的压力。 建议众多石油公司在国内降低（柴油/成品油）价格。",
-          "url": "https://wallstreetcn.com/livenews/3171767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "特朗普谈为何对伊发动战争",
-          "url": "https://flash.jin10.com/detail/20260929051750537800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "特朗普：加拿大或将在数周内取消所有关税",
-          "url": "https://flash.jin10.com/detail/20260929051746499800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "消息人士：英国政府正私下游说特朗普政府，希望在美国实施任何潜在柴油出口禁令时获得豁免。",
-          "url": "https://flash.jin10.com/detail/20260929051301909800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "一位匿名伊朗官员表示，目前的主要问题在于特朗普似乎尚未就他究竟希望从谈判中获得什么，确立明确且一贯的立场。",
-          "url": "https://flash.jin10.com/detail/20260929045001790800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 9.4 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "据伊通社（IRNA）：伊朗外长阿拉格齐表示，希望美国方面的最终回应能通过卡塔尔中间人在周二前传达。",
-          "url": "https://flash.jin10.com/detail/20260929062206273800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "伊朗外长警告：已为“末日战争”做好准备",
-          "url": "https://news.ifeng.com/c/8wmSMFPHohF",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "美国财政部：财长贝森特今日会见黎巴嫩财政部长。 贝森特敦促黎巴嫩打击伊朗与真主党相关网络。",
-          "url": "https://wallstreetcn.com/livenews/3171779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "伊朗外长：周一与调解方进行了会谈 不会留在纽约等待美国回应",
-          "url": "https://flash.jin10.com/detail/20260929060409598800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "伊朗外长：强烈驳斥有关在核问题上存在灵活性的说法。 伊朗的立场不曾发生变化。 在重新开放霍尔木兹海峡方面，我们的条件是清晰的。",
-          "url": "https://wallstreetcn.com/livenews/3171777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "伊朗称“已为与美战事重开做好准备，但未放弃外交途径”，调解国认为“重返谈判希望渺茫”",
-          "url": "https://wallstreetcn.com/articles/3782614",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致",
-          "url": "https://wallstreetcn.com/livenews/3171773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "伊朗外长：周一与调解方进行了会谈，不会留在纽约等待美国回应",
-          "url": "https://wallstreetcn.com/livenews/3171770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "伊朗点名沙特媒体炒作核让步消息 称报道不实",
-          "url": "https://flash.jin10.com/detail/20260929052709265800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：今天会见了黎巴嫩总理。美国重申对黎巴嫩实施三方框架的坚定支持，这是黎巴嫩与以色列实现持久和平的唯一途径。美国支持一个不受真主党和伊朗影响的黎巴嫩，一个有主权独立的黎巴嫩。",
-          "url": "https://flash.jin10.com/detail/20260929044519505800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI因安全问题推迟发布GPT-6.1 Astra",
-          "url": "https://flash.jin10.com/detail/20260929060612234800",
-          "source": "金十数据",
+          "title": "特朗普证实美伊代表已交换信息 普京签署总统令再次扩编俄军 | 环球市场",
+          "url": "https://www.cls.cn/detail/2494687",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布",
-          "url": "https://wallstreetcn.com/articles/3782618",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI因安全问题取消发布新的人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20260929060207605800",
-          "source": "金十数据",
+          "title": "日方官员称特朗普表态让日本不舒服",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E6%97%A5%E6%9C%AC%E4%B8%8D%E8%88%92%E6%9C%8D",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "OpenAI因安全顾虑放弃发布新AI模型。 OpenAI安全系统负责人Saachi Jain称，GPT-6.1 Astra在安全方面出现倒退。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3171771",
+          "title": "特朗普评价中美元首会晤：Amazing！",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%84%E4%BB%B7%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%EF%BC%9AAmazing%EF%BC%81",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "日方官员称特朗普表态让日本不舒服",
+          "url": "https://www.toutiao.com/trending/7690028888260444214/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "英伟达和Anthropic首席执行官将出席特朗普午餐会 探讨人工智能风险",
+          "url": "https://wallstreetcn.com/livenews/3171843",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "怎么看 OpenAI 的 Pro 订阅取消 5x 和 20x 的描述？",
-          "url": "https://www.zhihu.com/question/2087607174948186086",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 7.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗局势恶化，美股指低开，10年期美债收益率创2007年来最高水平，油价涨幅收窄，贵金属全线承压",
+          "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3782633",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "美股收盘：美伊谈判前景不明 美债风暴不息 三大指数集体收跌",
           "url": "https://www.cls.cn/detail/2494681",
           "source": "财联社热门",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "两年期美债收益率涨向5%关口，10年期美债收益率创2007年以来新高",
-          "url": "https://wallstreetcn.com/livenews/3171766",
-          "source": "华尔街见闻-快讯",
+          "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
+          "url": "https://wallstreetcn.com/articles/3782689",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "5.27%！10年期美债收益率创2007年以来新高 万物皆在重估？",
+          "url": "https://www.cls.cn/detail/2494747",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.3 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 58,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+          "url": "https://www.cls.cn/detail/2494709",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "OpenAI模型被曝入侵澳大利亚政府网站，公司成立AI风险管理工作组",
+          "url": "https://flash.jin10.com/detail/20260929095714498800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "10时26分"
+        },
+        {
+          "title": "OpenAI：将成立澳大利亚AI网络风险工作组，正在与澳大利亚政府机构紧密合作。 正对模型活动进行全面审查。 首席战略官将于10月6日前往悉尼。 计划拨款并成立特别工作组，以解决模型入侵澳大利亚网站事件。",
+          "url": "https://wallstreetcn.com/livenews/3171819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 13.7 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -412,22 +201,68 @@
           "url": "https://www.cls.cn/detail/2494468",
           "source": "财联社热门",
           "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "摩根大通：美股科技七巨头“杀估值”已近尾声，但难再回到“一枝独秀”",
+          "url": "https://wallstreetcn.com/articles/3782662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.toutiao.com/trending/7690723201587875371/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.5 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 63,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗外长警告：已为“末日战争”做好准备",
+          "url": "https://news.ifeng.com/c/8wmSMFPHohF",
+          "source": "凤凰网",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "高盛警告：美股多数股票已在熊市",
-          "url": "https://www.toutiao.com/trending/7690560556574445092/",
-          "source": "今日头条",
+          "title": "美国国务卿鲁比奥：霍尔木兹海峡是开放的，除了对伊朗石油。",
+          "url": "https://wallstreetcn.com/livenews/3171820",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "10时26分"
         }
       ]
     },
@@ -435,10 +270,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -450,8 +285,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         }
       ]
     },
@@ -459,23 +294,23 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
         {
-          "title": "国际金价跌4%，逼近4110美元，白银跌约5.7%",
-          "url": "https://wallstreetcn.com/livenews/3171759",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】美股光通信、存储股，集体走弱；金价大幅跳水；多家A股公司，计划回购股份",
+          "url": "https://www.cls.cn/detail/2494700",
+          "source": "财联社热门",
           "ranks": [
-            22
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         }
       ]
     }
