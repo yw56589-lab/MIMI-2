@@ -1,73 +1,84 @@
 {
-  "generated_at": "2026-09-29T17:19:01.759900+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-09-30T00:16:38.345594+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 1 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 61,
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "克里姆林宫：我们不希望伊朗退出核不扩散条约。",
-          "url": "https://flash.jin10.com/detail/20260929171615400800",
-          "source": "金十数据",
+          "title": "美专家：特朗普或将淡化对台军售问题",
+          "url": "https://original.ifeng.com/c/8wonFVuW1z6",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "00时16分"
         },
         {
-          "title": "克里姆林宫：伊朗官员关于退出《不扩散核武器条约》的表态需要澄清。",
-          "url": "https://flash.jin10.com/detail/20260929171543237800",
-          "source": "金十数据",
+          "title": "美国总统特朗普在自家社交媒体平台Truth Social上发布人工智能午餐会的座位安排。 马斯克和黄仁勋将分别坐在他的左右。",
+          "url": "https://wallstreetcn.com/livenews/3172342",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "00时16分"
         },
         {
-          "title": "伊朗外汇交易网络头目被捕",
-          "url": "https://flash.jin10.com/detail/20260929171501047800",
+          "title": "英伟达(NVDA.O)CEO黄仁勋，马斯克将在白宫的人工智能午餐会上与美国总统特朗普同坐。",
+          "url": "https://flash.jin10.com/detail/20260929235824348800",
           "source": "金十数据",
           "ranks": [
-            9
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "00时16分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：德黑兰证券交易所综合指数上涨15万点，达到761万点的水平。",
-          "url": "https://flash.jin10.com/detail/20260929171345455800",
-          "source": "金十数据",
+          "title": "特朗普评中美会晤：满分10分我打12分",
+          "url": "https://www.toutiao.com/trending/7690091446392651839/",
+          "source": "今日头条",
           "ranks": [
-            11
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "00时16分"
         },
         {
-          "title": "欧洲天然气价格下跌，市场关注伊朗谈判进展",
-          "url": "https://flash.jin10.com/detail/20260929170826741800",
-          "source": "金十数据",
+          "title": "俄罗斯总统助理乌沙科夫：普京与特朗普拟于11月APEC峰会期间会面的相关筹备工作尚未启动。",
+          "url": "https://wallstreetcn.com/livenews/3172322",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "00时16分"
+        },
+        {
+          "title": "特朗普推出AI驱动的新网站America.gov，打造政府服务一站式入口",
+          "url": "https://wallstreetcn.com/livenews/3172306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
@@ -75,10 +86,10 @@
       "keyword_group": "美债",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 4.7 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -87,79 +98,103 @@
           "url": "https://wallstreetcn.com/articles/3782633",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
-        },
-        {
-          "title": "5.27%！10年期美债收益率创2007年以来新高 万物皆在重估？",
-          "url": "https://www.cls.cn/detail/2494747",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
           "url": "https://wallstreetcn.com/articles/3782689",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美债收益率高位回落 美股期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2495520",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 12.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 76,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普评中美会晤：满分10分我打12分",
-          "url": "https://www.toutiao.com/trending/7690091446392651839/",
-          "source": "今日头条",
+          "title": "DeepSeek Harness桌面端上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekHarness%E6%A1%8C%E9%9D%A2%E7%AB%AF%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？",
+          "url": "https://www.zhihu.com/question/2086464412991371217",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "农民商业网络：与谷歌AI未来基金合作，将先进人工智能创新技术带给家庭农场主。",
+          "url": "https://flash.jin10.com/detail/20260930000538697800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
-          "title": "中东和平又现曙光？特朗普证实：美伊代表已通过调解方交换信息",
-          "url": "https://www.cls.cn/detail/2494729",
-          "source": "财联社热门",
+          "title": "谷歌云：通过24个合作伙伴集成扩展Gemini Enterprise安全代理目录。",
+          "url": "https://flash.jin10.com/detail/20260930000254493800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
-        },
-        {
-          "title": "特朗普评中美会晤：满分10分我打12分",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%84%E4%B8%AD%E7%BE%8E%E4%BC%9A%E6%99%A4%EF%BC%9A%E6%BB%A1%E5%88%8610%E5%88%86%E6%88%91%E6%89%9312%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
@@ -167,23 +202,71 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 57,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "据Axios：OpenAI将在开发者日推出全天候运行的AI智能体。",
-          "url": "https://flash.jin10.com/detail/20260929170912299800",
+          "title": "OpenAI首席执行官奥尔特曼将于十分钟后接受CNBC采访。",
+          "url": "https://flash.jin10.com/detail/20260929235000001800",
           "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金价下跌30岁左右年轻人成消费主力",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C30%E5%B2%81%E5%B7%A6%E5%8F%B3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%88%90%E6%B6%88%E8%B4%B9%E4%B8%BB%E5%8A%9B%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗革命卫队发言人：美国若想结束战争则必须承认战败",
+          "url": "https://news.ifeng.com/c/8wol8a634cR",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     }
