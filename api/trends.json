@@ -1,189 +1,16 @@
 {
-  "generated_at": "2026-09-30T21:13:51.425526+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-10-01T02:45:17.592405+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 7.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 77,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 开源昇腾基础组件？",
-          "url": "https://www.zhihu.com/question/2088571879514714724",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
-          "url": "https://wallstreetcn.com/articles/3782814",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "DeepSeek组件与英伟达对应",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BB%84%E4%BB%B6%E4%B8%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%BA%94&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
-          "url": "https://wallstreetcn.com/articles/3782726",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "尽管油价走低、尽管美联储高官“放鸽”，美债收益率依旧在走高",
-          "url": "https://wallstreetcn.com/articles/3782785",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美国数据公布后，2年期与10年期美债收益率曲线趋陡，最新报+37.2个基点。",
-          "url": "https://flash.jin10.com/detail/20260930203637017800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 78,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3172955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美国经济数据公布后，美股股指期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3172946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 77,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍",
-          "url": "https://wallstreetcn.com/articles/3782764",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "如何评价 OpenAI 推出个人 AI 助理 Dot，可全天候自主执行任务并连接 4000 多款应用？",
-          "url": "https://www.zhihu.com/question/2088542369264005449",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 22,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 22 条热点，覆盖 4 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.1 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 58,
         "chart": []
       },
       "titles": [
@@ -192,81 +19,391 @@
           "url": "https://wallstreetcn.com/articles/3782769",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
         },
         {
-          "title": "马斯克这一改口，为何让特朗普都会谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34177856",
+          "title": "美国总统特朗普：加拿大多年来一直占美国的便宜。",
+          "url": "https://flash.jin10.com/detail/20261001022424592800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普赞赏礼来制药、Merck、辉瑞制药的投资。",
+          "url": "https://wallstreetcn.com/livenews/3173115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大已经利用了美国许多年。",
+          "url": "https://wallstreetcn.com/livenews/3173114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普谈及古巴：你们就看着鲁比奥对古巴采取的行动吧。看看他会怎么对付古巴。",
+          "url": "https://wallstreetcn.com/livenews/3173112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34177257",
           "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "美国总统特朗普：我拒绝说白宫很破，但我可以告诉你，它当时状况很糟糕。我让这座建筑比以往任何时候都更加美丽。总得有人去做这件事。",
+          "url": "https://flash.jin10.com/detail/20261001020547427800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊拉克：当年他们（小布什政府时期美国官员）遣散了伊拉克所有人员，包括士兵、将军、警察。 伊拉克陷入无人治理的局面，ISIS就此崛起。 我们的做法会截然不同。 我们吸取了当年在伊拉克犯下的愚蠢错误的教训。",
+          "url": "https://wallstreetcn.com/livenews/3173110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：最近三天，霍尔木兹海峡的石油通行量达到历史性水平。",
+          "url": "https://wallstreetcn.com/livenews/3173107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "特朗普：最后一批美军正在撤离伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3173106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：我是唯一一个捐出自己薪水的总统。",
+          "url": "https://flash.jin10.com/detail/20261001020125207800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗，宣称：你们将看到事情发展得相当迅速。",
+          "url": "https://wallstreetcn.com/livenews/3173105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们做得很好。我们做得不好的地方是，我们没有把这个信息传达出去。",
+          "url": "https://flash.jin10.com/detail/20261001015859140800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们损失了18人，但他们损失了4500人。",
+          "url": "https://flash.jin10.com/detail/20261001015732068800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国加州州长纽森发图显示：昨天《白宫超级智能协定》特朗普签名下的“Unites States”出现最简单的拼写错误，发文嘲讽“超级智能” 的黄金时代。",
+          "url": "https://wallstreetcn.com/livenews/3173103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：过去三天，霍尔木兹海峡的石油流量创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20261001015021508800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们几乎完全控制霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20261001014918533800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）你们很快会看到事情发生。",
+          "url": "https://flash.jin10.com/detail/20261001014851910800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：伊拉克总理阿里·扎伊迪当时参加竞选。根本没人看好他。我背书了他，结果他以压倒性优势获胜。",
+          "url": "https://flash.jin10.com/detail/20261001014604387800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
+          "time_info": "02时45分"
+        },
         {
-          "title": "金价持续下跌的底层逻辑是什么",
-          "url": "https://www.toutiao.com/trending/7691242209181437503/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美国PCE数据公布后，美元指数DXY短线下挫15个基点，达101.05，澳元兑美元AUD/USD短线拉升15个基点，达0.6985.",
-          "url": "https://flash.jin10.com/detail/20260930203531883800",
+          "title": "美国总统特朗普：我们要赶紧离开伊拉克。",
+          "url": "https://flash.jin10.com/detail/20261001014533859800",
           "source": "金十数据",
           "ranks": [
-            15
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：今天我很高兴地宣布，最后一批美军正在撤离伊拉克。",
+          "url": "https://flash.jin10.com/detail/20261001014511947800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：支持伊拉克总理al-Zaidi。 我们离开伊拉克时，伊拉克迎来了一位非常出色的新总理。 最后一批美国军队正在离开伊拉克，结束美国在伊拉克的军事存在。",
+          "url": "https://wallstreetcn.com/livenews/3173093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.8 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 71,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 发布的 GPT-6.1 SOL？",
+          "url": "https://www.zhihu.com/question/2088438691786246011",
+          "source": "知乎",
+          "ranks": [
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍",
+          "url": "https://wallstreetcn.com/articles/3782764",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "如何评价 OpenAI 推出个人 AI 助理 Dot，可全天候自主执行任务并连接 4000 多款应用？",
+          "url": "https://www.zhihu.com/question/2088542369264005449",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "OpenAI：已识别并瓦解一场旨在窃取我们模型受保护推理能力的协同攻击活动。 运营人员并未破解我们的加密系统，未入侵数据库，也未直接获取存储的用户对话记录。 操纵风险并非OpenAI模型独有的漏洞，我们已通过前沿模型论坛与行业合作伙伴共享相关信息。 本次协同行动最早被观测到的活动发生于7月第一周。 进一步调查发现，超过1.5万名用户组成的群组中存在关联的提示词模式攻击活动，我们已于7月28日彻底清除了该活动。",
+          "url": "https://wallstreetcn.com/livenews/3173090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 8.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
+          "url": "https://www.cls.cn/detail/2496566",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "DeepSeek开源昇腾适配组件",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%98%87%E8%85%BE%E9%80%82%E9%85%8D%E7%BB%84%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
+          "url": "https://wallstreetcn.com/articles/3782814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 69,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
+          "url": "https://wallstreetcn.com/articles/3782726",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "PCE低于预期，加息预期降温，美股高开，2年期美债收益率下行，布油涨超2%，黄金涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3782819",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 63,
         "chart": []
       },
       "titles": [
@@ -275,11 +412,46 @@
           "url": "https://news.ifeng.com/c/8wqTlvagUOQ",
           "source": "凤凰网",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "阿富汗与伊朗边境口岸发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3173092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 68,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
         }
       ]
     }
