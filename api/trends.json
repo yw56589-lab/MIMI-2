@@ -1,106 +1,16 @@
 {
-  "generated_at": "2026-09-30T08:55:29.294362+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-30T14:11:52.503879+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 10.9 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI Codex支持原生调用GLM-5.3 Flash与Kimi K3等模型",
-          "url": "https://wallstreetcn.com/livenews/3172541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "OpenAI发布AI助手“Dot”：可自主干活，全天候待命",
-          "url": "https://www.cls.cn/detail/2495744",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍",
-          "url": "https://wallstreetcn.com/articles/3782764",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "怎么看 OpenAI 正式官宣 200 美元订阅用量减半？",
-          "url": "https://www.zhihu.com/question/2088290387425224090",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "如何评价 OpenAI 发布的 GPT-6.1 Sol？",
-          "url": "https://www.zhihu.com/question/2088438061877178615",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "如何评价 OpenAI 在 9 月 30 日召开的 DevDay 2026 中发布的内容？",
-          "url": "https://www.zhihu.com/question/2088428064954901581",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "ChatGPT 智能体平台",
-          "url": "https://www.baidu.com/s?wd=ChatGPT+%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B3%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -109,22 +19,44 @@
           "url": "https://www.toutiao.com/trending/7690091446392651839/",
           "source": "今日头条",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
         },
         {
           "title": "特朗普将把“人工智能”更名为“超级智能” 美国消费者信心跌至十二年以来最低 | 环球市场",
           "url": "https://www.cls.cn/detail/2495770",
           "source": "财联社热门",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
+        },
+        {
+          "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
+          "url": "https://wallstreetcn.com/articles/3782769",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "特朗普白宫宴请AI领袖：签署AI协议 提出“自我监管”应对风险",
+          "url": "https://www.cls.cn/detail/2495801",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "特朗普会见多家科技企业负责人，签署人工智能相关文件",
@@ -135,40 +67,97 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
         },
         {
-          "title": "特朗普白宫宴请AI领袖：签署AI协议 提出“自我监管”应对风险",
-          "url": "https://www.cls.cn/detail/2495801",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "特朗普政府推出人工智能驱动的政府网站",
-          "url": "https://wallstreetcn.com/livenews/3172515",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫紧急磋商柴油禁令并通报盟友：油企反对、共和党催促，特朗普仍未拍板",
+          "url": "https://flash.jin10.com/detail/20260930131427864800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 10.4 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍",
+          "url": "https://wallstreetcn.com/articles/3782764",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "OpenAI发布AI助手“Dot”：可自主干活，全天候待命",
+          "url": "https://www.cls.cn/detail/2495744",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "OpenAI：正调查ChatGPT Pro和Plus用户错误率上升问题。",
+          "url": "https://wallstreetcn.com/livenews/3172665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "怎么看 OpenAI 正式官宣 200 美元订阅用量减半？",
+          "url": "https://www.zhihu.com/question/2088290387425224090",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "速通OpenAI开发者大会",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9AOpenAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 6.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -177,44 +166,68 @@
           "url": "https://wallstreetcn.com/articles/3782726",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
         },
         {
           "title": "美股收盘：加息预期降温 美债收益率依旧走高 三大指数小幅收跌",
           "url": "https://www.cls.cn/detail/2495761",
           "source": "财联社热门",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
         },
         {
-          "title": "美债收益率高位回落 美股期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2495520",
+          "title": "创2002年以来最高！30年期美债收益率冲破5.6%",
+          "url": "https://www.cls.cn/detail/2495830",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek Harness 桌面版正式发布？",
+          "url": "https://www.zhihu.com/question/2088368253169034470",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
-          "title": "美债收益率持续走高，机构资产配置寻找更多支点",
-          "url": "https://wallstreetcn.com/livenews/3172514",
+          "title": "DeepSeek 开源昇腾基础组件",
+          "url": "https://wallstreetcn.com/livenews/3172655",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
         }
       ]
     },
@@ -222,10 +235,10 @@
       "keyword_group": "美股",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 3.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 71,
         "chart": []
       },
       "titles": [
@@ -238,77 +251,42 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
         },
         {
-          "title": "美股期货走高，纳斯达克100指数期货上涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3172537",
-          "source": "华尔街见闻-快讯",
+          "title": "今日重点关注的财经数据与事件：2026月9月30日 周三<br/>① 14:00 英国第二季度GDP年率终值<br/>② 14:00 英国第二季度经常帐<br/>③ 14:45 法国9月CPI月率初值<br/>④ 15:55 德国9月季调后失业人数<br/>⑤ 15:55 德国9月季调后失业率<br/>⑥ 16:00 瑞士9月ZEW投资者信心指数<br/>⑦ 20:00 德国9月CPI月率初值<br/>⑧ 20:15 美国9月ADP就业人数<br/>⑨ 20:30 美国8月核心PCE物价指数年率<br/>⑩ 20:30 美国8月个人支出月率<br/>⑪ 20:30 美国第二季度实际GDP年化季率终值<br/>⑫ 20:30 美国第二季度实际个人消费支出季率终值<br/>⑬ 20:30 美国第二季度核心PCE物价指数年化季率终值<br/>⑭ 20:30 美国8月核心PCE物价指数月率<br/>⑮ 21:45 美国9月芝加哥PMI<br/>⑯ 22:30 美国至9月25日当周EIA原油库存<br/>⑰ 22:30 美国至9月25日当周EIA库欣原油库存<br/>⑱ 22:30 美国至9月25日当周EIA战略石油储备库存<br/>⑲ 次日01:30 美联储巴尔金为活动致辞<br/>⑳ 次日03:25 美联储理事库克发表讲话<br/>㉑ 次日04:00 美光在美股盘后公布财报<br/>㉒ 次日05:10 美联储古尔斯比发表讲话",
+          "url": "https://flash.jin10.com/detail/20260930134000000800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 73,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "“为何美国有那么多穷人”？伊朗革命卫队致信美国人民",
-          "url": "https://news.ifeng.com/c/8wp8WPyYgzE",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "伊朗队主教练问王楚钦怎么看伊朗队",
-          "url": "https://www.toutiao.com/trending/7691097918019403812/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 29.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "如何评价 DeepSeek Harness 桌面版正式发布？",
-          "url": "https://www.zhihu.com/question/2088368253169034470",
-          "source": "知乎",
+          "title": "伊朗革命卫队称波斯湾已无美军舰船",
+          "url": "https://www.toutiao.com/trending/7690005625744425010/",
+          "source": "今日头条",
           "ranks": [
-            6
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时11分"
         }
       ]
     }
