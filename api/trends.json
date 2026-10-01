@@ -1,18 +1,161 @@
 {
-  "generated_at": "2026-10-02T00:01:54.461904+08:00",
-  "total_titles_processed": 311,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-10-02T04:42:48.341855+08:00",
+  "total_titles_processed": 312,
+  "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
+      "keyword_group": "美股",
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 5 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
+          "url": "https://wallstreetcn.com/articles/3782859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "周四（10月1日），美股行业ETF多数收涨，能源业ETF涨1.95%，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨1.45%，全球航空业ETF跌0.46%，医疗业ETF跌1.32%，生物科技指数ETF跌2.17%。",
+          "url": "https://wallstreetcn.com/livenews/3173501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "布油基金收涨超4.7%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3173500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "耐克第一财季营收112.1亿美元，分析师预期113.3亿美元。 第一财季总体耐克品牌营收109.5亿美元，分析师预期110.9亿美元。 第一财季每股收益（EPS）为0.48美元，上年同期0.49美元。 第一财季库存78亿美元，分析师预期79.6亿美元。 第一财季大中华区EBIT为2.48亿美元，分析师预期3.122亿美元。 预计营收将在2027财年实现高个位数百分比增幅。 耐克（NKE）美股盘后跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3173495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
+          "url": "https://www.cls.cn/detail/2496732",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "金十图示：2026年10月01日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261002040554306800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "周四（10月1日），彭博电动汽车价格回报指数跌0.42%，报3135.86点，全天处于下跌状态、收于“日高”附近，美股盘初显著扩大跌幅，北京时间23:10跌至3115.76点刷新日低，01:15前后短线显著收复失地。",
+          "url": "https://wallstreetcn.com/livenews/3173490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "金十图示：2026年10月01日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261002040516956800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美股三大股指跳水 美光科技跌近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E8%B7%B3%E6%B0%B4+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 埃森哲涨近16%",
+          "url": "https://flash.jin10.com/detail/20261002040136704800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "周四（10月1日）纽约尾盘，美元兑日元涨0.40%，报158.03日元，日内交投区间为157.24-158.45日元，美股盘初曾快速转跌。 欧元兑日元跌0.41%，英镑兑日元的0.13%，日元兑离岸人民币跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3173472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "ai_insight": {
+        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -24,8 +167,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：油价将会回落。",
+          "url": "https://flash.jin10.com/detail/20261002041852137800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "特朗普计划邀请普京出席G20峰会，波兰外长批评",
@@ -35,8 +189,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：可能要求欧洲国家释放柴油库存。",
+          "url": "https://flash.jin10.com/detail/20261002041746600800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普被问及柴油价格时表示，油价将会回落。 或将要求欧洲释放柴油储备。",
+          "url": "https://wallstreetcn.com/livenews/3173499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普被问及伊朗是否涉入英国基地事件时表示，看起来是这样。 伊朗的局面很快就会尘埃落定，无论以何种方式。",
+          "url": "https://wallstreetcn.com/livenews/3173498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "特朗普：如果鲍威尔不辞职，美国政府就应该以起诉他",
@@ -46,8 +233,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
@@ -57,87 +244,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
-        },
-        {
-          "title": "特朗普称美国几乎完全控制霍尔木兹海峡 | 环球市场",
-          "url": "https://www.cls.cn/detail/2496752",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.5 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 65,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗代表团称离开纽约系既定行程，已提前告知美方",
-          "url": "https://news.ifeng.com/c/8ws6VuNY2RT",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "time_info": "04时42分"
         },
         {
-          "title": "谈判陷入僵局 鲁比奥要求伊朗代表团立即离美",
-          "url": "https://www.cls.cn/detail/2496818",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "伊朗召见英国大使，抗议英方“无根据”指控",
-          "url": "https://wallstreetcn.com/livenews/3173413",
+          "title": "美国贸易代表格里尔：特朗普政府认为，无条件最惠国关税原则应当进行改革。",
+          "url": "https://wallstreetcn.com/livenews/3173470",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "美媒：鲁比奥要求伊朗代表团立即离美",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34185339",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 68,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -146,11 +276,22 @@
           "url": "https://wallstreetcn.com/articles/3782819",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "30 年期美债收益率冲破 5.6%，到底会带来哪些影响，会如何影响中国资产定价，全球范围内又如何？",
+          "url": "https://www.zhihu.com/question/2088560263545078106",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
@@ -160,27 +301,95 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
-          "title": "受ISM数据影响，美债下跌，30年期国债领跌。",
-          "url": "https://wallstreetcn.com/livenews/3173387",
+          "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
+          "url": "https://wallstreetcn.com/articles/3782875",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美债收益率直冲24年高位 新交易月伊始美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2497008",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "周四（10月1日）纽约尾盘，美国10年期国债收益率跌4.21个基点，报5.2407%。 两年期美债收益率跌10.82个基点，报4.7810%；30年期美债收益率跌1.72个基点，报5.6114%。 10年期通胀保值国债（TIPS）收益率跌3.39个基点，至2.8799%；两年期TIPS收益率跌13.92个基点，至2.2079%。",
+          "url": "https://wallstreetcn.com/livenews/3173481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "04时42分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "伊朗",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.3 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 5.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 74,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "谈判陷入僵局 鲁比奥要求伊朗代表团立即离美",
+          "url": "https://www.cls.cn/detail/2496818",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "伊朗代表团称离开纽约系既定行程，已提前告知美方",
+          "url": "https://news.ifeng.com/c/8ws6VuNY2RT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美媒：鲁比奥要求伊朗代表团立即离美",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34185339",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 73,
@@ -188,37 +397,26 @@
       },
       "titles": [
         {
-          "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
-          "url": "https://wallstreetcn.com/articles/3782859",
-          "source": "华尔街见闻",
+          "title": "谷歌因广告技术垄断面临逾32亿美元损害赔偿请求",
+          "url": "https://wallstreetcn.com/livenews/3173497",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
+          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
+          "url": "https://wallstreetcn.com/articles/3782853",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "04时42分"
         }
       ]
     },
@@ -242,31 +440,55 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "04时42分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
-          "url": "https://wallstreetcn.com/articles/3782853",
-          "source": "华尔街见闻",
+          "title": "新思科技（SNPS）收涨13%，创8月27日以来收盘新高，该公司携手OpenAI开发芯片设计AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3173485",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 29.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "周四（10月1日）纽约尾盘，ICE美元指数涨0.61%，报102.070点，日内交投区间为101.459-102.207点，整体持续走高，逼近2025年3月顶部104.683点、当年1月13日最高位110.176点。 彭博美元指数涨0.43%，报1224.81点，日内交投区间为1219.23-1226.89点。",
+          "url": "https://wallstreetcn.com/livenews/3173471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         }
       ]
     }
