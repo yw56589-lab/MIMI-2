@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-10-02T08:22:52.280639+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-02T14:29:17.505365+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 84,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普催账，韩国先掏2000亿美元",
-          "url": "https://news.ifeng.com/c/8wsMzIb2Ot9",
+          "title": "马斯克重返特朗普政府，参与未来战争研究",
+          "url": "https://original.ifeng.com/c/8wtHCbJFK5R",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时29分"
         },
         {
-          "title": "特朗普计划邀请普京出席G20峰会，波兰外长批评",
-          "url": "https://news.ifeng.com/c/8ws8CkGQnAO",
+          "title": "绑架马杜罗前，特朗普特地问了AI数小时",
+          "url": "https://news.ifeng.com/c/8wtBVDhtxOv",
           "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时29分"
         },
         {
-          "title": "特朗普：如果鲍威尔不辞职，美国政府就应该以起诉他",
-          "url": "https://news.ifeng.com/c/8wsCYJXj4Sx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "美国总统特朗普：我快到了，俄克拉荷马，还有10分钟就到了。",
-          "url": "https://flash.jin10.com/detail/20261002080329063800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "特朗普的“AI自我监管”意味着什么？老黄“大获全胜”，幕后带头质问Anthropic Amodei",
-          "url": "https://wallstreetcn.com/articles/3782862",
+          "title": "特朗普对伊朗下通牒：不签协议就“不复存在”，美向中东派第三艘航母、增兵或万人",
+          "url": "https://wallstreetcn.com/articles/3782903",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时29分"
         },
         {
-          "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34185315",
-          "source": "澎湃新闻",
+          "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
+          "url": "https://www.cls.cn/detail/2497157",
+          "source": "财联社热门",
           "ranks": [
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时29分"
+        },
+        {
+          "title": "诺贝尔和平奖揭晓倒计时一周，特朗普再获提名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34186526",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "特朗普谈及伊朗时表示，伊朗不会拥有核武器；也许我们会达成协议，也许不会。",
+          "url": "https://wallstreetcn.com/livenews/3173580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
@@ -86,10 +86,10 @@
       "keyword_group": "美债",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 5.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -102,62 +102,156 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时29分"
         },
         {
           "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
           "url": "https://wallstreetcn.com/articles/3782880",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "澳洲联储临近加息尾声 澳美债差或转负",
-          "url": "https://flash.jin10.com/detail/20261002080633648800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时29分"
         },
         {
           "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
           "url": "https://wallstreetcn.com/articles/3782875",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时29分"
         },
         {
-          "title": "高盛交易台主管：“油价下跌但美债收益率依旧涨”，那情况就复杂了",
-          "url": "https://wallstreetcn.com/articles/3782842",
+          "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
+          "url": "https://wallstreetcn.com/articles/3782907",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时29分"
+        },
+        {
+          "title": "美债收益率直冲24年高位 新交易月伊始美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2497008",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 6.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 73,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
+          "url": "https://www.cls.cn/detail/2497140",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
+          "url": "https://www.cls.cn/detail/2496732",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
+          "url": "https://www.cls.cn/detail/2497130",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
+          "url": "https://www.cls.cn/detail/2496950",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "国际金价银价上涨",
+          "url": "https://www.toutiao.com/trending/7691230087659831359/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 7.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
@@ -166,160 +260,11 @@
           "url": "https://www.cls.cn/detail/2496818",
           "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "伊朗代表团称离开纽约系既定行程，已提前告知美方",
-          "url": "https://news.ifeng.com/c/8ws6VuNY2RT",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "伊朗总统：伊朗不会回避与美国对话",
-          "url": "https://wallstreetcn.com/livenews/3173563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "美媒：鲁比奥要求伊朗代表团立即离美",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34185339",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "伊朗总统：伊朗不会回避与美国对话",
-          "url": "https://flash.jin10.com/detail/20261002075458936800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 12.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
-          "url": "https://www.cls.cn/detail/2497140",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "耐克美股盘后跌幅扩大至8.4%。",
-          "url": "https://wallstreetcn.com/livenews/3173537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
-          "url": "https://www.cls.cn/detail/2496566",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 71,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
-          "url": "https://wallstreetcn.com/articles/3782853",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "14时29分"
         }
       ]
     }
