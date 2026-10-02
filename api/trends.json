@@ -1,51 +1,84 @@
 {
-  "generated_at": "2026-10-02T14:29:17.505365+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-02T21:23:35.823192+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 11.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 5 个来源平台，平均热榜排名约 10.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 84,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "马斯克重返特朗普政府，参与未来战争研究",
-          "url": "https://original.ifeng.com/c/8wtHCbJFK5R",
+          "title": "死刑犯处决失败，特朗普费解：这不应该很难啊",
+          "url": "https://news.ifeng.com/c/8wtcuZMSCGf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "普京谈与特朗普关系",
+          "url": "https://news.ifeng.com/c/8wtpA6QFKHj",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
         },
         {
-          "title": "绑架马杜罗前，特朗普特地问了AI数小时",
-          "url": "https://news.ifeng.com/c/8wtBVDhtxOv",
-          "source": "凤凰网",
+          "title": "美国总统特朗普与法国总统马克龙昨晚就能源形势进行了讨论。（NBC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3173680",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
+        },
+        {
+          "title": "美国总统特朗普：与韩国的协议越来越好。 为强化采油项目拨款84亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3173678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "特朗普对伊朗下通牒：不签协议就“不复存在”，美向中东派第三艘航母、增兵或万人",
           "url": "https://wallstreetcn.com/articles/3782903",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
+        },
+        {
+          "title": "特朗普提议人工智能改称SI，斯洛文尼亚域名注册量暴涨",
+          "url": "https://news.ifeng.com/c/8wtPqcA1csW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
@@ -56,108 +89,73 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
         },
         {
-          "title": "诺贝尔和平奖揭晓倒计时一周，特朗普再获提名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34186526",
-          "source": "澎湃新闻",
+          "title": "特朗普很不爽：我提名的大法官，怎么老反对我",
+          "url": "https://news.ifeng.com/c/8wteAEPWoAT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "康奈尔大学“性侵案”重启刑事调查，特朗普：这是所好学校",
+          "url": "https://news.ifeng.com/c/8wtJd969xpi",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
         },
         {
-          "title": "特朗普谈及伊朗时表示，伊朗不会拥有核武器；也许我们会达成协议，也许不会。",
-          "url": "https://wallstreetcn.com/livenews/3173580",
+          "title": "据NBC新闻：美国总统特朗普与法国总统马克龙昨晚就能源形势进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20261002204814907800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "美国贸易代表：莫迪与特朗普通话后，美印贸易协议仍非“迫在眉睫”",
+          "url": "https://wallstreetcn.com/livenews/3173684",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 6.6 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
-          "url": "https://wallstreetcn.com/articles/3782859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
         },
         {
-          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
-          "url": "https://wallstreetcn.com/articles/3782880",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：我非常高兴地宣布，与韩国的协议正变得越来越好！84亿美元用于一个强化采油项目。生产更多石油和天然气意味着美国未来的能源主导地位和全球能源安全！",
+          "url": "https://flash.jin10.com/detail/20261002203956739800",
+          "source": "金十数据",
           "ranks": [
-            3
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
-          "url": "https://wallstreetcn.com/articles/3782875",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
-          "url": "https://wallstreetcn.com/articles/3782907",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "美债收益率直冲24年高位 新交易月伊始美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2497008",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 6.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -170,88 +168,108 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
         },
         {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3173683",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
+        },
+        {
+          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2497348",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "美国非农数据公布后，美股股指期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3173675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
           "url": "https://www.cls.cn/detail/2497130",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
-          "url": "https://www.cls.cn/detail/2496950",
-          "source": "财联社热门",
-          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
+        },
+        {
+          "title": "希捷科技美股盘前跌超7%，西部数据跌8%。有报道称东芝计划投入约600亿日元扩建菲律宾HDD工厂，力争在2027财年前将面向AI数据中心的硬盘产能翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3173660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 3.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 69,
         "chart": []
       },
       "titles": [
         {
-          "title": "国际金价银价上涨",
-          "url": "https://www.toutiao.com/trending/7691230087659831359/",
-          "source": "今日头条",
+          "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
+          "url": "https://wallstreetcn.com/articles/3782859",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
+        },
+        {
+          "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
+          "url": "https://wallstreetcn.com/articles/3782907",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -264,7 +282,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "21时23分"
+        },
+        {
+          "title": "报道：伊朗冲突扰乱扩产计划，OPEC+推迟石油产能评估",
+          "url": "https://wallstreetcn.com/livenews/3173661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     }
