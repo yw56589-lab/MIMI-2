@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-03T06:43:15.267648+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-10-03T09:35:41.044403+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 18 条热点，覆盖 5 个来源平台，平均热榜排名约 17.7 位，标题平均出现 1.3 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 11.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 60,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -19,44 +19,66 @@
           "url": "https://news.ifeng.com/c/8wtpA6QFKHj",
           "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
-          "title": "特朗普称韩国若退出阿拉斯加LNG投资 将面临更高成本",
-          "url": "https://flash.jin10.com/detail/20261003052408929800",
-          "source": "金十数据",
+          "title": "美国不禁运柴油了，特朗普：小小G7，轻松拿捏",
+          "url": "https://news.ifeng.com/c/8wui8KprllQ",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "09时35分"
+        },
+        {
+          "title": "美国总统特朗普表示，将很快用委内瑞拉石油填满战略石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3173840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "特朗普：与伊朗的战事将“很快结束”",
+          "url": "https://wallstreetcn.com/livenews/3173839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "特朗普：与伊朗的战事将“很快结束”",
+          "url": "https://www.toutiao.com/trending/7692226568457817642/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
           "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
           "url": "https://www.cls.cn/detail/2497157",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
-        },
-        {
-          "title": "特朗普很不爽：我提名的大法官，怎么老反对我",
-          "url": "https://news.ifeng.com/c/8wteAEPWoAT",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
           "title": "康奈尔大学“性侵案”重启刑事调查，特朗普：这是所好学校",
@@ -66,162 +88,52 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
-          "title": "特朗普执政困局与美中期选举博弈",
-          "url": "https://www.toutiao.com/trending/7692063644539948586/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：我们将很快填充我们的战略石油储备。",
+          "url": "https://flash.jin10.com/detail/20261003081903255800",
+          "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
-          "title": "普京：与特朗普保持着相当良好的关系",
-          "url": "https://www.toutiao.com/trending/7691901923675045926/",
-          "source": "今日头条",
+          "title": "特朗普称韩国若退出阿拉斯加LNG投资 将面临更高成本",
+          "url": "https://flash.jin10.com/detail/20261003052408929800",
+          "source": "金十数据",
           "ranks": [
-            29
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
-        },
-        {
-          "title": "特朗普：不会实施柴油出口禁令 欧洲将增加柴油供应",
-          "url": "https://flash.jin10.com/detail/20261003051221230800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "金十提示：美国总统特朗普结束在白宫的讲话。",
-          "url": "https://flash.jin10.com/detail/20261003040539767800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：（关于柴油）欧洲做出了重大贡献，我们也是如此。",
-          "url": "https://flash.jin10.com/detail/20261003040409893800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：柴油出口禁令从未真正提上日程。",
-          "url": "https://flash.jin10.com/detail/20261003040251739800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "09时35分"
         },
         {
           "title": "特朗普威胁韩国要求其投资阿拉斯加LNG管道项目",
           "url": "https://wallstreetcn.com/livenews/3173809",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "特朗普：不会实施柴油出口禁令",
-          "url": "https://wallstreetcn.com/livenews/3173808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：（关于柴油）我们与欧洲的关系非常好。",
-          "url": "https://flash.jin10.com/detail/20261003040030666800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗形势不容乐观。",
-          "url": "https://wallstreetcn.com/livenews/3173807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：（关于柴油）我们不会实施出口禁令。",
-          "url": "https://flash.jin10.com/detail/20261003040008188800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：（关于韩国在美国的投资）我没有在阿拉斯加管道项目上急于行动。",
-          "url": "https://flash.jin10.com/detail/20261003035957853800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的情况不太好。<br/>",
-          "url": "https://flash.jin10.com/detail/20261003035940549800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "09时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 12.9 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 12.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 65,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -233,107 +145,74 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
           "title": "马克龙呼吁G7协调联合抛储，油价应声跳水，欧美股市集体上涨，10年德债收益率跌至三周低位",
           "url": "https://wallstreetcn.com/articles/3782926",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
-        },
-        {
-          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2497348",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
           "title": "“表面平静”的美股：指数距离新高“一步之遥”，但几乎所有板块都遭重创",
           "url": "https://wallstreetcn.com/articles/3782909",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
-          "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
-          "url": "https://www.cls.cn/detail/2497130",
+          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2497348",
           "source": "财联社热门",
           "ranks": [
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
-          "title": "金十图示：2026年10月02日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20261003044836324800",
-          "source": "金十数据",
+          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
+          "url": "https://www.cls.cn/detail/2497450",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "金十图示：2026年10月02日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20261003044820885800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "09时35分"
         },
         {
           "title": "周五（10月2日），美股行业ETF普遍上涨，半导体ETF收涨2.07%，全球科技股指数ETF、区域银行ETF、可选消费ETF、银行业ETF、科技行业ETF至多涨1.42%，网络股指数ETF涨0.84%，能源业ETF涨0.19%，医疗业ETF、生物科技指数ETF则至多收跌0.33%。",
           "url": "https://wallstreetcn.com/livenews/3173814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "09时35分"
         },
         {
           "title": "新兴市场ETF收涨将近1.3%，与纳指ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3173813",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 SpaceX涨超7%",
-          "url": "https://flash.jin10.com/detail/20261003040220422800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "09时35分"
         }
       ]
     },
@@ -341,10 +220,10 @@
       "keyword_group": "美债",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 4.2 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 62,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
@@ -356,41 +235,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
-        },
-        {
-          "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
-          "url": "https://wallstreetcn.com/articles/3782859",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
           "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
           "url": "https://wallstreetcn.com/articles/3782907",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
+          "url": "https://wallstreetcn.com/articles/3782953",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
           "title": "两年期美债收益率于非农日涨超3个基点，10年期美债收益率本周涨11个基点",
           "url": "https://wallstreetcn.com/livenews/3173827",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "09时35分"
         }
       ]
     },
@@ -398,10 +277,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 57,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -410,22 +289,22 @@
           "url": "https://wallstreetcn.com/livenews/3173834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "09时35分"
         },
         {
           "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
           "url": "https://www.cls.cn/detail/2496950",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         }
       ]
     },
@@ -433,10 +312,10 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 57,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -445,35 +324,11 @@
           "url": "https://wallstreetcn.com/livenews/3173821",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 61,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美元指数2日下跌",
-          "url": "https://flash.jin10.com/detail/20261003044652204800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "09时35分"
         }
       ]
     },
@@ -481,7 +336,7 @@
       "keyword_group": "伊朗",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 67,
@@ -496,8 +351,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         }
       ]
     }
