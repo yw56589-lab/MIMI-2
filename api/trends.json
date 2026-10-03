@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-04T00:54:30.154807+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-04T03:37:55.489439+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 7 个来源平台，平均热榜排名约 9.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 7 个来源平台，平均热榜排名约 6.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 84,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -19,11 +19,22 @@
           "url": "https://www.douyin.com/hot/2679539",
           "source": "抖音",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "特朗普：刚才一桌非常有名望的人士告诉我，他们特别讨厌在强制时间调整后晚上回家，因为那时天黑得伸手不见五指。真是令人沮丧！其中一位先生说：“我就是讨厌摸黑回家。”在犯罪猖獗的民主党执政州，晚上走回家更是危险重重！",
+          "url": "https://flash.jin10.com/detail/20261004023301172800",
+          "source": "金十数据",
+          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普核心内阁闭门会：一些事已作出决定",
@@ -34,29 +45,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普：与伊朗的战事将“很快结束”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34194095",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "特朗普发帖：共和党必须赢得中期选举",
-          "url": "https://wallstreetcn.com/livenews/3173895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "向中方释放某种信号？特朗普计划出席东盟峰会",
@@ -67,7 +67,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "日本央行加息、特朗普警告都没用？对冲基金重新做空日元",
@@ -78,7 +78,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
@@ -89,7 +89,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普威胁韩国：不签字，就加倍收费",
@@ -100,40 +100,119 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
-          "title": "特朗普：不要再一年改两次时间，让参议院现在就投票！",
-          "url": "https://flash.jin10.com/detail/20261003223510398800",
+          "title": "特朗普发帖：共和党必须赢得中期选举",
+          "url": "https://wallstreetcn.com/livenews/3173895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "特朗普最新表态：与伊朗的战事将“很快结束”！此前类似说法已多达几十次",
+          "url": "https://wallstreetcn.com/articles/3782955",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "ai_insight": {
+        "analysis": "该板块当前收录 7 条热点，覆盖 2 个来源平台，平均热榜排名约 9.4 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗格什姆岛防空系统两次启动",
+          "url": "https://flash.jin10.com/detail/20261004022132202800",
           "source": "金十数据",
           "ranks": [
-            15
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
-          "title": "解读｜选前暂停领事服务，特朗普政府能否影响巴西大选？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34194388",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美国总统特朗普：如果共和党在2026年中期选举中赢得众议院和参议院，我将给美国所有成年公民每人5000美元。期待签署那些支票！",
-          "url": "https://flash.jin10.com/detail/20261003205717440800",
+          "title": "伊朗里亚尔续创新低，据称央行已出手干预汇市",
+          "url": "https://flash.jin10.com/detail/20261004021229354800",
           "source": "金十数据",
           "ranks": [
-            26
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
+        },
+        {
+          "title": "据伊朗媒体，伊朗格什姆岛附近传出爆炸声。",
+          "url": "https://wallstreetcn.com/livenews/3173898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：伊朗空中防御系统在南部的格什姆岛击落了一架敌方无人机。",
+          "url": "https://flash.jin10.com/detail/20261004013843665800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "据伊拉克国家通讯社：伊朗与伊拉克纳杰夫之间的航班将于周日恢复运营。",
+          "url": "https://flash.jin10.com/detail/20261004012613808800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国财长贝森特：本周伊朗海上在途石油将归零。",
+          "url": "https://wallstreetcn.com/livenews/3173890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "伊朗央行副行长：以现金形式进行的外汇干预是央行为抑制市场美元价格上涨的措施之一。",
+          "url": "https://flash.jin10.com/detail/20261004005238772800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         }
       ]
     },
@@ -157,7 +236,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "美股要“通宵”了！12月起迈入23小时交易时代",
@@ -168,7 +247,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
@@ -179,7 +258,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
@@ -190,7 +269,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
@@ -201,99 +280,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 12.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "据伊朗媒体，伊朗格什姆岛附近传出爆炸声。",
-          "url": "https://wallstreetcn.com/livenews/3173898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美国财长贝森特：本周伊朗海上在途石油将归零。",
-          "url": "https://wallstreetcn.com/livenews/3173890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "据悉伊朗正在审议通过卡塔尔转交的美国新提案",
-          "url": "https://flash.jin10.com/detail/20261003225844455800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "伊朗格什姆岛附近海域听到爆炸声",
-          "url": "https://flash.jin10.com/detail/20261003214632309800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 77,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "如何评价 Gemini 新的付费方案？",
-          "url": "https://www.zhihu.com/question/2089644266393952732",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "如何评价 Gemini Flash 和 Pro 模型将于 2026 年 10 月 9 日转入付费模式？",
-          "url": "https://www.zhihu.com/question/2089670263927464668",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         }
       ]
     },
@@ -301,10 +288,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 10.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -313,57 +300,22 @@
           "url": "https://wallstreetcn.com/livenews/3173900",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "据Business Insider，OpenAI安全系统团队负责人大卫·罗宾逊（David Robinson）已辞职。",
           "url": "https://wallstreetcn.com/livenews/3173886",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价银价“巨震”",
-          "url": "https://www.toutiao.com/trending/7692308569861570614/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "金价银价“巨震”",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E2%80%9C%E5%B7%A8%E9%9C%87%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         }
       ]
     },
@@ -387,7 +339,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
         },
         {
           "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
@@ -398,7 +350,79 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "03时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？",
+          "url": "https://www.zhihu.com/question/2089740005770008568",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何评价 Gemini 新的付费方案？",
+          "url": "https://www.zhihu.com/question/2089644266393952732",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "金价银价“巨震”",
+          "url": "https://www.toutiao.com/trending/7692308569861570614/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         }
       ]
     }
