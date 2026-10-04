@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-04T22:42:28.246745+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-05T02:29:50.395897+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 3 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗军方称将提升导弹射程",
-          "url": "https://wallstreetcn.com/livenews/3173972",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊通社（IRNA）：伊朗格什姆岛附近海域传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20261005015129767800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
           "title": "伊朗外长：继续对伊非法战争没出路",
@@ -34,18 +34,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
-          "title": "伊朗表示愿推动也门胡塞武装与沙特对话",
-          "url": "https://wallstreetcn.com/livenews/3173970",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗石油部长帕克内贾德辞职",
+          "url": "https://flash.jin10.com/detail/20261005010648997800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
+        },
+        {
+          "title": "伊朗军方称将提升导弹射程",
+          "url": "https://wallstreetcn.com/livenews/3173972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "外交官遭美“驱逐”，伊朗回应",
@@ -56,95 +67,62 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
-          "title": "伊朗军方称将提升导弹射程",
-          "url": "https://flash.jin10.com/detail/20261004220400578800",
-          "source": "金十数据",
+          "title": "伊朗表示愿推动也门胡塞武装与沙特对话",
+          "url": "https://wallstreetcn.com/livenews/3173970",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
           "title": "伊拉克纳杰夫与伊朗间航班复航",
           "url": "https://wallstreetcn.com/livenews/3173965",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "伊朗表示愿推动也门胡塞武装与沙特对话",
-          "url": "https://flash.jin10.com/detail/20261004212840841800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "伊拉克纳杰夫与伊朗间航班复航",
-          "url": "https://flash.jin10.com/detail/20261004210440109800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "明查｜用Xbox手柄就能控制激光武器摧毁伊朗基础设施？误导信息，还做不到",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34195629",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
           "title": "伊朗回应美方提议：现阶段重点是霍尔木兹海峡问题",
           "url": "https://wallstreetcn.com/livenews/3173948",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
           "title": "外媒爆美国“驱逐”伊朗外交官员，伊朗最新回应",
           "url": "https://wallstreetcn.com/livenews/3173947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 6 个来源平台，平均热榜排名约 12.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 86,
         "chart": []
       },
       "titles": [
@@ -157,7 +135,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
           "title": "选情不容乐观！特朗普又承诺发钱",
@@ -168,40 +146,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
           "title": "特朗普提名约翰·科尔为美总统人质事务特使",
           "url": "https://wallstreetcn.com/livenews/3173968",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "特朗普：民调一直低估MAGA",
-          "url": "https://flash.jin10.com/detail/20261004221354878800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "特朗普宣布成立“超级智能特别工作组”",
-          "url": "https://wallstreetcn.com/livenews/3173963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
           "title": "白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住",
@@ -212,7 +168,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
+        },
+        {
+          "title": "特朗普宣布成立“超级智能特别工作组”",
+          "url": "https://wallstreetcn.com/livenews/3173963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "特朗普谈对伊朗下一步行动",
@@ -223,29 +190,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
-          "title": "美国总统特朗普：很高兴宣布，出色的律师约翰·科尔（John Coale），也是我极为成功的白俄罗斯事务特使，将成为我提名的新任“总统人质事务特使”，并拥有大使级别。",
-          "url": "https://flash.jin10.com/detail/20261004202632827800",
-          "source": "金十数据",
+          "title": "“特朗普因素”如何介入巴西大选",
+          "url": "https://www.toutiao.com/trending/7692796638749789750/",
+          "source": "今日头条",
           "ranks": [
-            18
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
-          "title": "特朗普宣布成立超级智能工作组",
-          "url": "https://flash.jin10.com/detail/20261004202518425800",
+          "title": "特朗普：民调一直低估MAGA",
+          "url": "https://flash.jin10.com/detail/20261004221354878800",
           "source": "金十数据",
           "ranks": [
-            19
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         }
       ]
     },
@@ -253,10 +220,10 @@
       "keyword_group": "美债",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -265,11 +232,11 @@
           "url": "https://wallstreetcn.com/articles/3782975",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         },
         {
           "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
@@ -280,42 +247,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2497348",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
-          "url": "https://www.cls.cn/detail/2497450",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
         }
       ]
     },
@@ -339,7 +271,31 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "02时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
+          "url": "https://www.cls.cn/detail/2497450",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         }
       ]
     }
