@@ -1,205 +1,150 @@
 {
-  "generated_at": "2026-10-04T17:01:56.902379+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-04T22:42:28.246745+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 11,
       "ai_insight": {
-        "analysis": "该板块当前收录 16 条热点，覆盖 3 个来源平台，平均热榜排名约 15.1 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 11 条热点，覆盖 4 个来源平台，平均热榜排名约 10.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
+        {
+          "title": "伊朗军方称将提升导弹射程",
+          "url": "https://wallstreetcn.com/livenews/3173972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
         {
           "title": "伊朗外长：继续对伊非法战争没出路",
           "url": "https://news.ifeng.com/c/8wwuwhA95n2",
           "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
-          "title": "伊朗外交部发言人：还有一些额外的要点需要与美国沟通。",
-          "url": "https://flash.jin10.com/detail/20261004160758224800",
+          "title": "伊朗表示愿推动也门胡塞武装与沙特对话",
+          "url": "https://wallstreetcn.com/livenews/3173970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "外交官遭美“驱逐”，伊朗回应",
+          "url": "https://news.ifeng.com/c/8wx81ZVuPvU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "伊朗军方称将提升导弹射程",
+          "url": "https://flash.jin10.com/detail/20261004220400578800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
-          "title": "伊朗外交部发言人：国际原子能机构检查员的回归未被讨论。",
-          "url": "https://flash.jin10.com/detail/20261004155926412800",
-          "source": "金十数据",
+          "title": "伊拉克纳杰夫与伊朗间航班复航",
+          "url": "https://wallstreetcn.com/livenews/3173965",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
-          "title": "伊朗称已就美国提案作出回应",
-          "url": "https://flash.jin10.com/detail/20261004155906314800",
+          "title": "伊朗表示愿推动也门胡塞武装与沙特对话",
+          "url": "https://flash.jin10.com/detail/20261004212840841800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
-          "title": "伊朗外长：任何侵略行径将迎来更沉重的回击",
-          "url": "https://wallstreetcn.com/livenews/3173933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "伊朗议长：在条件满足之前，霍尔木兹海峡不会重新开放",
-          "url": "https://wallstreetcn.com/livenews/3173932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "伊朗外长：任何侵略行径将迎来更沉重的回击",
-          "url": "https://flash.jin10.com/detail/20261004151938283800",
+          "title": "伊拉克纳杰夫与伊朗间航班复航",
+          "url": "https://flash.jin10.com/detail/20261004210440109800",
           "source": "金十数据",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
-          "title": "伊朗外长谈美国驱逐伊朗联合国大会代表团",
-          "url": "https://flash.jin10.com/detail/20261004151553372800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "伊朗议长：在条件满足之前 霍尔木兹海峡不会重新开放",
-          "url": "https://flash.jin10.com/detail/20261004151349138800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我们已向敌人发出明确信号，愿通过外交途径寻求公平解决方案。",
-          "url": "https://flash.jin10.com/detail/20261004145305608800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗外长阿拉格齐谈及“7天计划”表示，如果（美方）接受，霍尔木兹海峡将在7天内重开。",
-          "url": "https://flash.jin10.com/detail/20261004145212626800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：伊朗准备达成公平体面的解决方案。伊朗将对袭击事件做出“更强硬的回应。",
-          "url": "https://flash.jin10.com/detail/20261004144904397800",
-          "source": "金十数据",
+          "title": "明查｜用Xbox手柄就能控制激光武器摧毁伊朗基础设施？误导信息，还做不到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34195629",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
-          "title": "伊朗议会议长卡利巴夫周日表示，伊朗议会将加强警察力量，包括为警察配备现代技术和改善人员生活条件，视为绝对优先事项。",
-          "url": "https://flash.jin10.com/detail/20261004142836363800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "伊朗：霍尔木兹海峡在条件满足之前不会重新开放",
-          "url": "https://flash.jin10.com/detail/20261004142140619800",
-          "source": "金十数据",
+          "title": "伊朗回应美方提议：现阶段重点是霍尔木兹海峡问题",
+          "url": "https://wallstreetcn.com/livenews/3173948",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
-          "title": "伊朗新建一座民兵临时训练基地",
-          "url": "https://flash.jin10.com/detail/20261004133108193800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "美媒：美国将伊朗联合国大会代表团两名成员驱逐出境",
-          "url": "https://wallstreetcn.com/livenews/3173912",
+          "title": "外媒爆美国“驱逐”伊朗外交官员，伊朗最新回应",
+          "url": "https://wallstreetcn.com/livenews/3173947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 9,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 9 条热点，覆盖 5 个来源平台，平均热榜排名约 9.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -212,65 +157,144 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
-          "title": "特朗普称伊朗情况不妙，召开“高度不寻常”闭门会议",
-          "url": "https://original.ifeng.com/c/8wwdP3Jf2uE",
+          "title": "选情不容乐观！特朗普又承诺发钱",
+          "url": "https://v.ifeng.com/c/8wwq4d6uMsv",
           "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
-          "title": "泽连斯基怂恿特朗普：制裁中俄企业",
-          "url": "https://news.ifeng.com/c/8wwPXCSFMXi",
-          "source": "凤凰网",
+          "title": "特朗普提名约翰·科尔为美总统人质事务特使",
+          "url": "https://wallstreetcn.com/livenews/3173968",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
+        },
+        {
+          "title": "特朗普：民调一直低估MAGA",
+          "url": "https://flash.jin10.com/detail/20261004221354878800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "特朗普宣布成立“超级智能特别工作组”",
+          "url": "https://wallstreetcn.com/livenews/3173963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住",
+          "url": "https://wallstreetcn.com/articles/3782984",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "特朗普谈对伊朗下一步行动",
           "url": "https://www.douyin.com/hot/2680577",
           "source": "抖音",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
+        },
+        {
+          "title": "美国总统特朗普：很高兴宣布，出色的律师约翰·科尔（John Coale），也是我极为成功的白俄罗斯事务特使，将成为我提名的新任“总统人质事务特使”，并拥有大使级别。",
+          "url": "https://flash.jin10.com/detail/20261004202632827800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "特朗普宣布成立超级智能工作组",
+          "url": "https://flash.jin10.com/detail/20261004202518425800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 73,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美银：“AI交易”是当前美债市场“最后一道防线”",
+          "url": "https://wallstreetcn.com/articles/3782975",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
+          "url": "https://wallstreetcn.com/articles/3782969",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 76,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美股四季度“逼空”信号浮现：CTA仓位大撤退，1.3万亿美元回购蓄势待发",
-          "url": "https://wallstreetcn.com/articles/3782965",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
         {
           "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2497348",
@@ -280,7 +304,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         },
         {
           "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
@@ -291,18 +315,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -311,57 +335,11 @@
           "url": "https://wallstreetcn.com/articles/3782981",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "离职员工爆料OpenAI风险意识不足",
-          "url": "https://wallstreetcn.com/livenews/3173928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
-          "url": "https://wallstreetcn.com/articles/3782969",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "美银：“AI交易”是当前美债市场“最后一道防线”",
-          "url": "https://wallstreetcn.com/articles/3782975",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "22时42分"
         }
       ]
     }
