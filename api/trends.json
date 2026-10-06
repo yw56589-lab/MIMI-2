@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-06T07:01:54.959109+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-06T11:57:21.355986+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 6.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
@@ -19,80 +19,113 @@
           "url": "https://www.cls.cn/detail/2497778",
           "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "11时57分"
         },
         {
-          "title": "美国总统特朗普：激进左派对我刊登广告一事感到不满——我认为这些广告是对我们伟大的美国的一种积极宣传，而且我是用美国的钱支付的。这本是再平常不过的做法，但既然他们无论怎样都不会满意，我决定除了其他广告外，还将专门制作爱国广告，并用我个人及为政治行动委员会MAGA Inc.筹集的资金自行支付费用。",
-          "url": "https://flash.jin10.com/detail/20261006063129889800",
+          "title": "特朗普称不妨让伊朗“摧毁”洛杉矶和圣地亚哥",
+          "url": "https://flash.jin10.com/detail/20261006114056535800",
           "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "11时57分"
+        },
+        {
+          "title": "俄一名研究员感染不明肺炎死亡，特朗普发声",
+          "url": "https://original.ifeng.com/c/8wzkSeT1gl1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "特朗普签署行政令，临时放宽免税柴油公路使用限制",
+          "url": "https://wallstreetcn.com/livenews/3174310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "特朗普：BD将投资30亿美元 扩大美国医疗产品本土生产",
+          "url": "https://flash.jin10.com/detail/20261006112106705800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "美国总统特朗普：宣布降低油价的又一举措。 签署行政令，放宽免税柴油仅限非道路用途的限制。 该行政令将允许任何人购买免税柴油。",
+          "url": "https://wallstreetcn.com/livenews/3174296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "特朗普称高昂的油价是换取安全所付出的“微小代价”",
+          "url": "https://flash.jin10.com/detail/20261006110532331800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "美国总统特朗普：已决定自行投放广告并自掏腰包，同时使用我为Maga Inc.筹集的资金。",
           "url": "https://wallstreetcn.com/livenews/3174286",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国总统特朗普：如果共和党在2026年中期选举中赢得众议院和参议院的控制权，我将向美国的所有成年公民发放5,000美元，我期待着签署这些支票。",
-          "url": "https://flash.jin10.com/detail/20261006060536017800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普角逐诺贝尔和平奖，专家称胜算甚低",
-          "url": "https://flash.jin10.com/detail/20261006051508944800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国总统特朗普抨击纽约时报“篡改”照片丑化特朗普家族旗下的酒店。",
-          "url": "https://flash.jin10.com/detail/20261006043721615800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "11时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 20.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 7.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
+        {
+          "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
+          "url": "https://www.cls.cn/detail/2498089",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
         {
           "title": "黄金、白银、美股期指、油价、比特币，全线上涨",
           "url": "https://www.cls.cn/detail/2497787",
@@ -102,94 +135,26 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "11时57分"
         },
         {
-          "title": "周一（10月5日）纽约尾盘，现货黄金涨0.03%，报4142.46美元/盎司，日内呈现出M形走势，北京时间16:16刷新日高至4170.41美元、23:22跌至4123.44美元刷新日低。 现货白银涨1.18%，报61.0753美元/盎司。 COMEX铜期货涨1.36%，报6.6380美元/磅。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.32%，报2505.24点，美股开盘之前维持微幅下跌状态、持稳于2510点一线，随后短线跳水、北京时间21:46刷新日低至2467.43点，之后逐步收复失地并一度转涨。 在美股时段交易的费城金银指数大致收平，原材料指数收涨0.86%，金属与矿业指数收涨2.26%。 State Street金属与矿业ETF收涨1.91%，报107.76美元。",
-          "url": "https://wallstreetcn.com/livenews/3174267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3174260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "金十图示：2026年10月05日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20261006040548651800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "周一（10月5日），美股行业ETF多数收涨，生物科技指数ETF涨1.3%，能源业ETF涨1%，网络股指数ETF、全球科技股指数ETF、科技行业ETF、半导体ETF至少涨0.52%，银行业ETF则收跌0.33%，区域银行ETF跌0.55%，全球航空业ETF跌0.89%。",
-          "url": "https://wallstreetcn.com/livenews/3174253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 77,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34200055",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？",
-          "url": "https://www.cls.cn/detail/2497673",
+          "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
+          "url": "https://www.cls.cn/detail/2498075",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "11时57分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "金价",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 26.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -197,37 +162,120 @@
       },
       "titles": [
         {
-          "title": "市场消息：OpenAI已与Thrive、Andreessen Horowitz进行融资谈判；同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
-          "url": "https://flash.jin10.com/detail/20261006044845596800",
-          "source": "金十数据",
+          "title": "金价油价下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
           "ranks": [
-            19
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "11时57分"
         },
         {
-          "title": "报道：OpenAI正与阿联酋基金、贝莱德洽谈300亿美元融资轮",
-          "url": "https://wallstreetcn.com/livenews/3174266",
-          "source": "华尔街见闻-快讯",
+          "title": "金价大跌后国庆上海金店排长队",
+          "url": "https://www.toutiao.com/trending/7693062547020398628/",
+          "source": "今日头条",
           "ranks": [
-            19
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美国财长贝森特：预计第三季度经济增速将超过3%。 伊朗战争结束抵押贷款利率将会回落。",
+          "url": "https://wallstreetcn.com/livenews/3174301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "非营利组织UANI：美国封锁导致数十艘伊朗油轮滞留",
+          "url": "https://flash.jin10.com/detail/20261006111622852800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "谷歌与Constellation接近达成十亿美元的核电交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3174302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI 启动 28 天计划日更 Codex 与 Work，将带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2090400492539076729",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 1.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
@@ -240,90 +288,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "一半的股票已进入熊市！美股走到“十字路口”，关键看美债波动率",
-          "url": "https://wallstreetcn.com/articles/3782997",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美军称遭伊朗袭击后靠谷歌找医院",
-          "url": "https://flash.jin10.com/detail/20261006053407848800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价大跌后国庆上海金店排长队",
-          "url": "https://www.toutiao.com/trending/7693062547020398628/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "明晟公司MSCI新兴市场股票指数涨1.8%，发展中国家外汇指数涨0.4%。 巴西股市创2020年以来最佳单日表现，投资者关注总统候选人博索纳罗在第一轮选举中领先总统卢拉。 巴西圣保罗证交所指数收涨7.70%，报20.7万点，里约热内卢盘初迅猛拉涨、绝大部分时间高位企稳。 巴西雷亚尔兑美元涨4.21%，报4.9931雷亚尔，盘中整体高位企稳、持续交投于4.99雷亚尔附近。",
-          "url": "https://wallstreetcn.com/livenews/3174256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "11时57分"
         }
       ]
     }
