@@ -1,16 +1,95 @@
 {
-  "generated_at": "2026-10-07T09:10:02.216401+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-07T15:58:05.744396+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "伊朗",
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.8 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 58,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "不让看美军基地 美参议员称政府隐瞒伊朗战事代价",
+          "url": "https://wallstreetcn.com/livenews/3174731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "伊朗称武器装备产能是冲突前2.5倍",
+          "url": "https://wallstreetcn.com/livenews/3174728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "不让看美军基地 美参议员称政府隐瞒伊朗战事代价",
+          "url": "https://flash.jin10.com/detail/20261007153021082800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "万斯：伊朗须“实质性”削减铀浓缩能力才能结束战事",
+          "url": "https://wallstreetcn.com/livenews/3174725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "伊朗称武器装备产能是冲突前2.5倍",
+          "url": "https://flash.jin10.com/detail/20261007152254577800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：沙特向也门萨达省“阿尔-扎希尔”（Al-Dhahir）边境地区发射导弹。",
+          "url": "https://flash.jin10.com/detail/20261007152045251800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 1 个来源平台，平均热榜排名约 6.8 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -23,18 +102,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "美股收盘：标普、纳指均创历史新高 市场焦点转向财报季",
           "url": "https://www.cls.cn/detail/2498401",
           "source": "财联社热门",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
@@ -45,29 +124,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
-          "title": "美股三大股指集体收涨，纳指创收盘新高，纳斯达克金龙中国指数涨1.71%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34204191",
-          "source": "澎湃新闻",
+          "title": "美股三大期指几无变动 油市多空消息轮番来袭|今夜看点",
+          "url": "https://www.cls.cn/detail/2497962",
+          "source": "财联社热门",
           "ranks": [
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "新闻交易员：美股新高不代表没风险，只是风险藏得更深",
-          "url": "https://flash.jin10.com/detail/20261007082830139800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "[15时57分 ~ 15时58分]"
         }
       ]
     },
@@ -75,91 +143,45 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 16.7 位，标题平均出现 1.3 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 12.3 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 58,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5",
-          "url": "https://wallstreetcn.com/articles/3783044",
+          "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+          "url": "https://wallstreetcn.com/articles/3783101",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
-          "title": "OpenAI通过前沿模型发布新的数学成果",
-          "url": "https://wallstreetcn.com/livenews/3174665",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
+          "url": "https://www.zhihu.com/question/2091064625987170716",
+          "source": "知乎",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "OpenAI：我们将发布由内部前沿模型得出的一系列全新数学研究成果。我们一直与普林斯顿高等研究院数学与人工智能独立顾问组保持沟通，并参考其意见与公开建议，以此作为发布这些成果的依据。",
-          "url": "https://flash.jin10.com/detail/20261007074525195800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "临界点逼近：30年期美债收益率破6%“或在本月”，美国借贷成本将超越名义GDP",
-          "url": "https://wallstreetcn.com/articles/3783051",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
-          "title": "欧洲财政压力正成为美债抛售的新导火索",
-          "url": "https://wallstreetcn.com/articles/3783047",
-          "source": "华尔街见闻",
+          "title": "OpenAI发布722篇数学论文",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83722%E7%AF%87%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力",
-          "url": "https://wallstreetcn.com/articles/3783043",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "time_info": "[15时57分 ~ 15时58分]"
         }
       ]
     },
@@ -167,115 +189,80 @@
       "keyword_group": "特朗普",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 12.7 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 69,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
         {
-          "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
-          "url": "https://original.ifeng.com/c/8x0Kd7TFi3I",
+          "title": "对伊军事行动如何收尾？特朗普再释放强硬信号",
+          "url": "https://original.ifeng.com/c/8x1jE3AnRUj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普称可让伊朗摧毁洛杉矶或圣迭戈，加州州长斥责",
+          "url": "https://original.ifeng.com/c/8x1bAPMGpbB",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
-          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
-          "url": "https://news.ifeng.com/c/8x057HlG52b",
-          "source": "凤凰网",
+          "title": "伊朗前石油部长称特朗普备受打击 只能诉诸谎言",
+          "url": "https://flash.jin10.com/detail/20261007151742332800",
+          "source": "金十数据",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "美国总统特朗普：已安排与俄罗斯总统普京通话。",
-          "url": "https://wallstreetcn.com/livenews/3174648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "15时58分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 12.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 63,
         "chart": []
       },
       "titles": [
         {
-          "title": "美国副总统万斯：伊朗必须通过砍掉铀浓缩（项目）来结束战争。 如果伊朗在核问题上做出让步，美方对达成协议持开放态度。 美国与伊朗总统、外长对话。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3174673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "不接受“画饼”！万斯摊牌美伊停战硬门槛：伊朗必须先削减铀浓缩能力",
-          "url": "https://flash.jin10.com/detail/20261007082042759800",
+          "title": "荷兰国际：央行购金需求保持韧性 黄金价格获支撑",
+          "url": "https://flash.jin10.com/detail/20261007153459279800",
           "source": "金十数据",
           "ranks": [
-            13
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "15时58分"
         },
         {
-          "title": "美国国会机构报告列出伊朗战争中损失或损毁的飞机数量",
-          "url": "https://flash.jin10.com/detail/20261007080814566800",
+          "title": "加息风险明显降温却没能起飞，金价下轮驱动到底是什么？",
+          "url": "https://flash.jin10.com/detail/20261007153043684800",
           "source": "金十数据",
           "ranks": [
-            16
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 67,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
-          "url": "https://wallstreetcn.com/articles/3783055",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "time_info": "15时58分"
         }
       ]
     }
