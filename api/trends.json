@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-11T00:02:32.847743+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-11T04:24:41.532289+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 5 个来源平台，平均热榜排名约 12.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
@@ -23,7 +23,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时24分"
         },
         {
           "title": "特朗普的中期选举策略：发钱，发钱，还是发钱",
@@ -34,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时24分"
         },
         {
           "title": "拳王泰森力挺共和党：特朗普曾在他因强奸入狱时为其辩护",
@@ -45,7 +45,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时24分"
         },
         {
           "title": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动",
@@ -56,18 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普找到新“援军”：普京同意俄罗斯向全球市场释放数百万吨柴油",
-          "url": "https://wallstreetcn.com/articles/3783298",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时24分"
         },
         {
           "title": "普京向特朗普转达伊朗方面解决冲突构想",
@@ -78,64 +67,174 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时24分"
         },
         {
-          "title": "普京向特朗普转达伊朗方面解决冲突构想",
-          "url": "https://flash.jin10.com/detail/20261010201024020800",
+          "title": "乌克兰外交部长：（回应特朗普关于泽连斯基的言论）泽连斯基值得获得支持。",
+          "url": "https://flash.jin10.com/detail/20261011030707203800",
           "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普谈胡德堡枪手处决直播",
-          "url": "https://www.douyin.com/hot/2689135",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 77,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股收盘：道指涨逾400点 三大指数周线齐涨 市场静待银行财报与通胀数据",
-          "url": "https://www.cls.cn/detail/2500993",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
-          "url": "https://wallstreetcn.com/articles/3783332",
-          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国总统特朗普：愚蠢的民主党人，伙同他们的犯罪同伙——假新闻媒体，正试图制造一种虚假叙事，声称唐纳德·特朗普如此“不受欢迎”，共和党将会输掉选举。事实上情况恰恰相反。我如此“受欢迎”，共和党一定会赢得选举。我们正在举行的一场场创纪录的集会就是证明（包括我很快就会出席的田纳西州集会——待会儿见！）。",
+          "url": "https://flash.jin10.com/detail/20261011030053642800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国总统特朗普：我很快将会抵达田纳西州。",
+          "url": "https://flash.jin10.com/detail/20261011024233266800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "俄罗斯政府：在特朗普与普京达成协议后，部分解除柴油出口禁令。",
+          "url": "https://flash.jin10.com/detail/20261011024125575800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "据阿拉伯卫星电视台：一名俄罗斯官员表示，特朗普呼吁乌克兰总统泽连斯基下台的言论具有历史性和关键性意义。",
+          "url": "https://flash.jin10.com/detail/20261011021131033800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美媒：特朗普要求撤换泽连斯基，双方关系陷入去年白宫争吵以来最严重危机",
+          "url": "https://flash.jin10.com/detail/20261011013543054800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普宣布新任白宫新闻秘书",
+          "url": "https://www.douyin.com/hot/2688763",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "ai_insight": {
+        "analysis": "该板块当前收录 7 条热点，覆盖 2 个来源平台，平均热榜排名约 18.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗外交部发言人：美国人民真正的敌人是本国好战统治集团",
+          "url": "https://flash.jin10.com/detail/20261011035429103800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社援引黎巴嫩广场电视台（Al Mayadeen）报道，一名也门消息人士表示，由于担忧战争长期持续，部分投资者和企业正考虑撤离沙特阿拉伯。",
+          "url": "https://flash.jin10.com/detail/20261011034819988800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "据Axios：两名美国官员和一名以色列官员表示，美国并未要求以色列在选举前率先对伊朗发动袭击。（金十注：此前有媒体报道称，美国在过去两周曾敦促以色列单独对伊朗发动军事打击，希望以色列赶在本国10月27日选举前率先打击伊朗，从而避免美国直接采取军事行动影响11月3日中期选举。）",
+          "url": "https://flash.jin10.com/detail/20261011024103682800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "以媒称美以领导人就再袭伊朗沟通 内塔尼亚胡无意在月底议会选举前行动",
+          "url": "https://flash.jin10.com/detail/20261011022653920800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "普京向美方转达伊朗方面解决冲突构想",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%91%E7%BE%8E%E6%96%B9%E8%BD%AC%E8%BE%BE%E4%BC%8A%E6%9C%97%E6%96%B9%E9%9D%A2%E8%A7%A3%E5%86%B3%E5%86%B2%E7%AA%81%E6%9E%84%E6%83%B3",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "据以色列第12频道：一名以色列高级官员表示，以色列不会在10月27日议会选举前对伊朗发动先发制人的打击。",
+          "url": "https://flash.jin10.com/detail/20261011012158839800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "伊朗确认一艘超级油轮在霍尔木兹海峡触雷起火",
+          "url": "https://flash.jin10.com/detail/20261011011329864800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
@@ -159,31 +258,31 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时24分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
         {
-          "title": "普京向美方转达伊朗方面解决冲突构想",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%91%E7%BE%8E%E6%96%B9%E8%BD%AC%E8%BE%BE%E4%BC%8A%E6%9C%97%E6%96%B9%E9%9D%A2%E8%A7%A3%E5%86%B3%E5%86%B2%E7%AA%81%E6%9E%84%E6%83%B3",
-          "source": "百度热搜",
+          "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+          "url": "https://wallstreetcn.com/articles/3783332",
+          "source": "华尔街见闻",
           "ranks": [
-            26
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时24分"
         }
       ]
     }
