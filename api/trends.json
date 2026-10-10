@@ -1,183 +1,117 @@
 {
-  "generated_at": "2026-10-10T11:27:35.131969+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-10T18:17:38.487705+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 14 条热点，覆盖 7 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 87,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普：俄罗斯将立即向美国供应柴油",
-          "url": "https://news.ifeng.com/c/8x64PgzVXEo",
+          "title": "特朗普或在中期选举后调整内阁，最可能出局是他？",
+          "url": "https://original.ifeng.com/c/8x6QS9EXtWw",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "特朗普或在中期选举后调整内阁，最有可能出局的是他？",
-          "url": "https://original.ifeng.com/c/8x6QS9EXtWw",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "普京特朗普通话 俄将向全球供应石油",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D+%E4%BF%84%E5%B0%86%E5%90%91%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E7%9F%B3%E6%B2%B9",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "18时17分"
         },
         {
           "title": "特朗普称与普京达成协议：俄罗斯将向美国及全球市场供应大量柴油",
           "url": "https://www.cls.cn/detail/2500977",
           "source": "财联社热门",
           "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "18时17分"
+        },
+        {
+          "title": "特朗普：俄罗斯将立即向美国供应柴油",
+          "url": "https://news.ifeng.com/c/8x64PgzVXEo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "特朗普：与普京通话非常成功，全世界的柴油价格都将大幅、快速下跌！俄方表态；泽连斯基回应",
+          "url": "https://wallstreetcn.com/articles/3783311",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "新晋诺奖得主调侃：如果掌声更响亮，我愿与特朗普分享这个奖",
           "url": "https://news.ifeng.com/c/8x6JzLLHgbL",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "18时17分"
         },
         {
-          "title": "高市早苗公开反对特朗普",
-          "url": "https://news.ifeng.com/c/8x5CxeV6pMm",
-          "source": "凤凰网",
+          "title": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动",
+          "url": "https://wallstreetcn.com/articles/3783305",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "18时17分"
         },
         {
-          "title": "美国放松对俄柴油贸易制裁，特朗普称俄将向美国及全球市场提供超过 30 万吨柴油，会对市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2092139736043348513",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "特朗普感谢普京：俄将向美供油",
-          "url": "https://www.toutiao.com/trending/7693846794471669802/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "特朗普：我们不要加拿大的汽车，我们要自己的汽车。",
-          "url": "https://wallstreetcn.com/livenews/3176485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "特朗普政府要求AI公司在发生安全事件后立即上报",
-          "url": "https://wallstreetcn.com/livenews/3176484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "特朗普：纽约本不该让企业迁往得州。 炼油商和零售商应开始降价。 美国已削减逾100万个联邦职位。",
-          "url": "https://wallstreetcn.com/livenews/3176483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20261010094450039800",
+          "title": "克里姆林宫：在与伊朗协调下，俄罗斯总统普京向美国总统特朗普传达了伊朗对可能解决冲突的看法。",
+          "url": "https://flash.jin10.com/detail/20261010171236095800",
           "source": "金十数据",
           "ranks": [
-            23
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "18时17分"
         },
         {
-          "title": "美国总统特朗普：诺贝尔和平奖永远失去了公信力。该奖已经被一小撮反民主、反文明的激进意识形态者彻底抹黑。",
-          "url": "https://flash.jin10.com/detail/20261010092801234800",
+          "title": "克里姆林宫：俄罗斯总统普京在通话中对美国总统特朗普部分关于缓解乌克兰冲突的提议表示“理解”。",
+          "url": "https://flash.jin10.com/detail/20261010170618244800",
           "source": "金十数据",
           "ranks": [
-            27
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "特朗普与普京达成的柴油协议被指违反俄罗斯制裁法",
-          "url": "https://wallstreetcn.com/livenews/3176479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "18时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -186,79 +120,22 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
           "source": "贴吧",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "18时17分"
         },
         {
           "title": "AI灾难将在一年内发生？Anthropic、OpenAI私下推演最坏情景",
           "url": "https://wallstreetcn.com/articles/3783284",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2500829",
-          "source": "财联社热门",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "怎么看OpenAI数学论文撤稿",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股盘前涨4%！Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
-          "url": "https://wallstreetcn.com/articles/3783261",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "美股收盘：道指涨逾400点 三大指数周线齐涨 市场静待银行财报与通胀数据",
-          "url": "https://www.cls.cn/detail/2500993",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "18时17分"
         }
       ]
     },
@@ -266,7 +143,7 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -274,15 +151,63 @@
       },
       "titles": [
         {
-          "title": "金价下跌女儿买10万黄金送父母",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%A5%B3%E5%84%BF%E4%B9%B010%E4%B8%87%E9%BB%84%E9%87%91%E9%80%81%E7%88%B6%E6%AF%8D",
-          "source": "百度热搜",
+          "title": "国内金价重回900元",
+          "url": "https://www.douyin.com/hot/2688678",
+          "source": "抖音",
           "ranks": [
-            21
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股收盘：道指涨逾400点 三大指数周线齐涨 市场静待银行财报与通胀数据",
+          "url": "https://www.cls.cn/detail/2500993",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "霍尔木兹危机“拉满”：油轮遇袭事件创战时最高，伊朗打击范围扩大！",
+          "url": "https://www.cls.cn/detail/2501006",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     }
