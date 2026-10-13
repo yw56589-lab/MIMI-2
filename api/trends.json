@@ -1,108 +1,119 @@
 {
-  "generated_at": "2026-10-13T20:22:23.196825+08:00",
+  "generated_at": "2026-10-14T03:41:08.915937+08:00",
   "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
+      "keyword_group": "伊朗",
       "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 7.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 13.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 58,
         "chart": []
       },
       "titles": [
         {
-          "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3783408",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "全球AI交易再重挫，美股盘前存储普跌、SK海力士跌约5%，韩股收跌5.47%，现货黄金突破4200",
-          "url": "https://wallstreetcn.com/articles/3783492",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "花旗集团第三季度营收为238.5亿美元，市场预期为237.2亿美元。 第三季度每股收益为2.85美元。 第三财季FICC销售和交易收入43.9亿美元，预估42.6亿美元。 第三财季股票销售及交易收入17.3亿美元，预估17.8亿美元。 花旗集团美股盘前微跌。",
-          "url": "https://wallstreetcn.com/livenews/3177960",
+          "title": "伊朗革命卫队海军司令：正在等待美军舰靠近并将其击沉",
+          "url": "https://wallstreetcn.com/livenews/3178173",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "03时41分"
         },
         {
-          "title": "高盛第三季度净营收186.8亿美元，每股收益17.01美元。 第三季度投资银行业务营收32.3亿美元，预估28.6亿美元。 第三季度净利息收入37.7亿美元，预估36.1亿美元。 第三季度股票销售和交易收入64.4亿美元，预估50.9亿美元。 第三季度FICC销售和交易收入34.7亿美元，预估37.2亿美元。 第三季度咨询收入16.5亿美元，预估14亿美元。 高盛管理资产4.10万亿美元，预估4.14万亿美元。 高盛美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3177949",
+          "title": "美以领导人被曝磋商联手再袭伊朗",
+          "url": "https://flash.jin10.com/detail/20261014024819051800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "据伊朗学生通讯社：今天中午，一艘违规油轮关闭追踪系统并试图穿越禁区，在经过霍尔木兹海峡东部海域时受损并起火，随后被伊朗军队海军监视小组发现。",
+          "url": "https://flash.jin10.com/detail/20261014022459221800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗海军： 今日下午，一艘关闭追踪系统、试图穿越管制区域的违规油轮，在霍尔木兹海峡东部海域起火受损。 该船被伊朗海军监测小队发现。",
+          "url": "https://wallstreetcn.com/livenews/3178149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "03时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.7 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 67,
         "chart": []
       },
       "titles": [
         {
-          "title": "特朗普：我可能与金正恩会面",
-          "url": "https://news.ifeng.com/c/8xBMfv9GmV7",
+          "title": "特朗普不信中俄帮伊朗，外交部表态",
+          "url": "https://news.ifeng.com/c/8xBr4ZCOTK4",
           "source": "凤凰网",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
         },
         {
           "title": "中方回应特朗普称不相信中俄在帮伊朗",
           "url": "https://www.toutiao.com/trending/7695661082907610687/",
           "source": "今日头条",
           "ranks": [
-            27
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
+        },
+        {
+          "title": "特朗普指责胡塞武装蓄意在美中期选举前推高油价",
+          "url": "https://wallstreetcn.com/livenews/3178156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "03时41分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 10.5 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -114,8 +125,78 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
+        },
+        {
+          "title": "梁文锋，出手投资腾讯前科学家初创企业Winverse AI ？",
+          "url": "https://www.cls.cn/detail/2503513",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.5 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3783408",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
+        },
+        {
+          "title": "华尔街大行财报分化 芯片股压力不减 美股期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2503733",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 68,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "Gemini 4 Argon或将开放",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%204%20Argon%E6%88%96%E5%B0%86%E5%BC%80%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
         }
       ]
     },
@@ -123,10 +204,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 28.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -135,35 +216,59 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
           "source": "贴吧",
           "ranks": [
-            28
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
         {
-          "title": "欧佩克月报：伊朗9月原油产量减少9.9万桶/日，至195.7万桶/日。",
-          "url": "https://flash.jin10.com/detail/20261013201530984800",
-          "source": "金十数据",
+          "title": "美国10年期国债收益率短线从5.22%附近下挫至5.2063%，美联储三把手威廉姆斯称“2027年无需加息”之际，日内整体跌幅重新扩大，北京时间19:12曾跌至5.1706%刷新日低。 两年期美债收益率从4.805%附近跌至4.78%下方，日内再度转跌。 美元指数跌幅扩大至0.36%，报102.17点。 标普500指数迅速收窄跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3178146",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "03时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 60,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美元指数跌0.4%，脱离2025年4月份以来最高位",
+          "url": "https://wallstreetcn.com/livenews/3178163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         }
       ]
     }
