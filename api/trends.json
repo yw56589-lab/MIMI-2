@@ -1,84 +1,16 @@
 {
-  "generated_at": "2026-10-15T03:05:27.895339+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-15T06:52:48.685610+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 78,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "乌克兰总统泽连斯基不满SpaceX网络设限，直言有遭特朗普背叛之感",
-          "url": "https://wallstreetcn.com/livenews/3178876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "特朗普忙“划清界限”：她不是我的家庭成员",
-          "url": "https://news.ifeng.com/c/8xDZ9NqdItH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "“特朗普下令：赴美生子，倒查6年”",
-          "url": "https://news.ifeng.com/c/8xDhkZPXY9v",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "美国银行CEO Moynihan：“略微”讨论了如何解决诸多问题。 我们严肃认真对待（特朗普）政府的命令，我们将处理好（最新暴露的监管罚款）问题。 我们对公司的一切行为负责。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3178866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "特朗普：美国迎来又一笔210亿美元的巨额投资",
-          "url": "https://wallstreetcn.com/livenews/3178843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 3 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -91,86 +23,286 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "06时52分"
         },
         {
           "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
           "url": "https://wallstreetcn.com/articles/3783492",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "06时52分"
         },
         {
           "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
           "url": "https://wallstreetcn.com/articles/3783579",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "06时52分"
         },
         {
-          "title": "美股三大指数集体低开",
-          "url": "https://www.douyin.com/hot/2695733",
-          "source": "抖音",
+          "title": "内存崩溃，高盛：谁高位接盘了美股科技？",
+          "url": "https://wallstreetcn.com/articles/3783632",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美股收盘：科技题材全线下挫 纳指跌近2% 伯克希尔十连涨",
+          "url": "https://www.cls.cn/detail/2505098",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "周三（10月14日），美股存储芯片与硬件供应链指数跌4.81%，报179.29点。",
+          "url": "https://wallstreetcn.com/livenews/3178931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "Rocket Lab Corp.（RKLB）收跌7.85%，美股盘后跌7.76%。 Rocket Lab 推迟了其中子（Neutron）火箭的首次亮相，将该火箭的首飞时间延后至2027年。 此次推迟的原因是，公司在发射准备阶段发现了火箭推进剂贮箱制造环节存在新问题。 Rocket Lab 首席执行官彼得·贝克表示，公司不会带着不必要的风险仓促走向发射台，并称中子火箭这类研发项目难免会遇到挑战。",
+          "url": "https://wallstreetcn.com/livenews/3178930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（10月14日），美国科技股七巨头（Magnificent 7）指数跌1.73%，报235.99点，大致平开之后持续下跌，持续脱离周二所创盘中历史新高241.53点和收盘历史最高位。 “超大”市值科技股指数收跌2.54%，报465.73点。",
+          "url": "https://wallstreetcn.com/livenews/3178927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数收跌8.06%，报59.99点。 最近24小时，现货比特币跌2.04%，暂报81658.81美元，美国CPI通胀数据发布后转跌。 现货以太坊跌3.81%，暂报2412.308美元。",
+          "url": "https://wallstreetcn.com/livenews/3178924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "Northlight Asset Management首席投资官Chris Zaccarelli表示：（美股）一些涨幅过大的股票，如芯片制造商和AI基础设施股票，正在失去部分上涨动力。 美国9月通胀数据加剧了人们对美联储进一步加息的担忧。 市场原本希望9月通胀只是“一次性”冲高，但今早公布的数据使这种情景的可能性大大降低。",
+          "url": "https://wallstreetcn.com/livenews/3178910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 10,
+      "ai_insight": {
+        "analysis": "该板块当前收录 10 条热点，覆盖 4 个来源平台，平均热榜排名约 17.3 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 83,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "特朗普忙“划清界限”：她不是我的家庭成员",
+          "url": "https://news.ifeng.com/c/8xDZ9NqdItH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "“特朗普下令：赴美生子，倒查6年”",
+          "url": "https://news.ifeng.com/c/8xDhkZPXY9v",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "特朗普驳斥媒体对其认知能力测试的质疑",
+          "url": "https://flash.jin10.com/detail/20261015061819623800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及通胀报告）我们目前情况不错。",
+          "url": "https://flash.jin10.com/detail/20261015061536248800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美国总统特朗普：糟糕的美联储故意让利率偏高。",
+          "url": "https://wallstreetcn.com/livenews/3178923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "特朗普称他刚与台积电董事长通话",
+          "url": "https://wallstreetcn.com/livenews/3178919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美国总统特朗普：由于油价如此之高，我们国家现在赚的钱比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20261015053447768800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美国总统特朗普：糟糕的美联储故意让利率偏高。",
+          "url": "https://flash.jin10.com/detail/20261015052502379800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美国总统特朗普的政府与针对乌克兰的星链（StarLink）服务限制无关。（美国媒体Axios）",
+          "url": "https://wallstreetcn.com/livenews/3178912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "泽连斯基为何罕见怒怼特朗普",
+          "url": "https://www.toutiao.com/trending/7696431919977729555/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 19.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
-        {
-          "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
-          "url": "https://www.zhihu.com/question/2093654423369152454",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
         {
           "title": "数学家如何评价OpenAI公开论文",
           "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美国八个州因用户安全问题起诉OpenAI",
+          "url": "https://flash.jin10.com/detail/20261015052727779800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "OpenAI窃听案嫌疑人被捕前曾为家人预订飞往沙特阿拉伯的单程机票",
+          "url": "https://wallstreetcn.com/livenews/3178911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -183,61 +315,37 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "06时52分"
         },
         {
-          "title": "大摩发行新债，美债收益率走高之际仍选择入市",
-          "url": "https://wallstreetcn.com/livenews/3178867",
+          "title": "美债收益率在美国CPI发布后冲高回落，两年期实际收益率跌约6.3个基点，市场权衡通胀数据与美联储官员讲话",
+          "url": "https://wallstreetcn.com/livenews/3178922",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美债收益率在CPI后冲高回落 市场评估通胀数据与美联储官员讲话",
+          "url": "https://flash.jin10.com/detail/20261015052650279800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗议长：德黑兰的目标既不是“无休止战争”，也不是“旷日持久的谈判”。",
-          "url": "https://wallstreetcn.com/livenews/3178858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：伊朗已做好准备应对任何新的侵略",
-          "url": "https://wallstreetcn.com/livenews/3178842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -245,15 +353,15 @@
       },
       "titles": [
         {
-          "title": "Gemini 4全球上线",
-          "url": "https://www.baidu.com/s?wd=Gemini+4%E5%85%A8%E7%90%83%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
+          "title": "国际金价跌约1.4%，白银跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3178914",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "06时52分"
         }
       ]
     }
