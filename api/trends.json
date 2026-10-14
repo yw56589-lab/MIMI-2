@@ -1,141 +1,16 @@
 {
-  "generated_at": "2026-10-14T07:32:24.688131+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-14T10:47:51.621622+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 21.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "特朗普不信中俄帮伊朗，外交部表态",
-          "url": "https://news.ifeng.com/c/8xBr4ZCOTK4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "原加拿大副总理、前加拿大财长Freeland：特朗普政府私底下向CEO们和商界领袖们施压，要求他们的政府满足美国白宫的索求。",
-          "url": "https://wallstreetcn.com/livenews/3178220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性",
-          "url": "https://wallstreetcn.com/livenews/3178217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "因公“出差”，美联储库克无法如期出席与特朗普相关指控相关的白宫听证会，要求推后一个月",
-          "url": "https://wallstreetcn.com/livenews/3178214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美联储理事库克的律师谴责特朗普发起的新一轮调查",
-          "url": "https://flash.jin10.com/detail/20261014053142406800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "消息人士：美联储理事库克的律师谴责美国总统特朗普发起的新一轮调查。",
-          "url": "https://flash.jin10.com/detail/20261014051519150800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI考虑收购网络安全初创公司Trail of Bits。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3178228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "据The Information：OpenAI正就收购安全初创公司Trail of Bits进行初步洽谈。",
-          "url": "https://flash.jin10.com/detail/20261014060944912800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "OpenAI狂发论文,数学家炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
     {
       "keyword_group": "美股",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 5.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 75,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
@@ -148,34 +23,80 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时47分"
         },
         {
           "title": "美股收盘：三大指数震荡走弱 苹果、微软齐创新高",
           "url": "https://www.cls.cn/detail/2503947",
           "source": "财联社热门",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时47分"
         },
         {
-          "title": "华尔街大行财报分化 芯片股压力不减 美股期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2503733",
+          "title": "华尔街传奇投资人警告：2027年对美股来说将是极其艰难的一年",
+          "url": "https://www.cls.cn/detail/2503871",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时47分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "【早报】美以领导人被曝：磋商联手再袭伊朗；香港证监会出手！暂停茶百道交易；多家公司三季报预增逾5倍",
+          "url": "https://www.cls.cn/detail/2503958",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "据悉伊朗升级袭船战术以维持高油价，美以领导人或联手再袭伊朗，原油空头占比进一步走高；美国CPI报告今晚重磅公布，加息已被充分定价，现货金银多头占比进一步升至94%和96%的高位，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20261014104156812800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：正在等待美军舰靠近，然后将其击沉",
+          "url": "https://news.ifeng.com/c/8xCtA6cLmnn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "ai_insight": {
         "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
@@ -186,74 +107,85 @@
       },
       "titles": [
         {
-          "title": "半个月，500亿变1000亿！DeepSeek将完成新一轮融资，梁文峰盯上具身智能",
-          "url": "https://wallstreetcn.com/articles/3783495",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "梁文锋，出手投资腾讯前科学家初创企业Winverse AI ？",
-          "url": "https://www.cls.cn/detail/2503513",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 71,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "Gemini 4 Argon或将开放",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%204%20Argon%E6%88%96%E5%B0%86%E5%BC%80%E6%94%BE",
+          "title": "谷歌Gemini 4 Argon 实测",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CGemini%204%20Argon%20%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时47分"
+        },
+        {
+          "title": "如何评价 10 月 13 日正式推出的 Gemini 4 Argon？",
+          "url": "https://www.zhihu.com/question/2093454112922912690",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "特朗普",
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
         {
-          "title": "国际金价跌0.3%，亚太中午曾涨穿4200美元",
-          "url": "https://wallstreetcn.com/livenews/3178208",
-          "source": "华尔街见闻-快讯",
+          "title": "沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价",
+          "url": "https://www.cls.cn/detail/2504027",
+          "source": "财联社热门",
           "ranks": [
-            30
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时47分"
+        },
+        {
+          "title": "特朗普：将很快就伊朗问题作出决定",
+          "url": "https://www.toutiao.com/trending/7695730790273450027/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 66,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "陶哲轩呼吁抵制OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     }
