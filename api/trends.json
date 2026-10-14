@@ -1,131 +1,30 @@
 {
-  "generated_at": "2026-10-14T22:13:33.383773+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-15T03:05:27.895339+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 3 个来源平台，平均热榜排名约 11.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
-          "url": "https://wallstreetcn.com/articles/3783492",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美CPI反弹幅度超预期 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2504896",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美国CPI超预期加剧加息押注，美股低开，存储芯片股、光通信股普跌，美国银行跌约8%",
-          "url": "https://wallstreetcn.com/articles/3783586",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美股AI算力租赁概念股盘中走低，Nebius跌约9%，CoreWeave跌约13%。",
-          "url": "https://wallstreetcn.com/livenews/3178763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
-          "url": "https://wallstreetcn.com/articles/3783579",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌近2%，区域银行业ETF跌1.6%，医疗业ETF、日常消费品ETF涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3178756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美国CPI超预期加剧加息押注，美股盘初走低，存储芯片股、光通信股普跌，美国银行跌约8%",
-          "url": "https://wallstreetcn.com/livenews/3178752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3178730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美国银行美股盘前跌近8%，公司三季度财报不及预期",
-          "url": "https://wallstreetcn.com/livenews/3178729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        }
-      ]
-    },
     {
       "keyword_group": "特朗普",
       "match_count": 5,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 8.4 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 9.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 78,
         "chart": []
       },
       "titles": [
+        {
+          "title": "乌克兰总统泽连斯基不满SpaceX网络设限，直言有遭特朗普背叛之感",
+          "url": "https://wallstreetcn.com/livenews/3178876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
         {
           "title": "特朗普忙“划清界限”：她不是我的家庭成员",
           "url": "https://news.ifeng.com/c/8xDZ9NqdItH",
@@ -135,7 +34,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "03时05分"
         },
         {
           "title": "“特朗普下令：赴美生子，倒查6年”",
@@ -146,40 +45,86 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "03时05分"
         },
         {
-          "title": "特朗普或拉土耳其入伙打击胡塞武装",
-          "url": "https://news.ifeng.com/c/8xDWGl4Al1D",
-          "source": "凤凰网",
+          "title": "美国银行CEO Moynihan：“略微”讨论了如何解决诸多问题。 我们严肃认真对待（特朗普）政府的命令，我们将处理好（最新暴露的监管罚款）问题。 我们对公司的一切行为负责。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3178866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "03时05分"
         },
         {
-          "title": "美国参议院少数党领袖舒默：唐纳德·特朗普的“黄金时代”，对美国人民而言意味着永无止境、更高的物价，而他自己却能享受舞厅，亿万富翁们则获得减税。",
-          "url": "https://flash.jin10.com/detail/20261014220239345800",
-          "source": "金十数据",
+          "title": "特朗普：美国迎来又一笔210亿美元的巨额投资",
+          "url": "https://wallstreetcn.com/livenews/3178843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 76,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美CPI反弹幅度超预期 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2504896",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
+          "url": "https://wallstreetcn.com/articles/3783492",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
+          "url": "https://wallstreetcn.com/articles/3783579",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "03时05分"
         },
         {
-          "title": "特朗普下令严查赴美生子",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E4%B8%A5%E6%9F%A5%E8%B5%B4%E7%BE%8E%E7%94%9F%E5%AD%90%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "美股三大指数集体低开",
+          "url": "https://www.douyin.com/hot/2695733",
+          "source": "抖音",
           "ranks": [
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "03时05分"
         }
       ]
     },
@@ -187,10 +132,10 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 73,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -199,22 +144,116 @@
           "url": "https://www.zhihu.com/question/2093654423369152454",
           "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "03时05分"
         },
         {
           "title": "数学家如何评价OpenAI公开论文",
           "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 71,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美CPI重燃加息押注，美股低开、AI交易受挫，美银盘中跌近9%，短期美债跳水、美元拉升",
+          "url": "https://wallstreetcn.com/articles/3783586",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "大摩发行新债，美债收益率走高之际仍选择入市",
+          "url": "https://wallstreetcn.com/livenews/3178867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 21.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗议长：德黑兰的目标既不是“无休止战争”，也不是“旷日持久的谈判”。",
+          "url": "https://wallstreetcn.com/livenews/3178858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "伊朗革命卫队发言人：伊朗已做好准备应对任何新的侵略",
+          "url": "https://wallstreetcn.com/livenews/3178842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "Gemini 4全球上线",
+          "url": "https://www.baidu.com/s?wd=Gemini+4%E5%85%A8%E7%90%83%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     }
