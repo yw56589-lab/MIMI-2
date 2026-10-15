@@ -1,106 +1,16 @@
 {
-  "generated_at": "2026-10-16T01:32:26.545227+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-16T04:44:51.628233+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 14.9 位，标题平均出现 1.3 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美媒：美军考虑用“炸弹之母”打击伊朗",
-          "url": "https://original.ifeng.com/c/8xFDgSv1sw2",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
-        },
-        {
-          "title": "美方“驳斥”伊朗过去24小时内三项不实说法",
-          "url": "https://wallstreetcn.com/livenews/3179639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34257391",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
-        },
-        {
-          "title": "美国财政部：美国发布一项涉伊朗通用许可证，允许逐步终止涉及国际投资与金融开发银行的交易。",
-          "url": "https://flash.jin10.com/detail/20261016004201266800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "美国财政部网站发布新一轮与伊朗相关的制裁。",
-          "url": "https://flash.jin10.com/detail/20261016003527676800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "伊朗海军：一艘油轮在霍尔木兹海峡东部海域起火",
-          "url": "https://flash.jin10.com/detail/20261016002020769800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "伊朗海军：一艘油轮在霍尔木兹海峡东部海域起火",
-          "url": "https://wallstreetcn.com/livenews/3179617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 5 个来源平台，平均热榜排名约 4.8 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 6 个来源平台，平均热榜排名约 5.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -109,33 +19,22 @@
           "url": "https://www.zhihu.com/question/2094116217489450760",
           "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "DeepSeek宣布故障补偿方案",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
-        },
-        {
-          "title": "DeepSeek公布补偿方案",
-          "url": "https://www.toutiao.com/trending/7696824974037221402/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -145,8 +44,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "DeepSeek公布补偿方案",
+          "url": "https://www.toutiao.com/trending/7696824974037221402/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "DeepSeek发布补偿方案",
@@ -156,203 +66,166 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "DeepSeek致歉，补偿方案公布",
+          "url": "https://news.ifeng.com/c/8xFNuMcEhvB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.5 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 4 个来源平台，平均热榜排名约 7.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 63,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
         {
-          "title": "AI担忧刺激美股轮动，标普道指反弹，芯片指数一度跌超4%，CoreWeave信用风险创新高",
+          "title": "AI担忧刺激美股轮动，标普道指反弹，芯片指数一度跌超4%，黄仁勋力挺、CoreWeave拉升转涨",
           "url": "https://wallstreetcn.com/articles/3783663",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
-        },
-        {
-          "title": "金十图示：2026年10月15日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261016003119451800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时32分"
+          "time_info": "04时44分"
         },
         {
-          "title": "金十图示：2026年10月15日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261016003026515800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.2 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 55,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "英国首相伯纳姆表示，他将试图帮助「修复」特朗普和泽连斯基二人之间的「（关系）桥梁」。他能做到吗？",
-          "url": "https://www.zhihu.com/question/2093925846901862591",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
-        },
-        {
-          "title": "美国总统特朗普：计划前往密歇根州、爱荷华州和堪萨斯州举行集会，并参加多场其他活动。",
-          "url": "https://flash.jin10.com/detail/20261016005932335800",
+          "title": "金十图示：2026年10月15日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261016040541248800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时32分"
+          "time_info": "04时44分"
         },
         {
-          "title": "美国国防部：美国国防部长赫格塞思支持美国总统特朗普关于不进行直播枪决的决定。",
-          "url": "https://flash.jin10.com/detail/20261016005245519800",
+          "title": "金十图示：2026年10月15日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261016040540559800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "特朗普称不会直播对胡德堡枪击案凶手的枪决",
-          "url": "https://wallstreetcn.com/livenews/3179615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 61,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美国有线电视新闻网（CNN）：将提供增强内容版权，以支持谷歌(GOOG.O)产品中的实验性功能。",
-          "url": "https://flash.jin10.com/detail/20261016010204608800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "据视相Variety：美国有线电视新闻网（CNN）与谷歌(GOOG.O)达成一项多年期合作协议，旨在推动生成式人工智能的应用。",
-          "url": "https://flash.jin10.com/detail/20261016004507849800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "CNN与谷歌达成多年合作，探索生成式AI提升新闻内容触达",
-          "url": "https://wallstreetcn.com/livenews/3179629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 28.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 79,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "博主：油价是金价下跌的核心推动力",
-          "url": "https://www.toutiao.com/trending/7696878749744107049/",
-          "source": "今日头条",
-          "ranks": [
-            28
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 金龙指数涨近2%",
+          "url": "https://flash.jin10.com/detail/20261016040300962800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "阿里巴巴、台积电在列，美股期权交易时段下周扩容",
+          "url": "https://wallstreetcn.com/livenews/3179686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美以被曝加紧密商打击伊朗预案",
+          "url": "https://flash.jin10.com/detail/20261016041135466800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：黎巴嫩央行已撤销伊朗出口银行在该国的经营牌照。此前，美国财政部长在与黎巴嫩政府官员会面时，要求对方配合关闭伊朗出口银行并撤销其牌照。",
+          "url": "https://flash.jin10.com/detail/20261016035451632800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34257391",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "伊朗军方：海峡未开放 若基础设施遭袭将数倍反击",
+          "url": "https://flash.jin10.com/detail/20261016033803194800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
@@ -364,8 +237,67 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "美元指数跌超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3179680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 30.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI扩张广告业务，大榄Meta人才",
+          "url": "https://wallstreetcn.com/livenews/3179663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "英国首相伯纳姆表示，他将试图帮助「修复」特朗普和泽连斯基二人之间的「（关系）桥梁」。他能做到吗？",
+          "url": "https://www.zhihu.com/question/2093925846901862591",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     }
