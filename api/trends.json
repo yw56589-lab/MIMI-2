@@ -1,198 +1,29 @@
 {
-  "generated_at": "2026-10-18T10:13:23.095794+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-18T15:34:59.834438+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 5 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "如何看待 Deepseek-4.1-flash-1017 指纹测出来是 6-astra，版本实测如何？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "DeepSeek新模型实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34271084",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "如何评价 DeepSeek V4.1 Flash 1017?",
-          "url": "https://www.zhihu.com/question/2094773240036061683",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "用DeepSeek翻唱人是猫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "已恢复!DeepSeek发故障补偿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
+      "keyword_group": "特朗普",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 2 个来源平台，平均热榜排名约 17.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 13.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗海军称“违规”穿越海峡而受损的油轮增多",
-          "url": "https://wallstreetcn.com/livenews/3180604",
-          "source": "华尔街见闻-快讯",
+          "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://wallstreetcn.com/articles/3783843",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "伊朗外长：伊朗支持通过政治进程解决也门冲突",
-          "url": "https://wallstreetcn.com/livenews/3180601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "伊朗海军称“违规”穿越海峡而受损的油轮增多",
-          "url": "https://flash.jin10.com/detail/20261018082121073800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊祝贺伊朗U23国家古典式摔跤队在美国拉斯维加斯举行的世界U23古典式摔跤锦标赛上夺得冠军。",
-          "url": "https://wallstreetcn.com/livenews/3180590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "伊朗外长：伊朗愿意协助结束沙特与也门冲突",
-          "url": "https://flash.jin10.com/detail/20261018045054335800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "伊朗外长会见土耳其外长，讨论霍尔木兹海峡及地区局势",
-          "url": "https://flash.jin10.com/detail/20261018044329875800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-          "url": "https://www.cls.cn/detail/2507355",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "15时34分"
         },
         {
           "title": "李在明上任一年多社交平台发文超千条，被质疑像特朗普",
@@ -203,7 +34,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "15时34分"
+        },
+        {
+          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
+          "url": "https://www.cls.cn/detail/2507355",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
@@ -214,43 +56,168 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "15时34分"
         },
         {
-          "title": "特朗普签署行政令豁免对俄多项制裁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
-          "source": "澎湃新闻",
+          "title": "反特朗普运动“不要国王”Instagram账号遭暂停，Meta称系统误判",
+          "url": "https://flash.jin10.com/detail/20261018131444707800",
+          "source": "金十数据",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "15时34分"
+        },
+        {
+          "title": "美国总统特朗普周日日程一览",
+          "url": "https://flash.jin10.com/detail/20261018124445164800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 12.2 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "超3万名伊朗女性接受忍者训练",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%853%E4%B8%87%E5%90%8D%E4%BC%8A%E6%9C%97%E5%A5%B3%E6%80%A7%E6%8E%A5%E5%8F%97%E5%BF%8D%E8%80%85%E8%AE%AD%E7%BB%83",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：今天伊朗议会全体会议审议国防部长提名人选的任职资格。全体会议正以线上方式进行，由议会议长卡利巴夫主持。",
+          "url": "https://flash.jin10.com/detail/20261018143615701800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗海军称“违规”穿越海峡而受损的油轮增多",
+          "url": "https://wallstreetcn.com/livenews/3180604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗外长：伊朗支持通过政治进程解决也门冲突",
+          "url": "https://wallstreetcn.com/livenews/3180601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊祝贺伊朗U23国家古典式摔跤队在美国拉斯维加斯举行的世界U23古典式摔跤锦标赛上夺得冠军。",
+          "url": "https://wallstreetcn.com/livenews/3180590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
+          "url": "https://www.cls.cn/detail/2507548",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "如何看待 DeepSeek-4.1-flash-1017 指纹测出来是 6-astra，版本实测如何？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34271084",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "DeepSeek新模型对比Astra",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94Astra",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 1.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 2.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 68,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3783832",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
           "url": "https://www.cls.cn/detail/2507382",
@@ -260,42 +227,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "15时34分"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
           "url": "https://www.cls.cn/detail/2507375",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 67,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
-          "url": "https://wallstreetcn.com/articles/3783830",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "15时34分"
         }
       ]
     },
@@ -303,10 +246,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 74,
         "chart": []
       },
       "titles": [
@@ -315,11 +258,11 @@
           "url": "https://www.cls.cn/detail/2507535",
           "source": "财联社热门",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "15时34分"
         }
       ]
     }
