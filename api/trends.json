@@ -1,41 +1,19 @@
 {
-  "generated_at": "2026-10-20T01:59:55.326588+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-20T06:02:51.131973+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 13.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 16.2 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
-        {
-          "title": "【以色列总理下令推翻伊朗政权】当地时间10月19日晚，以色列总理内塔尼亚胡在接受以色列第14频道电视台采访时称，他向以军、以色列情报和特勤局（摩萨德）以及以军军事情报局下达了“推翻伊朗政权”的指令。内塔尼亚胡结合此前美国总统特朗普对他的公开支持表示，特朗普的态度“非常明确”，即认为当前的“核心任务是彻底消除伊朗对以色列造成的生存威胁 ”。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3181354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "马斯克可能会通过“特朗普账户”（Trump Accounts）向美国儿童捐赠所持SpaceX股票。",
-          "url": "https://wallstreetcn.com/livenews/3181353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3783873",
@@ -45,235 +23,95 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "06时02分"
         },
         {
-          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你就是我想要在身边的人。",
-          "url": "https://flash.jin10.com/detail/20261020004228474800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你遭到了自己国家的不公平对待。",
-          "url": "https://flash.jin10.com/detail/20261020004144507800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡对美国总统特朗普说：我们还有任务要完成，而且一定会完成。",
-          "url": "https://flash.jin10.com/detail/20261020004047642800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "以色列总理下令推翻伊朗政权",
-          "url": "https://flash.jin10.com/detail/20261020012004133800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "据塔斯尼姆通讯社：德国驻伊朗大使因“毫无根据的指控”被伊朗外交部召见。",
-          "url": "https://flash.jin10.com/detail/20261020011740385800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
-          "url": "https://original.ifeng.com/c/8xLtsod5Mjq",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "据塔斯尼姆通讯社：伊朗最高领袖的顾问称，所谓霍尔木兹海峡处于开放状态的言论毫无根据。",
-          "url": "https://flash.jin10.com/detail/20261020004750844800",
+          "title": "以色列公布通话纪录 特朗普对内塔尼亚胡表支持",
+          "url": "https://flash.jin10.com/detail/20261020044711583800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "06时02分"
         },
         {
-          "title": "据伊朗媒体Fars News：伊朗革命卫队表示，在战争的新阶段，我们将亮出新武器并打击新目标，结果将会是把美国残余的力量从地区扫地出门。",
-          "url": "https://flash.jin10.com/detail/20261020004528513800",
+          "title": "特朗普感谢马斯克向美儿童捐赠股票",
+          "url": "https://flash.jin10.com/detail/20261020044316943800",
           "source": "金十数据",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "06时02分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖顾问称霍尔木兹海峡处于开放状态的说法毫无依据。",
-          "url": "https://wallstreetcn.com/livenews/3181337",
+          "title": "特朗普喊话美国民众别去法国参加革命",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%88%AB%E5%8E%BB%E6%B3%95%E5%9B%BD%E5%8F%82%E5%8A%A0%E9%9D%A9%E5%91%BD%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普称该换人代表乌克兰谈判",
+          "url": "https://flash.jin10.com/detail/20261020042436240800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：马斯克将通过“特朗普账户”（trump accounts）将所持SpaceX股票转让给儿童们。",
+          "url": "https://wallstreetcn.com/livenews/3181420",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 16.2 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "06时02分"
         },
         {
-          "title": "Deepseek对传统搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
+          "title": "三位知情人士称，特朗普女婿库什纳与美国总统特使威特科夫计划本周前往挪威参加乌克兰问题会谈。两名知情人士称，乌克兰总统泽连斯基预计将参加会谈。",
+          "url": "https://flash.jin10.com/detail/20261020041508785800",
+          "source": "金十数据",
           "ranks": [
-            16
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "06时02分"
         },
         {
-          "title": "实测Deepseek v4.1动画效果",
-          "url": "https://www.douyin.com/hot/2703379",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "谷歌：自10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外汇广告商，在获得谷歌认证后可投放广告。",
-          "url": "https://wallstreetcn.com/livenews/3181344",
+          "title": "特朗普称该换人代表乌克兰谈判",
+          "url": "https://wallstreetcn.com/livenews/3181413",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
-          "url": "https://wallstreetcn.com/articles/3783911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "06时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 20.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 74,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
@@ -286,7 +124,248 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（10月19日），美国科技股七巨头（Magnificent 7）指数涨1.26%，报234.71点，早盘显著上涨，北京时间22:30以来持续高位震荡。成分股中，亚马逊收涨4.98%，特斯拉涨3.76%，苹果跌0.15%。 “超大”市值科技股指数涨1.44%，报460.34点。",
+          "url": "https://wallstreetcn.com/livenews/3181415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "周一（10月19日），美股行业ETF多数下跌，公用事业ETF收跌2.01%，全球航空业ETF跌1.04%，金融业ETF、银行业ETF、区域银行ETF至多跌0.83%，能源业ETF跌0.64%。 生物科技指数ETF、网络股指数ETF、科技行业ETF、全球航空业ETF至少涨1.02%，半导体ETF涨1.61%，可选消费ETF涨1.78%。",
+          "url": "https://wallstreetcn.com/livenews/3181412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "金十图示：2026年10月19日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261020040532699800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美股大类资产类ETF多数下跌，地产ETF收跌超1.1%，纳指ETF涨1.2%",
+          "url": "https://wallstreetcn.com/livenews/3181408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "金十图示：2026年10月19日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261020040516018800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
+          "url": "https://original.ifeng.com/c/8xLtsod5Mjq",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗波斯湾海峡管理局：122艘船舶被列入违规名单",
+          "url": "https://flash.jin10.com/detail/20261020050245371800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "战争期间 伊朗与塔吉克斯坦双边贸易额仍增长50%",
+          "url": "https://flash.jin10.com/detail/20261020045245434800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗波斯湾海峡管理局：122艘船舶被列入违规名单",
+          "url": "https://wallstreetcn.com/livenews/3181427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗波斯湾海峡管理局：截至目前，已有122艘船只被列入波斯湾航道管理局的不合规名单。",
+          "url": "https://flash.jin10.com/detail/20261020044813476800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 15.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 6.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)前首席执行官埃里克·施密特在Anthropic公司拥有约1%的股份。",
+          "url": "https://flash.jin10.com/detail/20261020053341203800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "原谷歌CEO Eric Schmidt对Anthropic持股大约1%。",
+          "url": "https://wallstreetcn.com/livenews/3181434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "国际金价跌0.6%",
+          "url": "https://wallstreetcn.com/livenews/3181426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 71,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     }
