@@ -1,62 +1,84 @@
 {
-  "generated_at": "2026-10-20T09:23:19.680085+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-10-20T14:53:29.737699+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 7 个来源平台，平均热榜排名约 11.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 10 条热点，覆盖 5 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 86,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "美国总统特朗普：农业部将启动一项新的收获季燃料救助计划，为农民提供80亿美元支持。",
-          "url": "https://flash.jin10.com/detail/20261020091836620800",
-          "source": "金十数据",
+          "title": "普京提议中美俄三方会谈，特朗普表态",
+          "url": "https://original.ifeng.com/c/8xN6E5hd4IF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "马斯克向特朗普账户捐80亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E6%8D%9080%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "特朗普为何突然表态支持内塔尼亚胡",
-          "url": "https://www.toutiao.com/trending/7698521849260412470/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
           "url": "https://news.ifeng.com/c/8xMyNrph5V3",
           "source": "凤凰网",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
+        },
+        {
+          "title": "美国中期选举三种结局全解析：特朗普将面临什么？2027年财政大战难避免",
+          "url": "https://flash.jin10.com/detail/20261020143836964800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2509123",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "挪威政府：美国总统特使威特科夫将前往奥斯陆，特朗普女婿库什纳将以线上方式参与。",
+          "url": "https://flash.jin10.com/detail/20261020143203373800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
@@ -67,108 +89,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
         },
         {
-          "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2509123",
+          "title": "中期选举前关键民调！特朗普支持率创历史新低：31%",
+          "url": "https://www.cls.cn/detail/2509225",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
         },
         {
           "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
         },
         {
-          "title": "美国副总统万斯：尚未与特朗普讨论过2028年潜在的总统参选事宜。 还没决定2028年怎么做。 如果我在2028年参选，我认为特朗普会支持我。",
-          "url": "https://wallstreetcn.com/livenews/3181469",
-          "source": "华尔街见闻-快讯",
+          "title": "挪威政府：美国总统特使威特科夫与特朗普女婿库什纳参加乌克兰会谈。",
+          "url": "https://flash.jin10.com/detail/20261020143029006800",
+          "source": "金十数据",
           "ranks": [
-            27
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 10.4 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
-          "url": "https://www.cls.cn/detail/2509124",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
-          "url": "https://www.cls.cn/detail/2509104",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2508914",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "美股深夜反攻纳指涨超1%",
-          "url": "https://www.douyin.com/hot/2703663",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "美股牛市4岁了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%89%9B%E5%B8%824%E5%B2%81%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
         }
       ]
     },
@@ -176,7 +130,7 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 14.3 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 13.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -188,68 +142,44 @@
           "url": "https://www.zhihu.com/question/2095476625228019430",
           "source": "知乎",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
         },
         {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
+          "url": "https://www.zhihu.com/question/2095646780692099465",
           "source": "知乎",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
         },
         {
-          "title": "实测Deepseek v4.1动画效果",
-          "url": "https://www.douyin.com/hot/2703379",
-          "source": "抖音",
+          "title": "针对DeepSeek 美国政府下黑手",
+          "url": "https://www.baidu.com/s?wd=%E9%92%88%E5%AF%B9DeepSeek+%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "百度热搜",
           "ranks": [
-            24
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 22.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "报道：OpenAI计划在Anthropic上市前加快融资步伐",
-          "url": "https://wallstreetcn.com/livenews/3181474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 18.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
@@ -262,7 +192,88 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "14时53分"
+        },
+        {
+          "title": "巴基斯坦陆军参谋长穆尼尔将访问伊朗",
+          "url": "https://flash.jin10.com/detail/20261020142253324800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "据伊通社（IRNA）：一名官方消息人士称，巴基斯坦参谋长联席会议主席兼陆军参谋长赛义德·阿西姆·穆尼尔将于当地时间2026年10月20日（周二）访问伊朗。",
+          "url": "https://flash.jin10.com/detail/20261020142040621800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 2.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 68,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
+          "url": "https://www.cls.cn/detail/2509124",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
+          "url": "https://www.cls.cn/detail/2509104",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
+          "url": "https://www.cls.cn/detail/2509215",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     }
