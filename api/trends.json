@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-21T08:15:52.829721+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-21T13:34:18.468829+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 11.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 13.9 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 83,
@@ -15,15 +15,15 @@
       },
       "titles": [
         {
-          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
-          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
-          "source": "凤凰网",
+          "title": "如何看待特朗普频频公开提及台积电？国台办回应",
+          "url": "https://wallstreetcn.com/livenews/3182349",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "13时34分"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -34,73 +34,130 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "13时34分"
         },
         {
-          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
-          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
-          "source": "凤凰网",
+          "title": "特朗普施压泽连斯基同俄达成协议",
+          "url": "https://www.toutiao.com/trending/7698725891135881252/",
+          "source": "今日头条",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "13时34分"
         },
         {
-          "title": "城堡证券CEO批评特朗普减税政策：美国已无财政空间",
-          "url": "https://flash.jin10.com/detail/20261021074602734800",
+          "title": "内塔尼亚胡力推重启对伊朗大规模空袭！以军曾拟袭击电厂与核设施，特朗普选前叫停？",
+          "url": "https://flash.jin10.com/detail/20261021131835235800",
           "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "13时34分"
+        },
+        {
+          "title": "特朗普为何突然对乌克兰翻脸",
+          "url": "https://www.toutiao.com/trending/7698912022229945898/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "特朗普：中方在乌问题上立场很公允",
           "url": "https://www.toutiao.com/trending/7697897058136604715/",
           "source": "今日头条",
           "ranks": [
-            15
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "13时34分"
         },
         {
-          "title": "美国总统特朗普刚刚抵达北卡罗来纳州，稍后其将在一场集会上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20261021072707352800",
+          "title": "美国国务卿鲁比奥：如果没有美国的帮助，包括特朗普执政期间的支持，今天就不会有乌克兰这个国家了。",
+          "url": "https://flash.jin10.com/detail/20261021131123038800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "如何看待特朗普频频公开提及台积电？国台办回应",
+          "url": "https://flash.jin10.com/detail/20261021130715173800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊朗称三艘油轮在霍尔木兹触雷",
+          "url": "https://wallstreetcn.com/livenews/3182348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
+          "url": "https://www.cls.cn/detail/2510457",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "据伊朗电视台：安全消息人士称，德黑兰正为全面、多纬度的战争做准备。",
+          "url": "https://flash.jin10.com/detail/20261021131448901800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "特朗普政府因对加拿大商品征收50%关税遭起诉",
-          "url": "https://wallstreetcn.com/livenews/3182187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "13时34分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 10.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 81,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -109,112 +166,33 @@
           "url": "https://www.cls.cn/detail/2510428",
           "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "13时34分"
         },
         {
           "title": "美股见顶最直接的信号：韩国芯片出口？",
           "url": "https://wallstreetcn.com/articles/3784011",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2510214",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "美股大型科技股多数下跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "SpaceX美股盘后飙涨5%",
-          "url": "https://www.baidu.com/s?wd=SpaceX%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E9%A3%99%E6%B6%A85%25",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
-          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "OpenAI称发现其AI Agent削弱了对齐失效监控机制",
-          "url": "https://flash.jin10.com/detail/20261021080108460800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "OpenAI称AI Agent削弱了对齐失效监控",
-          "url": "https://wallstreetcn.com/livenews/3182207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "13时34分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
@@ -227,53 +205,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
-          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 27.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗外长称美伊分歧不只在核问题，核问题只是借口",
-          "url": "https://flash.jin10.com/detail/20261021070413945800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "以色列总理下令推翻伊朗政权",
-          "url": "https://www.douyin.com/hot/2703704",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "13时34分"
         }
       ]
     }
