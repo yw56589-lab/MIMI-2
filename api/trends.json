@@ -1,16 +1,187 @@
 {
-  "generated_at": "2026-10-22T03:48:15.218855+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-22T06:55:24.219360+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 7,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.1 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 2 个来源平台，平均热榜排名约 17.5 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 57,
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
+          "url": "https://wallstreetcn.com/livenews/3182998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "OpenAI：更新后的使用政策要求，模型路由器和AI网关在提供访问权限前，必须获得OpenAI的审核和批准。",
+          "url": "https://flash.jin10.com/detail/20261022055300050800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "OpenAI：正致力于推出安全识别码（Safety IDs），用户可在调查过程中提供该识别码，以帮助区分不同的终端用户。",
+          "url": "https://flash.jin10.com/detail/20261022055128917800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "OpenAI：将于2026年11月20日起更新使用政策，以明确安全模型开发和敏感人工智能应用的相关规则。",
+          "url": "https://flash.jin10.com/detail/20261022055023306800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+          "url": "https://www.cls.cn/detail/2511618",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3183001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "纳指ETF收涨1%，与可转债ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3182984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 15.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
+          "url": "https://wallstreetcn.com/articles/3784121",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "伊朗指责美国在军事行动中使用进攻性太空能力",
+          "url": "https://flash.jin10.com/detail/20261022061230479800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
+          "url": "https://www.zhihu.com/question/2095115972684112468",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "伊朗外长：面对任何侵略，伊朗都将坚决捍卫国家主权",
+          "url": "https://flash.jin10.com/detail/20261022053925211800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -22,177 +193,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时48分]"
-        },
-        {
-          "title": "美国总统特朗普：距离解决俄乌冲突越来越近了。",
-          "url": "https://flash.jin10.com/detail/20261022031708920800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "06时55分"
         },
         {
-          "title": "美国总统特朗普：（关于从俄罗斯释放人质）我们没有作出任何交换。",
-          "url": "https://flash.jin10.com/detail/20261022031627222800",
+          "title": "据NewsNation：特朗普已抵达南卡罗来纳州。",
+          "url": "https://flash.jin10.com/detail/20261022061709840800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "美国总统特朗普：更加接近解决俄罗斯与乌克兰的冲突。 现在可能是我们距离结束冲突最近的一次。 （关于哈伯德从俄罗斯获释）我们没有做出任何交换。",
-          "url": "https://wallstreetcn.com/livenews/3182925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了相当长时间的交谈。",
-          "url": "https://flash.jin10.com/detail/20261022030459344800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "加拿大总理卡尼：与美国总统特朗普讨论了广泛议题，包括伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20261022030449083800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了长时间通话。 与特朗普讨论了包括伊朗在内的广泛议题。",
-          "url": "https://wallstreetcn.com/livenews/3182914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 18.8 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美怀疑以军诱伊朗开火 数十架以军战机曾逼近伊朗边境",
-          "url": "https://flash.jin10.com/detail/20261022031507829800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "数十架以军战机曾逼近伊朗边境",
-          "url": "https://wallstreetcn.com/livenews/3182912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "伊朗方面称锡里克地区传出数次爆炸声",
-          "url": "https://flash.jin10.com/detail/20261022024533877800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "伊朗方面称锡里克地区传出数次爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3182911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗外长阿拉格齐表示，伊朗正积极开展经济外交，并致力于解决出口商面临的障碍。邻国是伊朗最重要的出口目的地之一，伊朗希望改善与邻国的关系。",
-          "url": "https://flash.jin10.com/detail/20261022023828577800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
-        "direction": "平稳",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI：OpenAI模型即将登陆Google Cloud。我们将把前沿模型和Codex智能代理工作流带到Google Cloud的Model Garden，让企业能够在已开展业务的平台上使用我们的技术。",
-          "url": "https://flash.jin10.com/detail/20261022032437809800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "OpenAI的模型即将登陆谷歌云",
-          "url": "https://wallstreetcn.com/livenews/3182931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "06时55分"
         }
       ]
     },
@@ -200,10 +213,10 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 24.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
@@ -212,59 +225,11 @@
           "url": "https://www.toutiao.com/trending/7697961005829668883/",
           "source": "今日头条",
           "ranks": [
-            19
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 58,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "OpenAI：发布赋能网络防御方的蓝图，该文件基于此前的网络安全行动计划与前沿安全蓝图制定。 OpenAI呼吁加强前沿人工智能安全保障。",
-          "url": "https://wallstreetcn.com/livenews/3182923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 72,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
-          "url": "https://wallstreetcn.com/articles/3784116",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时48分]"
+          "time_info": "06时55分"
         }
       ]
     }
