@@ -1,117 +1,16 @@
 {
-  "generated_at": "2026-10-21T23:45:58.028659+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-22T03:48:15.218855+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 8,
-      "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 4 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "据伊通社（IRNA）：伊朗议会议长卡利巴夫与最高领袖穆杰塔巴·哈梅内伊讨论了美以对伊战争的最新进展。",
-          "url": "https://flash.jin10.com/detail/20261021233534933800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗议会议长卡利巴夫会见伊朗最高领袖穆杰塔巴·哈梅内伊。",
-          "url": "https://flash.jin10.com/detail/20261021233336152800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫会见最高领袖穆杰塔巴",
-          "url": "https://wallstreetcn.com/livenews/3182846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "伊朗议会议长与穆杰塔巴举行会谈",
-          "url": "https://flash.jin10.com/detail/20261021233254159800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
-          "url": "https://www.zhihu.com/question/2095115972684112468",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：消灭伊朗政权是我对以色列国防军、摩萨德和安全部门的指示。",
-          "url": "https://flash.jin10.com/detail/20261021231537821800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "国乒男团亚锦赛3-0战胜伊朗男团",
-          "url": "https://www.toutiao.com/trending/7698625662931910697/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：伊朗人民希望以色列取得胜利。",
-          "url": "https://flash.jin10.com/detail/20261021230932645800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 3 个来源平台，平均热榜排名约 9.7 位，标题平均出现 1.1 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
@@ -123,41 +22,236 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
         },
         {
-          "title": "英国央行行长就特朗普攻击鲍威尔一事为其发声辩护",
-          "url": "https://wallstreetcn.com/livenews/3182839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普希望乌克兰总统泽连斯基与俄罗斯总统普京在迈阿密举行的二十国集团（G20）峰会上签署和平协议。",
-          "url": "https://flash.jin10.com/detail/20261021230946049800",
+          "title": "美国总统特朗普：距离解决俄乌冲突越来越近了。",
+          "url": "https://flash.jin10.com/detail/20261022031708920800",
           "source": "金十数据",
           "ranks": [
-            24
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国总统特朗普：（关于从俄罗斯释放人质）我们没有作出任何交换。",
+          "url": "https://flash.jin10.com/detail/20261022031627222800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国总统特朗普：更加接近解决俄罗斯与乌克兰的冲突。 现在可能是我们距离结束冲突最近的一次。 （关于哈伯德从俄罗斯获释）我们没有做出任何交换。",
+          "url": "https://wallstreetcn.com/livenews/3182925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了相当长时间的交谈。",
+          "url": "https://flash.jin10.com/detail/20261022030459344800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "加拿大总理卡尼：与美国总统特朗普讨论了广泛议题，包括伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20261022030449083800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了长时间通话。 与特朗普讨论了包括伊朗在内的广泛议题。",
+          "url": "https://wallstreetcn.com/livenews/3182914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "ai_insight": {
+        "analysis": "该板块当前收录 5 条热点，覆盖 2 个来源平台，平均热榜排名约 18.8 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 58,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美怀疑以军诱伊朗开火 数十架以军战机曾逼近伊朗边境",
+          "url": "https://flash.jin10.com/detail/20261022031507829800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "数十架以军战机曾逼近伊朗边境",
+          "url": "https://wallstreetcn.com/livenews/3182912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "伊朗方面称锡里克地区传出数次爆炸声",
+          "url": "https://flash.jin10.com/detail/20261022024533877800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "伊朗方面称锡里克地区传出数次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3182911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗外长阿拉格齐表示，伊朗正积极开展经济外交，并致力于解决出口商面临的障碍。邻国是伊朗最重要的出口目的地之一，伊朗希望改善与邻国的关系。",
+          "url": "https://flash.jin10.com/detail/20261022023828577800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI：OpenAI模型即将登陆Google Cloud。我们将把前沿模型和Codex智能代理工作流带到Google Cloud的Model Garden，让企业能够在已开展业务的平台上使用我们的技术。",
+          "url": "https://flash.jin10.com/detail/20261022032437809800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "OpenAI的模型即将登陆谷歌云",
+          "url": "https://wallstreetcn.com/livenews/3182931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 2.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
+          "url": "https://www.toutiao.com/trending/7697961005829668883/",
+          "source": "今日头条",
+          "ranks": [
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 58,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "OpenAI：发布赋能网络防御方的蓝图，该文件基于此前的网络安全行动计划与前沿安全蓝图制定。 OpenAI呼吁加强前沿人工智能安全保障。",
+          "url": "https://wallstreetcn.com/livenews/3182923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时45分"
+          "time_info": "03时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 72,
         "chart": []
       },
       "titles": [
@@ -169,67 +263,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "一名官员称：美国已经明确表态，要求众多AI公司提高（PHP漏洞）检测能力。 AI企业发现了问题，它们并没有造成（PHP）问题。 美股正评估PHP安全漏洞对政府系统的潜在影响。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3182837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
-          "url": "https://www.toutiao.com/trending/7697961005829668883/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "纳斯达克100指数涨幅扩大至1%。成分股SpaceX目前涨9.8%，Datadog、Strategy涨7.1%，CrowdStrike涨4.1%，RKLB、Lumentum、特斯拉至少涨超3.4%，阿斯麦ADR涨2.8%，谷歌A跌2.2%，ISRG跌2.4%，拼多多ADR跌3.9%，奈飞跌4.6%，德康医疗跌4.9%。",
-          "url": "https://wallstreetcn.com/livenews/3182836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时45分"
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
         }
       ]
     }
