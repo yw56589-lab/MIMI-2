@@ -1,141 +1,16 @@
 {
-  "generated_at": "2026-10-22T09:06:43.795693+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-22T14:51:19.483875+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 13.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 82,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "泽连斯基和特朗普，彻底决裂了？",
-          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "SpaceX与特斯拉的潜在合并交易据悉可能有意在特朗普任期结束前完成。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3183039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "特朗普目前在南卡罗来纳州进行了约一个小时的讲话，期间被至少12名抗议者打断。",
-          "url": "https://flash.jin10.com/detail/20261022081752889800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "市场消息：SpaceX与特斯拉计划在特朗普任期结束前完成合并交易，力争在2027年上半年达成合并协议。",
-          "url": "https://flash.jin10.com/detail/20261022081451934800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "特朗普在集会上表示：我们对“特朗普海峡”（霍尔木兹海峡）实施了封锁。",
-          "url": "https://flash.jin10.com/detail/20261022080211823800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "特朗普放弃更名大西洋为“特朗普洋”",
-          "url": "https://flash.jin10.com/detail/20261022075820958800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 20.3 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "揭秘DeepSeek开源推理框架",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
-          "url": "https://www.toutiao.com/trending/7697961005829668883/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "周鸿祎谈美国“封杀”DeepSeek",
-          "url": "https://www.toutiao.com/trending/7699074388208913958/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        }
-      ]
-    },
     {
       "keyword_group": "美股",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 10.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -148,37 +23,37 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "14时51分"
         },
         {
           "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
           "url": "https://www.cls.cn/detail/2511618",
           "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "14时51分"
         },
         {
-          "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3183019",
+          "title": "美股股指期货持续走低，纳指期货跌1.5%，标普500指数期货跌0.80%，道指期货跌0.40%。",
+          "url": "https://wallstreetcn.com/livenews/3183197",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "14时51分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "特朗普",
       "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 11.7 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -186,37 +61,72 @@
       },
       "titles": [
         {
-          "title": "消息称美以已制定新一轮对伊朗打击计划",
-          "url": "https://wallstreetcn.com/livenews/3183042",
-          "source": "华尔街见闻-快讯",
+          "title": "普京：不排除与特朗普赴华会晤可能性",
+          "url": "https://www.toutiao.com/trending/7698752765752868873/",
+          "source": "今日头条",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "14时51分"
         },
+        {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "克林顿嘲讽特朗普诺贝尔奖言论",
+          "url": "https://www.douyin.com/hot/2707583",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
         {
           "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
           "url": "https://wallstreetcn.com/articles/3784121",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "14时51分"
         },
         {
-          "title": "伊朗最高领袖会见议会议长卡利巴夫",
-          "url": "https://www.toutiao.com/trending/7699142459120484914/",
-          "source": "今日头条",
+          "title": "以防长说伊朗若袭击以色列将灭了伊朗",
+          "url": "https://wallstreetcn.com/livenews/3183206",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "14时51分"
         }
       ]
     }
