@@ -1,95 +1,16 @@
 {
-  "generated_at": "2026-10-24T02:04:14.558433+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-10-24T06:29:10.828753+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 6,
-      "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.8 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 68,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
-        },
-        {
-          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
-          "url": "https://wallstreetcn.com/articles/3784246",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
-        },
-        {
-          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784249",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
-        },
-        {
-          "title": "富国：中期选举前宜押注美债上涨、做空美元",
-          "url": "https://wallstreetcn.com/livenews/3184970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，布油涨3%",
-          "url": "https://wallstreetcn.com/articles/3784279",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
-        },
-        {
-          "title": "加拿大专家驳斥中国借道买美债阴谋论",
-          "url": "https://www.toutiao.com/trending/7699793212264874506/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 14.0 位，标题平均出现 1.7 次。",
+        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 9.6 位，标题平均出现 1.5 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 72,
+        "confidence": 63,
         "chart": []
       },
       "titles": [
@@ -102,7 +23,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "美驻土耳其大使称周末可能打击伊朗，特朗普称对此不知情",
+          "url": "https://wallstreetcn.com/livenews/3185058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
+          "url": "https://flash.jin10.com/detail/20261024053430135800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
@@ -113,7 +56,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
@@ -124,7 +67,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
@@ -135,40 +78,119 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
-          "title": "伊朗央行行长：尽管华盛顿施加经济压力，伊朗仍有能力为进口提供资金，且这一能力可延续至美国总统特朗普任期之后。",
-          "url": "https://wallstreetcn.com/livenews/3184951",
+          "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
+          "url": "https://wallstreetcn.com/livenews/3185051",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "06时29分"
         },
         {
-          "title": "据相关信函：美国民主党联邦通信委员会委员敦促广播行业更积极地对抗特朗普政府“恐吓”广播机构的做法。",
-          "url": "https://flash.jin10.com/detail/20261024004638031800",
+          "title": "特朗普政府取消部分加拿大商品50%关税 另对其他产品加税",
+          "url": "https://flash.jin10.com/detail/20261024045111577800",
           "source": "金十数据",
           "ranks": [
-            23
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "06时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "ai_insight": {
+        "analysis": "该板块当前收录 6 条热点，覆盖 3 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.8 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 70,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
+          "url": "https://wallstreetcn.com/articles/3784246",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "10年期美债收益率周五反弹超4个基点，使得本周累计跌幅收窄至不到8个基点",
+          "url": "https://wallstreetcn.com/livenews/3185056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，布油涨3%",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "加拿大专家驳斥中国借道买美债阴谋论",
+          "url": "https://www.toutiao.com/trending/7699793212264874506/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 12.2 位，标题平均出现 1.2 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.3 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 55,
+        "confidence": 57,
         "chart": []
       },
       "titles": [
@@ -181,65 +203,78 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
-          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
-          "url": "https://wallstreetcn.com/livenews/3184964",
+          "title": "美国财长贝森特：尽管伊朗试图扰乱能源运输，但波斯湾的石油出口正强势反弹，已超过冲突前水平。信号很明确：伊朗的威胁未能阻止能源流向全球市场。",
+          "url": "https://flash.jin10.com/detail/20261024052147593800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗代理石油部长将陪同伊朗总统佩泽希齐扬出席10月27日在莫斯科举行的第八届天然气出口国峰会。",
+          "url": "https://flash.jin10.com/detail/20261024041839115800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.5 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 63,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
+          "url": "https://wallstreetcn.com/articles/3784256",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "美国得州就用户欺骗与儿童安全问题起诉OpenAI及其CEO",
+          "url": "https://wallstreetcn.com/livenews/3185033",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
-          "url": "https://flash.jin10.com/detail/20261024011015135800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "据路透社：两名伊朗高级安全官员表示，伊朗已制定详细计划，一旦美国和以色列再次袭击伊朗，将打击海湾地区的海底通信电缆。",
-          "url": "https://flash.jin10.com/detail/20261024005458015800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "06时29分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 4.5 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 71,
+        "confidence": 73,
         "chart": []
       },
       "titles": [
-        {
-          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
-          "url": "https://www.zhihu.com/question/2096713518582179306",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
-        },
         {
           "title": "曝DeepSeek完成千亿融资",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
@@ -249,31 +284,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 2.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 75,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
-          "url": "https://wallstreetcn.com/articles/3784256",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "time_info": "[06时28分 ~ 06时29分]"
         }
       ]
     },
@@ -281,23 +292,47 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 17.0 位，标题平均出现 2.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 79,
+        "confidence": 58,
         "chart": []
       },
       "titles": [
         {
-          "title": "国际金价暴跌因获利了结",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "国际金价周五跌0.7%失守4000美元关口，纽约白银期货本周跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3185050",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 27.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 57,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "道指ETF收跌超1.2%，领跌美股大类资产类ETF，布油基金涨3%",
+          "url": "https://wallstreetcn.com/livenews/3185030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         }
       ]
     }
