@@ -1,105 +1,153 @@
 {
-  "generated_at": "2026-10-26T13:37:48.844777+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-10-26T20:46:55.968141+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "特朗普",
+      "match_count": 4,
       "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 6.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 10.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 82,
         "chart": []
       },
       "titles": [
         {
-          "title": "金价创纪录 俄罗斯矿企财务状况改善",
-          "url": "https://www.toutiao.com/trending/7700744756238663723/",
-          "source": "今日头条",
+          "title": "全球关键材料争夺战“白热化”？欧盟开始“抄特朗普作业”",
+          "url": "https://www.cls.cn/detail/2514939",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时37分"
+          "time_info": "20时46分"
         },
         {
-          "title": "黄金价格再次下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "特朗普狂喷：挪威是“粪坑国家”",
+          "url": "https://news.ifeng.com/c/8xXW8razcUG",
+          "source": "凤凰网",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时37分"
+          "time_info": "20时46分"
         },
+        {
+          "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "挑战特朗普在美国的一天",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%80%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 13.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "洛克希德·马丁美股盘前上涨1.5%，摩根士丹利将公司评级从“中性”上调至“增持”，目标价从690美元上调至835美元。",
+          "url": "https://wallstreetcn.com/livenews/3186261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "Meta美股盘前涨超2%，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3186184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
+          "url": "https://www.zhihu.com/question/2095940115537334577",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 80,
+        "chart": []
+      },
+      "titles": [
         {
           "title": "黄金价格再次下跌",
           "url": "https://www.douyin.com/hot/2713480",
           "source": "抖音",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 3 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "据英国金融时报：欧盟考虑在关键矿产保障方面效仿特朗普。",
-          "url": "https://flash.jin10.com/detail/20261026131007148800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "特朗普再次给内塔尼亚胡背书",
-          "url": "https://news.ifeng.com/c/8xWtiDBWMKf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "梅德韦杰夫喊话特朗普“教训”乌总统",
-          "url": "https://www.toutiao.com/trending/7700578970949075465/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "time_info": "20时46分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 14.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 80,
@@ -107,26 +155,15 @@
       },
       "titles": [
         {
-          "title": "伊朗：沙特、巴基斯坦和土耳其官员将在德黑兰会晤。",
-          "url": "https://wallstreetcn.com/livenews/3185394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "外媒：“麦加协议”三国高官将与伊朗官员会晤",
-          "url": "https://wallstreetcn.com/livenews/3185379",
+          "title": "伊朗外交部：以色列议会选举结果对伊“毫无区别”",
+          "url": "https://wallstreetcn.com/livenews/3186222",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时37分"
+          "time_info": "20时46分"
         }
       ]
     }
