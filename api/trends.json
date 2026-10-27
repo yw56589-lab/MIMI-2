@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T10:15:41.641901+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-27T15:07:59.256943+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 6.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 8.3 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 76,
@@ -15,199 +15,107 @@
       },
       "titles": [
         {
-          "title": "OpenAI公布三项科学成果",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%85%AC%E5%B8%83%E4%B8%89%E9%A1%B9%E7%A7%91%E5%AD%A6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
           "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
           "url": "https://www.cls.cn/detail/2515893",
           "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "OpenAI发布GPT6.1 Terra",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT6.1%20Terra",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "15时07分"
         },
         {
           "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
           "url": "https://www.zhihu.com/question/2098291700204622696",
           "source": "知乎",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "15时07分"
         },
         {
-          "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
-          "url": "https://www.zhihu.com/question/2098252387312058852",
+          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
+          "url": "https://www.zhihu.com/question/2098331248469062137",
           "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "15时07分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
+      "keyword_group": "伊朗",
+      "match_count": 3,
       "ai_insight": {
-        "analysis": "该板块当前收录 4 条热点，覆盖 4 个来源平台，平均热榜排名约 17.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 3 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 83,
+        "confidence": 78,
         "chart": []
       },
       "titles": [
         {
-          "title": "“美军已做好打击准备，只等特朗普下令”",
-          "url": "https://original.ifeng.com/c/8xXd9gYztM7",
-          "source": "凤凰网",
+          "title": "据伊媒报道，伊朗议会就近期物价上涨问题质询经济部长，议员们对其答复表示不满。最终，议会认为经济部长的答复未能令人信服，共有120名议员投下反对票。",
+          "url": "https://flash.jin10.com/detail/20261027145418247800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫披露与最高领袖会晤细节",
+          "url": "https://flash.jin10.com/detail/20261027144956544800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "15时07分"
         },
         {
-          "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "巴西副总统驳斥特朗普言论",
-          "url": "https://www.toutiao.com/trending/7701071685427970587/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "美国总统特朗普周二日程一览",
-          "url": "https://flash.jin10.com/detail/20261027093740167800",
+          "title": "伊朗确认拖欠基本商品进口商40.7亿欧元外汇款项",
+          "url": "https://flash.jin10.com/detail/20261027143936437800",
           "source": "金十数据",
           "ranks": [
-            28
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "15时07分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 1.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 67,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "【早报】科技股回暖，美股全线上涨；国际油价，从六个月高点回落；药明康德、中信证券发布三季报",
-          "url": "https://www.cls.cn/detail/2515908",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2515881",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 76,
+        "confidence": 80,
         "chart": []
       },
       "titles": [
         {
-          "title": "DeepSeek七款工具同题实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
+          "title": "谷歌 CEO 称「宁可牺牲云业务利润，也要打赢前沿大模型生死战」，大模型对于谷歌有多重要？",
+          "url": "https://www.zhihu.com/question/2097989360473694568",
+          "source": "知乎",
           "ranks": [
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 67,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "金价4000美元反复争夺，短线进入低位重新定价阶段",
-          "url": "https://flash.jin10.com/detail/20261027100406984800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "15时07分"
         }
       ]
     },
@@ -215,10 +123,10 @@
       "keyword_group": "美债",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 66,
         "chart": []
       },
       "titles": [
@@ -227,16 +135,16 @@
           "url": "https://wallstreetcn.com/articles/3784464",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "15时07分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "特朗普",
       "match_count": 1,
       "ai_insight": {
         "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
@@ -247,15 +155,15 @@
       },
       "titles": [
         {
-          "title": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗",
-          "url": "https://wallstreetcn.com/articles/3784454",
-          "source": "华尔街见闻",
+          "title": "奥巴马称白宫修得像连锁餐厅，特朗普很不爽",
+          "url": "https://news.ifeng.com/c/8xYriizED1y",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "15时07分"
         }
       ]
     }
