@@ -1,41 +1,19 @@
 {
-  "generated_at": "2026-10-29T22:48:29.711256+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-30T03:59:13.012141+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "ai_insight": {
-        "analysis": "该板块当前收录 9 条热点，覆盖 4 个来源平台，平均热榜排名约 6.9 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 14 条热点，覆盖 3 个来源平台，平均热榜排名约 15.9 位，标题平均出现 1.1 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 77,
+        "confidence": 55,
         "chart": []
       },
       "titles": [
-        {
-          "title": "美国总统特朗普再次批评巴西选举。",
-          "url": "https://flash.jin10.com/detail/20261029224101671800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "美国总统特朗普宣称：我会与赢得连任的巴西总统卢拉谈谈。",
-          "url": "https://wallstreetcn.com/livenews/3190616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
         {
           "title": "马杜罗案主审法官去世，新任法官与特朗普“很不对付”",
           "url": "https://news.ifeng.com/c/8xcaVgbuv5d",
@@ -44,52 +22,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "美国总统特朗普：我会和巴西总统卢拉谈谈。",
-          "url": "https://flash.jin10.com/detail/20261029223926291800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "美国总统特朗普：从GDP角度看，这个早晨很好。",
-          "url": "https://wallstreetcn.com/livenews/3190611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "美国总统特朗普：从GDP角度看，这是一个美好的早晨。",
-          "url": "https://flash.jin10.com/detail/20261029223643239800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "美军最高层战略规划官员遭解职 特朗普淡化美伊和谈预期",
-          "url": "https://www.cls.cn/detail/2519386",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "得州保守派领袖答凤凰：油价上涨不怪特朗普，警惕“穆斯林危机”",
@@ -99,19 +33,140 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
-          "title": "特朗普愿意再给伊朗外交机会？英特尔财报将迎关键考验 | Plus日报",
-          "url": "https://flash.jin10.com/detail/20261029223028644800",
+          "title": "美媒：美军中央司令向特朗普汇报对伊朗打击方案",
+          "url": "https://flash.jin10.com/detail/20261030032103146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "据华尔街日报：据美国官员和其他直接了解相关会晤的人士透露，美国驻中东最高指挥官当地时间周四向美国总统特朗普汇报了对伊朗的军事选项。",
+          "url": "https://flash.jin10.com/detail/20261030031437787800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美军最高上将向特朗普汇报伊朗打击方案",
+          "url": "https://wallstreetcn.com/livenews/3190726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普：美国经济正以3.4%的速度强劲增长",
+          "url": "https://flash.jin10.com/detail/20261030025522506800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "现任及前任美国官员称，特朗普政府计划在下周美国中期选举结束后对伊朗发动打击，美军飞机正调往相关位置，预计将使用MOAB（“炸弹之母”）大型空爆炸弹。（Newsmax）",
+          "url": "https://wallstreetcn.com/livenews/3190716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "据Newsmax：现任及前任美国官员称，特朗普政府计划在下周美国中期选举结束后对伊朗发动打击，美军飞机正调往相关位置，预计将使用MOAB（“炸弹之母”）大型空爆炸弹。",
+          "url": "https://flash.jin10.com/detail/20261030024842616800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普警告称，民主党若在中期选举中获胜，将引发类似1929年的经济大萧条。",
+          "url": "https://wallstreetcn.com/livenews/3190714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：石油和汽油价格将大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20261030023233295800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普预测石油和汽油价格将大幅下跌。",
+          "url": "https://wallstreetcn.com/livenews/3190711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普警告称，民主党若在中期选举中获胜，将引发1929年式的经济大萧条。",
+          "url": "https://flash.jin10.com/detail/20261030023145324800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普重申将墨西哥湾更名为美国湾，提议将霍尔木兹海峡更名为特朗普海峡。",
+          "url": "https://wallstreetcn.com/livenews/3190707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大近来对我们态度不错。",
+          "url": "https://wallstreetcn.com/livenews/3190704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         }
       ]
     },
@@ -119,10 +174,10 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "ai_insight": {
-        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 7 条热点，覆盖 4 个来源平台，平均热榜排名约 7.3 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 77,
         "chart": []
       },
       "titles": [
@@ -134,8 +189,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
@@ -145,122 +200,63 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
-          "url": "https://wallstreetcn.com/articles/3784718",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "谷歌财报重挫市场信心，纳指低开跌1.35%，Alphabet跌幅扩大至13.7%，创历史最大跌幅",
           "url": "https://wallstreetcn.com/articles/3784748",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "谷歌盘前大跌逾11%，或创上市以来最大财报后跌幅",
           "url": "https://www.cls.cn/detail/2519632",
           "source": "财联社热门",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
-          "title": "谷歌盘初大跌超13%",
-          "url": "https://www.toutiao.com/trending/7702083319176891946/",
-          "source": "今日头条",
+          "title": "谷歌发布第三季度财报后，盘后一度下跌 10%，市场在担忧什么？",
+          "url": "https://www.zhihu.com/question/2099071583642039255",
+          "source": "知乎",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
+        },
+        {
+          "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
+          "url": "https://wallstreetcn.com/articles/3784718",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "谷歌暴跌13% 创其历史最大单日跌幅",
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%9A%B4%E8%B7%8C13%25+%E5%88%9B%E5%85%B6%E5%8E%86%E5%8F%B2%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85",
           "source": "百度热搜",
           "ranks": [
-            27
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 1 个来源平台，平均热榜排名约 13.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "伊朗尚未回应美国副总统万斯的来信。（伊朗媒体Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3190614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "美国参议院多数派领导人图恩（John Thune）：汽油价格是一个短期问题。 汽油价格将会下降。 伊朗问题最终将会结束。",
-          "url": "https://wallstreetcn.com/livenews/3190590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 1.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 66,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "如何理解梁文锋「在颠覆性的技术面前，闭源形成的护城河是短暂的」这一判断？",
-          "url": "https://www.zhihu.com/question/2098733383778149122",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         }
       ]
     },
@@ -268,10 +264,10 @@
       "keyword_group": "金价",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 25.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -280,11 +276,11 @@
           "url": "https://www.toutiao.com/trending/7702013997255495231/",
           "source": "今日头条",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
         }
       ]
     },
@@ -292,10 +288,10 @@
       "keyword_group": "美股",
       "match_count": 1,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 4.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 3.0 位，标题平均出现 2.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 70,
+        "confidence": 68,
         "chart": []
       },
       "titles": [
@@ -304,11 +300,59 @@
           "url": "https://www.cls.cn/detail/2519683",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 03时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 65,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "周四（10月29日）纽约尾盘，ICE美元指数跌0.16%，报102.033点，日内交投区间为102.448-101.946点，北京时间21:19刷新日高，随后快速下挫。 彭博美元指数涨0.03%，报1224.39点，日内交投区间为1222.97-1227.16点，也曾在21:19刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3190728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "03时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内预计维持震荡平稳，热点有延续但爆发性有限，可按常规节奏持续关注。",
+        "direction": "平稳",
+        "confidence": 63,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "伊媒：伊朗尚未对美副总统来信作出回应",
+          "url": "https://wallstreetcn.com/livenews/3190614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         }
       ]
     }
