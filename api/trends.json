@@ -1,16 +1,95 @@
 {
-  "generated_at": "2026-10-30T11:39:26.516410+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-30T18:36:53.364862+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美股",
       "match_count": 6,
       "ai_insight": {
-        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 8.8 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 6 条热点，覆盖 5 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 85,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美国银行将苹果(AAPL.O)从其美股首选名单中移除。",
+          "url": "https://flash.jin10.com/detail/20261030181459801800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "一图看懂：AI算力竞赛出现变奏？美股四巨头资本投入节奏分化",
+          "url": "https://www.cls.cn/detail/2520285",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "全球科技股“惨遭血洗”！纳指期货跌2%，英特尔美股盘前暴跌23%，韩股收跌3.5%，黄金跌破4000美元",
+          "url": "https://wallstreetcn.com/articles/3784816",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "李大霄解读美股调整的原因",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E8%B0%83%E6%95%B4%E7%9A%84%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "科技巨头一夜蒸发3万亿美股要崩了吗",
+          "url": "https://www.toutiao.com/trending/7702324412527152681/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "美股科技泡沫要破了吗",
+          "url": "https://www.toutiao.com/trending/7702382410838576691/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
         "chart": []
       },
       "titles": [
@@ -23,51 +102,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "18时36分"
         },
         {
-          "title": "【早报】谷歌跌12%，英特尔盘后跌超20%；沪市9只主动ETF全部完成募集；中际旭创、新易盛、胜宏科技等披露三季报",
-          "url": "https://www.cls.cn/detail/2519971",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 纳指跌超1% 谷歌创上市以来最大单日跌幅",
-          "url": "https://www.cls.cn/detail/2519945",
-          "source": "财联社热门",
+          "title": "美国证交会（SEC）文件：Reddit根据谷歌(GOOG.O)云服务协议，承诺在2026年9月至2029年8月期间总计支出5.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20261030181221321800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "18时36分"
         },
         {
-          "title": "谷歌美股开盘大跌超 13%，创历史最大单日跌幅，总市值蒸发 5000 亿美元，为啥会这样？还会持续下跌吗？",
-          "url": "https://www.zhihu.com/question/2099258545564643597",
-          "source": "知乎",
+          "title": "轮番“历史性暴跌”！谷歌的病，亚马逊也得了",
+          "url": "https://wallstreetcn.com/articles/3784814",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "谷歌 A股",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%20A%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "18时36分"
         },
         {
           "title": "谷歌重夺大模型第一 华尔街却不买账",
@@ -78,36 +135,47 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "18时36分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 78,
+        "confidence": 75,
         "chart": []
       },
       "titles": [
         {
-          "title": "白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向",
-          "url": "https://wallstreetcn.com/articles/3784793",
-          "source": "华尔街见闻",
+          "title": "特朗普对华降调，盟友、对手敢低头吗？",
+          "url": "https://news.ifeng.com/c/8xdyt1ktpj8",
+          "source": "凤凰网",
           "ranks": [
-            10
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "18时36分"
+        },
+        {
+          "title": "特朗普怒怼质疑其身体状况记者",
+          "url": "https://www.douyin.com/hot/2720443",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "ai_insight": {
         "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
@@ -118,15 +186,39 @@
       },
       "titles": [
         {
-          "title": "伊朗方面称已收到美副总统信函 以色列议会选举初步计票全部完成 | 环球市场",
-          "url": "https://www.cls.cn/detail/2519979",
-          "source": "财联社热门",
+          "title": "亚马逊(AMZN.O)：第三季度，将剩余213亿美元承诺投资于OpenAI的C系列优先股。",
+          "url": "https://flash.jin10.com/detail/20261030181054280800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "18时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 11.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 79,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "据阿拉比亚电视台：阿拉伯消息来源透露，中间人正在与伊朗讨论让检查员进入核设施，以换取一些被冻结的资金。 华盛顿已告知中间人，伊朗放弃核计划是任何谈判的基础。",
+          "url": "https://flash.jin10.com/detail/20261030180531831800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     }
