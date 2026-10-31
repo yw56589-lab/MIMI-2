@@ -1,30 +1,307 @@
 {
-  "generated_at": "2026-10-31T15:46:30.253950+08:00",
+  "generated_at": "2026-10-31T22:04:21.788090+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
+      "keyword_group": "伊朗",
+      "match_count": 25,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 4 个来源平台，平均热榜排名约 9.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 25 条热点，覆盖 4 个来源平台，平均热榜排名约 11.8 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 83,
         "chart": []
       },
       "titles": [
         {
-          "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
-          "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
-          "source": "凤凰网",
+          "title": "伊朗外长：伊朗将继续坚持和抵抗，并凭借自身能力渡过这一艰难时期。",
+          "url": "https://flash.jin10.com/detail/20261031212151756800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "22时04分"
         },
+        {
+          "title": "伊朗外长：伊方暂无与美方会谈的计划",
+          "url": "https://wallstreetcn.com/livenews/3191984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：我们不否认经济压力的存在，但绝不会屈服，也不会放弃尊严。",
+          "url": "https://flash.jin10.com/detail/20261031212009314800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：目前没有与美国官员会面的计划",
+          "url": "https://wallstreetcn.com/livenews/3191982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：伊朗接受国际原子能机构监督的核设施遭到袭击，而该机构没有针对这类情况的检查规程。伊朗与国际原子能机构的合作距离恢复正常状态仍相去甚远。",
+          "url": "https://flash.jin10.com/detail/20261031211942456800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：伊朗是《不扩散核武器条约》的缔约国，并遵守该条约规定的义务。",
+          "url": "https://flash.jin10.com/detail/20261031211635766800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：我们不排除任何爆发战争的可能性，并已为所有情况做好准备，我们已升级武器装备、弥补了薄弱环节、测试了新型武器，部队已处于最高战备状态。",
+          "url": "https://flash.jin10.com/detail/20261031211611468800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗最高领袖：要对敌方威胁作立即回应",
+          "url": "https://www.toutiao.com/trending/7702780604714061322/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：按照我方条件重新开放霍尔木兹海峡，将为就悬而未决的问题与华盛顿恢复谈判铺平道路。",
+          "url": "https://flash.jin10.com/detail/20261031211525288800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国重启谈判的举措是“积极的一步”。 目前没有与美国官员会面的计划。 伊朗代表团将在多哈继续会谈。 卡塔尔和巴基斯坦的调解人正在讨论伊朗的条件。 我们要求承认与阿曼商定的航线。 我们要求关闭所有其他霍尔木兹航线。 我们不排除重返战争的可能性。 距离恢复与国际原子能机构的合作还很遥远。",
+          "url": "https://wallstreetcn.com/livenews/3191978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：伊朗要求停止战争，并在所有战线上结束战争，包括黎巴嫩战线。",
+          "url": "https://flash.jin10.com/detail/20261031211414034800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗代表团前往多哈，与卡塔尔举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3191977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：我们要求承认我们与阿曼在霍尔木兹海峡共同划定的新航道，并关闭其余航道。",
+          "url": "https://flash.jin10.com/detail/20261031211259403800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：伊朗提出的条件包括解除《伊斯兰堡备忘录》签署后实施的制裁，以及缩减美国在该地区的驻军规模。我们还要求恢复石油制裁豁免，并解冻伊朗所有被冻结资产，包括存放在卡塔尔的资金。",
+          "url": "https://flash.jin10.com/detail/20261031211033650800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：卡塔尔方面提议将伊朗提案的执行期限缩短至5天。现阶段，我们已达成一项将实施期缩短至两天的提案。",
+          "url": "https://flash.jin10.com/detail/20261031210630433800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：在重新开放霍尔木兹海峡的问题上，目前摆在桌面上的只有伊朗提出的方案。",
+          "url": "https://flash.jin10.com/detail/20261031210539755800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：感谢卡塔尔和巴基斯坦方面的努力和持续沟通。",
+          "url": "https://flash.jin10.com/detail/20261031210426548800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗外长：仔细研究了万斯的信函 目前没有与美国官员会面的计划",
+          "url": "https://flash.jin10.com/detail/20261031210345711800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗代表团前往多哈 与卡塔尔举行会谈",
+          "url": "https://flash.jin10.com/detail/20261031205812938800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：必须通过非军事防御措施保护关键基础设施和资产",
+          "url": "https://flash.jin10.com/detail/20261031205736098800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "美媒爆美国或于11月4日攻击伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%AA%92%E7%88%86%E7%BE%8E%E5%9B%BD%E6%88%96%E4%BA%8E11%E6%9C%884%E6%97%A5%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗代表团已抵达多哈，但目前尚无在卡塔尔与美国举行会谈的安排。伊朗代表团此行是为了推进近期与卡塔尔方面谈判相关的事务。",
+          "url": "https://flash.jin10.com/detail/20261031203342913800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "据Axios：由卡塔尔外交官阿里·阿卜杜拉·阿里·塔瓦迪率领的卡塔尔调解代表团正在多哈与伊朗副外长继续进行会谈。一位外交消息人士透露，卡塔尔调解团一直与白宫保持联系。目前，美伊双方尚未就恢复直接谈判达成一致，美国代表团抵达多哈的具体日期也尚未确定。",
+          "url": "https://flash.jin10.com/detail/20261031203108170800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗最高领袖：要对敌方威胁立即采取有效应对措施",
+          "url": "https://wallstreetcn.com/livenews/3191956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊发表声明：必须对任何威胁立即予以回应。 如果敌人恢复攻击，最终结局将由伊朗决定。",
+          "url": "https://wallstreetcn.com/livenews/3191953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "ai_insight": {
+        "analysis": "该板块当前收录 4 条热点，覆盖 3 个来源平台，平均热榜排名约 12.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 82,
+        "chart": []
+      },
+      "titles": [
         {
           "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
           "url": "https://www.cls.cn/detail/2521415",
@@ -34,156 +311,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "22时04分"
         },
         {
-          "title": "特朗普称美伊战争将很快结束 中东局势再临关键窗口",
-          "url": "https://www.cls.cn/detail/2521289",
+          "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
+          "url": "https://www.cls.cn/detail/2521560",
           "source": "财联社热门",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "22时04分"
         },
         {
-          "title": "联邦法官叫停特朗普政府对加州选举官员的刑事威胁",
-          "url": "https://flash.jin10.com/detail/20261031142219454800",
-          "source": "金十数据",
+          "title": "特朗普抱怨：28天连轴转，真是够了",
+          "url": "https://wallstreetcn.com/livenews/3191972",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "22时04分"
         },
         {
           "title": "王骁谈特朗普中期选举处境",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "ai_insight": {
-        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 14.7 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "卡塔尔与伊朗举行会谈，推动美伊达成协议",
-          "url": "https://wallstreetcn.com/livenews/3191935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "伊朗外交部抨击加拿大支持阿联酋的岛屿主张：此举无异于自断根基",
-          "url": "https://flash.jin10.com/detail/20261031141200546800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：将不再有任何红线",
-          "url": "https://flash.jin10.com/detail/20261031121441232800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "DeepSeek联手华为能否击穿英伟达CUDA",
-          "url": "https://www.toutiao.com/trending/7702513613042355722/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 16.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 81,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "ChatGPT支持多账号切换",
-          "url": "https://flash.jin10.com/detail/20261031143242804800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "OpenAI将最新一轮融资目标砍掉100亿美元，现在寻求按1.25万亿美元估值融资大约200亿美元。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3191865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "22时04分"
         }
       ]
     },
@@ -191,7 +352,7 @@
       "keyword_group": "金价",
       "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 19.5 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 81,
@@ -199,61 +360,37 @@
       },
       "titles": [
         {
-          "title": "国际金价暴跌创近一年新低",
-          "url": "https://www.douyin.com/hot/2722142",
-          "source": "抖音",
+          "title": "现货黄金失守3900美元关口，创一年新低，金价长期逻辑变了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34375945",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "22时04分"
         },
         {
-          "title": "美联储都暂停加息了，金价为何反而涨不动？",
-          "url": "https://flash.jin10.com/detail/20261031123430671800",
-          "source": "金十数据",
+          "title": "金价暴跌是买大金镯还是等7字头",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%98%AF%E4%B9%B0%E5%A4%A7%E9%87%91%E9%95%AF%E8%BF%98%E6%98%AF%E7%AD%897%E5%AD%97%E5%A4%B4%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 26.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 80,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美债收益率在10月份普遍跌超30个基点",
-          "url": "https://wallstreetcn.com/livenews/3191858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "22时04分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 2.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 3.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 67,
+        "confidence": 70,
         "chart": []
       },
       "titles": [
@@ -266,7 +403,114 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "22时04分"
+        },
+        {
+          "title": "美股AI暴跌,万亿市值蒸发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 6.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "DeepSeek重磅开源：Agent底座架构！",
+          "url": "https://wallstreetcn.com/livenews/3191979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 10.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 78,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "Meta、谷歌、英特尔增发认购者集体浮亏，标普下调Meta评级展望",
+          "url": "https://wallstreetcn.com/articles/3784895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 74,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
+          "url": "https://www.cls.cn/detail/2521127",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "ai_insight": {
+        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 75,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "AI烧钱回报遭拷问！盘中英特尔创纪录暴跌30%、芯片指数跌超9%，科技股“失血”超万亿美元",
+          "url": "https://wallstreetcn.com/articles/3784890",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         }
       ]
     }
