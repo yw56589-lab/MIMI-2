@@ -1,358 +1,169 @@
 {
-  "generated_at": "2026-11-01T06:05:50.952361+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-11-01T09:43:49.038509+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 21,
+      "keyword_group": "特朗普",
+      "match_count": 13,
       "ai_insight": {
-        "analysis": "该板块当前收录 21 条热点，覆盖 3 个来源平台，平均热榜排名约 16.7 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 13 条热点，覆盖 5 个来源平台，平均热榜排名约 12.1 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 82,
+        "confidence": 85,
         "chart": []
       },
       "titles": [
         {
-          "title": "伊朗军方称已制定新的“敌方目标与资产清单”",
-          "url": "https://flash.jin10.com/detail/20261101050124640800",
-          "source": "金十数据",
+          "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
+          "url": "https://www.cls.cn/detail/2521560",
+          "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
         },
         {
-          "title": "中东媒体：伊朗正在研究万斯来信中的提议",
-          "url": "https://wallstreetcn.com/livenews/3191988",
+          "title": "特朗普不打算见小博索纳罗，称后者可长居美国",
+          "url": "https://wallstreetcn.com/livenews/3192004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗外长：伊方暂无与美方会谈的计划",
-          "url": "https://wallstreetcn.com/livenews/3191984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "UKMTO：10月霍尔木兹海峡周边商船遇袭事件创伊朗战争以来月度新高",
-          "url": "https://flash.jin10.com/detail/20261101040047345800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗：若遭攻击 最高领袖指示将落实",
-          "url": "https://flash.jin10.com/detail/20261101034620838800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗外长：目前没有与美国官员会面的计划",
-          "url": "https://wallstreetcn.com/livenews/3191982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：我呼吁民众不要理会制造对立的说法，所有政府官员立场一致，坚定支持最高领袖。",
-          "url": "https://flash.jin10.com/detail/20261101034259361800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：美国的信函是“积极一步”",
-          "url": "https://wallstreetcn.com/livenews/3191978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：美国提出了一项更好的提议，华盛顿在其中表示愿意接受伊朗提出的七项条件，这些条件与谅解备忘录中的条款不同。",
-          "url": "https://flash.jin10.com/detail/20261101030628462800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗代表团前往多哈，与卡塔尔举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3191977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：如果后续阶段举行核谈判，伊朗依据《不扩散核武器条约》享有的核权利应得到尊重。",
-          "url": "https://flash.jin10.com/detail/20261101025919924800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：我们将打掉美国的嚣张气焰。如果敌人再次犯错，就等着迎接一场极为光荣的防御，以及一次沉重打击。",
-          "url": "https://flash.jin10.com/detail/20261101025849134800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：在伊朗的七项条件得到满足之前，不会进行谈判，也不会开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20261101025622961800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗武装部队总参谋长：一旦确认敌方有采取敌对行动的迹象，伊朗武装部队在选择回应的时间和方式时，不会坐等对方先采取行动。",
-          "url": "https://flash.jin10.com/detail/20261101025531658800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：战争应永久结束，不应再有任何国家“胆敢”对伊朗发动攻击。",
-          "url": "https://flash.jin10.com/detail/20261101025431365800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：我们认真对待外交，但不会放弃伊朗人民的权利。",
-          "url": "https://flash.jin10.com/detail/20261101025307728800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：在德黑兰的四方会议上，没有提到麦加协议，也没有讨论也门问题；所有的讨论都是关于未来地区的安排应该如何进行。",
-          "url": "https://flash.jin10.com/detail/20261101025158452800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高军事指挥官警告称，任何重新出现的美以侵略将引发比以往更为严厉的反应。",
-          "url": "https://flash.jin10.com/detail/20261101025107666800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高领袖：要对敌方威胁作立即回应",
-          "url": "https://www.toutiao.com/trending/7702780604714061322/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：美国对伊朗发动战争之初，法国总统和德国总理曾表现得十分兴奋，但如今他们已开始担忧这场战争带来的经济问题及其后果。",
-          "url": "https://flash.jin10.com/detail/20261101025012397800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：只有在美国满足伊朗的要求之后，才可以讨论伊朗核问题。",
-          "url": "https://flash.jin10.com/detail/20261101022723577800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "ai_insight": {
-        "analysis": "该板块当前收录 8 条热点，覆盖 5 个来源平台，平均热榜排名约 10.4 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 83,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "如何看待台湾地区外事发言人回应特朗普言论：「他这是挫折和羡慕我们」？",
-          "url": "https://www.zhihu.com/question/2098805525668537881",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
-          "url": "https://www.cls.cn/detail/2521560",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "法官驳回了特朗普就《华尔街日报》关于爱泼斯坦的报道提起诉讼的请求",
-          "url": "https://flash.jin10.com/detail/20261101045802870800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
         },
         {
           "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
           "url": "https://www.cls.cn/detail/2521415",
           "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：如果美国和特朗普不为此次行动付出代价，其他国家明天就可能受到鼓动，进而攻击伊朗，因为没有任何事情能阻止他们。",
-          "url": "https://flash.jin10.com/detail/20261101033115815800",
+          "title": "美国总统特朗普：正在了解币安的情况，不担心币安。 伊朗想达成协议，正在了解情况，我们不着急。 仍有一两处地点需要处理，正在关注镐山。 俄乌冲突将在不久后结束。",
+          "url": "https://wallstreetcn.com/livenews/3192000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普：（被问及是否会邀请泽连斯基参加二十国集团峰会）我会的。",
+          "url": "https://flash.jin10.com/detail/20261101084504489800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "中期选举对特朗普真的重要么？",
+          "url": "https://www.zhihu.com/question/2022261330560697122",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普：目前没有计划与弗拉维奥·博索纳罗会面，但他可以“想在这里待多久就待多久”。",
+          "url": "https://flash.jin10.com/detail/20261101081706656800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普：俄乌冲突将在不太遥远的未来结束。",
+          "url": "https://flash.jin10.com/detail/20261101081509351800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
         },
         {
-          "title": "美国总统特朗普表示，其将在美国东部时间周六下午3点30分（北京时间周日凌晨3点30分）举行一场电话集会，届时将进行现场直播。",
-          "url": "https://flash.jin10.com/detail/20261101031729946800",
+          "title": "特朗普：仍有一两处地点需要处理，正在关注镐山。",
+          "url": "https://flash.jin10.com/detail/20261101081445301800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，我们会弄清楚此事。",
+          "url": "https://flash.jin10.com/detail/20261101081020362800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "如何看待特朗普再称台湾为「芯片小偷」，台湾地区外事发言人回应「他这是挫折和羡慕我们」？",
+          "url": "https://www.zhihu.com/question/2098805525668537881",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "王骁谈特朗普中期选举处境",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
         },
         {
-          "title": "特朗普抱怨：28天连轴转，真是够了",
-          "url": "https://wallstreetcn.com/livenews/3191972",
-          "source": "华尔街见闻-快讯",
+          "title": "法官驳回了特朗普就《华尔街日报》关于爱泼斯坦的报道提起诉讼的请求",
+          "url": "https://flash.jin10.com/detail/20261101045802870800",
+          "source": "金十数据",
           "ranks": [
-            21
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "keyword_group": "伊朗",
+      "match_count": 12,
       "ai_insight": {
-        "analysis": "该板块当前收录 5 条热点，覆盖 3 个来源平台，平均热榜排名约 15.6 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 12 条热点，覆盖 3 个来源平台，平均热榜排名约 15.6 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 82,
@@ -360,126 +171,190 @@
       },
       "titles": [
         {
+          "title": "中期选举后恢复打击伊朗？鲁比奥：尚未作出任何决定",
+          "url": "https://original.ifeng.com/c/8xguCN6pcot",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴下令更新军事目标库，准备应对新威胁",
+          "url": "https://original.ifeng.com/c/8xgvWL9453N",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美伊外交新进展，伊朗高官：美方的信，语气明显变了",
+          "url": "https://original.ifeng.com/c/8xgvWL9Lg6j",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美方分析报告称伊朗袭击造成中东地区美军基地严重损失",
+          "url": "https://wallstreetcn.com/livenews/3192001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美方分析报告称伊朗袭击造成中东地区美军基地严重损失",
+          "url": "https://flash.jin10.com/detail/20261101082509321800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "中东媒体：伊朗正在研究万斯来信中的提议",
+          "url": "https://wallstreetcn.com/livenews/3191988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗内阁已将汽油价格和配额调整权交由一工作组负责",
+          "url": "https://flash.jin10.com/detail/20261101055315876800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗外长：伊方暂无与美方会谈的计划",
+          "url": "https://wallstreetcn.com/livenews/3191984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗军方称已制定新的“敌方目标与资产清单”",
+          "url": "https://flash.jin10.com/detail/20261101050124640800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗外长：目前没有与美国官员会面的计划",
+          "url": "https://wallstreetcn.com/livenews/3191982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国的信函是“积极一步”",
+          "url": "https://wallstreetcn.com/livenews/3191978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗代表团前往多哈，与卡塔尔举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3191977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "ai_insight": {
+        "analysis": "该板块当前收录 3 条热点，覆盖 2 个来源平台，平均热榜排名约 13.7 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 81,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "如何评价 Deepseek Harness 发布的 super-agent 构想？",
+          "url": "https://www.zhihu.com/question/2099984457524572950",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "DeepSeek发布全新Agent架构",
           "url": "https://wallstreetcn.com/livenews/3191994",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "DeepSeek重磅发布：AI开始指挥AI干活",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
         },
         {
           "title": "DeepSeek重磅开源：Agent底座架构！",
           "url": "https://wallstreetcn.com/livenews/3191979",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "DeepSeek发布全新Agent架构",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0Agent%E6%9E%B6%E6%9E%84",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "DeepSeek联手华为能否击穿英伟达CUDA",
-          "url": "https://www.toutiao.com/trending/7702513613042355722/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "ai_insight": {
-        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 3.5 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 70,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
-          "url": "https://www.cls.cn/detail/2521391",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "美股AI暴跌,万亿市值蒸发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 9.0 位，标题平均出现 1.0 次。",
-        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
-        "direction": "回落",
-        "confidence": 76,
-        "chart": []
-      },
-      "titles": [
-        {
-          "title": "Meta、谷歌、英特尔增发认购者集体浮亏，标普下调Meta评级展望",
-          "url": "https://wallstreetcn.com/articles/3784895",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 8.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 7.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
         "confidence": 75,
@@ -487,29 +362,51 @@
       },
       "titles": [
         {
+          "title": "OpenAI宣布ChatGPT部分功能将与Codex共享额度",
+          "url": "https://flash.jin10.com/detail/20261101090651990800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
           "url": "https://www.cls.cn/detail/2521127",
           "source": "财联社热门",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "ai_insight": {
-        "analysis": "该板块当前收录 1 条热点，覆盖 1 个来源平台，平均热榜排名约 20.0 位，标题平均出现 1.0 次。",
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 19.0 位，标题平均出现 1.0 次。",
         "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
         "direction": "回落",
-        "confidence": 80,
+        "confidence": 81,
         "chart": []
       },
       "titles": [
+        {
+          "title": "金价跌破3900美元后会涨吗",
+          "url": "https://www.toutiao.com/trending/7702862856995212863/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
         {
           "title": "现货黄金失守3900美元关口，创一年新低，金价长期逻辑变了吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34375945",
@@ -519,7 +416,42 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "09时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "ai_insight": {
+        "analysis": "该板块当前收录 2 条热点，覆盖 2 个来源平台，平均热榜排名约 5.0 位，标题平均出现 1.0 次。",
+        "prediction": "未来6-12小时内热度可能逐步回落，新增驱动偏弱，建议以观察延续性为主，避免过度追高。",
+        "direction": "回落",
+        "confidence": 72,
+        "chart": []
+      },
+      "titles": [
+        {
+          "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
+          "url": "https://www.cls.cn/detail/2521391",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美股AI暴跌,万亿市值蒸发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     }
